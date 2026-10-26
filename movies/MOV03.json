@@ -1,0 +1,18 @@
+{
+ "file": "/MOVIE/MOV03.STR",
+ "note": "Scene with the goblin. Subtitles in the bottom letterbox (rows 213-224) and one line mid-screen.",
+ "subtitles": [
+  {"start": 78,  "end": 134, "area": "bottom", "text": "I hate being lectured, you know."},
+  {"start": 138, "end": 194, "area": "bottom", "text": "You must not use magic."},
+  {"start": 198, "end": 240, "area": "bottom", "text": "Hmph, he's still at it."},
+  {"start": 244, "end": 300, "area": "bottom", "text": "Using magic wounds Mother Earth,"},
+  {"start": 310, "end": 373, "area": "bottom", "text": "and in time it will bring death to all life."},
+  {"start": 391, "end": 448, "area": "bottom", "text": "Using magic means wearing away..."},
+  {"start": 460, "end": 516, "area": "bottom", "text": "...nature and small lives..."},
+  {"start": 545, "end": 572, "area": "bottom", "text": "You must not use magic."},
+  {"start": 575, "end": 602, "area": "bottom", "text": "The use of magic..."},
+  {"start": 605, "end": 629, "area": "bottom", "text": "Shut up!"},
+  {"start": 732, "end": 805, "area": "middle", "text": "Magic... wounds the earth?",
+   "background": {"clean_frame": 812, "from": 783, "fade_out_end": 805}}
+ ]
+}

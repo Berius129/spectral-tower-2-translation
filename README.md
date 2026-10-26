@@ -70,9 +70,10 @@ Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`,
 - [ ] 15 executable strings marked `locked` (another pointer points into them)
 - [ ] Check for fixed-length fields in `ITEM` and `ROOTSDAT` files
 - [ ] Graphics with text (`COMMON/*.TIM`: title, names, save screen)
-- [ ] Videos (`MOVIE/*.STR`): no voices. Burned-in Japanese subtitles/titles in MOV01, MOV03, MOV05, MOV09;
-      MOV08 (credits) is already English; the rest have no text. `tools/extract_movies.py` extracts
-      raw STR files that ffmpeg reads (`ffmpeg -f psxstr -i MOV01.STR out.mp4`). Translating needs
-      re-encoding frames to MDEC (e.g. jPSXdec) without changing sector layout.
+- [ ] Videos (`MOVIE/*.STR`): no voices, burned-in subtitles in MOV01, MOV03, MOV05, MOV09 (MOV08 credits are
+      already English). Done: MOV03. Each video has a `movies/<NAME>.json` with frame ranges and English
+      text; `tools/movie_subs.py` erases the Japanese, draws the English with the original fades and
+      re-encodes only the changed macroblocks with jPSXdec (`partial-replace`). `build.py` runs it when
+      Java, jPSXdec and ffmpeg are in `~/.local` (`--no-movies` skips it).
 - [ ] Translation
 - [ ] Distribute as an xdelta patch

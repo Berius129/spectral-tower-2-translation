@@ -19,6 +19,7 @@ import codepatch
 import dte
 import exestrings
 import graphics
+import movie_subs
 import psxiso
 import sttext
 
@@ -78,6 +79,7 @@ def main():
     ap.add_argument('--fullwidth', action='store_true')
     ap.add_argument('--script', default=SCRIPT, help='folder with the translation JSON files')
     ap.add_argument('--name', default=NAME, help='output file name (without extension)')
+    ap.add_argument('--no-movies', action='store_true', help='skip video subtitle replacement (slow)')
     args = ap.parse_args()
 
     os.makedirs(BUILD, exist_ok=True)
@@ -171,6 +173,14 @@ def main():
             print(f'ERROR {ex}')
             errors += 1
     img.close()
+    if not args.no_movies and not errors:
+        tools = [movie_subs.JAVA, movie_subs.JPSXDEC, movie_subs.FFMPEG]
+        missing = [t for t in tools if not os.path.exists(t)]
+        if missing:
+            print(f'WARNING videos skipped, missing: {", ".join(missing)}')
+            warnings += 1
+        else:
+            movie_subs.main(out_bin, [])
     print(f'{patched} files patched, {translated} lines translated, {warnings} warnings, {errors} errors')
     print(f'-> {out_bin}')
     sys.exit(1 if errors else 0)
