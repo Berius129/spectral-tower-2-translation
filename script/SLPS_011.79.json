@@ -1871,7 +1871,7 @@
   "offset": "0x6bb8",
   "max": 63,
   "jp": "やっつけた敵￥ｎ開けた宝箱￥ｎこわしたツボ￥ｎスピードクリア",
-  "en": "Foes beaten￥ｎChests opened￥ｎPots broken￥ｎSpeed clear"
+  "en": "Foes slain￥ｎChests opened￥ｎPots broken￥ｎSpeed clear"
  },
  {
   "offset": "0x6bf8",
