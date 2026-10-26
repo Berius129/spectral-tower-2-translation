@@ -91,7 +91,7 @@ def main():
                 if e['en']:
                     for is_text, chunk in dte.split_line(e['jp'], e['en']):
                         if is_text:
-                            counts.update(dte.pairs(chunk))
+                            counts.update(c for c in dte.pairs(chunk) if dte.is_pair(c))
                 else:
                     keep.update(KANJI.findall(e['jp']))
         table = dte.Table([p for p, _ in counts.most_common()], keep)

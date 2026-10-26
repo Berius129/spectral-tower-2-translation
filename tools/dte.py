@@ -72,9 +72,21 @@ def split_line(jp, en):
 
 
 def pairs(text):
-    if len(text) % 2:
-        text += ' '
-    return [text[i:i + 2] for i in range(0, len(text), 2)]
+    """Split text into cells: ASCII runs become letter pairs, any other
+    character (…, ♪, kana) is kept as a single native cell."""
+    cells = []
+    for run in re.findall(r'[\x20-\x7e]+|[^\x20-\x7e]', text):
+        if not run.isascii():
+            cells.append(run)
+            continue
+        if len(run) % 2:
+            run += ' '
+        cells.extend(run[i:i + 2] for i in range(0, len(run), 2))
+    return cells
+
+
+def is_pair(cell):
+    return cell.isascii()
 
 
 def visual_width(parts):
@@ -107,7 +119,9 @@ class Table:
     def encode(self, parts):
         out = []
         for is_text, chunk in parts:
-            out.append(''.join(code_char(self.code[p]) for p in pairs(chunk)) if is_text else chunk)
+            if is_text:
+                chunk = ''.join(code_char(self.code[c]) if is_pair(c) else c for c in pairs(chunk))
+            out.append(chunk)
         return ''.join(out)
 
     def patch_font(self, exe, font):
