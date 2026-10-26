@@ -7,6 +7,6 @@
  {
   "line": 7,
   "jp": "ALL,また会ったね…(B)どう？　皇竜を倒した気分は￥ｎやっぱり気分いいかな……(B)水のない海岸か…(B)どうしてこうなったか￥ｎ貴方にわかる？(N2)わからない=CP2,君はだれ？=CP1(CP2)そう　別にいいけど…(E)(CP1)私？　私は……￥ｎ(3)(B)ここで何をしてるかというと…(B)…実は私もよくわからないの(B)もしかしたら￥ｎあなたに会いにきたのかも…(B)今はそうとしか言えないな(E)",
-  "en": ""
+  "en": "ALL,We meet again...(B)Well? How does it feel to beat￥ｎthe Emperor Dragon? Good?(B)A shore without water...(B)Do you know how￥ｎit came to this?(N2)I don't=CP2,Who are you?=CP1(CP2)I see. That's fine...(E)(CP1)Me? I'm......￥ｎ(3)(B)As for what I'm doing here...(B)...honestly, I don't know.(B)Maybe I came here￥ｎto meet you...(B)That's all I can say for now.(E)"
  }
 ]

@@ -7,22 +7,22 @@
  {
   "line": 9,
   "jp": "40:0,貴方……￥ｎやはり貴方は戦うつもりなのね？(B)どうしても！？(B)私は運命なんて信じない(B)だから　あなたがそうするなら￥ｎなにも言わない(B)これをあげる　スカラベよ(B)ほしくないの？(N2)ほしい=CP1,ほしくない=CP2(CP2)そう　わかったわ…(E)(CP1)これで心置きなく￥ｎたたかえるでしょ？(B)よく考えると　不思議だな…(B)私ったら　どうしてこんなこと￥ｎしてるんだろ(B)貴方のことよく知らないのにね…(F007)",
-  "en": ""
+  "en": "40:0,You......￥ｎYou mean to fight after all?(B)No matter what!?(B)I don't believe in fate.(B)So if that's what you'll do,￥ｎI won't say anything.(B)Take this. It's a Scarab.(B)Don't you want it?(N2)I want it=CP1,I don't=CP2(CP2)I see. All right...(E)(CP1)Now you can fight￥ｎwithout regrets, right?(B)Now that I think of it, odd...(B)Why am I even￥ｎdoing this?(B)I hardly know you...(F007)"
  },
  {
   "line": 10,
   "jp": "40:1,貴方……￥ｎやはり貴方は戦うつもりなのね？(B)どうしても！？(B)私は運命なんて信じない(B)だから　あなたがそうするなら￥ｎなにも言わないわ(E)",
-  "en": ""
+  "en": "40:1,You......￥ｎYou mean to fight after all?(B)No matter what!?(B)I don't believe in fate.(B)So if that's what you'll do,￥ｎI won't say anything.(E)"
  },
  {
   "line": 11,
   "jp": "40:2,貴方……￥ｎやはり貴方は戦うつもりなのね？(B)どうしても！？(B)私は運命なんて信じない(B)だから　あなたがそうするなら￥ｎなにも言わない(B)これをあげるわ　スカラベよ(B)え？　荷物が一杯なの？(E)",
-  "en": ""
+  "en": "40:2,You......￥ｎYou mean to fight after all?(B)No matter what!?(B)I don't believe in fate.(B)So if that's what you'll do,￥ｎI won't say anything.(B)Take this. It's a Scarab.(B)What? Your bag is full?(E)"
  },
  {
   "line": 12,
   "jp": "40:3,貴方……￥ｎやはり貴方は戦うつもりなのね？(B)どうしても！？(B)私は運命なんて信じない(B)だから　あなたがそうするなら￥ｎなにも言わない(B)これをあげるわ　スカラベよ￥ｎベラカスと交換しておいたわ……(B)これで心置きなく￥ｎたたかえるでしょ？(B)よく考えると　不思議だな…(B)私ったら　どうしてこんなこと￥ｎしてるんだろ(B)貴方のことよく知らないのにね…(F008)",
-  "en": ""
+  "en": "40:3,You......￥ｎYou mean to fight after all?(B)No matter what!?(B)I don't believe in fate.(B)So if that's what you'll do,￥ｎI won't say anything.(B)Take this. It's a Scarab.￥ｎI swapped it for your Belacus...(B)Now you can fight￥ｎwithout regrets, right?(B)Now that I think of it, odd...(B)Why am I even￥ｎdoing this?(B)I hardly know you...(F008)"
  },
  {
   "line": 14,
@@ -32,6 +32,6 @@
  {
   "line": 16,
   "jp": "ALL,害虫よ！(B)よくも私の前に顔が出せたものよ(B)自然の管理者である私の前に(B)世界の調和をつかさどる役目を￥ｎおおせつかった私の前に…！(B)ふふん？　不服そうだな？(B)お前を害虫と呼ばずに何と呼べば￥ｎよいのだ？(B)お前の持つ魔力がどれほどの￥ｎ自然を奪ってきたか…(B)お前ばかりではない(B)魔力を使う者　費やす者たちは￥ｎ何も生み出さない(B)破壊のたどる道は破滅(B)お前たち費やす者はそれを罪と￥ｎ知らぬ(B)害虫よ！(B)お前はその者たちの罪を背負い￥ｎこの場で朽ち果てるがよい！(B)私の体は…(B)私に刃向かったおろか者どもの￥ｎ魔力を吸い込んでいる(B)想像もつくまい￥ｎ私の力がどれほどのものか…！(B)私は死ぬわけにゆかぬのだ！(B)もしもその時は……！！(B019)",
-  "en": ""
+  "en": "ALL,Vermin!(B)How dare you face me!(B)To me, keeper of nature!(B)To me, entrusted with the￥ｎharmony of the world...!(B)Hmph? You look displeased?(B)What else should I call you￥ｎbut vermin?(B)How much nature has your￥ｎmagic stolen...(B)And not just you.(B)Those who use and spend magic￥ｎcreate nothing.(B)The path of destruction is ruin.(B)You spenders don't know￥ｎthat it's a sin.(B)Vermin!(B)Bear the sins of them all￥ｎand rot right here!(B)My body...(B)has absorbed the magic of the￥ｎfools who defied me.(B)You can't imagine￥ｎhow great my power is...!(B)I cannot die!(B)And if that time comes......!!(B019)"
  }
 ]

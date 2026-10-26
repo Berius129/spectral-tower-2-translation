@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,ふぅ　あったかい…(B)ホント…家族っていいもんですね￥ｎ寒さなんか吹っ飛んじゃいましたよ(B)息子もペンギンと友達に￥ｎなれたみたいですよ(E)",
-  "en": ""
+  "en": "ALL,Phew, so warm...(B)Family really is great.￥ｎThe cold just blew away.(B)My son made friends￥ｎwith a penguin, it seems.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,わ～い！￥ｎペンギンと友達になれたんだ！(B)お母さんも帰ってきたし￥ｎたのしいなぁ！(B)でも　お母さんがこんな寒いところ￥ｎイヤだって…(B)ペンギンのぬいぐるみを￥ｎずっと着ているんだ(E)",
-  "en": ""
+  "en": "ALL,Yay!￥ｎI made friends with a penguin!(B)Mom came back too,￥ｎso it's fun!(B)But Mom says she hates￥ｎthis cold place...(B)so she wears a penguin￥ｎcostume all the time.(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,こんにちは(B)わたし　やっと家族のもとへ￥ｎ帰ってこれたんです(B)氷河の奥で迷ってしまって…￥ｎもうダメかと思ったんですけど(B)気がついたら　ペンギンの親子に￥ｎ救助されていました(B)それに　ここまで￥ｎ案内してくれるなんて…(B)親切なペンギンたちでした(E)",
-  "en": ""
+  "en": "ALL,Hello.(B)I finally made it back￥ｎto my family.(B)I got lost in the glacier...￥ｎI thought it was over,(B)but then a penguin family￥ｎrescued me.(B)And they even guided￥ｎme all the way here...(B)Such kind penguins.(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,キュ　キュ　キュ～￥ｎ（誰なんだろうな～）(B)ギュキュキュ￥ｎ（あの　じいさんペンギン）(B)ギュルル　ギュ？￥ｎ（人間のような感じだけど？）(E)",
-  "en": ""
+  "en": "ALL,Kyu kyu kyuu~￥ｎ(Who is that?)(B)Gyukyukyu￥ｎ(That old penguin.)(B)Gyururu gyu?￥ｎ(Seems kind of human?)(E)"
  },
  {
   "line": 21,
@@ -52,7 +52,7 @@
  {
   "line": 23,
   "jp": "ALL,ギュ　ギュ～キュ…￥ｎ（最近　こういうの多いわね…）(B)ギュ　グギュ？￥ｎ（あなたも観光客なの？）(N2)キュ（はい）=CP1,キュルル（いいえ）=CP2(CP2)キュルキュル…￥ｎ（そう　迷わないようにね）(E)(CP1)ギュ～ギュ～￥ｎ（ふつう　家の中は見せないわ）(B)ギュギュ～ギュ￥ｎ（でも　悪い人間じゃなさそうね）(B)キュキュ～？￥ｎ（ゆっくりしていったら？）(E)",
-  "en": ""
+  "en": "ALL,Gyu gyu~kyu...￥ｎ(Lots of these lately...)(B)Gyu gugyu?￥ｎ(Are you a tourist too?)(N2)Kyu (yes)=CP1,Kyururu (no)=CP2(CP2)Kyurukyuru...￥ｎ(I see. Don't get lost.)(E)(CP1)Gyu~gyu~￥ｎ(We rarely show our home.)(B)Gyugyu~gyu￥ｎ(But you seem like a nice one.)(B)Kyukyu~?￥ｎ(Why not stay a while?)(E)"
  },
  {
   "line": 24,
@@ -62,7 +62,7 @@
  {
   "line": 26,
   "jp": "ALL,キュ！￥ｎ（人間！）(B)キュッキュ…キュ？￥ｎ（ペンギンと人間…友達？）(N2)キュ～（はい）=CP1,キュルル（いいえ）=CP2(CP1)キュ～！￥ｎ（よかった～！）(E)(CP2)ギュルルルゥ～￥ｎ（悲しいこと言うなよ～）(E)",
-  "en": ""
+  "en": "ALL,Kyu!￥ｎ(A human!)(B)Kyukkyu... kyu?￥ｎ(Penguin and human... friends?)(N2)Kyu~ (yes)=CP1,Kyururu (no)=CP2(CP1)Kyu~!￥ｎ(Yay~!)(E)(CP2)Gyururuu~￥ｎ(Don't say such sad things~)(E)"
  },
  {
   "line": 27,
@@ -72,7 +72,7 @@
  {
   "line": 29,
   "jp": "ALL,ふぃ～…￥ｎやっとペンギンに会えたのじゃ(B)これからの人生￥ｎペンギンと共にじゃ(B)ペンギン博士と一緒に￥ｎペンギンをまもってゆくのじゃ！(E)",
-  "en": ""
+  "en": "ALL,Phew...￥ｎI finally met the penguins.(B)From now on, my life￥ｎis with penguins.(B)With the penguin professor,￥ｎI'll protect the penguins!(E)"
  },
  {
   "line": 30,
@@ -82,7 +82,7 @@
  {
   "line": 32,
   "jp": "ALL,ん…？(B)なんだ　お前？￥ｎオレになんか用か？(N2)おまえ…妖しい！=CP1,なにもない=CP2(CP2)それなら　どこかに消えな￥ｎいま仕事中なんだ(E)(CP1)な…なんだと？￥ｎオレを密猟者とでも言うのか…？(N2)そうだ！=CP3,そうじゃないけど=CP4(CP4)………まぁ　いいさ￥ｎ仕事中なんだ　じゃましないでくれ(E)(CP3)…！￥ｎこ…このオレが密猟者？(B)失礼な！　オレは探偵だ！￥ｎどこから見ても妖しい者じゃない！(B)今回はペンギンから￥ｎ依頼されたのだ(B)浮気現場をおさえるために￥ｎペンギンカップルを尾行中なのだ(E)",
-  "en": ""
+  "en": "ALL,Hm...?(B)What, you?￥ｎGot business with me?(N2)You're shady!=CP1,Nothing=CP2(CP2)Then get lost.￥ｎI'm working.(E)(CP1)Wh-what?￥ｎYou think I'm a poacher...?(N2)That's right!=CP3,Not really=CP4(CP4)......Well, fine.￥ｎI'm working. Don't bother me.(E)(CP3)...!￥ｎM-me, a poacher?(B)How rude! I'm a detective!￥ｎNothing shady about me!(B)This time, a penguin￥ｎhired me.(B)I'm tailing a penguin couple￥ｎto catch them cheating.(E)"
  },
  {
   "line": 33,
@@ -92,7 +92,7 @@
  {
   "line": 35,
   "jp": "ALL,ギュ～　ギュキュッ？￥ｎ（そこのペンギンかわいいよな？）(N2)キュ～（はい）=CP1,キュルル（いいえ）=CP2(CP2)ギュ…　ギュルル￥ｎ（フン…人間の趣味はわからん）(B)キュ～　キュキュキュ￥ｎ（彼女は最高だぜ）(E)(CP1)キュッキュ…　キュルル￥ｎ（やっぱり　かわいいよなぁ）(B)キュ　キュル…￥ｎ（じつは　結婚するんだが…）(B)キュ　キュキュ…￥ｎ（前にみかけたペンギン…）(B)キュル　ギュ～￥ｎ（忘れられないな～）(E)",
-  "en": ""
+  "en": "ALL,Gyu~ gyukyu?￥ｎ(That penguin's cute, huh?)(N2)Kyu~ (yes)=CP1,Kyururu (no)=CP2(CP2)Gyu... gyururu￥ｎ(Hmph... humans have no taste.)(B)Kyu~ kyukyukyu￥ｎ(She's the best.)(E)(CP1)Kyukkyu... kyururu￥ｎ(She sure is cute.)(B)Kyu kyuru...￥ｎ(I'm getting married...)(B)Kyu kyukyu...￥ｎ(A penguin I saw before...)(B)Kyuru gyu~￥ｎ(I can't forget her~)(E)"
  },
  {
   "line": 36,
@@ -102,7 +102,7 @@
  {
   "line": 38,
   "jp": "ALL,キュキュッ？￥ｎ（何かご用？）(N2)キュ（見とれてた）=CP1,ギュ（…べつに）=CP2(CP2)キュ～　キュキュ￥ｎ（ふ～ん　変わった人ね）(B)キュルルッ…￥ｎ（ナンパかと思ったわ…）(E)(CP1)キュルル　キュ￥ｎ（あら　うれしいわね）(B)ギュ～キュルル！￥ｎ（でもね～　婚約してるの！）(B)キュ　キュッキュ￥ｎ（式はまだ先だけどね）(E)",
-  "en": ""
+  "en": "ALL,Kyukyu?￥ｎ(Need something?)(N2)Kyu (staring)=CP1,Gyu (...nothing)=CP2(CP2)Kyu~ kyukyu￥ｎ(Hmm, what an odd person.)(B)Kyururu...￥ｎ(Thought you were flirting...)(E)(CP1)Kyururu kyu￥ｎ(Oh, how flattering.)(B)Gyu~kyururu!￥ｎ(But I'm engaged!)(B)Kyu kyukkyu￥ｎ(The wedding's not yet, though.)(E)"
  },
  {
   "line": 39,
@@ -112,7 +112,7 @@
  {
   "line": 41,
   "jp": "ALL,やぁ！　こんにちは￥ｎあいかわらずの寒さですね(B)ところで　知ってましたか？(B)通行規制がなくなったんですよ￥ｎこれで　誰でも通れますね(E)",
-  "en": ""
+  "en": "ALL,Hey! Hello!￥ｎCold as ever, huh.(B)By the way, did you know?(B)The travel ban has been lifted.￥ｎNow anyone can pass.(E)"
  },
  {
   "line": 42,
@@ -122,7 +122,7 @@
  {
   "line": 44,
   "jp": "ALL,あら　こんにちは￥ｎご機嫌いかが？(B)………？￥ｎ何してるかって？(B)わたしはペンギン密猟者を￥ｎ見張っているの(B)もし　見つけたら￥ｎ絶対つかまえてやるわ！(E)",
-  "en": ""
+  "en": "ALL,Oh, hello.￥ｎHow are you?(B).........?￥ｎWhat am I doing?(B)I'm watching out for￥ｎpenguin poachers.(B)If I find one,￥ｎI'll catch them for sure!(E)"
  },
  {
   "line": 45,
@@ -132,7 +132,7 @@
  {
   "line": 47,
   "jp": "ALL,キューキューキュー？￥ｎ（上に行きたい？）(N2)キュ～（はい）=CP1,キュルル（いいえ）=CP2(CP2)キュルッキュ…￥ｎ（他の階は暑いからねぇ…）(E)(CP1)キュ！￥ｎ（それ！）(F003)",
-  "en": ""
+  "en": "ALL,Kyuukyuukyuu?￥ｎ(Want to go up?)(N2)Kyu~ (yes)=CP1,Kyururu (no)=CP2(CP2)Kyurukkyu...￥ｎ(Other floors are too hot...)(E)(CP1)Kyu!￥ｎ(Here we go!)(F003)"
  },
  {
   "line": 48,
@@ -142,6 +142,6 @@
  {
   "line": 50,
   "jp": "ALL,おや…？￥ｎペンギンを見にきたのですか？(N2)ええ=CP1,いえ=CP2(CP2)…そうですか(B)ペンギンを見かけても￥ｎいじめないでくださいよ(B)近頃　多いんですよペンギンたちを￥ｎむやみに傷つける人が…(B)通行規制をなくしたのを￥ｎ後悔しそうですよ…(E)(CP1)おぉ　そうでしたか￥ｎペンギンたち　かわいいでしょう(B)でもね　おかしいんですよ￥ｎあまり人の前に出てこないんです(B)かなり前には　たくさんの￥ｎペンギンたちがいたのに(B)人が通るようになってから￥ｎいなくなった気もするが…(B)ここは　寒さのおかげで￥ｎ魔物もいないのに…(B)まぁ　ペンギンたちを￥ｎ見守ることにしますよ(E)",
-  "en": ""
+  "en": "ALL,Oh...?￥ｎHere to see the penguins?(N2)Yes=CP1,No=CP2(CP2)...I see.(B)If you see the penguins,￥ｎplease don't bully them.(B)Lately, many people hurt￥ｎthe penguins for no reason...(B)I'm starting to regret lifting￥ｎthe restrictions...(E)(CP1)Oh, I see.￥ｎThe penguins are cute, right?(B)But it's strange.￥ｎThey rarely come near people.(B)Long ago, there were￥ｎlots of penguins,(B)but since people came through,￥ｎthey seem to have vanished...(B)It's so cold here, there￥ｎaren't even monsters...(B)Well, I'll keep watching￥ｎover the penguins.(E)"
  }
 ]

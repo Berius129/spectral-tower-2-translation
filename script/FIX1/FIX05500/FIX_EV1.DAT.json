@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,おや…？　ペンギンのルーツですか￥ｎうらやましいですねぇ…(B)なんとかして先へ進みたいのですが￥ｎわたしはダメみたいです(B)実力行使という手段もありますが…￥ｎ彼らも仕事だし　しょうがないです(E)",
-  "en": ""
+  "en": "ALL,Oh...? A penguin Root?￥ｎHow enviable...(B)I want to get through somehow,￥ｎbut it seems I can't.(B)I could use force, but...￥ｎit's their job. Can't be helped.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,ペンギン　ペーンギーン！￥ｎたのしいな～！(B)でも　お母さん帰ってこないんだ￥ｎどこに行っちゃったのかなぁ？(B)お兄ちゃん知ってる？(N2)たしか　この先に…=CP1,…知らないな=CP2(CP2)やっぱり　知らないかぁ…￥ｎ最近は　かき氷ばかり食べてるし…(B)たまには　お母さんの手料理でも￥ｎ食べたいなぁ…(E)(CP1)え…！？　知ってるの？￥ｎじゃ　帰ってくるように言って！(B)みんな　待ってるって！￥ｎボクたちは先に進めないし…(B)それと　おじいちゃんがペンギンの￥ｎ格好して先に行っちゃったんだ(B)どこで　何やってるんだろう…￥ｎぜんぜん帰ってこないし…(B)まさか…凍死！(B)そんなことないと思うけど…￥ｎみんな帰ってきてよ～(E)",
-  "en": ""
+  "en": "ALL,Penguin, peeenguin!￥ｎSo fun!(B)But Mom hasn't come back.￥ｎWhere did she go?(B)Do you know, mister?(N2)I think up ahead...=CP1,...No idea=CP2(CP2)Figures you don't know...￥ｎLately I only eat shaved ice...(B)I'd like Mom's home cooking￥ｎonce in a while...(E)(CP1)Wh...!? You know?￥ｎThen tell her to come home!(B)Tell her we're all waiting!￥ｎWe can't go any further...(B)And Grandpa dressed as a penguin￥ｎand went ahead too.(B)Where is he, what's he doing...￥ｎhe never comes back...(B)Don't tell me... frozen!(B)I don't think so, but...￥ｎeveryone, please come back~(E)"
  },
  {
   "line": 15,
@@ -32,22 +32,22 @@
  {
   "line": 17,
   "jp": "40:0,みんな　となりの部屋に行ったから￥ｎボクが火を見てるんだ(B)さっき　かき氷を作ってたら￥ｎスカラベがあったけど(B)お兄ちゃんにあげよっか？(N2)ちょーだい=CP1,いらないや=CP2(CP2)ほしくなったら　またきてよ(E)(CP1)はい！　スカラベあげるね！(F007)",
-  "en": ""
+  "en": "40:0,Everyone went to the next room,￥ｎso I'm watching the fire.(B)I was making shaved ice,￥ｎand there was a Scarab.(B)Want it, mister?(N2)Gimme=CP1,No thanks=CP2(CP2)Come back if you want it.(E)(CP1)Here! Have a Scarab!(F007)"
  },
  {
   "line": 18,
   "jp": "40:1,じいちゃんがペンギンの格好して￥ｎ先へ進んじゃったけど…(B)だいじょうぶかな～(E)",
-  "en": ""
+  "en": "40:1,Grandpa dressed as a penguin￥ｎand went ahead...(B)I hope he's okay~(E)"
  },
  {
   "line": 19,
   "jp": "40:2,あ！￥ｎお兄ちゃん　荷物がいっぱいだよ(E)",
-  "en": ""
+  "en": "40:2,Oh!￥ｎMister, your bag is full.(E)"
  },
  {
   "line": 20,
   "jp": "40:3,あ！￥ｎお兄ちゃん　ベラカス持ってる！(B)スカラベと　とりかえない？(N2)とりかえよう=CP1,やめとく=CP2(CP2)そうなんだ…(E)(CP1)はい！　とりかえっこ！(F008)",
-  "en": ""
+  "en": "40:3,Oh!￥ｎMister, you have a Belacus!(B)Want to swap for a Scarab?(N2)Let's swap=CP1,No thanks=CP2(CP2)Oh, okay...(E)(CP1)Here! Let's swap!(F008)"
  },
  {
   "line": 21,
@@ -57,7 +57,7 @@
  {
   "line": 23,
   "jp": "ALL,あら　こんにちは￥ｎ最近　急に冷え込みましたね(B)………？(B)え…？　ペンギン？(B)あぁ！　そうでした！￥ｎいまのわたしって…(B)ペンギンのぬいぐるみを￥ｎ着ていたんですね(B)あなたが知っているか￥ｎわかりませんけど…(N2)もしかして…=CP1,なんですか？=CP2(CP2)わたし…こんな寒い場所は￥ｎイヤだって飛び出したんです(B)夫と子供は　いまごろ￥ｎ泣いているでしょうね…(B)帰りたくても迷ってしまうし…￥ｎペンギンには好かれるし…はぁ(B)そういえば　おじいちゃん…￥ｎだいじょうぶかしら…(E)(CP1)え？￥ｎ家族にあったんですか？(N2)ええ…=CP3,いや…=CP4(CP4)そうですか…心配してるでしょうね(E)(CP3)そうですか…￥ｎわたしが　わがまま言ったばかりに(E)",
-  "en": ""
+  "en": "ALL,Oh, hello.￥ｎIt suddenly got so cold.(B).........?(B)What...? A penguin?(B)Oh! That's right!￥ｎRight now I'm...(B)wearing a penguin￥ｎcostume.(B)I'm not sure if￥ｎyou know, but...(N2)Could it be...=CP1,What is it?=CP2(CP2)I ran off saying I hated￥ｎthis cold place.(B)My husband and child must￥ｎbe crying by now...(B)I'd go home, but I get lost...￥ｎand penguins love me... sigh.(B)Come to think of it, Grandpa...￥ｎI hope he's all right...(E)(CP1)What?￥ｎYou met my family?(N2)Yes...=CP3,No...=CP4(CP4)I see... they must be worried.(E)(CP3)I see...￥ｎall because I was so selfish.(E)"
  },
  {
   "line": 24,
@@ -67,7 +67,7 @@
  {
   "line": 26,
   "jp": "ALL,ギュ～　ギュキュッ？￥ｎ（そこのペンギンかわいいよな？）(N2)キュ～（はい）=CP1,キュルル（いいえ）=CP2(CP2)ギュギュ～　ギュルルル…￥ｎ（そうか…趣味が違うようだな）(E)(CP1)キュッキュ…　キュルル～￥ｎ（やっぱり　かわいいもんなぁ）(B)キュキュ　キュル～￥ｎ（でも背中になんかついてんだよ）(E)",
-  "en": ""
+  "en": "ALL,Gyu~ gyukyu?￥ｎ(That penguin's cute, huh?)(N2)Kyu~ (yes)=CP1,Kyururu (no)=CP2(CP2)Gyugyu~ gyururu...￥ｎ(I see... different tastes.)(E)(CP1)Kyukkyu... kyururu~￥ｎ(She really is cute.)(B)Kyukyu kyuru~￥ｎ(But something's on her back.)(E)"
  },
  {
   "line": 27,
@@ -77,7 +77,7 @@
  {
   "line": 29,
   "jp": "ALL,キュ　キュ　キュ～…￥ｎ（近頃は冷えるねぇ…）(B)ギュキュキュー￥ｎ（たき火でもしないとね）(B)ギュルル～￥ｎ（でも火事には気をつけんとな）(E)",
-  "en": ""
+  "en": "ALL,Kyu kyu kyuu...￥ｎ(It's gotten cold lately...)(B)Gyukyukyuu￥ｎ(Need a bonfire.)(B)Gyururu~￥ｎ(But watch out for fires.)(E)"
  },
  {
   "line": 30,
@@ -87,7 +87,7 @@
  {
   "line": 32,
   "jp": "ALL,ギュ～　ギュ～キュ…￥ｎ（めずらしいお客ね…）(B)ギュ　グギュ～￥ｎ（こんなトコじゃ何もないでしょ）(B)キュルキュル…￥ｎ（はやく上に行ったほうがいいわ）(E)",
-  "en": ""
+  "en": "ALL,Gyu~ gyu~kyu...￥ｎ(A rare guest...)(B)Gyu gugyu~￥ｎ(Nothing for you here.)(B)Kyurukyuru...￥ｎ(Better hurry upstairs.)(E)"
  },
  {
   "line": 33,
@@ -97,7 +97,7 @@
  {
   "line": 35,
   "jp": "ALL,キュ！￥ｎ（人間！）(B)ギュキュッキュ…グキュ？￥ｎ（ボクを…食べるつもり？）(N3)キュ～（はい）=CP1,キュルル（いいえ）=CP2,ギュルル（丸焼き）=CP3(CP2)キュ～！￥ｎ（よかった～！）(E)(CP1)………ギュルルルゥ￥ｎ（………そう言われると困るよ）(E)(CP3)ギュルル！？￥ｎ（丸焼き！？）(B)………￥ｎ（………）(B)キュキュルキュルル…￥ｎ（親には手を出さないでくれ…）(E)",
-  "en": ""
+  "en": "ALL,Kyu!￥ｎ(A human!)(B)Gyukyukkyu... gukyu?￥ｎ(Are you... going to eat me?)(N3)Kyu~ (yes)=CP1,Kyururu (no)=CP2,Gyururu (roast)=CP3(CP2)Kyu~!￥ｎ(Phew~!)(E)(CP1).........Gyururuu￥ｎ(......That's a problem.)(E)(CP3)Gyururu!?￥ｎ(Roasted whole!?)(B).........￥ｎ(.........)(B)Kyukyurukyururu...￥ｎ(Please spare my parents...)(E)"
  },
  {
   "line": 36,
@@ -107,7 +107,7 @@
  {
   "line": 38,
   "jp": "ALL,おや…？￥ｎここで人間に会うとはなぁ(B)わたしは　ここでペンギンの￥ｎ研究をしておるんだが…(B)ペンギンを見にきたのかい？(N2)はい=CP1,いいえ=CP2(CP2)そうか…ペンギンをいじめるなよ(B)ただでさえ　数が少ないのに￥ｎこれ以上減ったらどうしたもんだか(E)(CP1)そうか…おどかさないように￥ｎペンギンの格好をしたんだが…(B)どこにもいないのだ￥ｎこれじゃ観察できんなぁ(E)",
-  "en": ""
+  "en": "ALL,Oh...?￥ｎMeeting a human here...(B)I'm studying the￥ｎpenguins here...(B)Did you come to see penguins?(N2)Yes=CP1,No=CP2(CP2)I see... don't bully them.(B)There are few enough already.￥ｎWhat if they dwindle further?(E)(CP1)I see... I dressed as a penguin￥ｎso as not to scare them, but...(B)they're nowhere to be found.￥ｎI can't observe them like this.(E)"
  },
  {
   "line": 39,
@@ -117,7 +117,7 @@
  {
   "line": 41,
   "jp": "ALL,キューキューキュー？￥ｎ（上に行きたい？）(N2)キュ～（はい）=CP1,キュルル（いいえ）=CP2(CP2)キュルッキュ…￥ｎ（他の階は暑いからねぇ…）(E)(CP1)キュ！￥ｎ（それ！）(F003)",
-  "en": ""
+  "en": "ALL,Kyuukyuukyuu?￥ｎ(Want to go up?)(N2)Kyu~ (yes)=CP1,Kyururu (no)=CP2(CP2)Kyurukkyu...￥ｎ(Other floors are too hot...)(E)(CP1)Kyu!￥ｎ(Here we go!)(F003)"
  },
  {
   "line": 42,
@@ -127,7 +127,7 @@
  {
   "line": 44,
   "jp": "ALL,そこの人！￥ｎ通ってもよし！(E)",
-  "en": ""
+  "en": "ALL,You there!￥ｎYou may pass!(E)"
  },
  {
   "line": 45,
@@ -137,6 +137,6 @@
  {
   "line": 47,
   "jp": "ALL,そこのあなた　￥ｎどうぞ　お通りください(E)",
-  "en": ""
+  "en": "ALL,You there.￥ｎPlease, go on through.(E)"
  }
 ]

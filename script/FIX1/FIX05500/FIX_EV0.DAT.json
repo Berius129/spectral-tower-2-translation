@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,う～　さむいですねぇ￥ｎちっとも暖まりませんよ(B)もっと寒さに強い生き物に￥ｎ生まれればよかった(B)いまからでもペンギンになりたい￥ｎあなたもそう思いませんか？(N2)そうですね=CP1,…べつに=CP2(CP2)じゃ　白クマですか？(N2)そうだ=CP3,ちがう=CP4(CP4)それじゃ………怪獣！￥ｎこれしかないでしょう！(N2)なぜ　知ってる？=CP5,もういいです=CP6(CP6)そうですか…ちょっとさびしいです(E)(CP5)え！？　そ…それはすごい￥ｎ（変わった人がいるもんだな）(E)(CP3)ほお～　それはたくましい！(B)でも　この先はペンギンでないと￥ｎ通してくれないみたいなんです(E)(CP1)ペンギンのぬいぐるみを￥ｎひとつ持っていたんですけどね…(B)女房がこんな寒いところイヤだって￥ｎぬいぐるみを着て…(B)どこか　行ってしまったんですよ￥ｎ追いかけたくても通してくれないし(B)あぁ～！　どうしたらいいんだ！(E)",
-  "en": ""
+  "en": "ALL,Brr, it's cold.￥ｎI can't get warm at all.(B)I wish I'd been born a creature￥ｎtougher against the cold.(B)I'd love to be a penguin now.￥ｎDon't you think so too?(N2)I suppose=CP1,...Not really=CP2(CP2)Then a polar bear?(N2)Yes=CP3,No=CP4(CP4)Then......a monster!￥ｎWhat else could it be!(N2)How'd you know?=CP5,Never mind=CP6(CP6)I see... that's a little lonely.(E)(CP5)What!? Th-that's amazing.￥ｎ(What an odd person.)(E)(CP3)Ooh, how tough!(B)But it seems only penguins￥ｎare let through ahead.(E)(CP1)I had one￥ｎpenguin costume, but...(B)my wife said she hates this cold￥ｎand put on the costume...(B)and left. I want to follow,￥ｎbut they won't let me.(B)Ahh! What do I do!(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,わ～い！￥ｎかき氷食べ放題だぁ！(B)ペンギンも見たし　たのしいなぁ(B)でも　お母さんがこんな寒いところ￥ｎイヤだって出ていったんだ(B)お父さん　なんだか￥ｎ落ち込んでるみたい…(E)",
-  "en": ""
+  "en": "ALL,Yay!￥ｎAll the shaved ice I can eat!(B)I saw penguins too. So fun!(B)But Mom said she hates￥ｎthis cold place and left.(B)Dad seems kind of￥ｎdown...(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,し…さ…しむ…むむ…し…￥ｎペ…ンギ…ンに…なれ…るのに(B)し…しゃむ…い！￥ｎこ…凍えて…うまくしゃべれんわ(B)ぺ…ペンギ…ンに　な…りたい￥ｎぬいぐるみでもなんでもいいのじゃ(B)ワシの人生　心まで寒いのじゃ…￥ｎこんな所で　凍死はイヤじゃよ(E)",
-  "en": ""
+  "en": "ALL,S...c...co...ld...￥ｎI c...could be...a pen...guin...(B)S...so c-cold!￥ｎI'm fr...freezing...can't talk.(B)I w...want to be...a p...enguin.￥ｎA costume, anything at all.(B)My life is cold to the heart...￥ｎI don't want to freeze here.(E)"
  },
  {
   "line": 18,
@@ -42,22 +42,22 @@
  {
   "line": 20,
   "jp": "40:0,ねえねえ　氷をなめてたらさ￥ｎ中にスカラベが入ってたんだ！(B)お兄ちゃんにあげよっか？(N2)ちょーだい=CP1,いらないや=CP2(CP2)ほしくなったら　またきてよ(E)(CP1)はい！　スカラベあげるね！(F007)",
-  "en": ""
+  "en": "40:0,Hey hey, I was licking the ice,￥ｎand there was a Scarab inside!(B)Want it, mister?(N2)Gimme=CP1,No thanks=CP2(CP2)Come back if you want it.(E)(CP1)Here! Have a Scarab!(F007)"
  },
  {
   "line": 21,
   "jp": "40:1,じいちゃんってペンギンが￥ｎ大好きなんだ…(B)町に行ったらペンギンに￥ｎなれるとかいってたけど…(E)",
-  "en": ""
+  "en": "40:1,Grandpa really loves￥ｎpenguins...(B)He said he'd become a penguin￥ｎif he went to town...(E)"
  },
  {
   "line": 22,
   "jp": "40:2,あ！￥ｎお兄ちゃん　荷物がいっぱいだよ(E)",
-  "en": ""
+  "en": "40:2,Oh!￥ｎMister, your bag is full.(E)"
  },
  {
   "line": 23,
   "jp": "40:3,あ！￥ｎお兄ちゃん　ベラカス持ってる！(B)スカラベと　とりかえない？(N2)とりかえよう=CP1,やめとく=CP2(CP2)そうなんだ…(E)(CP1)はい！　とりかえっこ！(F008)",
-  "en": ""
+  "en": "40:3,Oh!￥ｎMister, you have a Belacus!(B)Want to swap for a Scarab?(N2)Let's swap=CP1,No thanks=CP2(CP2)Oh, okay...(E)(CP1)Here! Let's swap!(F008)"
  },
  {
   "line": 24,
@@ -67,7 +67,7 @@
  {
   "line": 26,
   "jp": "ALL,そこの人！￥ｎそこでストップ！(B)これより先への進入は￥ｎペンギン博士の許可が必要です(B)許可をもらってますか？(N2)もちろん！=CP1,そんなの知らない=CP2(CP2)ペンギンを怖がらせないように￥ｎ立ち入りが制限されているんですよ(B)ないなら　ペンギンの格好でも￥ｎしてこないと通しませんよ(B)あぁ…それとペンギンのルーツでも￥ｎかまわないですけど…(E)(CP1)………おかしいですね￥ｎ博士からは聞いてませんが(B)もしかして…ペンギン密猟者？(N2)………そうだ=CP3,そんなバカな=CP4(CP4)ハハハッ　そうですよね￥ｎでも　通すことはできないですよ(E)(CP3)ハハハッって　な…なんだと～！(B)そんなヤツには容赦せんぞ！￥ｎたたきのめしてやる！(B)と言いたいところだが…￥ｎやめておこう(B)力でなんでも解決しようとするのは￥ｎよくないからね(B)そういうことで￥ｎここは　通せんなぁ(E)",
-  "en": ""
+  "en": "ALL,You there!￥ｎStop right there!(B)Going past here requires￥ｎthe Penguin Professor's permit.(B)Do you have a permit?(N2)Of course!=CP1,Never heard of it=CP2(CP2)Entry is restricted so we￥ｎdon't scare the penguins.(B)Without one, you'd have to dress￥ｎlike a penguin to pass.(B)Ah... a penguin Root￥ｎwould also do, though...(E)(CP1)......That's odd.￥ｎThe prof never mentioned you.(B)Are you... a penguin poacher?(N2)......Yes=CP3,Don't be silly=CP4(CP4)Hahaha, of course not.￥ｎStill, I can't let you pass.(E)(CP3)Hahaha... wh-WHAT!?(B)I won't go easy on the likes￥ｎof you! I'll beat you up!(B)Is what I'd like to say...￥ｎbut I won't.(B)Solving everything by force￥ｎisn't good.(B)So anyway,￥ｎyou can't pass here.(E)"
  },
  {
   "line": 27,
@@ -77,7 +77,7 @@
  {
   "line": 29,
   "jp": "ALL,そこのあなた　これより先は￥ｎ許可が必要です(B)ペンギン博士の￥ｎ許可はもらってるかしら？(N3)もらってる=CP1,もらってない=CP2,博士はどこ？=CP3(CP2)じゃあ　通せないわ￥ｎこれも仕事なの　ごめんなさいね(E)(CP1)………あれ？￥ｎリスト持ってなかったわ(B)とりあえずペンギンの格好とか￥ｎルーツなら通してもいいけど…(B)さっきも女の人を通したしね(B)いまの　あなたじゃ￥ｎ通すことはできないわね(E)(CP3)博士ですか？(B)………(B)この奥にペンギン観察に￥ｎ向かったんだけどね…(B)ずっと帰ってこないの…￥ｎだから　許可もだしてもらえないの(B)………そうだ！(B)ペンギンのルーツをさがすなら￥ｎとなりの部屋のおじいさんよ(B)なんか　し…さ…し…なんとかって￥ｎあれって　数字にできないかしら？(E)",
-  "en": ""
+  "en": "ALL,You there. Past this point￥ｎyou need a permit.(B)Do you have the Penguin￥ｎProfessor's permit?(N3)I have one=CP1,I don't=CP2,Where's the prof?=CP3(CP2)Then I can't let you pass.￥ｎIt's my job. Sorry.(E)(CP1)......Huh?￥ｎI don't have the list.(B)Well, I could let a penguin￥ｎlook or Root through...(B)I let a woman through earlier.(B)But as you are now,￥ｎI can't let you pass.(E)(CP3)The professor?(B).........(B)He went deeper in to￥ｎobserve the penguins...(B)and never came back...￥ｎso no one can get a permit.(B)......I know!(B)For a penguin Root, ask the￥ｎold man in the next room.(B)He mutters \"s...sa...shi...\"￥ｎCould those be numbers?(E)"
  },
  {
   "line": 30,
@@ -87,6 +87,6 @@
  {
   "line": 32,
   "jp": "ALL,キューキューキュー？￥ｎ（上に行きたい？）(N2)キュ～（はい）=CP1,キュルル（いいえ）=CP2(CP2)キュルッキュ…￥ｎ（他の階は暑いからねぇ…)(E)(CP1)キュ！￥ｎ（それ！）(F003)",
-  "en": ""
+  "en": "ALL,Kyuukyuukyuu?￥ｎ(Want to go up?)(N2)Kyu~ (yes)=CP1,Kyururu (no)=CP2(CP2)Kyurukkyu...￥ｎ(Other floors are too hot...)(E)(CP1)Kyu!￥ｎ(Here we go!)(F003)"
  }
 ]

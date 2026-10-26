@@ -7,6 +7,6 @@
  {
   "line": 10,
   "jp": "ALL,キサマは…！(B)………(B)キサマに話すことなど￥ｎ何もないが…(B)この先へ進みたいのか？(N2)…はい=CP1,…いいえ=CP2(CP2)そうか…￥ｎでは　勝手にするがいい(E)(CP1)ならば　行くがいい…！(F003)",
-  "en": ""
+  "en": "ALL,You...!(B).........(B)I have nothing￥ｎto say to you, but...(B)do you want to go on?(N2)...Yes=CP1,...No=CP2(CP2)I see...￥ｎThen do as you like.(E)(CP1)Then go...!(F003)"
  }
 ]
