@@ -1621,7 +1621,7 @@
   "offset": "0x518c",
   "max": 15,
   "jp": "回チャレンジ",
-  "en": " attempts"
+  "en": " tries left"
  },
  {
   "offset": "0x519c",
@@ -7414,7 +7414,7 @@
   "offset": "0xe481c",
   "max": 7,
   "jp": "あと",
-  "en": "Left:"
+  "en": " "
  },
  {
   "offset": "0xe4938",
