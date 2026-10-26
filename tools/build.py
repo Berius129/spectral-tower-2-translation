@@ -18,6 +18,7 @@ sys.path.insert(0, os.path.dirname(__file__))
 import codepatch
 import dte
 import exestrings
+import graphics
 import psxiso
 import sttext
 
@@ -141,6 +142,7 @@ def main():
         exe = table.patch_font(exe, font)
     exe = codepatch.apply(exe, font)
     img.write(EXE, exe)
+    graphics.apply(img)
 
     for path, entries in script:
         todo = [e for e in entries if e['en']]
