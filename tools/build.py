@@ -26,23 +26,25 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument('bin')
     ap.add_argument('--fullwidth', action='store_true')
+    ap.add_argument('--script', default=SCRIPT, help='folder with the translation JSON files')
+    ap.add_argument('--name', default=NAME, help='output file name (without extension)')
     args = ap.parse_args()
 
     os.makedirs(BUILD, exist_ok=True)
-    out_bin = os.path.join(BUILD, NAME + '.bin')
+    out_bin = os.path.join(BUILD, args.name + '.bin')
     print('copying image...')
     shutil.copyfile(args.bin, out_bin)
-    with open(os.path.join(BUILD, NAME + '.cue'), 'w') as f:
-        f.write(f'FILE "{NAME}.bin" BINARY\n  TRACK 01 MODE2/2352\n    INDEX 01 00:00:00\n')
+    with open(os.path.join(BUILD, args.name + '.cue'), 'w') as f:
+        f.write(f'FILE "{args.name}.bin" BINARY\n  TRACK 01 MODE2/2352\n    INDEX 01 00:00:00\n')
 
     img = psxiso.Image(out_bin, writable=True)
     patched = translated = errors = 0
-    for dirpath, _, names in os.walk(SCRIPT):
+    for dirpath, _, names in os.walk(args.script):
         for name in sorted(names):
             if not name.endswith('.json'):
                 continue
             jf = os.path.join(dirpath, name)
-            path = '/' + os.path.relpath(jf, SCRIPT)[:-5].replace(os.sep, '/')
+            path = '/' + os.path.relpath(jf, args.script)[:-5].replace(os.sep, '/')
             entries = [e for e in json.load(open(jf, encoding='utf-8')) if e['en']]
             if not entries:
                 continue
