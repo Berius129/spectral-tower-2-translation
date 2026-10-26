@@ -7,11 +7,11 @@
  {
   "line": 14,
   "jp": "TALK,-108,16,216,36,またお前か(B)いいところに来たな(B)こいつの遺言が￥ｎ聞けるかもしれないぜ(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,You again.(B)Good timing.(B)You might get to hear￥ｎthis one's last words.(E)"
  },
  {
   "line": 17,
   "jp": "TALK,-108,16,216,36,まったく余計なお世話だよ(B)虫けら同然の用なしめ！(F012)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,Mind your own business.(B)Useless worm!(F012)"
  }
 ]

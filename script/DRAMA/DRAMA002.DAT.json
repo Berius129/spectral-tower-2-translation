@@ -2,11 +2,11 @@
  {
   "line": 14,
   "jp": "TALK,-108,16,216,36,なんとか町の近くまでこれたな(B)悪かったな…案内させちまって(B)あぁ…そうだ￥ｎもう一度地図を見せてくれないか？(B)………(B)なるほど…　町の先か……(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,We made it near the town.(B)Sorry for making you guide me.(B)Oh... right.￥ｎCan I see that map again?(B).........(B)I see... past the town, huh...(E)"
  },
  {
   "line": 23,
   "jp": "TALK,-108,16,216,36,それじゃあ　またな…(F011)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,Well then, see you around...(F011)"
  }
 ]

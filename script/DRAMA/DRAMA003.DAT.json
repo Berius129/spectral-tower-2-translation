@@ -7,26 +7,26 @@
  {
   "line": 50,
   "jp": "TALK,-108,16,216,36,あんたか　また会ったな(B)あんたとは何か縁があるな…(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,You again. We meet again.(B)Seems we're bound by fate...(E)"
  },
  {
   "line": 57,
   "jp": "TALK,-108,16,216,36,あんたは何しにこんなところまで￥ｎ来たんだ？(B)………(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,What brought you all the way￥ｎout here?(B).........(E)"
  },
  {
   "line": 65,
   "jp": "TALK,-108,16,216,36,あんたには言っておこう…(B)ここに来てみて￥ｎはっきりわかったよ(B)オレはこの塔に￥ｎ呼ばれたんだってね…(B)たしかにこの場所だ…(B)ここにあれが……(B)いにしえの力があるというのか…！(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,I'll tell you this much...(B)Coming here made it￥ｎclear to me.(B)I was called￥ｎby this tower...(B)This is definitely the place...(B)It's here... that thing...(B)the ancient power...!(E)"
  },
  {
   "line": 69,
   "jp": "TALK,-108,16,216,36,オレは　その力が欲しい…(B)今までいろんな人間がこの塔に￥ｎ登っていったと聞く(B)もし　そいつらもその力を求めて￥ｎ登ってるのなら(B)先を越されるわけにはいかないな…(B)オレは力を手にしたい(B)邪魔をするなら…￥ｎたとえあんたでも容赦しない(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,I want that power...(B)I hear all sorts of people have￥ｎclimbed this tower.(B)If they climbed seeking￥ｎthat power too,(B)I can't let them beat me...(B)I want that power.(B)If you get in my way...￥ｎI won't hold back, even for you.(E)"
  },
  {
   "line": 78,
   "jp": "TALK,-108,16,216,36,オレに必要なのは力なんだ(B)じゃあな…(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,Power is what I need.(B)See you...(E)"
  }
 ]

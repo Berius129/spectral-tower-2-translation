@@ -2,11 +2,11 @@
  {
   "line": 10,
   "jp": "TALK,-108,16,216,36,フン　ザコどもめ！￥ｎこのオレさまに　たてつくとは…(B)あんたも　やるじゃないか…(E)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,Hmph, small fry!￥ｎDaring to defy the great me...(B)You're not bad yourself...(E)"
  },
  {
   "line": 14,
   "jp": "TALK,-108,16,216,36,ん？￥ｎあんた地図を持っているのか？(B)……この先に町があるらしいんだが(B)オレを案内してくれないか？￥ｎオレがいれば魔物も問題なしだぜ(B)なっ！　いいだろ？￥ｎかわりに　いいことを教えるぜ！(B)＜マップでの基本操作＞(B)歩く…方向キー(B)ダッシュ…×ボタンを押しながら￥ｎ　　　　　方向キー(B)話す…話し相手に近づいて￥ｎ　　　○ボタン(B)なぐる…なぐりたい相手に近づいて￥ｎ　　　　○ボタン(B)斬る…剣を装備して￥ｎ　　　斬りたい相手に○ボタン(B)ウィンドウ開く…△ボタン(B)まあ　やってるうちにわかるさ￥ｎとりあえず　町まで頼むぜ…(F010)",
-  "en": ""
+  "en": "TALK,-108,16,216,36,Hm?￥ｎYou've got a map?(B)...I hear there's a town ahead.(B)Will you guide me there?￥ｎWith me, monsters are no issue.(B)Come on! What do you say?￥ｎI'll teach you something useful!(B)<Basic Map Controls>(B)Walk... D-pad(B)Dash... hold × and￥ｎ     press the D-pad(B)Talk... approach someone￥ｎ     and press ○(B)Punch... approach a target￥ｎ     and press ○(B)Slash... equip a sword and￥ｎ     press ○ at a target(B)Open window... △ button(B)Well, you'll get it as you go.￥ｎFor now, get us to town...(F010)"
  }
 ]
