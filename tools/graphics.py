@@ -5,6 +5,7 @@ are already English; "ルーツ" becomes "ROOT", built from the letters of the
 "SORT" label so the style matches. The box is 22 px wide, too narrow for
 "ROOTS".
 """
+import dte
 import tim
 
 STWIN = '/COMMON/STWIN.TIM'
@@ -47,5 +48,45 @@ def roots_label(data):
     return bytes(data)
 
 
+TREASURE = '/COMMON/TREASURE.TIM'
+# "予想" (guess) above the chest-hit bar, 8bpp; the ▽ arrow starts at x 168
+AIM_AREA = (130, 238, 166, 255)  # x0, y0, x1, y1 inclusive
+AIM_TOP_LEFT = (132, 240)
+AIM_SCALE = 2
+TRANSPARENT, LIGHT, SHADOW = 255, 21, 1
+
+
+def aim_label(data):
+    """Replace 予想 with AIM, drawn with the DTE font at 2x."""
+    data = bytearray(data)
+    t = tim.read(bytes(data))
+    font = dte.load_font()
+    w = t['width']
+
+    def put(x, y, v):
+        data[t['img_off'] + y * w + x] = v
+
+    x0, y0, x1, y1 = AIM_AREA
+    for y in range(y0, y1 + 1):
+        for x in range(x0, x1 + 1):
+            put(x, y, TRANSPARENT)
+    pixels = set()
+    for i, ch in enumerate('AIM'):
+        for r, row in enumerate(font[ch][:7]):
+            for c, p in enumerate(row):
+                if p == '#':
+                    for dy in range(AIM_SCALE):
+                        for dx in range(AIM_SCALE):
+                            pixels.add((AIM_TOP_LEFT[0] + (i * 6 + c) * AIM_SCALE + dx,
+                                        AIM_TOP_LEFT[1] + r * AIM_SCALE + dy))
+    for x, y in pixels:  # shadow first, one pixel down-right
+        if (x + 1, y + 1) not in pixels and x + 1 <= x1 and y + 1 <= y1:
+            put(x + 1, y + 1, SHADOW)
+    for x, y in pixels:
+        put(x, y, LIGHT)
+    return bytes(data)
+
+
 def apply(img):
     img.write(STWIN, roots_label(img.read(STWIN)))
+    img.write(TREASURE, aim_label(img.read(TREASURE)))
