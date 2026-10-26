@@ -7025,9 +7025,195 @@
  },
  {
   "offset": "0xcaa68",
-  "max": 19,
+  "max": 16,
   "jp": "今までの最高地点",
-  "en": "Highest floor yet"
+  "en": "Highest floor"
+ },
+ {
+  "offset": "0xcaa7c",
+  "max": 16,
+  "jp": "スカラベ地点　　",
+  "en": "Scarab Point"
+ },
+ {
+  "offset": "0xcaa90",
+  "max": 16,
+  "jp": "インフォルーム　",
+  "en": "Info Room"
+ },
+ {
+  "offset": "0xcaaa4",
+  "max": 16,
+  "jp": "デビル家族の屋敷",
+  "en": "Devil Mansion"
+ },
+ {
+  "offset": "0xcaab8",
+  "max": 16,
+  "jp": "やすらぎの町　　",
+  "en": "Tranquil Town"
+ },
+ {
+  "offset": "0xcaacc",
+  "max": 16,
+  "jp": "スペドリの巣　　",
+  "en": "Spedori's Nest"
+ },
+ {
+  "offset": "0xcaae0",
+  "max": 16,
+  "jp": "ギャンブルの町　",
+  "en": "Gambling Town"
+ },
+ {
+  "offset": "0xcaaf4",
+  "max": 16,
+  "jp": "石の壁　　　　　",
+  "en": "Stone Wall"
+ },
+ {
+  "offset": "0xcab08",
+  "max": 16,
+  "jp": "ミュート神殿　　",
+  "en": "Mute Temple"
+ },
+ {
+  "offset": "0xcab1c",
+  "max": 16,
+  "jp": "ガラクタの町　　",
+  "en": "Junk Town"
+ },
+ {
+  "offset": "0xcab30",
+  "max": 16,
+  "jp": "流星階段　　　　",
+  "en": "Meteor Stairs"
+ },
+ {
+  "offset": "0xcab44",
+  "max": 16,
+  "jp": "竹取庭園　　　　",
+  "en": "Bamboo Garden"
+ },
+ {
+  "offset": "0xcab58",
+  "max": 16,
+  "jp": "ざんげの道　　　",
+  "en": "Path of Penance"
+ },
+ {
+  "offset": "0xcab6c",
+  "max": 16,
+  "jp": "水無ビーチ　　　",
+  "en": "Dry Beach"
+ },
+ {
+  "offset": "0xcab80",
+  "max": 16,
+  "jp": "竜の架け橋・壱　",
+  "en": "Dragon Bridge 1"
+ },
+ {
+  "offset": "0xcab94",
+  "max": 16,
+  "jp": "旅人の記憶☆　　",
+  "en": "Travel Log☆"
+ },
+ {
+  "offset": "0xcaba8",
+  "max": 16,
+  "jp": "竜の架け橋・弐　",
+  "en": "Dragon Bridge 2"
+ },
+ {
+  "offset": "0xcabbc",
+  "max": 16,
+  "jp": "竜の架け橋・参　",
+  "en": "Dragon Bridge 3"
+ },
+ {
+  "offset": "0xcabd0",
+  "max": 16,
+  "jp": "竜の架け橋・四　",
+  "en": "Dragon Bridge 4"
+ },
+ {
+  "offset": "0xcabe4",
+  "max": 16,
+  "jp": "竜の架け橋・五　",
+  "en": "Dragon Bridge 5"
+ },
+ {
+  "offset": "0xcabf8",
+  "max": 16,
+  "jp": "竜の架け橋・六　",
+  "en": "Dragon Bridge 6"
+ },
+ {
+  "offset": "0xcac0c",
+  "max": 16,
+  "jp": "旅人の記憶☆☆　",
+  "en": "Travel Log☆☆"
+ },
+ {
+  "offset": "0xcac20",
+  "max": 16,
+  "jp": "虚神のねぐら　　",
+  "en": "Void God's Lair"
+ },
+ {
+  "offset": "0xcac34",
+  "max": 16,
+  "jp": "凍える地　　　　",
+  "en": "Frozen Land"
+ },
+ {
+  "offset": "0xcac48",
+  "max": 16,
+  "jp": "竜の架け橋・七　",
+  "en": "Dragon Bridge 7"
+ },
+ {
+  "offset": "0xcac5c",
+  "max": 16,
+  "jp": "竜の架け橋・八　",
+  "en": "Dragon Bridge 8"
+ },
+ {
+  "offset": "0xcac70",
+  "max": 16,
+  "jp": "竜の架け橋・九　",
+  "en": "Dragon Bridge 9"
+ },
+ {
+  "offset": "0xcac84",
+  "max": 16,
+  "jp": "竜の架け橋・拾　",
+  "en": "Dragon Bridge 10"
+ },
+ {
+  "offset": "0xcac98",
+  "max": 16,
+  "jp": "竜の架け橋・拾壱",
+  "en": "Dragon Bridge 11"
+ },
+ {
+  "offset": "0xcacac",
+  "max": 16,
+  "jp": "竜の架け橋・拾弐",
+  "en": "Dragon Bridge 12"
+ },
+ {
+  "offset": "0xcacc0",
+  "max": 16,
+  "jp": "旅人の記憶☆☆☆",
+  "en": "Travel Log☆☆☆"
+ },
+ {
+  "offset": "0xcacd4",
+  "max": 16,
+  "jp": "竜人の町　　　　",
+  "en": "Dragonfolk Town"
  },
  {
   "offset": "0xcaed4",

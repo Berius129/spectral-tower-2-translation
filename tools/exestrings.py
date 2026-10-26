@@ -24,6 +24,7 @@ NAME_INPUT_ROWS = [base + 21 * i for base in (0xCAED4, 0xCAF94) for i in range(9
 RECORDS = [
     (0xC15D0, 0x60, 95, [(0x00, 0x11), (0x11, 0x5A)]),    # items: name, description
     (0xC64F0, 0x64, 163, [(0x00, 0x11), (0x18, 0x64)]),   # skills: name, description
+    (0xCAA68, 0x14, 32, [(0x00, 0x11)]),                  # Belacus warp destinations: name (8 cells), floor
 ]
 FIELD_END = {base + r * stride + start: base + r * stride + end
              for base, stride, count, fields in RECORDS
