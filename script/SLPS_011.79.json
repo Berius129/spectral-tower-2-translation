@@ -1714,79 +1714,85 @@
   "offset": "0x66b0",
   "max": 39,
   "jp": "あいうえお￥ｎかきくけこ￥ｎさしすせそ",
-  "en": "ABCDE￥ｎFGHIJ￥ｎKLMNO",
+  "en": "ABCDE￥ｎKLMNO￥ｎUVWXY",
   "mode": "fullwidth"
  },
  {
   "offset": "0x66d8",
   "max": 39,
   "jp": "たちつてと￥ｎなにぬねの￥ｎはひふへほ",
-  "en": "PQRST￥ｎUVWXY￥ｎZ    ",
+  "en": "01234￥ｎ.,!?'￥ｎ     ",
   "mode": "fullwidth"
  },
  {
   "offset": "0x6700",
   "max": 39,
   "jp": "まみむめも￥ｎや　ゆ　よ￥ｎらりるれろ",
-  "en": "abcde￥ｎfghij￥ｎklmno",
+  "en": "     ￥ｎ     ￥ｎ     ",
   "mode": "fullwidth"
  },
  {
   "offset": "0x6728",
   "max": 39,
   "jp": "わ　を　ん￥ｎがぎぐげご￥ｎざじずぜぞ",
-  "en": "pqrst￥ｎuvwxy￥ｎz    ",
+  "en": "FGHIJ￥ｎPQRST￥ｎZ    ",
   "mode": "fullwidth"
  },
  {
   "offset": "0x6750",
   "max": 39,
   "jp": "だぢづでど￥ｎばびぶべぼ￥ｎぱぴぷぺぽ",
-  "en": "01234￥ｎ56789￥ｎ.,!?'",
+  "en": "56789￥ｎ-&:/ ￥ｎ     ",
   "mode": "fullwidth"
  },
  {
   "offset": "0x6778",
   "max": 43,
   "jp": "ぁぃぅぇぉ￥ｎゃゅょっー￥ｎ＠ａ　　　　終",
-  "en": "-&:/ ￥ｎ     ￥ｎ＠ａ　　　　終",
+  "en": "     ￥ｎ     ￥ｎ＠ａ    終",
   "mode": "fullwidth"
  },
  {
   "offset": "0x67a4",
   "max": 43,
   "jp": "アイウエオ￥ｎカキクケコ￥ｎサシスセソ　",
-  "en": ""
+  "en": "abcde￥ｎklmno￥ｎuvwxy",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x67d0",
   "max": 39,
   "jp": "タチツテト￥ｎナニヌネノ￥ｎハヒフヘホ",
-  "en": ""
+  "en": "01234￥ｎ.,!?'￥ｎ     ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x67f8",
   "max": 39,
   "jp": "マミムメモ￥ｎヤ　ユ　ヨ￥ｎラリルレロ",
-  "en": ""
+  "en": "     ￥ｎ     ￥ｎ     ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x6820",
   "max": 39,
   "jp": "ワ　ヲヴン￥ｎガギグゲゴ￥ｎザジズゼゾ",
-  "en": ""
+  "en": "fghij￥ｎpqrst￥ｎz    ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x6848",
   "max": 39,
   "jp": "ダヂヅデド￥ｎバビブベボ￥ｎパピプペポ",
-  "en": ""
+  "en": "56789￥ｎ-&:/ ￥ｎ     ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x6870",
   "max": 43,
   "jp": "ァィゥェォ￥ｎャュョッー￥ｎ＠ａ　　　　終",
-  "en": ""
+  "en": "     ￥ｎ     ￥ｎ＠ａ    終",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x689c",
