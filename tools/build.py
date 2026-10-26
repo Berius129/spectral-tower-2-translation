@@ -16,6 +16,7 @@ import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
 import dte
+import exestrings
 import psxiso
 import sttext
 
@@ -51,15 +52,18 @@ def jp_width(jp):
     return widest
 
 
-def exe_kanji(exe):
-    """Kanji used by Japanese strings inside the executable."""
-    found = set()
-    for run in re.findall(rb'(?:[\x81-\x9f\xe0-\xef][\x40-\xfc])+', exe):
-        try:
-            found.update(KANJI.findall(run.decode(sttext.ENCODING)))
-        except UnicodeDecodeError:
-            pass
-    return found
+def encode_text(e, table, fullwidth):
+    """English of one entry as the game's text (str)."""
+    if fullwidth:
+        return sttext.to_fullwidth(e['en'])
+    return table.encode(dte.split_line(e['jp'], e['en']))
+
+
+def check_codes(e, where):
+    if sttext.CONTROL.findall(e['jp']) != sttext.CONTROL.findall(e['en']):
+        print(f'WARNING {where}: control codes differ from the original')
+        return 1
+    return 0
 
 
 def main():
@@ -79,14 +83,14 @@ def main():
 
     img = psxiso.Image(out_bin, writable=True)
     script = list(load_script(args.script))
+    exe_entries = next((entries for path, entries in script if path == EXE), [])
+    script = [(path, entries) for path, entries in script if path != EXE]
     errors = warnings = 0
 
     table = None
     if not args.fullwidth:
-        exe = img.read(EXE)
-        keep = exe_kanji(exe)
-        counts = collections.Counter()
-        for _, entries in script:
+        keep, counts = set(), collections.Counter()
+        for entries in [exe_entries] + [entries for _, entries in script]:
             for e in entries:
                 if e['en']:
                     for is_text, chunk in dte.split_line(e['jp'], e['en']):
@@ -95,13 +99,37 @@ def main():
                 else:
                     keep.update(KANJI.findall(e['jp']))
         table = dte.Table([p for p, _ in counts.most_common()], keep)
-        img.write(EXE, table.patch_font(exe, dte.load_font()))
         print(f'DTE: {len(table.code)} letter pairs')
         if table.overwritten:
             print(f'WARNING {len(table.overwritten)} kanji still used by Japanese text were overwritten')
             warnings += 1
 
     patched = translated = 0
+    exe = img.read(EXE)
+    for e in exe_entries:
+        if not e['en']:
+            continue
+        where = f'{EXE} {e["offset"]}'
+        off = int(e['offset'], 16)
+        if e.get('locked'):
+            print(f'ERROR {where}: string shares bytes with another one and cannot be translated yet')
+            errors += 1
+            continue
+        if exe[off:off + len(e['jp'].encode(sttext.ENCODING))].decode(sttext.ENCODING) != e['jp']:
+            print(f'ERROR {where}: Japanese text does not match the disc')
+            errors += 1
+            continue
+        warnings += check_codes(e, where)
+        try:
+            exe = exestrings.patch(exe, off, encode_text(e, table, args.fullwidth).encode(sttext.ENCODING), e['max'])
+            translated += 1
+        except (ValueError, UnicodeEncodeError) as ex:
+            print(f'ERROR {ex}')
+            errors += 1
+    if table:
+        exe = table.patch_font(exe, dte.load_font())
+    img.write(EXE, exe)
+
     for path, entries in script:
         todo = [e for e in entries if e['en']]
         if not todo:
@@ -114,18 +142,13 @@ def main():
                 print(f'ERROR {where}: Japanese text does not match the disc')
                 errors += 1
                 continue
-            if sttext.CONTROL.findall(e['jp']) != sttext.CONTROL.findall(e['en']):
-                print(f'WARNING {where}: control codes differ from the original')
-                warnings += 1
-            if args.fullwidth:
-                lines[e['line']] = sttext.to_fullwidth(e['en'])
-            else:
-                parts = dte.split_line(e['jp'], e['en'])
-                width = dte.visual_width(parts)
+            warnings += check_codes(e, where)
+            if not args.fullwidth:
+                width = dte.visual_width(dte.split_line(e['jp'], e['en']))
                 if width > cells:
                     print(f'WARNING {where}: a line is {width * 2} letters long, the window fits about {cells * 2}')
                     warnings += 1
-                lines[e['line']] = table.encode(parts)
+            lines[e['line']] = encode_text(e, table, args.fullwidth)
             translated += 1
         try:
             img.write(path, sttext.encode(lines))

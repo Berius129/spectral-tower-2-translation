@@ -56,7 +56,7 @@ def main():
                 continue
             entries = json.load(open(jf, encoding='utf-8'))
             for e in entries:
-                if not e['jp'].startswith('['):
+                if not e['jp'].startswith('[') and not e.get('locked'):
                     e['en'] = convert(e['jp'], args.fullwidth)
                     count += 1
             out = os.path.join(args.out, rel)

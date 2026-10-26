@@ -20,8 +20,8 @@ FONT_PATH = os.path.join(os.path.dirname(__file__), 'font_5x9.txt')
 
 # Line labels at the start of a line: TALK0:  ALL,  30:0,  -1,2,3,4,
 PREFIX = re.compile(r'^(?:[A-Z_]*-?\d*[:,])+')
-# Syntax inside the text: control codes, line break, choice markers
-SYNTAX = re.compile(r'\([0-9A-Za-z:]+\)|￥ｎ|=CP\d+,?')
+# Syntax inside the text: control codes, line break, choice markers, printf
+SYNTAX = re.compile(r'\([0-9A-Za-z:]+\)|￥ｎ|=CP\d+,?|%[-0-9]*[sdxc]')
 
 
 def kanji_codes():

@@ -37,6 +37,10 @@ Lines may start with a label such as `TALK0:`; keep it.
 
 Translated files are patched in place, so each file must still fit in its original sectors. `build.py` reports any file that doesn't fit.
 
+## Executable strings
+
+Menus, battle and system messages are in `script/SLPS_011.79.json`. Each entry has the string's file `offset` and `max`, the number of bytes available (the original string plus its NUL padding). With DTE, two English letters take 2 bytes, the same as one Japanese character, so English can be roughly twice as long in letters as the Japanese is in characters. `%s` inserts a name or number; keep it. Entries marked `locked` share bytes with another string and can't be translated yet.
+
 ## Font and DTE
 
 The game only draws 2-byte Shift-JIS characters, so plain ASCII shows garbage. Its font is in `SLPS_011.79`: 1bpp glyphs of 16×11 pixels, 22 bytes each, MSB = leftmost pixel.
@@ -58,7 +62,8 @@ Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`,
 - [x] Extraction and reinsertion of text files (~2,800 lines, 351 files)
 - [x] Font: DTE letter pairs (`tools/dte.py`, `tools/font_5x9.txt`)
 - [ ] Confirm DTE spacing in the emulator; consider variable-width font later
-- [ ] Strings inside the executable `SLPS_011.79` (~1,100 strings, plain Shift-JIS)
+- [x] Strings inside the executable (`tools/exestrings.py` → `script/SLPS_011.79.json`, 1,014 strings)
+- [ ] 15 executable strings marked `locked` (another pointer points into them)
 - [ ] Check for fixed-length fields in `ITEM` and `ROOTSDAT` files
 - [ ] Graphics with text (`COMMON/*.TIM`: title, names, save screen)
 - [ ] Videos (`MOVIE/*.STR`)

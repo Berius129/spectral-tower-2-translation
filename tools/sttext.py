@@ -17,7 +17,7 @@ TEXT_FILES = re.compile(
 JAPANESE = re.compile(r'[　-ヿ一-鿿！-￯]')
 
 # Control codes that must survive translation untouched
-CONTROL = re.compile(r'\([0-9A-Z]+\)|￥ｎ')
+CONTROL = re.compile(r'\([0-9A-Z]+\)|￥ｎ|%[-0-9]*[sdxc]')
 
 
 def xor(data):
