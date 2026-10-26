@@ -14,6 +14,10 @@ import sttext
 PATH = '/SLPS_011.79'
 BASE = 0x80010000  # RAM address of file offset 0x800
 DATA_AREAS = [(0x800, 0xA000), (0xBD000, None)]  # file offsets
+# Name entry input tables (hiragana, katakana): 9 rows of 10 characters,
+# 21 bytes per row; only the first row is referenced directly
+NAME_INPUT_ROWS = [base + 21 * i for base in (0xCAED4, 0xCAF94) for i in range(9)]
+
 # Kana or kanji; strings with only full-width digits/symbols are number glyphs
 JAPANESE = re.compile(r'[぀-ヿ一-鿿]')
 SYNTAX = re.compile(r'%[-0-9]*[sdxc]|\([0-9A-Za-z]+\)')
@@ -44,7 +48,7 @@ def _in_data(off):
 def find(exe):
     """Return [{'offset', 'max', 'jp', 'locked'}] sorted by offset."""
     found = []
-    for off in sorted(_referenced(exe)):
+    for off in sorted(_referenced(exe) | set(NAME_INPUT_ROWS)):
         if not _in_data(off):
             continue
         raw = exe[off:exe.find(b'\0', off)]
