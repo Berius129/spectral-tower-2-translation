@@ -1285,7 +1285,7 @@
   "offset": "0x4974",
   "max": 31,
   "jp": "ルーツ技名　　　対象　装備条件",
-  "en": "Skill name      TargetRequires"
+  "en": "Skill name      Tgt   Requires"
  },
  {
   "offset": "0x4b24",
@@ -7012,16 +7012,130 @@
   "en": "Foe1"
  },
  {
+  "offset": "0xca72d",
+  "max": 4,
+  "jp": "敵複",
+  "en": "Foes"
+ },
+ {
+  "offset": "0xca732",
+  "max": 4,
+  "jp": "敵全",
+  "en": "AllF"
+ },
+ {
+  "offset": "0xca737",
+  "max": 4,
+  "jp": "味１",
+  "en": "Ally"
+ },
+ {
+  "offset": "0xca73c",
+  "max": 4,
+  "jp": "味全",
+  "en": "Pty"
+ },
+ {
+  "offset": "0xca741",
+  "max": 4,
+  "jp": "全員",
+  "en": "All"
+ },
+ {
   "offset": "0xca748",
   "max": 8,
   "jp": "なし",
   "en": "None"
  },
  {
+  "offset": "0xca751",
+  "max": 8,
+  "jp": "素手",
+  "en": "Fist"
+ },
+ {
+  "offset": "0xca75a",
+  "max": 8,
+  "jp": "素手・杖",
+  "en": "Fist/Stf"
+ },
+ {
+  "offset": "0xca763",
+  "max": 8,
+  "jp": "剣",
+  "en": "Sword"
+ },
+ {
   "offset": "0xca76c",
   "max": 4,
   "jp": "格闘",
   "en": "Brwl"
+ },
+ {
+  "offset": "0xca771",
+  "max": 4,
+  "jp": "剣技",
+  "en": "Swrd"
+ },
+ {
+  "offset": "0xca776",
+  "max": 4,
+  "jp": "祈り",
+  "en": "Pray"
+ },
+ {
+  "offset": "0xca77b",
+  "max": 4,
+  "jp": "虚無",
+  "en": "Void"
+ },
+ {
+  "offset": "0xca780",
+  "max": 4,
+  "jp": "魔炎",
+  "en": "Fire"
+ },
+ {
+  "offset": "0xca785",
+  "max": 4,
+  "jp": "魔風",
+  "en": "Wind"
+ },
+ {
+  "offset": "0xca78a",
+  "max": 4,
+  "jp": "魔水",
+  "en": "Watr"
+ },
+ {
+  "offset": "0xca78f",
+  "max": 4,
+  "jp": "魔土",
+  "en": "Erth"
+ },
+ {
+  "offset": "0xca794",
+  "max": 4,
+  "jp": "賢明",
+  "en": "Wise"
+ },
+ {
+  "offset": "0xca799",
+  "max": 4,
+  "jp": "自然",
+  "en": "Natr"
+ },
+ {
+  "offset": "0xca79e",
+  "max": 4,
+  "jp": "裏技",
+  "en": "Tric"
+ },
+ {
+  "offset": "0xca7a3",
+  "max": 4,
+  "jp": "遊技",
+  "en": "Arts"
  },
  {
   "offset": "0xcaa68",

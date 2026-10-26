@@ -25,6 +25,9 @@ RECORDS = [
     (0xC15D0, 0x60, 95, [(0x00, 0x11), (0x11, 0x5A)]),    # items: name, description
     (0xC64F0, 0x64, 163, [(0x00, 0x11), (0x18, 0x64)]),   # skills: name, description
     (0xCAA68, 0x14, 32, [(0x00, 0x11)]),                  # Belacus warp destinations: name (8 cells), floor
+    (0xCA728, 5, 6, [(0, 5)]),                            # skill targets (敵１, 敵複, 敵全, 味１, 味全, 全員)
+    (0xCA748, 9, 4, [(0, 9)]),                            # skill equipment requirement (なし, 素手, 素手・杖, 剣)
+    (0xCA76C, 5, 12, [(0, 5)]),                           # skill types, list headers (格闘, 剣技...)
 ]
 FIELD_END = {base + r * stride + start: base + r * stride + end
              for base, stride, count, fields in RECORDS
