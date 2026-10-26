@@ -18,6 +18,9 @@ LEFT_X, RIGHT_X = 0, 6  # pixel column of each letter in the pair
 
 FONT_PATH = os.path.join(os.path.dirname(__file__), 'font_5x9.txt')
 
+# The last kanji glyphs hold code (see codepatch.py) and are never assigned
+RESERVED_GLYPHS = 7
+
 # Line labels at the start of a line: TALK0:  ALL,  30:0,  -1,2,3,4,
 PREFIX = re.compile(r'^(?:[A-Z_]*-?\d*[:,])+')
 # Syntax inside the text: control codes, line break, choice markers, printf
@@ -107,8 +110,8 @@ class Table:
     def __init__(self, used_pairs, keep_kanji):
         """used_pairs: pairs ordered by frequency. keep_kanji: kanji still
         needed by untranslated Japanese text; they are used last."""
-        codes = kanji_codes()
-        free = [c for c in codes if code_char(c) not in keep_kanji]
+        codes = kanji_codes()[:-RESERVED_GLYPHS]
+        free =[c for c in codes if code_char(c) not in keep_kanji]
         busy = [c for c in codes if code_char(c) in keep_kanji]
         order = free + busy
         if len(used_pairs) > len(order):
@@ -128,17 +131,22 @@ class Table:
         exe = bytearray(exe)
         index = {c: i for i, c in enumerate(kanji_codes())}
         for pair, code in self.code.items():
-            glyph = bytearray(GLYPH_BYTES)
-            for ch, x0 in zip(pair, (LEFT_X, RIGHT_X)):
-                rows = font.get(ch, font['?'])
-                for r, row in enumerate(rows):
-                    y = FONT_TOP + r
-                    if y >= GLYPH_ROWS:
-                        break
-                    for x, px in enumerate(row):
-                        if px == '#':
-                            bit = 15 - (x0 + x)
-                            glyph[y * 2 + (1 - bit // 8)] |= 1 << (bit % 8)
             off = KANJI_TABLE + index[code] * GLYPH_BYTES
-            exe[off:off + GLYPH_BYTES] = glyph
+            exe[off:off + GLYPH_BYTES] = draw_glyph(font, pair)
         return bytes(exe)
+
+
+def draw_glyph(font, pair):
+    """1bpp 16x11 glyph with two half-width letters."""
+    glyph = bytearray(GLYPH_BYTES)
+    for ch, x0 in zip(pair, (LEFT_X, RIGHT_X)):
+        rows = font.get(ch, font['?'])
+        for r, row in enumerate(rows):
+            y = FONT_TOP + r
+            if y >= GLYPH_ROWS:
+                break
+            for x, px in enumerate(row):
+                if px == '#':
+                    bit = 15 - (x0 + x)
+                    glyph[y * 2 + (1 - bit // 8)] |= 1 << (bit % 8)
+    return bytes(glyph)

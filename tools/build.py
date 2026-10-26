@@ -15,6 +15,7 @@ import shutil
 import sys
 
 sys.path.insert(0, os.path.dirname(__file__))
+import codepatch
 import dte
 import exestrings
 import psxiso
@@ -131,8 +132,10 @@ def main():
         except (ValueError, UnicodeEncodeError) as ex:
             print(f'ERROR {ex}')
             errors += 1
+    font = dte.load_font()
     if table:
-        exe = table.patch_font(exe, dte.load_font())
+        exe = table.patch_font(exe, font)
+    exe = codepatch.apply(exe, font)
     img.write(EXE, exe)
 
     for path, entries in script:
