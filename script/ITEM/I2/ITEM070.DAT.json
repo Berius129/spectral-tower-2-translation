@@ -7,21 +7,21 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎせいすい草を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎHolywater Herb."
  },
  {
   "line": 3,
   "jp": "USEMSG1:(2)の呪いが￥ｎ打ち消された！",
-  "en": ""
+  "en": "USEMSG1:(2)'s curse￥ｎwas lifted!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎせいすい草を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎHolywater Herb."
  },
  {
   "line": 5,
   "jp": "EAT_OK:モグモグ…(B)ごっくん！",
-  "en": ""
+  "en": "EAT_OK:Munch munch...(B)Gulp!"
  }
 ]

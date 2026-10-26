@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎブラックアーマーを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎBlack Armor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎブラックアーマーを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Black￥ｎArmor to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ガキン　ガキン！(B)ゴクッ！(B)ブラックアーマーは￥ｎかたくて無糖だった！",
-  "en": ""
+  "en": "EAT_OK:Clang, clang!(B)Gulp!(B)The Black Armor was hard￥ｎand sugar-free!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)はやっぱり￥ｎ食べられなかった",
-  "en": ""
+  "en": "EAT_NG:(2) just couldn't￥ｎeat it."
  },
  {
   "line": 7,
   "jp": "EQU:(2)の周りに￥ｎ魔法の壁がはりめぐらされた",
-  "en": ""
+  "en": "EQU:A magic wall surrounds￥ｎ(2)."
  }
 ]

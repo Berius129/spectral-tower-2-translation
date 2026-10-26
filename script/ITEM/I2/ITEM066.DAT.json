@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎただのガラクタを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎPlain Junk."
  },
  {
   "line": 3,
   "jp": "USEMSG1:！！(B)本当に使いみちのない￥ｎただのガラクタだ！",
-  "en": ""
+  "en": "USEMSG1:!!(B)It really is useless￥ｎjunk!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎただのガラクタを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Plain￥ｎJunk to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ガリガリッ！(B)何のたしにもならなかった",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch!(B)It did nothing for you."
  },
  {
   "line": 6,
   "jp": "EAT_NG:ガリガリッ！(B)ウッ！(B)ただのガラクタの上に￥ｎ体に悪いものだった！",
-  "en": ""
+  "en": "EAT_NG:Crunch crunch!(B)Ugh!(B)Not just junk, but bad￥ｎfor your health too!"
  }
 ]

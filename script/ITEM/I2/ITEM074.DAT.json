@@ -7,51 +7,51 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎケロタンを使った",
-  "en": ""
+  "en": "USE:(2) used￥ｎthe Kerotan."
  },
  {
   "line": 3,
   "jp": "USEMSG1:どこからか声が聞こえる…(B)「ケロケロ￥ｎお呼びだケロ？」(B)ケロタンがワナの位置を￥ｎ教えてくれる",
-  "en": ""
+  "en": "USEMSG1:A voice from somewhere...(B)\"Ribbit ribbit,￥ｎyou called, ribbit?\"(B)Kerotan shows you where￥ｎthe traps are."
  },
  {
   "line": 4,
   "jp": "USEMSG2:突然　足元にケロタンが現れた(B)「ケロケロ￥ｎぼくケロタン！(B)好物はイモムシ…(B)なんてな…￥ｎケロケロ！」",
-  "en": ""
+  "en": "USEMSG2:Kerotan suddenly appears at￥ｎyour feet.(B)\"Ribbit ribbit,￥ｎI'm Kerotan!(B)I love caterpillars...(B)Just kidding...￥ｎribbit ribbit!\""
  },
  {
   "line": 5,
   "jp": "USEMSG3:突然　足元にケロタンが現れた(B)「ケロケロ￥ｎぼくケロタン！(B)(2)の身に￥ｎ危険が迫っているケロ！(B)ぼくがお助けしますケロ」",
-  "en": ""
+  "en": "USEMSG3:Kerotan suddenly appears at￥ｎyour feet.(B)\"Ribbit ribbit,￥ｎI'm Kerotan!(B)Danger is coming for￥ｎ(2), ribbit!(B)I'll help you out, ribbit!\""
  },
  {
   "line": 6,
   "jp": "USEMSG4:どこからか声が聞こえる…(B)「ゲロゲロ￥ｎぼくケロタソ！(B)ケロタンのかわりに￥ｎ安全な方へ導くゲロ！」",
-  "en": ""
+  "en": "USEMSG4:A voice from somewhere...(B)\"Croak croak,￥ｎI'm Kerotam!(B)I'll guide you to safety￥ｎinstead of Kerotan, croak!\""
  },
  {
   "line": 7,
   "jp": "USEMSG5:突然　頭上にケロタンが現れた(B)「ケロケロ￥ｎなんか用ケロ？」(B)ケロタンがワナの位置を￥ｎ教えてくれる",
-  "en": ""
+  "en": "USEMSG5:Kerotan suddenly appears￥ｎabove your head.(B)\"Ribbit ribbit,￥ｎwhat do you want, ribbit?\"(B)Kerotan shows you where￥ｎthe traps are."
  },
  {
   "line": 8,
   "jp": "USEMSG6:突然　頭上にケロタンが現れた(B)「ぼく…￥ｎケロタン…(B)ともだち…(B)なってケロ…」(B)ケロタンがワナの位置を￥ｎ教えてくれる",
-  "en": ""
+  "en": "USEMSG6:Kerotan suddenly appears￥ｎabove your head.(B)\"I'm...￥ｎKerotan...(B)Be my...(B)friend, ribbit...\"(B)Kerotan shows you where￥ｎthe traps are."
  },
  {
   "line": 9,
   "jp": "EAT:(2)は￥ｎケロタンを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Kerotan￥ｎto their mouth..."
  },
  {
   "line": 10,
   "jp": "EAT_OK:(2)は￥ｎケロタンをのみこんだ(B)………(B)どこからか声が聞こえる…(B)「く、くやしいケロ…」",
-  "en": ""
+  "en": "EAT_OK:(2) swallowed￥ｎthe Kerotan.(B).........(B)A voice from somewhere...(B)\"S-so frustrating, ribbit...\""
  },
  {
   "line": 11,
   "jp": "EAT_NG:(2)は￥ｎケロタンをのみこんだ(B)「この時を待っていたケロ！」(B)ウッ…(B)お腹の具合が悪くなった",
-  "en": ""
+  "en": "EAT_NG:(2) swallowed￥ｎthe Kerotan.(B)\"I've waited for this, ribbit!\"(B)Urgh...(B)Your stomach feels awful."
  }
 ]

@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:(2)は￥ｎペロペロステッキを振った(B)甘い香りが漂った",
-  "en": ""
+  "en": "USEMSG1:(2) waved the￥ｎLollipop Wand.(B)A sweet smell drifts by."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎペロペロステッキを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Lollipop￥ｎWand to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎペロペロステッキをなめてみた(B)ぺロペロペロ…(B)ノンシュガーだから　こどもにも￥ｎ安心だ！",
-  "en": ""
+  "en": "EAT_OK:(2) gave the￥ｎLollipop Wand a lick.(B)Lick lick lick...(B)Sugar-free, so it's safe￥ｎfor kids too!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎペロペロステッキをなめてみた(B)ぺロペロペロ…(B)少し具合が悪くなった",
-  "en": ""
+  "en": "EAT_NG:(2) gave the￥ｎLollipop Wand a lick.(B)Lick lick lick...(B)You feel a little sick."
  },
  {
   "line": 7,
   "jp": "EQU:(2)の手が￥ｎちょっとベトッとした",
-  "en": ""
+  "en": "EQU:(2)'s hands got￥ｎa little sticky."
  }
 ]

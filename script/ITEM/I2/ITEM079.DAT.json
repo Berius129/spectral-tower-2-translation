@@ -7,41 +7,41 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ不幸カードを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎUnlucky Card."
  },
  {
   "line": 3,
   "jp": "USEMSG1:…？(B)カードから邪気があふれだした！",
-  "en": ""
+  "en": "USEMSG1:...?(B)Evil pours out of the card!"
  },
  {
   "line": 4,
   "jp": "USEMSG2:…？(B)カードからドロドロの￥ｎ液体がにじんできた！",
-  "en": ""
+  "en": "USEMSG2:...?(B)A gooey liquid seeps￥ｎout of the card!"
  },
  {
   "line": 5,
   "jp": "USEMSG3:なにか書いてある…(B)「呪いの呪符」",
-  "en": ""
+  "en": "USEMSG3:Something's written...(B)\"Charm of Curses\""
  },
  {
   "line": 6,
   "jp": "USEMSG4:なにか書いてある…(B)「たまにいいことないかな」",
-  "en": ""
+  "en": "USEMSG4:Something's written...(B)\"Can't something good￥ｎhappen for once?\""
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎ不幸カードを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Unlucky￥ｎCard to their mouth..."
  },
  {
   "line": 8,
   "jp": "EAT_OK:パリパリ…(B)何のたしにもならなかった",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch...(B)It did nothing for you."
  },
  {
   "line": 9,
   "jp": "EAT_NG:パリパリ…(B)ビシュッ！(B)口の中を切ってしまった！",
-  "en": ""
+  "en": "EAT_NG:Crunch crunch...(B)Slice!(B)You cut your mouth!"
  }
 ]

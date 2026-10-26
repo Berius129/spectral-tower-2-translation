@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎさびたよろいを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎRusty Armor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎさびたよろいを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Rusty￥ｎArmor to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎさびたよろいをかみくだいた(B)ジャリ…ジャリ…(B)味はともかくとして…￥ｎワビサビの世界だなぁ…！",
-  "en": ""
+  "en": "EAT_OK:(2) chewed up￥ｎthe Rusty Armor.(B)Crunch... crunch...(B)Never mind the taste...￥ｎit's so wabi-sabi...!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:………(B)(2)は￥ｎいやな予感がした…(B)(2)は￥ｎ食べるのを思いとどまった",
-  "en": ""
+  "en": "EAT_NG:.........(B)(2) had a bad￥ｎfeeling...(B)(2) decided￥ｎnot to eat it."
  },
  {
   "line": 7,
   "jp": "EQU:ところどころ　さびついて￥ｎ動きづらい！",
-  "en": ""
+  "en": "EQU:It's rusty in places￥ｎand hard to move in!"
  }
 ]

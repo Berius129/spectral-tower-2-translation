@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:シャッ　シャッ！",
-  "en": ""
+  "en": "USEMSG1:Shff, shff!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎショートソードを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Short￥ｎSword to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ショートソードを￥ｎまるまると飲み込んだ(B)………(B)意外とおいしかった！！",
-  "en": ""
+  "en": "EAT_OK:Swallowed the Short￥ｎSword whole.(B).........(B)Surprisingly tasty!!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:ショートソードを￥ｎまるまると飲み込んだ(B)ングッ！(B)ノドにショートソードがささって￥ｎ食べられない",
-  "en": ""
+  "en": "EAT_NG:Swallowed the Short￥ｎSword whole.(B)Gnk!(B)It's stuck in your￥ｎthroat. Can't eat it."
  },
  {
   "line": 7,
   "jp": "EQU:(2)の手に￥ｎピッタリおさまった！",
-  "en": ""
+  "en": "EQU:It fits perfectly￥ｎin (2)'s hand!"
  }
 ]

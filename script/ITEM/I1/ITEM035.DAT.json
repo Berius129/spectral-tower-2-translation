@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎほし肉を使った",
-  "en": ""
+  "en": "USE:(2) used￥ｎthe Jerky."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎほし肉を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate￥ｎthe Jerky."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ガブガブッ！(B)………(B)大満足！！",
-  "en": ""
+  "en": "EAT_OK:Chomp chomp!(B).........(B)Very satisfying!!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:ガブガブッ！(B)うっ！(B)ぎゅるるるぅぅ…(B)急にお腹が痛くなった！",
-  "en": ""
+  "en": "EAT_NG:Chomp chomp!(B)Ugh!(B)Grrrumble...(B)Sudden stomachache!"
  }
 ]

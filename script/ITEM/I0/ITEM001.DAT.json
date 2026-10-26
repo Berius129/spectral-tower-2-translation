@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ天魔剣を振りかざした",
-  "en": ""
+  "en": "USE:(2) raised￥ｎthe Tenma Sword high."
  },
  {
   "line": 3,
   "jp": "USEMSG1:(2)の￥ｎステータスが回復した！",
-  "en": ""
+  "en": "USEMSG1:(2)'s￥ｎstatus was restored!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ天魔剣を口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the￥ｎTenma Sword to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ガリガリガリ！(B)天魔剣を食べてしまった！￥ｎ熱い力がみなぎってくる！",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch crunch!(B)Ate the Tenma Sword!￥ｎA burning power wells up!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:………(B)食べられる訳がなかった",
-  "en": ""
+  "en": "EAT_NG:.........(B)Of course it's not edible."
  },
  {
   "line": 7,
   "jp": "EQU:コォ～……(B)(2)の￥ｎ体中に熱い力がみなぎってくる！",
-  "en": ""
+  "en": "EQU:Whooo......(B)A burning power fills￥ｎ(2)'s whole body!"
  }
 ]

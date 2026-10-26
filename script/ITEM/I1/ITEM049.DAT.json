@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ白色の固形物を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎWhite Lump."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ白色の固形物を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎWhite Lump."
  },
  {
   "line": 5,
   "jp": "EAT_OK:無味無臭だ…(B)！！(B)(2)は￥ｎ不思議と体が軽くなった！",
-  "en": ""
+  "en": "EAT_OK:No taste, no smell...(B)!!(B)(2)'s body feels￥ｎstrangely light!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:無味無臭だ…(B)(2)は急に手が￥ｎ震えるようになった",
-  "en": ""
+  "en": "EAT_NG:No taste, no smell...(B)(2)'s hands￥ｎsuddenly start shaking."
  }
 ]

@@ -7,71 +7,71 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ魔法の貝がらを耳にあてた",
-  "en": ""
+  "en": "USE:(2) held the Magic￥ｎShell to their ear."
  },
  {
   "line": 3,
   "jp": "USEMSG1:懐かしい母さんの声がする…(B)「(2)…￥ｎ元気でやるんだよ」(B)懐かしさで￥ｎ心が温まる…",
-  "en": ""
+  "en": "USEMSG1:Mother's dear voice...(B)\"(2)...￥ｎtake care of yourself.\"(B)Your heart warms with￥ｎnostalgia..."
  },
  {
   "line": 4,
   "jp": "USEMSG2:懐かしい父さんの声がする…(B)「(2)よ￥ｎあきらめるんじゃないぞ！」(B)力強いはげましに￥ｎ勇気がわくようだ",
-  "en": ""
+  "en": "USEMSG2:Father's dear voice...(B)\"(2),￥ｎdon't you give up!\"(B)His strong words fill￥ｎyou with courage."
  },
  {
   "line": 5,
   "jp": "USEMSG3:威圧するような声がする…(B)「我が声を聞きし者よ…聞け！(B)緑たちの痛みとて￥ｎ生ぬるいモノではないのだ(B)ぬしらは　その痛みを￥ｎ受けとめることができるのか！？(B)今一度　考えてみるがいい！」",
-  "en": ""
+  "en": "USEMSG3:An overbearing voice...(B)\"You who hear my voice, listen!(B)The pain of the green things￥ｎis no small matter.(B)Can you bear that pain￥ｎyourselves!?(B)Think about it once more!\""
  },
  {
   "line": 6,
   "jp": "USEMSG4:女の人の声だ…(B)「あぁ…またひとりぼっちか￥ｎつまんないなぁ…(B)………(B)よくわからないけど￥ｎわたし　寂しいのかな…？」(B)なぜか近くにいる気がした…",
-  "en": ""
+  "en": "USEMSG4:A woman's voice...(B)\"Aah... alone again.￥ｎHow boring...(B).........(B)I'm not sure, but￥ｎmaybe I'm lonely...?\"(B)Somehow she felt close by..."
  },
  {
   "line": 7,
   "jp": "USEMSG5:くらい声が響いてくる…(B)「魔物どもめ…みていろ￥ｎ必ず皆殺しにしてやる…(B)あの惨劇の復讐は￥ｎ必ずしてやるぞ！」(B)どこかで聞いた声だ…",
-  "en": ""
+  "en": "USEMSG5:A grim voice echoes...(B)\"Damn monsters... just watch.￥ｎI'll kill every last one...(B)I will avenge that￥ｎtragedy, I swear it!\"(B)You know that voice..."
  },
  {
   "line": 8,
   "jp": "USEMSG6:女の人の声だ…(B)「うん…？￥ｎおっとぉ　あの人への手紙だね！(B)ん～…￥ｎさっそく届けたいけど…(B)あの人って…なかなか配達ルートに￥ｎいないのよねぇ」",
-  "en": ""
+  "en": "USEMSG6:A woman's voice...(B)\"Hm...?￥ｎOh, a letter for that guy!(B)Mmm...￥ｎI'd deliver it now, but...(B)that guy is hardly ever￥ｎon my delivery route...\""
  },
  {
   "line": 9,
   "jp": "USEMSG7:？？？(B)「ぴよぴよ…ぴよぴよ…￥ｎぴぴ…ぴ？　ぴゅるる…？」(B)………(B)な、なんの声だろう？",
-  "en": ""
+  "en": "USEMSG7:???(B)\"Peep peep... peep peep...￥ｎpip... pip? Pyururu...?\"(B).........(B)Wh-what is that voice?"
  },
  {
   "line": 10,
   "jp": "USEMSG8:！？(B)激しい戦いのようだ…！(B)………(B)「はぁ～…これで終わりだ！￥ｎくらいやがれぇ！(B)うらおうぎ　ふうじんせん￥ｎ裏　奥　義　封　神　閃！！！」(B)どこかで聞いたような￥ｎ技の名前だったが…",
-  "en": ""
+  "en": "USEMSG8:!?(B)Sounds like a fierce battle!(B).........(B)\"Haaah... this ends now!￥ｎTake THIS!(B)Secret art... Sealing Flash!￥ｎSEALING... FLAAASH!!!\"(B)You've heard that skill's￥ｎname somewhere..."
  },
  {
   "line": 11,
   "jp": "USEMSG9:！？(B)なにやら危険な雰囲気だ！(B)………(B)「いや～！　こないで～！(B)こないでったら～！　きゃ～！！(B)………(B)くんなっつってんだろ！　おらぁ！(B)バキッ！(B)おらおら…(B)とっとと身ぐるみ脱いでおいてきな￥ｎ…さっさとしろ！」(B)………(B)消えゆくように￥ｎ魔物の悲鳴が聞こえてきた…",
-  "en": ""
+  "en": "USEMSG9:!?(B)Something feels dangerous!(B).........(B)\"Noooo! Stay away!(B)I said stay away! Eek!!(B).........(B)I SAID BACK OFF! HYAH!(B)Crack!(B)Come on, come on...(B)Drop all your stuff and go!￥ｎ...Hurry it up!\"(B).........(B)A monster's scream fades￥ｎinto the distance..."
  },
  {
   "line": 12,
   "jp": "USEMSG10:？？？(B)「声１：痛いよ…身体も…心も…￥ｎ　　　　みんな…知らないんだ(B)声２：わかってくれるのは￥ｎ　　　皇竜のおじさんだけだね…(B)声１：うん…(B)声２：そういえば￥ｎ　　　人間の女の子にもいるよ(B)声１：でも一人だけじゃだめだよ…(B)声２：誰もいないよりは￥ｎ　　　ずっといいよ…(B)声１：うん…そうだよね！」(B)少し悲しそうな声だったが…￥ｎ何者なんだろう…？",
-  "en": ""
+  "en": "USEMSG10:???(B)\"Voice 1: It hurts... body and￥ｎ  heart... nobody knows...(B)Voice 2: Only Mr. Emperor￥ｎ  Dragon understands us...(B)Voice 1: Yeah...(B)Voice 2: Oh, there's also￥ｎ  a human girl.(B)Voice 1: One isn't enough...(B)Voice 2: It's much better￥ｎ  than nobody...(B)Voice 1: Yeah... you're right!\"(B)They sounded a little sad...￥ｎWho could they be...?"
  },
  {
   "line": 13,
   "jp": "EAT:(2)は￥ｎ魔法の貝がらを口に入れた",
-  "en": ""
+  "en": "EAT:(2) put the Magic￥ｎShell in their mouth."
  },
  {
   "line": 14,
   "jp": "EAT_OK:パリパリ…(B)しょっぱかった！(B)一応は　シーフードだ￥ｎそれなりに腹のたしになった",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch...(B)Salty!(B)It is seafood, after all.￥ｎIt filled you up a bit."
  },
  {
   "line": 15,
   "jp": "EAT_NG:パリパリ…(B)(2)は急に￥ｎ頭が痛くなった",
-  "en": ""
+  "en": "EAT_NG:Crunch crunch...(B)(2) suddenly￥ｎgets a headache."
  }
 ]

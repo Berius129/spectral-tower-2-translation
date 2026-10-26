@@ -7,46 +7,46 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎマジカルロッドを振った",
-  "en": ""
+  "en": "USE:(2) waved the￥ｎMagical Rod."
  },
  {
   "line": 3,
   "jp": "USEMSG1:フリフリッ！(B)ボゥッ！(B)小さな炎が飛び出した！",
-  "en": ""
+  "en": "USEMSG1:Wave wave!(B)Fwoosh!(B)A small flame shot out!"
  },
  {
   "line": 4,
   "jp": "USEMSG2:フリフリッ！(B)バチッ！(B)静電気が走った！",
-  "en": ""
+  "en": "USEMSG2:Wave wave!(B)Zap!(B)A jolt of static!"
  },
  {
   "line": 5,
   "jp": "USEMSG3:フリフリッ！(B)ゴウゥ！(B)風が吹き抜けた！",
-  "en": ""
+  "en": "USEMSG3:Wave wave!(B)Whoosh!(B)A gust of wind blew by!"
  },
  {
   "line": 6,
   "jp": "USEMSG4:フリフリッ！(B)(2)は￥ｎ心の中で叫んだ！(B)「マジカル　まじかる～っ￥ｎなりたいルーツにへんしーん！！」(B)(2)は￥ｎ心が寒くなった！",
-  "en": ""
+  "en": "USEMSG4:Wave wave!(B)(2) shouted￥ｎinside their heart!(B)\"Magical, magicaaal~￥ｎTurn me into any Root!!\"(B)(2) felt a￥ｎchill of embarrassment."
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎマジカルロッドを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Magical￥ｎRod to their mouth..."
  },
  {
   "line": 8,
   "jp": "EAT_OK:ガリッ　ガリガリッ！(B)ゴクッ…(B)(2)の体の中が￥ｎ熱くなった！",
-  "en": ""
+  "en": "EAT_OK:Crunch, crunch crunch!(B)Gulp...(B)(2) felt warm￥ｎinside!"
  },
  {
   "line": 9,
   "jp": "EAT_NG:ジュッ！(B)マジカルロッドは￥ｎ熱くて食べられない",
-  "en": ""
+  "en": "EAT_NG:Sizzle!(B)The Magical Rod is￥ｎtoo hot to eat."
  },
  {
   "line": 10,
   "jp": "EQU:(2)の手に￥ｎ魔力が集中した",
-  "en": ""
+  "en": "EQU:Magic gathers in￥ｎ(2)'s hand."
  }
 ]

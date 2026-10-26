@@ -7,21 +7,21 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎどくけしを使った",
-  "en": ""
+  "en": "USE:(2) used￥ｎthe Antidote."
  },
  {
   "line": 3,
   "jp": "USEMSG1:(2)はどくけしを￥ｎせんじて飲んだ！",
-  "en": ""
+  "en": "USEMSG1:(2) brewed the￥ｎAntidote and drank it!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎどくけしを口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate￥ｎthe Antidote."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ムシャムシャ…(B)なかなかの味だった",
-  "en": ""
+  "en": "EAT_OK:Munch munch...(B)It tasted pretty good."
  }
 ]

@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:ビシュ　ビシュ！！(B)刃先が黒く輝いている…",
-  "en": ""
+  "en": "USEMSG1:Shing shing!!(B)The tip glows black..."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎブラックサーベルを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Black￥ｎSaber to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は大きく口を開け￥ｎかじりついた！(B)………(B)なかなか　うまいっ！",
-  "en": ""
+  "en": "EAT_OK:(2) opened wide￥ｎand bit down!(B).........(B)Not bad at all!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は突然￥ｎブラックサーベルを回しはじめた(B)……チャキ！(B)そのままさやへともどした",
-  "en": ""
+  "en": "EAT_NG:(2) suddenly started￥ｎtwirling the Black Saber.(B)......Shing!(B)And put it right back."
  },
  {
   "line": 7,
   "jp": "EQU:ブラックサーベルから￥ｎ妖しい波動を感じた！",
-  "en": ""
+  "en": "EQU:You sense an eerie aura￥ｎfrom the Black Saber!"
  }
 ]

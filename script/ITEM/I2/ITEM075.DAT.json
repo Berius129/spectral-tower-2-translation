@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎマジカルリカーを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎMagic Liquor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおきなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:ゴクゴク…(B)(2)は￥ｎ一気に飲みほした",
-  "en": ""
+  "en": "EAT:Glug glug...(B)(2) downed it￥ｎin one go."
  },
  {
   "line": 5,
   "jp": "EAT_OK:う～ん…濃厚な味だ(B)疲れた体に力が湧いてきた！",
-  "en": ""
+  "en": "EAT_OK:Mmm... a rich flavor.(B)Your tired body feels renewed!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:うーん…濃厚な味だ(B)疲れた胃袋には￥ｎかえって悪かったようだ…",
-  "en": ""
+  "en": "EAT_NG:Mmm... a rich flavor.(B)It seems it was bad for￥ｎyour tired stomach..."
  }
 ]

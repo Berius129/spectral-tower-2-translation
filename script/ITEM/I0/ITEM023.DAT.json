@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ天魔のよろいを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎTenma Armor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ天魔のよろいを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Tenma￥ｎArmor to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎかみ砕こうとした(B)ガリガリガリ…(B)(2)の歯には￥ｎ最強のよろいも勝てなかった(B)(2)は￥ｎ全部食べてしまった！",
-  "en": ""
+  "en": "EAT_OK:(2) tried to￥ｎchew it up.(B)Crunch crunch crunch...(B)Even the mightiest armor￥ｎlost to (2)'s teeth.(B)(2) ate￥ｎthe whole thing!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:が　しかし(2)は￥ｎ食べる気がしなかった",
-  "en": ""
+  "en": "EAT_NG:But (2) didn't￥ｎfeel like eating it."
  },
  {
   "line": 7,
   "jp": "EQU:凄まじいエネルギーフィールドが￥ｎ(2)の体を包み込む…",
-  "en": ""
+  "en": "EQU:A tremendous energy field￥ｎwraps around (2)..."
  }
 ]

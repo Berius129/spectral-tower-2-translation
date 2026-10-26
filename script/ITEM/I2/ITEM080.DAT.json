@@ -7,81 +7,81 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ何者かの日記を読んだ(B)日記にはこう書いてある…",
-  "en": ""
+  "en": "USE:(2) read￥ｎSomeone's Diary.(B)The diary says..."
  },
  {
   "line": 3,
   "jp": "USEMSG1:「この塔には　とんでもない魔物が￥ｎ住みついている…」",
-  "en": ""
+  "en": "USEMSG1:\"A terrible monster lives￥ｎin this tower...\""
  },
  {
   "line": 4,
   "jp": "USEMSG2:「私はもうだめだ…(B)あの剣を手に入れられれば…(B)この塔を￥ｎ制覇できたかもしれないが…」",
-  "en": ""
+  "en": "USEMSG2:\"I'm done for...(B)If only I'd gotten that sword...(B)I might have conquered￥ｎthis tower...\""
  },
  {
   "line": 5,
   "jp": "USEMSG3:「これを読んだ人がいたならば…￥ｎ役立ててほしい(B)ブタになったら￥ｎ次のフロアへいそげ…」",
-  "en": ""
+  "en": "USEMSG3:\"If anyone reads this...￥ｎI hope it helps.(B)If you turn into a pig,￥ｎhurry to the next floor...\""
  },
  {
   "line": 6,
   "jp": "USEMSG4:あわてて書いたような字で￥ｎ重ね書きされている(B)「銀髪の男…(B)まるで…人間じゃない」",
-  "en": ""
+  "en": "USEMSG4:Scrawled over it in a rush:(B)\"The silver-haired man...(B)he's... not human.\""
  },
  {
   "line": 7,
   "jp": "USEMSG5:何か書きたされている(B)「僕はもうじき死ぬだろう…￥ｎひとつだけ心配ごとを残して…(B)最後のスカラベで　あの人が￥ｎ無事に町に戻れたかどうか…」",
-  "en": ""
+  "en": "USEMSG5:Something was added:(B)\"I'll die soon... leaving￥ｎjust one worry behind...(B)Did she get back to town￥ｎsafely with the last Scarab...\""
  },
  {
   "line": 8,
   "jp": "USEMSG6:何か書きたされている…(B)「誰か…助け…て￥ｎこの…は呪われ…て…(B)まだ…死に…くないよ…(B)…か…母さ…ん…」(B)この後の文字は￥ｎ読みとることができなかった",
-  "en": ""
+  "en": "USEMSG6:Something was added...(B)\"Some...one... help...￥ｎthis... is cursed...(B)I don't... want to... die...(B)...M...Mo...m...\"(B)You can't read the￥ｎwords after this."
  },
  {
   "line": 9,
   "jp": "USEMSG7:力強い字で書かれている(B)「…月…日　今日も相変わらずだな￥ｎいったい何階あるんだ…くそっ(B)…月…日　今日もこれといった￥ｎ収穫はなしだ…ちっ(B)…月…日　…まずいな￥ｎもうまともな食料がないな…(B)こんな日記をいつまでも￥ｎかいているヒマはなさそうだ(B)…月…日　ば…化け物め…￥ｎ逃げる…のが…やっ…とだった…」(B)この先は破れていて￥ｎ読めそうもない",
-  "en": ""
+  "en": "USEMSG7:Written in a strong hand:(B)\"Day X: Same as always.￥ｎHow many floors are there? Damn.(B)Day X: Nothing worth finding￥ｎtoday either... tch.(B)Day X: ...Not good. I'm￥ｎout of decent food...(B)No time to keep writing￥ｎthis diary forever.(B)Day X: Mon... monster...￥ｎbarely... got... away...\"(B)The rest is torn￥ｎand unreadable."
  },
  {
   "line": 10,
   "jp": "USEMSG8:血で文字が書かれている！(B)「あいつめ…う…裏切るな…んて…￥ｎち…ちくしょ…う…！」(B)無念さが伝わってくるようだ…",
-  "en": ""
+  "en": "USEMSG8:Words written in blood!(B)\"That rat... b...betrayed me...￥ｎd...damn it...!\"(B)You can feel the regret..."
  },
  {
   "line": 11,
   "jp": "USEMSG9:端の方が少しこげている！(B)「紅い魔物め…次は必ず￥ｎしとめてやるからな…」(B)………(B)紅い魔物…？",
-  "en": ""
+  "en": "USEMSG9:The edge is a bit scorched!(B)\"Crimson monster... next time￥ｎI'll finish you for sure...\"(B).........(B)Crimson monster...?"
  },
  {
   "line": 12,
   "jp": "USEMSG10:きれいな字で書き記されている…(B)「この想いは　愛しいあの人へ…(B)死ぬときも一緒だって言ってたのに(B)なぜ　わたしだけを町に戻したの…(B)これからどうすればいいの…￥ｎ教えてよ…」(B)この先は読めそうもない…",
-  "en": ""
+  "en": "USEMSG10:Written in neat handwriting...(B)\"These feelings are for him...(B)You said we'd die together.(B)Why did you send only me back￥ｎto town...(B)What do I do now...￥ｎtell me...\"(B)The rest can't be read..."
  },
  {
   "line": 13,
   "jp": "USEMSG11:開いたページには￥ｎ奇妙な文章が書かれていた…(B)「名もなき旅人へ…この日記は￥ｎ想いが文字となり記されるのです…(B)主の想いが文字で記される時…￥ｎ魂は天へかえるのです…」(B)読み終えた瞬間￥ｎ文字はキレイに消えていた",
-  "en": ""
+  "en": "USEMSG11:On the open page, strange￥ｎwords are written...(B)\"To the nameless traveler...￥ｎIn this diary, feelings￥ｎbecome words...(B)When the owner's feelings are￥ｎwritten... the soul rests...\"(B)The moment you finished, the￥ｎwords vanished without a trace."
  },
  {
   "line": 14,
   "jp": "USEMSG12:「息子よ…すまない…￥ｎこの父を許してくれ…(B)あの「力」があれば￥ｎ母さんを救えるはずだった…(B)だが…我が魔法剣の奥義ですら￥ｎあの竜を倒すことはできなかった…(B)息子よ…すまない…￥ｎ母さんにも…すま…ない…と」(B)悔しさが伝わってくる…",
-  "en": ""
+  "en": "USEMSG12:\"My son... I'm sorry...￥ｎforgive your father...(B)With that 'power' I could￥ｎhave saved your mother...(B)But... even my sword's secret￥ｎart couldn't beat that dragon...(B)My son... I'm sorry...￥ｎTell Mother... I'm sor...ry...\"(B)You can feel the bitterness..."
  },
  {
   "line": 15,
   "jp": "EAT:(2)は￥ｎ何者かの日記を口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought Someone's￥ｎDiary to their mouth..."
  },
  {
   "line": 16,
   "jp": "EAT_OK:ベリベリッ！(B)ムシャムシャ…(B)何のたしにもならなかった",
-  "en": ""
+  "en": "EAT_OK:Rrrip!(B)Munch munch...(B)It did nothing for you."
  },
  {
   "line": 17,
   "jp": "EAT_NG:ベリベリッ！(B)ムシャムシャ…(B)ウッ！(B)どうやら腹痛らしい…",
-  "en": ""
+  "en": "EAT_NG:Rrrip!(B)Munch munch...(B)Ugh!(B)Looks like a stomachache..."
  }
 ]

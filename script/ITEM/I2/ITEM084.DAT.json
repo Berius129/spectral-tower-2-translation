@@ -7,71 +7,71 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎエッチ本を開いた",
-  "en": ""
+  "en": "USE:(2) opened the￥ｎNaughty Book."
  },
  {
   "line": 3,
   "jp": "USEMSG1:エッチ本￥ｎ１ページ(B)…水着のグラビアが￥ｎ載っている(B)スリーサイズは￥ｎ８６　５２　８０…",
-  "en": ""
+  "en": "USEMSG1:Naughty Book￥ｎPage 1(B)...There's a swimsuit￥ｎphoto spread.(B)Measurements:￥ｎ86, 52, 80..."
  },
  {
   "line": 4,
   "jp": "USEMSG2:エッチ本￥ｎ２ページ(B)ページに穴が開いている…(B)残念ながら全然読めない…",
-  "en": ""
+  "en": "USEMSG2:Naughty Book￥ｎPage 2(B)There's a hole in the page...(B)Sadly, you can't read it..."
  },
  {
   "line": 5,
   "jp": "USEMSG3:エッチ本￥ｎ３ページ(B)メダル持ちになりたい￥ｎステキな女性を募集！(B)男性でも　自信があるなら…￥ｎいつでも募集して下さい",
-  "en": ""
+  "en": "USEMSG3:Naughty Book￥ｎPage 3(B)Seeking lovely ladies who want￥ｎto become rich in medals!(B)Men too, if you're confident...￥ｎapply anytime."
  },
  {
   "line": 6,
   "jp": "USEMSG4:エッチ本￥ｎ４ページ(B)あぁ…ちょっときついわ(B)もうすこし　ずらしてよ…(B)けっこうキテるのよねぇ　はぁ…(B)残業　つらいわ",
-  "en": ""
+  "en": "USEMSG4:Naughty Book￥ｎPage 4(B)Ahh... it's a little tight.(B)Move it over a bit more...(B)It's really wearing me out...(B)Overtime is so rough."
  },
  {
   "line": 7,
   "jp": "USEMSG5:エッチ本￥ｎ５ページ(B)身長１４３ｃｍ　体重２８ｋｇ￥ｎ趣味は　なわとびと刺しゅう？(B)な、何だこれ…￥ｎ大人って…大人なんて…(B)大人に対する信頼が下がった",
-  "en": ""
+  "en": "USEMSG5:Naughty Book￥ｎPage 5(B)Height 143cm, weight 28kg.￥ｎHobbies: jump rope, embroidery?(B)Wh-what is this...￥ｎGrown-ups... grown-ups are...(B)Your trust in grown-ups dropped."
  },
  {
   "line": 8,
   "jp": "USEMSG6:エッチ本￥ｎ６ページ(B)わたしってちょっと今時の￥ｎ女子高生ってかんじー(B)この前ついに￥ｎ経験しちゃったんだけど…(B)やっぱりワッフルより￥ｎクレープがいいな",
-  "en": ""
+  "en": "USEMSG6:Naughty Book￥ｎPage 6(B)I'm like, totally a modern￥ｎhigh school girl.(B)The other day I finally￥ｎtried it for the first time...(B)Crepes really are better￥ｎthan waffles."
  },
  {
   "line": 9,
   "jp": "USEMSG7:エッチ本￥ｎ７ページ(B)あまりに刺激が強くて￥ｎ精神的ダメージを受けた",
-  "en": ""
+  "en": "USEMSG7:Naughty Book￥ｎPage 7(B)Too intense. You took￥ｎmental damage."
  },
  {
   "line": 10,
   "jp": "USEMSG8:エッチ本￥ｎ８ページ(B)難しい漢字ばかりで￥ｎあまりよくわからなかった",
-  "en": ""
+  "en": "USEMSG8:Naughty Book￥ｎPage 8(B)It's all difficult kanji.￥ｎYou didn't get much of it."
  },
  {
   "line": 11,
   "jp": "USEMSG9:エッチ本￥ｎ９ページ(B)もう　彼ったら嫌がる私を￥ｎいきなりベッドに押し倒して(B)子供は早く寝なさいだって￥ｎ（１０才学生）",
-  "en": ""
+  "en": "USEMSG9:Naughty Book￥ｎPage 9(B)Ugh, he suddenly pushed me￥ｎonto the bed, though I said no,(B)saying kids should go to sleep￥ｎearly. (Student, age 10)"
  },
  {
   "line": 12,
   "jp": "USEMSG10:エッチ本￥ｎ１０ページ(B)さびしい人は　すぐにきてね…(B)わたしの部屋は１号室よ…￥ｎそれじゃ…またね",
-  "en": ""
+  "en": "USEMSG10:Naughty Book￥ｎPage 10(B)Lonely folks, come right over...(B)My room is Room 1...￥ｎSee you then..."
  },
  {
   "line": 13,
   "jp": "EAT:(2)は￥ｎエッチ本を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎNaughty Book."
  },
  {
   "line": 14,
   "jp": "EAT_OK:ベリベリッ！(B)ムシャムシャ…(B)(2)は￥ｎ気分がムラムラした…",
-  "en": ""
+  "en": "EAT_OK:Rrrip!(B)Munch munch...(B)(2) feels￥ｎall flustered..."
  },
  {
   "line": 15,
   "jp": "EAT_NG:ベリベリッ！(B)ムシャムシャ…(B)(2)は￥ｎ気分がムラムラしてきた…(B)………(B)胸やけだ！",
-  "en": ""
+  "en": "EAT_NG:Rrrip!(B)Munch munch...(B)(2) is getting￥ｎall flustered...(B).........(B)It's heartburn!"
  }
 ]

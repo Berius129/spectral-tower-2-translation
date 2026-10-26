@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:ビシュ　ビシュ！！(B)力がみなぎる！",
-  "en": ""
+  "en": "USEMSG1:Shing shing!!(B)Power wells up!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎエクスカリバーを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought￥ｎExcalibur to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:んぐぐっ…￥ｎバキッ！(B)エクスカリバーを￥ｎかみ砕いてしまった！(B)聖なる栄養が身体をめぐる～",
-  "en": ""
+  "en": "EAT_OK:Nngh...￥ｎCrack!(B)Chewed Excalibur￥ｎto pieces!(B)Holy nutrients flow~"
  },
  {
   "line": 6,
   "jp": "EAT_NG:………(B)チャキ！(B)考えなおして￥ｎエクスカリバーをさやにおさめた",
-  "en": ""
+  "en": "EAT_NG:.........(B)Shing!(B)On second thought, you￥ｎsheathed Excalibur."
  },
  {
   "line": 7,
   "jp": "EQU:体に光の力が流れ込む！￥ｎ魔を討つ聖なる力だ！",
-  "en": ""
+  "en": "EQU:The power of light flows in!￥ｎA holy power that slays evil!"
  }
 ]

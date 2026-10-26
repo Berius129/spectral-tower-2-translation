@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:いきたい階を指定してください",
-  "en": ""
+  "en": "USE:Choose the floor to go to."
  },
  {
   "line": 3,
   "jp": "USEMSG1:ベラカスの周りが光りだした",
-  "en": ""
+  "en": "USEMSG1:Light shines around the Belacus."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎベラカスを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Belacus￥ｎto their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎかみつぶそうとした(B)パリパリッ　グチュッ！(B)ちょっぴり大人の味がした",
-  "en": ""
+  "en": "EAT_OK:(2) tried to￥ｎcrunch it up.(B)Crackle crackle, squish!(B)A slightly grown-up taste."
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎかみつぶそうとした(B)パリパリッ　グチュッ！(B)なんとも　いえない味だ",
-  "en": ""
+  "en": "EAT_NG:(2) tried to￥ｎcrunch it up.(B)Crackle crackle, squish!(B)An indescribable taste."
  },
  {
   "line": 7,
   "jp": "(B)………(B)(2)は￥ｎ気分が悪くなってきた！",
-  "en": ""
+  "en": "(B).........(B)(2) is starting￥ｎto feel sick!"
  }
 ]

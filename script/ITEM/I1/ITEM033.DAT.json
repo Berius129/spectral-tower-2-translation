@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ豆の保存食を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎBean Rations."
  },
  {
   "line": 3,
   "jp": "USEMSG1:ぱらぱらぱら…(B)地面にまいたが￥ｎ何もおこらなかった",
-  "en": ""
+  "en": "USEMSG1:Patter patter...(B)Scattered them on the￥ｎground. Nothing happened."
  },
  {
   "line": 4,
   "jp": "USEMSG2:ふにふに　ふにふに…(B)鼻の穴につめたが￥ｎ何もおこらなかった",
-  "en": ""
+  "en": "USEMSG2:Squish squish...(B)Stuffed them up a nostril.￥ｎNothing happened."
  },
  {
   "line": 5,
   "jp": "USEMSG3:ピンッ！(B)指で飛ばしてみたが￥ｎ何もおこらなかった",
-  "en": ""
+  "en": "USEMSG3:Flick!(B)Flicked one with a finger.￥ｎNothing happened."
  },
  {
   "line": 6,
   "jp": "EAT:(2)は￥ｎ豆の保存食を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎBean Rations."
  },
  {
   "line": 7,
   "jp": "EAT_OK:ボリボリ　ボリボリ…(B)思っていたよりおいしくなかった",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch, crunch...(B)Not as tasty as you hoped."
  }
 ]

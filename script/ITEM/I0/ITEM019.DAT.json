@@ -7,56 +7,56 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎフェアリーロッドを振った",
-  "en": ""
+  "en": "USE:(2) waved the￥ｎFairy Rod."
  },
  {
   "line": 3,
   "jp": "USEMSG1:突然　フェアリーが舞い下りてきた(B)(2)にささやいた￥ｎ「わたしが道案内します」",
-  "en": ""
+  "en": "USEMSG1:Suddenly, a fairy flew down.(B)She whispered to (2):￥ｎ\"I'll be your guide.\""
  },
  {
   "line": 4,
   "jp": "USEMSG2:突然　フェアリーが舞い下りてきた(B)(2)にささやいた￥ｎ「こっちにきて　こっちよ！」",
-  "en": ""
+  "en": "USEMSG2:Suddenly, a fairy flew down.(B)She whispered to (2):￥ｎ\"Over here, this way!\""
  },
  {
   "line": 5,
   "jp": "USEMSG3:フェアリーが目の前に現れた(B)(2)につぶやいた￥ｎ「わたしが道案内するわね」",
-  "en": ""
+  "en": "USEMSG3:A fairy appeared before you.(B)She murmured to (2):￥ｎ\"I'll show you the way.\""
  },
  {
   "line": 6,
   "jp": "USEMSG4:フェアリーが目の前に現れた(B)(2)につぶやいた￥ｎ「さっさと　のぼっちまえ！」",
-  "en": ""
+  "en": "USEMSG4:A fairy appeared before you.(B)She murmured to (2):￥ｎ\"Hurry up and climb!\""
  },
  {
   "line": 7,
   "jp": "USEMSG5:(2)は後ろから￥ｎ肩をたたかれた(B)「あたしフェアリー￥ｎいいこと教えてあげる！」",
-  "en": ""
+  "en": "USEMSG5:Someone tapped (2)￥ｎon the shoulder.(B)\"I'm a fairy! Let me￥ｎtell you something good!\""
  },
  {
   "line": 8,
   "jp": "USEMSG6:(2)は後ろから￥ｎ肩をたたかれた(B)「あたしゃ　ふぇ～あり～じゃ！￥ｎ天国へ案内しようかのう」",
-  "en": ""
+  "en": "USEMSG6:Someone tapped (2)￥ｎon the shoulder.(B)\"I'm a faaairy, dearie!￥ｎShall I guide you to heaven?\""
  },
  {
   "line": 9,
   "jp": "EAT:(2)は￥ｎフェアリーロッドを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Fairy￥ｎRod to their mouth..."
  },
  {
   "line": 10,
   "jp": "EAT_OK:パクッ！(B)ちょっぴりフェアリーの￥ｎ味がした！",
-  "en": ""
+  "en": "EAT_OK:Chomp!(B)It tasted a little￥ｎlike fairy!"
  },
  {
   "line": 11,
   "jp": "EAT_NG:(2)は￥ｎ食べようとしたが…(B)もったいなくなって￥ｎ食べるのをやめた",
-  "en": ""
+  "en": "EAT_NG:(2) tried to￥ｎeat it, but...(B)it felt like a waste,￥ｎso they stopped."
  },
  {
   "line": 12,
   "jp": "EQU:(2)の手に￥ｎ魔力が集中した",
-  "en": ""
+  "en": "EQU:Magic gathers in￥ｎ(2)'s hand."
  }
 ]

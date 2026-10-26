@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ価値のない石を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎWorthless Stone."
  },
  {
   "line": 3,
   "jp": "USEMSG1:………(B)やはり　こんな石は￥ｎ役に立たない！",
-  "en": ""
+  "en": "USEMSG1:.........(B)As expected, this stone￥ｎis useless!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ価値のない石を口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Worthless￥ｎStone to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:カリカリッ！(B)何のたしにもならなかった",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch!(B)It did nothing for you."
  },
  {
   "line": 6,
   "jp": "EAT_NG:カリカリッ！(B)ウッ！(B)価値のないわりに￥ｎ体に悪かった！",
-  "en": ""
+  "en": "EAT_NG:Crunch crunch!(B)Ugh!(B)Worthless AND bad￥ｎfor your health!"
  }
 ]

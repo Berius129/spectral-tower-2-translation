@@ -7,46 +7,46 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎう○こを使った",
-  "en": ""
+  "en": "USE:(2) used￥ｎthe Po○p."
  },
  {
   "line": 3,
   "jp": "USEMSG1:『う○こ』の使い方￥ｎその１　にぎる…(B)(2)は￥ｎ思いきりにぎった(B)手のすき間から￥ｎう○こがはみ出した",
-  "en": ""
+  "en": "USEMSG1:How to use Po○p￥ｎNo. 1: Squeeze it...(B)(2) squeezed￥ｎit hard.(B)Po○p oozed out between￥ｎtheir fingers."
  },
  {
   "line": 4,
   "jp": "USEMSG2:『う○こ』の使い方￥ｎその２　においをかぐ…(B)(2)は￥ｎにおいをかいだ(B)強烈なにおいを発している",
-  "en": ""
+  "en": "USEMSG2:How to use Po○p￥ｎNo. 2: Smell it...(B)(2) sniffed￥ｎit.(B)It gives off a fierce smell."
  },
  {
   "line": 5,
   "jp": "USEMSG3:『う○こ』の使い方￥ｎその３　見つめる…(B)(2)は￥ｎ愛のまなざしを向けた(B)…(B)ふ…ふふふ…",
-  "en": ""
+  "en": "USEMSG3:How to use Po○p￥ｎNo. 3: Gaze at it...(B)(2) gazed at it￥ｎwith loving eyes.(B)...(B)Heh... heh heh..."
  },
  {
   "line": 6,
   "jp": "USEMSG4:『う○こ』の使い方￥ｎその４　お手玉…(B)(2)は放ってみた！(B)ホッホッホッ！(B)よぉ～っと！(B)なんか成功！(B)なんだけど￥ｎくっさいなぁ…",
-  "en": ""
+  "en": "USEMSG4:How to use Po○p￥ｎNo. 4: Juggle it...(B)(2) tossed it!(B)Hup hup hup!(B)Hey-yo!(B)Somehow it worked!(B)But it sure￥ｎstinks..."
  },
  {
   "line": 7,
   "jp": "USEMSG5:『う○こ』の使い方￥ｎその５　お手玉…(B)(2)は放ってみた！(B)ホッホッホッ！(B)よぉ～っと！(B)なんか失敗！(B)頭の上に落としてしまった！￥ｎそれに　くさいっ！",
-  "en": ""
+  "en": "USEMSG5:How to use Po○p￥ｎNo. 5: Juggle it...(B)(2) tossed it!(B)Hup hup hup!(B)Hey-yo!(B)Somehow it failed!(B)It landed on your head!￥ｎAnd it STINKS!"
  },
  {
   "line": 8,
   "jp": "EAT:(2)は￥ｎう○こを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Po○p￥ｎto their mouth..."
  },
  {
   "line": 9,
   "jp": "EAT_OK:べちょべちょ！(B)………(B)この味は…(B)新しいかも！？",
-  "en": ""
+  "en": "EAT_OK:Squish squish!(B).........(B)This flavor...(B)might be something new!?"
  },
  {
   "line": 10,
   "jp": "EAT_NG:べちょべちょ！(B)………(B)この味は…(B)人の食うもんじゃない！",
-  "en": ""
+  "en": "EAT_NG:Squish squish!(B).........(B)This flavor...(B)is not for humans!"
  }
 ]

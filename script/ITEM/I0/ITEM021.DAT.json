@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:ブンッ！(B)むなしく空をきった",
-  "en": ""
+  "en": "USEMSG1:Whff!(B)It cut through empty air."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎロッドを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the￥ｎRod to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎためらわずにロッドを口へ…(B)眉ひとつ動かさずに食べた！",
-  "en": ""
+  "en": "EAT_OK:Without hesitation, (2)￥ｎput the Rod in their mouth...(B)and ate it without blinking!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎためらわずにロッドを口へ…(B)モグモグ　モグモグ…(B)食べるマネをした",
-  "en": ""
+  "en": "EAT_NG:Without hesitation, (2)￥ｎput the Rod in their mouth...(B)Munch munch, munch munch...(B)and pretended to eat it."
  },
  {
   "line": 7,
   "jp": "EQU:(2)の手に￥ｎ魔力が集中した",
-  "en": ""
+  "en": "EQU:Magic gathers in￥ｎ(2)'s hand."
  }
 ]

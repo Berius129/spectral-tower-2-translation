@@ -7,41 +7,41 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ白い宝石をながめた",
-  "en": ""
+  "en": "USE:(2) gazed at￥ｎthe White Gem."
  },
  {
   "line": 3,
   "jp": "USEMSG1:(2)はおもむろに￥ｎ手にとった…(B)白い宝石の冷たさが￥ｎつたわってきた",
-  "en": ""
+  "en": "USEMSG1:(2) slowly￥ｎpicked it up...(B)You feel the White Gem's￥ｎcold touch."
  },
  {
   "line": 4,
   "jp": "USEMSG2:見れば見るほど￥ｎすきとおった氷のようだ",
-  "en": ""
+  "en": "USEMSG2:The more you look, the more￥ｎit seems like clear ice."
  },
  {
   "line": 5,
   "jp": "USEMSG3:白い宝石の中に吸いこまれそうだ￥ｎその先には…(B)一面の白…吹雪…さえぎられる光…￥ｎ大地をつらぬく氷塊…(B)…幻影の世界が見えた",
-  "en": ""
+  "en": "USEMSG3:It seems to pull you in.￥ｎBeyond it...(B)Endless white... a blizzard...￥ｎblocked light... ice piercing￥ｎthe land...(B)...You saw a phantom world."
  },
  {
   "line": 6,
   "jp": "USEMSG4:よく見ると…(B)表面は氷の結晶のような￥ｎ材質だった",
-  "en": ""
+  "en": "USEMSG4:Looking closely...(B)its surface is like￥ｎice crystals."
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎ白い宝石を口に入れた",
-  "en": ""
+  "en": "EAT:(2) put the White￥ｎGem in their mouth."
  },
  {
   "line": 8,
   "jp": "EAT_OK:カリッ！(B)白い宝石の中は￥ｎ冷たい氷のようだった",
-  "en": ""
+  "en": "EAT_OK:Crunch!(B)Inside, the White Gem￥ｎwas like cold ice."
  },
  {
   "line": 9,
   "jp": "EAT_NG:カリッ！(B)歯が欠けてしまった！",
-  "en": ""
+  "en": "EAT_NG:Crunch!(B)You chipped a tooth!"
  }
 ]

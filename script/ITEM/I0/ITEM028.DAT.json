@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎアイアンアーマーを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎIron Armor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎアイアンアーマーを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Iron￥ｎArmor to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎいっき食いをこころみた…(B)(2)はヘビのように￥ｎのみこんだ！",
-  "en": ""
+  "en": "EAT_OK:(2) tried to eat it￥ｎin one go...(B)(2) swallowed it￥ｎlike a snake!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎいっき食いをこころみた…(B)グキッ！(B)(2)は￥ｎあごをはずしてしまった",
-  "en": ""
+  "en": "EAT_NG:(2) tried to eat it￥ｎin one go...(B)Crack!(B)(2) dislocated￥ｎtheir jaw."
  },
  {
   "line": 7,
   "jp": "EQU:体にあう　ちょうどいい￥ｎ大きさだった",
-  "en": ""
+  "en": "EQU:It's just the right￥ｎsize for your body."
  }
 ]

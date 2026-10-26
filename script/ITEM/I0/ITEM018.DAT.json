@@ -7,61 +7,61 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎドマンビーロッドを振った",
-  "en": ""
+  "en": "USE:(2) waved the￥ｎDomanbee Rod."
  },
  {
   "line": 3,
   "jp": "USEMSG1:どこからか声が聞こえる…(B)「アイテムを盗め…」",
-  "en": ""
+  "en": "USEMSG1:A voice from somewhere...(B)\"Steal items...\""
  },
  {
   "line": 4,
   "jp": "USEMSG2:宝物を手に入れたいならば￥ｎ我が声を聞け…",
-  "en": ""
+  "en": "USEMSG2:If you want treasure,￥ｎheed my voice..."
  },
  {
   "line": 5,
   "jp": "USEMSG3:聞いてくれ…この杖はな￥ｎ持ってるだけで…(B)………(B)まぁ…とても便利なのだ！",
-  "en": ""
+  "en": "USEMSG3:Listen... this staff,￥ｎjust by holding it...(B).........(B)Well... it's very handy!"
  },
  {
   "line": 6,
   "jp": "USEMSG4:低い声が聞こえてくる…(B)知っているか？￥ｎ知ってても聞かせてやるぞ…(B)この杖を持っていると宝箱をたたく￥ｎ回数が一回増えるのだ…",
-  "en": ""
+  "en": "USEMSG4:A low voice speaks...(B)Did you know? Even if you￥ｎdo, I'll tell you anyway...(B)With this staff, you get one￥ｎextra hit on treasure chests..."
  },
  {
   "line": 7,
   "jp": "USEMSG5:我は…ドマンビー￥ｎお前に協力してやろう",
-  "en": ""
+  "en": "USEMSG5:I am... Domanbee.￥ｎI shall aid you."
  },
  {
   "line": 8,
   "jp": "USEMSG6:おぅおぅ…￥ｎわかいもんに呼んでもらえるとは…(B)せっかくだから…茶でもすすって￥ｎ昔話でもするかの…(B)………？(B)長話はやめろ…￥ｎそう言いたいんじゃろぅ…",
-  "en": ""
+  "en": "USEMSG6:Oh ho ho...￥ｎSummoned by a youngster...(B)Since you're here... let's sip￥ｎtea and tell old stories...(B).........?(B)\"Stop rambling\"...￥ｎis that what you mean..."
  },
  {
   "line": 9,
   "jp": "(B)おぅおぅ…￥ｎせっかちじゃのぉ…",
-  "en": ""
+  "en": "(B)Oh ho ho...￥ｎSo impatient..."
  },
  {
   "line": 10,
   "jp": "EAT:(2)は￥ｎドマンビーロッドを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Domanbee￥ｎRod to their mouth..."
  },
  {
   "line": 11,
   "jp": "EAT_OK:(2)は￥ｎ口を開けて…(B)そのまま食べてしまった！(B)！！(B)何者かの声が聞こえた￥ｎ「む　無念！」",
-  "en": ""
+  "en": "EAT_OK:(2) opened￥ｎwide...(B)and ate it!(B)!!(B)Someone's voice was heard:￥ｎ\"Cu-curses!\""
  },
  {
   "line": 12,
   "jp": "EAT_NG:(2)は￥ｎ口を開けて…(B)食べようとしたが￥ｎ大切にしまいこんだ",
-  "en": ""
+  "en": "EAT_NG:(2) opened￥ｎwide...(B)but decided to keep￥ｎit safe instead."
  },
  {
   "line": 13,
   "jp": "EQU:(2)はなんだか￥ｎ盗みを働きたくなった！",
-  "en": ""
+  "en": "EQU:(2) somehow feels￥ｎlike stealing something!"
  }
 ]

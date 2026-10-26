@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎサムライアーマーを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎSamurai Armor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎサムライアーマーを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Samurai￥ｎArmor to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:がぶっ！(B)………(B)全部食べてしまった",
-  "en": ""
+  "en": "EAT_OK:Chomp!(B).........(B)Ate the whole thing."
  },
  {
   "line": 6,
   "jp": "EAT_NG:………(B)食べられる訳がなかった",
-  "en": ""
+  "en": "EAT_NG:.........(B)Of course it's not edible."
  },
  {
   "line": 7,
   "jp": "EQU:(2)を￥ｎ不思議な風がつつみこむ(B)鬼族に強くなった気がしてきた",
-  "en": ""
+  "en": "EQU:A strange wind wraps￥ｎaround (2).(B)You feel stronger against oni."
  }
 ]

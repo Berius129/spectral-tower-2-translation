@@ -7,41 +7,41 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ幸福カードを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎLucky Card."
  },
  {
   "line": 3,
   "jp": "USEMSG1:…？(B)身体が浮いてしまう！",
-  "en": ""
+  "en": "USEMSG1:...?(B)Your body starts floating!"
  },
  {
   "line": 4,
   "jp": "USEMSG2:…？(B)手にとった幸福カードが￥ｎ七色に輝きだした！",
-  "en": ""
+  "en": "USEMSG2:...?(B)The Lucky Card in your hand￥ｎshines in seven colors!"
  },
  {
   "line": 5,
   "jp": "USEMSG3:なにか書いてある…(B)「上へまいりま～す」",
-  "en": ""
+  "en": "USEMSG3:Something's written...(B)\"Going up~\""
  },
  {
   "line": 6,
   "jp": "USEMSG4:なにか書いてある…(B)「はやく登りたいでしょ？￥ｎでも　余計なことかしら？」",
-  "en": ""
+  "en": "USEMSG4:Something's written...(B)\"You want to climb fast, right?￥ｎOr is that none of my business?\""
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎ幸福カードを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Lucky￥ｎCard to their mouth..."
  },
  {
   "line": 8,
   "jp": "EAT_OK:パリパリ…(B)何のたしにもならなかった",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch...(B)It did nothing for you."
  },
  {
   "line": 9,
   "jp": "EAT_NG:パリパリ…(B)ビシュッ！(B)口の中を切ってしまった！",
-  "en": ""
+  "en": "EAT_NG:Crunch crunch...(B)Slice!(B)You cut your mouth!"
  }
 ]

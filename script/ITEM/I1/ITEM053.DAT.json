@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎネズミのしっぽを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎRat Tail."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎネズミのしっぽを口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎRat Tail."
  },
  {
   "line": 5,
   "jp": "EAT_OK:スルスルッ！(B)(2)の￥ｎお腹のたしになった",
-  "en": ""
+  "en": "EAT_OK:Slurp!(B)It filled (2)'s￥ｎstomach a little."
  },
  {
   "line": 6,
   "jp": "EAT_NG:チュルルン！(B)(2)はお腹が￥ｎ痛くなった",
-  "en": ""
+  "en": "EAT_NG:Slurrrp!(B)(2) got a￥ｎstomachache."
  }
 ]

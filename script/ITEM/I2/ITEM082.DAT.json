@@ -7,71 +7,71 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎうたの本を開いた",
-  "en": ""
+  "en": "USE:(2) opened the￥ｎSong Book."
  },
  {
   "line": 3,
   "jp": "USEMSG1:うたの本￥ｎ第１章(B)『うた』の心１(B)聴かせる側　聴く側が￥ｎ感動するのが『うた』だ…",
-  "en": ""
+  "en": "USEMSG1:Song Book￥ｎChapter 1(B)Heart of Song, part 1(B)A song is what moves both￥ｎthe singer and the listener..."
  },
  {
   "line": 4,
   "jp": "USEMSG2:うたの本￥ｎ第２章(B)『うた』の心２(B)言葉を越えて伝わるもの￥ｎそれが『うた』だ…",
-  "en": ""
+  "en": "USEMSG2:Song Book￥ｎChapter 2(B)Heart of Song, part 2(B)What reaches beyond words:￥ｎthat is a song..."
  },
  {
   "line": 5,
   "jp": "USEMSG3:うたの本￥ｎ第３章(B)『うた』の心３(B)いい『うた』とは￥ｎそれを聴く人でかわるもんだ…",
-  "en": ""
+  "en": "USEMSG3:Song Book￥ｎChapter 3(B)Heart of Song, part 3(B)What makes a song good￥ｎdepends on who hears it..."
  },
  {
   "line": 6,
   "jp": "USEMSG4:うたの本￥ｎ第４章(B)『うた』の心４(B)いい『うた』…(B)魔物でも　すぐになかよし…",
-  "en": ""
+  "en": "USEMSG4:Song Book￥ｎChapter 4(B)Heart of Song, part 4(B)A good song...(B)befriends even monsters..."
  },
  {
   "line": 7,
   "jp": "USEMSG5:うたの本￥ｎ第５章(B)『うた』の心５(B)いい『うた』…(B)みんな　元気になる…",
-  "en": ""
+  "en": "USEMSG5:Song Book￥ｎChapter 5(B)Heart of Song, part 5(B)A good song...(B)cheers everyone up..."
  },
  {
   "line": 8,
   "jp": "USEMSG6:うたの本￥ｎ第６章(B)『うた』チャート６６６位(B)じ　ご　く　の底から（ソコカラ）￥ｎよ　み　がえるぅ～（ガエルゥ～）(B)む　て　き　の…せんしぃ～￥ｎ（ム　テ　キ　ノ　センシ～）(B)その名は！（ソノナハ！）￥ｎその名は～！！（ソノナハ～！！）(B)アァ～！！　　　オィエッ！￥ｎ　（サトリ～）(B)………(B)かなり　バカっぽい『うた』だ…￥ｎきっと作詞に困ったんだろう…",
-  "en": ""
+  "en": "USEMSG6:Song Book￥ｎChapter 6(B)Song Chart: No. 666(B)From the depths (the depths!)￥ｎof hell he rises (he rises!)(B)The in-vin-ci-ble warrior!￥ｎ(IN-VIN-CI-BLE!)(B)His name is! (His name is!)￥ｎHis name is~!! (His name is~!!)(B)Aaah~!!   Oh yeah!￥ｎ  (Satori~)(B).........(B)A pretty dumb song...￥ｎThey ran out of lyrics, huh..."
  },
  {
   "line": 9,
   "jp": "USEMSG7:うたの本￥ｎ第７章(B)『うた』チャート１３８位(B)いくぜぇ！(B)俺のぉ　足はぁ　ムキムキさぁ！￥ｎ階段だらけのぉ　この塔もぉ～(B)俺にしてみりゃ￥ｎ天国さぁ！　イェ～イ！(B)秘密のぉナンバァー…￥ｎしぃってるかぁ～い！！(B)………(B)わけがわからん『うた』だ…￥ｎ昔の流行は変わっているな…",
-  "en": ""
+  "en": "USEMSG7:Song Book￥ｎChapter 7(B)Song Chart: No. 138(B)Here we go!(B)My legs are totally ripped!￥ｎThis tower full of stairs~(B)For me it's just￥ｎparadise! Yeah~!(B)The secret number...￥ｎdo you know it~!!(B).........(B)A song that makes no sense...￥ｎOld trends sure were weird..."
  },
  {
   "line": 10,
   "jp": "USEMSG8:うたの本￥ｎ第８章(B)『うた』チャート１３３位(B)誰だ！？　誰だ！？　お前はぁ～！￥ｎ汚いやつはきらいだとぉ…？(B)そういうお前は…どうなんだぁ？(B)あぁ～！　もぅっ！！￥ｎ何度もいうなぁ…わかぁったよぉ！(B)着替えりゃいんだろぉ…￥ｎはいは～い　着替えますよぉ…！(B)………(B)アホっぽい『うた』だ…￥ｎタイトルは…コーディネイター…？",
-  "en": ""
+  "en": "USEMSG8:Song Book￥ｎChapter 8(B)Song Chart: No. 133(B)Who are you!? Who are you!?￥ｎYou hate slobs, you say...?(B)Well what about you, huh?(B)Aah! Geez!!￥ｎStop nagging... fine, okay!(B)I just gotta change, right...￥ｎYes yes, I'm changing...!(B).........(B)A silly song...￥ｎThe title is... Coordinator...?"
  },
  {
   "line": 11,
   "jp": "USEMSG9:うたの本￥ｎ第９章(B)『うた』チャート１３７位(B)はし～る身体は　とてもチェイサ～￥ｎ流れ～る汗も　とてもチェイサ～(B)はや～い足は　みんなのために￥ｎゆく～ぞ　僕らのチェ～イ～サ～！(B)………(B)変だ…変すぎる！￥ｎそれに　気になる…！(B)チェイサーとは…なに？￥ｎ気になってしまう『うた』だ…",
-  "en": ""
+  "en": "USEMSG9:Song Book￥ｎChapter 9(B)Song Chart: No. 137(B)My running body's so Chaser~￥ｎMy flowing sweat's so Chaser~(B)These fast feet are for everyone￥ｎGo, go, our Chaaa-ser!(B).........(B)Weird... way too weird!￥ｎAnd it bugs me...!(B)What even is a Chaser?￥ｎA song that sticks with you..."
  },
  {
   "line": 12,
   "jp": "USEMSG10:うたの本￥ｎ第１０章(B)『うた』チャート１３５位(B)寒かったあの夜…なにも告げずに￥ｎキミは行ってしまったね…(B)吹き荒れる吹雪の中…￥ｎ振り向かないで駆けていったね…(B)寒がりの僕と　暑がりのキミ…￥ｎそうさ　きっと神様のイタズラさ！(B)出会いは　いつもそんなもんさ…(B)………(B)タイトルだ…(B)「あの子は　とてもペンギン」(B)わ…わからない…",
-  "en": ""
+  "en": "USEMSG10:Song Book￥ｎChapter 10(B)Song Chart: No. 135(B)That cold night... not a word,￥ｎyou just went away...(B)Through the raging blizzard...￥ｎyou ran and never looked back...(B)I get cold, and you get hot...￥ｎIt must be fate's little prank!(B)That's how meetings always go...(B).........(B)The title...(B)\"That Girl Is So Penguin\"(B)I... I don't get it..."
  },
  {
   "line": 13,
   "jp": "EAT:(2)は￥ｎうたの本を口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Song￥ｎBook to their mouth..."
  },
  {
   "line": 14,
   "jp": "EAT_OK:バリッ　バリッ！(B)(2)のお腹に￥ｎうたの心がひびいてきた！",
-  "en": ""
+  "en": "EAT_OK:Crunch, crunch!(B)The heart of song echoes in￥ｎ(2)'s stomach!"
  },
  {
   "line": 15,
   "jp": "EAT_NG:バリッ　バリッ！(B)(2)のお腹で￥ｎ消化されない！",
-  "en": ""
+  "en": "EAT_NG:Crunch, crunch!(B)(2)'s stomach￥ｎcan't digest it!"
  }
 ]

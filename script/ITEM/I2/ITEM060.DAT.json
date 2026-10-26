@@ -7,41 +7,41 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ隠された財宝をながめた",
-  "en": ""
+  "en": "USE:(2) gazed at the￥ｎHidden Treasure."
  },
  {
   "line": 3,
   "jp": "USEMSG1:隠された財宝は￥ｎ目がくらむ程の輝きを放っている(B)(2)は￥ｎ無上の喜びを感じてしまった",
-  "en": ""
+  "en": "USEMSG1:The Hidden Treasure shines￥ｎso bright it's blinding.(B)(2) feels￥ｎsupreme joy."
  },
  {
   "line": 4,
   "jp": "USEMSG2:あまりの美しさに￥ｎ思わず抱きついてしまった(B)ガシャン！(B)あたり一面に￥ｎ財宝が散らばってしまった(B)(2)は￥ｎ急いで袋にしまいこんだ",
-  "en": ""
+  "en": "USEMSG2:It's so beautiful you￥ｎhug it without thinking.(B)Crash!(B)Treasure scatters￥ｎall over the place.(B)(2) hurriedly￥ｎbags it all up."
  },
  {
   "line": 5,
   "jp": "USEMSG3:財宝はまぶしく輝いている(B)きれいだ…(B)しかし…(B)目が疲れた！",
-  "en": ""
+  "en": "USEMSG3:The treasure shines brightly.(B)So pretty...(B)But...(B)your eyes are tired!"
  },
  {
   "line": 6,
   "jp": "USEMSG4:隠された財宝が心の中に￥ｎささやきかけてくるようだ…(B)人のものは…(B)(2)のモノ…(B)(2)のモノも…(B)(2)のモノォオーッ！",
-  "en": ""
+  "en": "USEMSG4:The treasure seems to whisper￥ｎinside your heart...(B)What's theirs...(B)is (2)'s...(B)What's (2)'s...(B)is (2)'s toooo!"
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎ隠された財宝を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎHidden Treasure."
  },
  {
   "line": 8,
   "jp": "EAT_OK:隠された財宝はお腹の中に￥ｎ一生　隠され続けることになった！",
-  "en": ""
+  "en": "EAT_OK:The Hidden Treasure will stay￥ｎhidden in your belly forever!"
  },
  {
   "line": 9,
   "jp": "EAT_NG:ゴクッ…(B)お腹が痛くなった！",
-  "en": ""
+  "en": "EAT_NG:Gulp...(B)Stomachache!"
  }
 ]

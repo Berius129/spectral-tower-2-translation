@@ -7,21 +7,21 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎパンを使った",
-  "en": ""
+  "en": "USE:(2) used￥ｎthe Bread."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎパンを口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate￥ｎthe Bread."
  },
  {
   "line": 5,
   "jp": "EAT_OK:パクパク　ムシャムシャ…(B)おいしかった！",
-  "en": ""
+  "en": "EAT_OK:Munch munch, chomp chomp...(B)Delicious!"
  }
 ]

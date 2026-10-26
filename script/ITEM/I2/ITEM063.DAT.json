@@ -7,41 +7,41 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ赤い宝石をながめた",
-  "en": ""
+  "en": "USE:(2) gazed at￥ｎthe Red Gem."
  },
  {
   "line": 3,
   "jp": "USEMSG1:(2)はおもむろに￥ｎ手にとった…(B)………！(B)赤い宝石を持つ腕から全身に￥ｎ熱気がつたわってきた",
-  "en": ""
+  "en": "USEMSG1:(2) slowly￥ｎpicked it up...(B).........!(B)Heat spreads from your arm￥ｎto your whole body."
  },
  {
   "line": 4,
   "jp": "USEMSG2:………？(B)赤い宝石の中心は￥ｎゆらめいていた",
-  "en": ""
+  "en": "USEMSG2:.........?(B)The Red Gem's core￥ｎis flickering."
  },
  {
   "line": 5,
   "jp": "USEMSG3:さらに赤い宝石を調べる…(B)表面のスジ模様は￥ｎたえず変化している",
-  "en": ""
+  "en": "USEMSG3:You look closer...(B)The streaks on its surface￥ｎkeep shifting."
  },
  {
   "line": 6,
   "jp": "USEMSG4:赤い宝石の中に吸いこまれそうだ￥ｎその先には…(B)一面の紅…踊る炎…吹き荒ぶ熱風…￥ｎ黒く焼き焦げた大地…(B)…幻影の世界が見えた",
-  "en": ""
+  "en": "USEMSG4:It seems to pull you in.￥ｎBeyond it...(B)Endless red... dancing fire...￥ｎscorching winds... land￥ｎburned black...(B)...You saw a phantom world."
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎ赤い宝石を口に入れた",
-  "en": ""
+  "en": "EAT:(2) put the Red￥ｎGem in their mouth."
  },
  {
   "line": 8,
   "jp": "EAT_OK:カリッ！(B)赤い宝石の中は￥ｎ熱き炎のようだった",
-  "en": ""
+  "en": "EAT_OK:Crunch!(B)Inside, the Red Gem￥ｎwas like hot flame."
  },
  {
   "line": 9,
   "jp": "EAT_NG:カリッ！(B)アツッ！(B)(2)は口の中を￥ｎやけどした！",
-  "en": ""
+  "en": "EAT_NG:Crunch!(B)Ow, hot!(B)(2) burned￥ｎtheir mouth!"
  }
 ]

@@ -7,36 +7,36 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:フラッシュソードの刀身が￥ｎまばゆく光る",
-  "en": ""
+  "en": "USEMSG1:The Flash Sword's blade￥ｎshines dazzlingly."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎフラッシュソードを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Flash￥ｎSword to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)はおもむろに￥ｎフラッシュソードにかみついた(B)ピシッ　ピシピシッ！(B)思いのほか簡単に￥ｎかみくだけた",
-  "en": ""
+  "en": "EAT_OK:(2) slowly bit￥ｎinto the Flash Sword.(B)Crack, crack crack!(B)It broke apart more￥ｎeasily than expected."
  },
  {
   "line": 6,
   "jp": "(B)剣は聖なる輝きを失ったが￥ｎ栄養となって吸収された…",
-  "en": ""
+  "en": "(B)The sword lost its holy glow￥ｎbut became nourishment..."
  },
  {
   "line": 7,
   "jp": "EAT_NG:(2)は￥ｎフラッシュソードを見つめた(B)………(B)(2)は￥ｎそのまま大切にもどした",
-  "en": ""
+  "en": "EAT_NG:(2) stared at￥ｎthe Flash Sword.(B).........(B)(2) put it away￥ｎcarefully."
  },
  {
   "line": 8,
   "jp": "EQU:(2)の周りを￥ｎ霊を振り払う光がつつみこむ",
-  "en": ""
+  "en": "EQU:A spirit-banishing light￥ｎsurrounds (2)."
  }
 ]

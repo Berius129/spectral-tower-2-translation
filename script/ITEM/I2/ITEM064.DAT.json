@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎホコリっぽいゴミを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎDusty Trash."
  },
  {
   "line": 3,
   "jp": "USEMSG1:ゲホッゲホッ…￥ｎすごくホコリっぽい",
-  "en": ""
+  "en": "USEMSG1:Cough cough...￥ｎSo dusty."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎホコリっぽいゴミを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Dusty￥ｎTrash to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:パクパク…(B)食べてみたが￥ｎ何のたしにもならなかった",
-  "en": ""
+  "en": "EAT_OK:Munch munch...(B)You ate it, but it did￥ｎnothing for you."
  },
  {
   "line": 6,
   "jp": "EAT_NG:パクパク…(B)ホコリの中には￥ｎ毒素がたまっていた！",
-  "en": ""
+  "en": "EAT_NG:Munch munch...(B)The dust was full￥ｎof toxins!"
  }
 ]

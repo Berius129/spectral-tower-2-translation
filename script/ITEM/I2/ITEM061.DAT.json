@@ -7,41 +7,41 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ絵師シンの名画をながめた",
-  "en": ""
+  "en": "USE:(2) gazed at￥ｎShin's Painting."
  },
  {
   "line": 3,
   "jp": "USEMSG1:魅惑のまなざしが￥ｎ(2)をつつむ(B)………！(B)(2)は￥ｎ鳥肌がたった！",
-  "en": ""
+  "en": "USEMSG1:An enchanting gaze￥ｎwraps around (2).(B).........!(B)(2) got￥ｎgoosebumps!"
  },
  {
   "line": 4,
   "jp": "USEMSG2:見つめ続けている…(B)なんてすばらしい絵だろう￥ｎ本当にシンは天才だ…(B)(2)は￥ｎ思わず感嘆の声をもらした",
-  "en": ""
+  "en": "USEMSG2:You keep staring...(B)What a wonderful painting.￥ｎShin truly is a genius...(B)(2) can't help￥ｎsighing in awe."
  },
  {
   "line": 5,
   "jp": "USEMSG3:絵のウラを調べてみる…(B)じろじろ…(B)名前が記されている…￥ｎ『やっしい』",
-  "en": ""
+  "en": "USEMSG3:You check the back...(B)Stare stare...(B)A name is written...￥ｎ\"Yasshii\""
  },
  {
   "line": 6,
   "jp": "USEMSG4:絵のウラを調べてみる…(B)なにかメッセージが￥ｎ書いてある(B)『ボクはやっしい￥ｎ穴掘り名人さ！』(B)一体なんのことだろう？",
-  "en": ""
+  "en": "USEMSG4:You check the back...(B)There's a message￥ｎwritten there.(B)\"I'm Yasshii, master￥ｎdigger!\"(B)What could that mean?"
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎ絵師シンの名画を口に入れた",
-  "en": ""
+  "en": "EAT:(2) put Shin's￥ｎPainting in their mouth."
  },
  {
   "line": 8,
   "jp": "EAT_OK:(2)は全部なめた(B)絵の具が全部取れてしまった！",
-  "en": ""
+  "en": "EAT_OK:(2) licked it all over.(B)All the paint came off!"
  },
  {
   "line": 9,
   "jp": "EAT_NG:なめてみる…(B)絵師シンの名画は…(B)カビていた！",
-  "en": ""
+  "en": "EAT_NG:You give it a lick...(B)Shin's Painting...(B)was moldy!"
  }
 ]

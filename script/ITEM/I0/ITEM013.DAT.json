@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:ブォン　ブォォン！(B)(2)は￥ｎロングソードに振りまわされた",
-  "en": ""
+  "en": "USEMSG1:Vwoom, vwooom!(B)(2) got swung￥ｎaround by the Long Sword."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎロングソードを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Long￥ｎSword to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎ大きな口で飲み込んだ(B)ンガッ￥ｎンググーッ！(B)(2)の胃の中で￥ｎ消化された",
-  "en": ""
+  "en": "EAT_OK:(2) swallowed it￥ｎwith a big mouth.(B)Ngah￥ｎNggggh!(B)It was digested in￥ｎ(2)'s stomach."
  },
  {
   "line": 6,
   "jp": "EAT_NG:？？(B)(2)は￥ｎ食べる気をなくした",
-  "en": ""
+  "en": "EAT_NG:??(B)(2) lost the￥ｎwill to eat it."
  },
  {
   "line": 7,
   "jp": "EQU:(2)の手に￥ｎピッタリおさまった！",
-  "en": ""
+  "en": "EQU:It fits perfectly￥ｎin (2)'s hand!"
  }
 ]

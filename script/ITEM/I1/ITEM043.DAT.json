@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ黄色い果実を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎYellow Fruit."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ黄色い果実を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎYellow Fruit."
  },
  {
   "line": 5,
   "jp": "EAT_OK:コリコリッ(B)………変な匂いがする(B)ウッ！(B)(2)はお腹が￥ｎいっぱいになった！",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch(B).........it smells weird.(B)Urp!(B)(2)'s stomach￥ｎis full!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:コリコリッ(B)クンクンッ！(B)…おぇ(B)すごい異臭に(2)は￥ｎ具合が悪くなった！",
-  "en": ""
+  "en": "EAT_NG:Crunch crunch(B)Sniff sniff!(B)...Blech.(B)The awful smell made￥ｎ(2) feel sick!"
  }
 ]

@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:ビュッ！￥ｎふふっ…(B)(2)は突然￥ｎ人を切りきざみたくなった",
-  "en": ""
+  "en": "USEMSG1:Fwip!￥ｎHeh heh...(B)(2) suddenly wants￥ｎto cut someone up."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ人斬りの刃を口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Manslayer￥ｎBlade to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は一気に￥ｎ人斬りの刃を飲み込んだ(B)まぁまぁの味だ…(B)肉を食ったカニが￥ｎうまいっていうけど…",
-  "en": ""
+  "en": "EAT_OK:(2) swallowed the￥ｎManslayer Blade whole.(B)Tastes so-so...(B)They say crabs that eat￥ｎmeat taste great, but..."
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎ自分に言いきかせた(B)食べるのはよそう…",
-  "en": ""
+  "en": "EAT_NG:(2) told￥ｎthemselves...(B)Better not eat it..."
  },
  {
   "line": 7,
   "jp": "EQU:刀が語りかけてくる￥ｎ「血がほしい…」",
-  "en": ""
+  "en": "EQU:The blade speaks to you:￥ｎ\"I want blood...\""
  }
 ]

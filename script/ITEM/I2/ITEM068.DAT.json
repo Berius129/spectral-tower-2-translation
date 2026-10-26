@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎパピルスを読んだ",
-  "en": ""
+  "en": "USE:(2) read￥ｎthe Papyrus."
  },
  {
   "line": 3,
   "jp": "USEMSG1:不思議なことに￥ｎ全ての文字が消えていた！",
-  "en": ""
+  "en": "USEMSG1:Strangely, all the￥ｎwriting has vanished!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎパピルスを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Papyrus￥ｎto their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ベリベリッ！(B)ムシャムシャ…(B)紙の味しか　しなかった…",
-  "en": ""
+  "en": "EAT_OK:Rrrip!(B)Munch munch...(B)It only tasted like paper..."
  },
  {
   "line": 6,
   "jp": "EAT_NG:ベリベリッ！(B)ムシャムシャ…(B)！！！(B)パピルスに悪い虫がついていた！",
-  "en": ""
+  "en": "EAT_NG:Rrrip!(B)Munch munch...(B)!!!(B)There were nasty bugs￥ｎon the Papyrus!"
  }
 ]

@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ長細い木の根を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎLong Root."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ長細い木の根を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎLong Root."
  },
  {
   "line": 5,
   "jp": "EAT_OK:モグモグ…　モグモグ…(B)食用植物のようだ",
-  "en": ""
+  "en": "EAT_OK:Munch munch... munch munch...(B)Seems to be an edible plant."
  },
  {
   "line": 6,
   "jp": "EAT_NG:モグモグ…　モグモグ…(B)………？(B)カビがところどころ￥ｎはえていた！(B)体がしびれる！",
-  "en": ""
+  "en": "EAT_NG:Munch munch... munch munch...(B).........?(B)There was mold growing￥ｎhere and there!(B)Your body goes numb!"
  }
 ]

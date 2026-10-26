@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:(2)は￥ｎサムライブレードの重さを感じた",
-  "en": ""
+  "en": "USEMSG1:(2) feels the￥ｎweight of the Samurai Blade."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎサムライブレードを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Samurai￥ｎBlade to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎ鋭い歯でかみついた(B)ガリッ　ガリガリ！(B)(2)は得意げに￥ｎ食べカスをはきだした",
-  "en": ""
+  "en": "EAT_OK:(2) bit down￥ｎwith sharp teeth.(B)Crunch, crunch crunch!(B)(2) proudly￥ｎspat out the crumbs."
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)はなんとか￥ｎ食べようと試みた…(B)が　食べ方がわからなかった",
-  "en": ""
+  "en": "EAT_NG:(2) tried hard￥ｎto eat it...(B)but couldn't figure out how."
  },
  {
   "line": 7,
   "jp": "EQU:サムライブレードが￥ｎ強烈な鬼への殺意を発した",
-  "en": ""
+  "en": "EQU:The Samurai Blade gives off￥ｎa fierce lust for oni blood."
  }
 ]

@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎジャネスのよろいを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎJanes Armor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎジャネスのよろいを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Janes￥ｎArmor to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎ思い切ってかみついてみた(B)ガシャッ　ガシャガシャ！(B)よろいにこめられた魔力は￥ｎ胃の中に消えていった",
-  "en": ""
+  "en": "EAT_OK:(2) took a bold￥ｎbite.(B)Clank, clank clank!(B)The armor's magic vanished￥ｎinto their stomach."
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎ思い切ってかみついてみた(B)とても食べられる￥ｎかたさではなかった",
-  "en": ""
+  "en": "EAT_NG:(2) took a bold￥ｎbite.(B)It was way too hard￥ｎto eat."
  },
  {
   "line": 7,
   "jp": "EQU:(2)の体を￥ｎ黒い魔族の血がかけめぐった！",
-  "en": ""
+  "en": "EQU:Black demon blood courses￥ｎthrough (2)'s body!"
  }
 ]

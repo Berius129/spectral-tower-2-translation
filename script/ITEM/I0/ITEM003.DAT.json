@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ素振りをはじめた！",
-  "en": ""
+  "en": "USE:(2) starts￥ｎpracticing swings!"
  },
  {
   "line": 3,
   "jp": "USEMSG1:スカッ　スカスカッ！",
-  "en": ""
+  "en": "USEMSG1:Swish, swish swish!"
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ秘剣・最下降を口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the￥ｎAbyss Blade to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:ガリガリッ！(B)………ごっくん！(B)この苦み…身体にきく～",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch!(B).........gulp!(B)That bitterness...￥ｎit's good for you~"
  },
  {
   "line": 6,
   "jp": "EAT_NG:不思議な声が耳元に響く(B)「た　たべろよぉ～っ￥ｎうまいんだからよぉ～っ！」(B)………(B)カチャッ…(B)秘剣・最下降をしまいこんだ",
-  "en": ""
+  "en": "EAT_NG:A strange voice whispers...(B)\"E-eat me already~￥ｎI'm deliciouuus~!\"(B).........(B)Click...(B)You put the Abyss Blade away."
  },
  {
   "line": 7,
   "jp": "EQU:！！(B)全身の力が抜けていく…",
-  "en": ""
+  "en": "EQU:!!(B)Your strength drains away..."
  }
 ]

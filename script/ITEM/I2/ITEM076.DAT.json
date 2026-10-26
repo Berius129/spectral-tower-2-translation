@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎといしを使った",
-  "en": ""
+  "en": "USE:(2) used￥ｎthe Whetstone."
  },
  {
   "line": 3,
   "jp": "USEMSG1:ゴシゴシ　ゴシゴシ…",
-  "en": ""
+  "en": "USEMSG1:Scrub scrub, scrub scrub..."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎといしを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Whetstone￥ｎto their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)はといしを￥ｎ口に入れてなめた(B)ペロペロ…(B)歯がピカピカになった",
-  "en": ""
+  "en": "EAT_OK:(2) put the Whetstone￥ｎin their mouth and licked it.(B)Lick lick...(B)Your teeth are sparkling!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)はといしを￥ｎ口に入れてなめた(B)ペロペロ…(B)途中で気分が悪くなった",
-  "en": ""
+  "en": "EAT_NG:(2) put the Whetstone￥ｎin their mouth and licked it.(B)Lick lick...(B)You started feeling sick."
  }
 ]

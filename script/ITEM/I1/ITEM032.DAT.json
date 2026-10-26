@@ -7,41 +7,41 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎぶどう酒を使った",
-  "en": ""
+  "en": "USE:(2) used￥ｎthe Wine."
  },
  {
   "line": 3,
   "jp": "USEMSG1:味わい方が書いてある…(B)舌の上で転がすようにするのが￥ｎ正しいお召し上がり方です",
-  "en": ""
+  "en": "USEMSG1:There's a tasting guide...(B)Roll it over your tongue.￥ｎThat's the proper way."
  },
  {
   "line": 4,
   "jp": "USEMSG2:味わい方が書いてある…(B)甘美な香りを味わってから￥ｎお飲み下さい",
-  "en": ""
+  "en": "USEMSG2:There's a tasting guide...(B)Savor the sweet aroma￥ｎbefore drinking."
  },
  {
   "line": 5,
   "jp": "USEMSG3:味わい方が書いてある…(B)「こらぁ俺の酒が飲めねぇのか～？￥ｎうぃ…の　め　よぉ！」(B)………(B)悪い例です　やめましょう",
-  "en": ""
+  "en": "USEMSG3:There's a tasting guide...(B)\"Hey! You won't drink￥ｎmy wine? *hic* Drink it!\"(B).........(B)A bad example. Don't do this."
  },
  {
   "line": 6,
   "jp": "USEMSG4:酒は百薬の長といいますが…￥ｎ飲み過ぎには注意しましょう",
-  "en": ""
+  "en": "USEMSG4:Wine is the best medicine,￥ｎbut don't drink too much."
  },
  {
   "line": 7,
   "jp": "EAT:(2)は￥ｎぶどう酒を口に入れた",
-  "en": ""
+  "en": "EAT:(2) drank￥ｎthe Wine."
  },
  {
   "line": 8,
   "jp": "EAT_OK:(2)の全身に￥ｎ酒がしみわたっていく(B)だんだんと￥ｎいい気分になってきたようだ",
-  "en": ""
+  "en": "EAT_OK:The wine seeps through￥ｎ(2)'s whole body.(B)They seem to be getting￥ｎin a good mood."
  },
  {
   "line": 9,
   "jp": "EAT_NG:(2)の全身に￥ｎ酒がしみわたっていく(B)………(B)悪酔いして￥ｎだんだん気持ち悪くなってきた",
-  "en": ""
+  "en": "EAT_NG:The wine seeps through￥ｎ(2)'s whole body.(B).........(B)A bad drunk. They're￥ｎstarting to feel sick."
  }
 ]

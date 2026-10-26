@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎシルバーアーマーを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎSilver Armor."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎシルバーアーマーを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Silver￥ｎArmor to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎ思い切りかんだ(B)ガギガギッ　ガギガギッ！(B)小さくなったシルバーアーマーは￥ｎおつまみになった",
-  "en": ""
+  "en": "EAT_OK:(2) chomped down￥ｎhard.(B)Crunch crunch, crunch crunch!(B)The shrunken Silver Armor￥ｎbecame a snack."
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎ思い切りかんだ(B)ブシューッ！(B)(2)は￥ｎ歯グキから血をだした",
-  "en": ""
+  "en": "EAT_NG:(2) chomped down￥ｎhard.(B)Spurt!(B)(2)'s gums￥ｎstarted bleeding."
  },
  {
   "line": 7,
   "jp": "EQU:聖なる光が(2)の￥ｎ体を包んだ",
-  "en": ""
+  "en": "EQU:A holy light wraps￥ｎaround (2)'s body."
  }
 ]

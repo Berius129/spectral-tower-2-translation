@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ青い果実を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎBlue Fruit."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ青い果実を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎBlue Fruit."
  },
  {
   "line": 5,
   "jp": "EAT_OK:コリコリッ(B)ゴックン！(B)酸味がきいておいしかった！",
-  "en": ""
+  "en": "EAT_OK:Crunch crunch(B)Gulp!(B)Nice and tangy!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:ウッ…(B)強烈なすっぱさに￥ｎ口の中がしびれた…",
-  "en": ""
+  "en": "EAT_NG:Ugh...(B)It's so sour your￥ｎmouth goes numb..."
  }
 ]

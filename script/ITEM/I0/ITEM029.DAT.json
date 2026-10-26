@@ -7,31 +7,31 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎくさりかたびらを使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎChain Mail."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎくさりかたびらを口によせた…",
-  "en": ""
+  "en": "EAT:(2) brought the Chain￥ｎMail to their mouth..."
  },
  {
   "line": 5,
   "jp": "EAT_OK:スゥーッ￥ｎズルッ　ズルズルッ！(B)(2)は￥ｎ吸い込んで食べた",
-  "en": ""
+  "en": "EAT_OK:Slurp￥ｎSlurrrp, slurp!(B)(2) sucked it￥ｎright down."
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は￥ｎくさりかたびらをかんでみた(B)ガキガキガキ…(B)かんでもかみ切れなかった",
-  "en": ""
+  "en": "EAT_NG:(2) tried chewing￥ｎthe Chain Mail.(B)Clank clank clank...(B)Couldn't bite through it."
  },
  {
   "line": 7,
   "jp": "EQU:(2)の体に￥ｎぴったりだった",
-  "en": ""
+  "en": "EQU:It fits (2)￥ｎperfectly."
  }
 ]

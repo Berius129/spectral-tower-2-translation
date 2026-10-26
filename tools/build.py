@@ -61,7 +61,11 @@ def encode_text(e, table, fullwidth):
 
 
 def check_codes(e, where):
-    if sttext.CONTROL.findall(e['jp']) != sttext.CONTROL.findall(e['en']):
+    """Warn when control codes are missing or extra. Order and line breaks
+    may change in English (e.g. a name moves inside the sentence)."""
+    def codes(text):
+        return collections.Counter(c for c in sttext.CONTROL.findall(text) if c != '￥ｎ')
+    if codes(e['jp']) != codes(e['en']):
         print(f'WARNING {where}: control codes differ from the original')
         return 1
     return 0

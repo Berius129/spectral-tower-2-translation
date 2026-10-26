@@ -7,26 +7,26 @@
  {
   "line": 1,
   "jp": "USE:(2)は￥ｎ青い果実を使った",
-  "en": ""
+  "en": "USE:(2) used the￥ｎBlue Fruit."
  },
  {
   "line": 3,
   "jp": "USEMSG1:しかし　なにもおこらなかった",
-  "en": ""
+  "en": "USEMSG1:But nothing happened."
  },
  {
   "line": 4,
   "jp": "EAT:(2)は￥ｎ青い果実を口に入れた",
-  "en": ""
+  "en": "EAT:(2) ate the￥ｎBlue Fruit."
  },
  {
   "line": 5,
   "jp": "EAT_OK:(2)は￥ｎとても　おいしかった！",
-  "en": ""
+  "en": "EAT_OK:(2) found it￥ｎvery tasty!"
  },
  {
   "line": 6,
   "jp": "EAT_NG:(2)は急に￥ｎ体の調子がおかしくなった",
-  "en": ""
+  "en": "EAT_NG:(2) suddenly￥ｎfeels unwell."
  }
 ]
