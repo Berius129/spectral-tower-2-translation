@@ -1816,14 +1816,14 @@
   "offset": "0x68e0",
   "max": 12,
   "jp": "番号を入力し",
-  "en": "",
+  "en": "Enter number",
   "joined": true
  },
  {
   "offset": "0x68ec",
   "max": 11,
   "jp": "てください",
-  "en": ""
+  "en": "."
  },
  {
   "offset": "0x68f8",
