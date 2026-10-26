@@ -58,6 +58,8 @@ Glyph lookup: `0x80021ACC`; code → index: `0x80021E48`.
 
 `build.py` splits English text into letter pairs, gives each distinct pair a kanji code and draws the pair into that kanji's glyph using `tools/font_5x9.txt` (editable). Kanji still needed by untranslated Japanese text are used last. One character cell holds two letters, so a dialogue line fits about 32 letters; `build.py` warns when a line is longer than the window.
 
+The pair → code assignments are kept in `tools/dte_table.json`, and `build.py` only adds new pairs to it. Pairs never change code, because the game saves the names of companions that join the party as these codes: a different table would garble them in existing save files. Commit the file after each build that adds pairs.
+
 Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`, `(ON030:1)`…), `￥ｎ` and choice markers (`=CP1,`) stay as ASCII. Avoid parentheses around letters/digits in English text, since `(word)` looks like a control code.
 
 ## Status

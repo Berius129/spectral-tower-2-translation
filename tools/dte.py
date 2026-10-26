@@ -5,6 +5,7 @@ The game only renders 2-byte Shift-JIS. Its font lives in SLPS_011.79 as
 1bpp 16x11 glyphs (22 bytes each, MSB = leftmost pixel); kanji 0x889F-0x9872
 are stored in JIS order starting at file offset KANJI_TABLE.
 """
+import json
 import os
 import re
 
@@ -112,20 +113,45 @@ def visual_width(parts):
     return widest
 
 
+# Pair -> code assignments of earlier builds. The game stores some names
+# (companions that join the party) in the save file as these codes, so a
+# pair must keep its code from one build to the next.
+TABLE_PATH = os.path.join(os.path.dirname(__file__), 'dte_table.json')
+
+
+def load_assigned():
+    try:
+        return {p: int(c, 16) for p, c in json.load(open(TABLE_PATH, encoding='utf-8')).items()}
+    except FileNotFoundError:
+        return {}
+
+
+def save_assigned(code):
+    with open(TABLE_PATH, 'w', encoding='utf-8') as f:
+        json.dump({p: f'{c:04X}' for p, c in sorted(code.items(), key=lambda x: x[1])}, f,
+                  ensure_ascii=False, indent=0)
+        f.write('\n')
+
+
 class Table:
     """Assigns a kanji code to every letter pair."""
 
-    def __init__(self, used_pairs, keep_kanji):
+    def __init__(self, used_pairs, keep_kanji, assigned=None):
         """used_pairs: pairs ordered by frequency. keep_kanji: kanji still
-        needed by untranslated Japanese text; they are used last."""
-        codes = kanji_codes()[:-RESERVED_GLYPHS]
-        free =[c for c in codes if code_char(c) not in keep_kanji]
+        needed by untranslated Japanese text; they are used last.
+        assigned: codes fixed by earlier builds, kept as they are (also for
+        pairs no longer used, so old save files still read right)."""
+        assigned = dict(assigned or {})
+        taken = set(assigned.values())
+        codes = [c for c in kanji_codes()[:-RESERVED_GLYPHS] if c not in taken]
+        free = [c for c in codes if code_char(c) not in keep_kanji]
         busy = [c for c in codes if code_char(c) in keep_kanji]
+        new = [p for p in used_pairs if p not in assigned]
         order = free + busy
-        if len(used_pairs) > len(order):
-            raise ValueError(f'{len(used_pairs)} distinct pairs, only {len(order)} glyphs available')
-        self.code = dict(zip(used_pairs, order))
-        self.overwritten = [code_char(c) for c in busy[:max(0, len(used_pairs) - len(free))]]
+        if len(new) > len(order):
+            raise ValueError(f'{len(new)} new pairs, only {len(order)} glyphs left')
+        self.code = {**assigned, **dict(zip(new, order))}
+        self.overwritten = sorted({code_char(c) for c in self.code.values() if code_char(c) in keep_kanji})
 
     def encode(self, parts):
         out = []

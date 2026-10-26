@@ -110,8 +110,9 @@ def main():
                             counts.update(c for c in dte.pairs(chunk) if dte.is_pair(c))
                 else:
                     keep.update(KANJI.findall(e['jp']))
-        table = dte.Table([p for p, _ in counts.most_common()], keep)
-        print(f'DTE: {len(table.code)} letter pairs')
+        table = dte.Table([p for p, _ in counts.most_common()], keep, dte.load_assigned())
+        dte.save_assigned(table.code)
+        print(f'DTE: {len(table.code)} letter pairs ({len(counts)} in use)')
         if table.overwritten:
             print(f'WARNING {len(table.overwritten)} kanji still used by Japanese text were overwritten')
             warnings += 1
