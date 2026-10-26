@@ -71,15 +71,32 @@ def find(exe):
             pad += 1
         nxt = starts[i + 1] if i + 1 < len(starts) else len(exe)
         s['max'] = min(pad, nxt) - s['offset'] - 1  # keep one NUL
-        # a pointer into the middle of this string, or this string inside another
-        s['locked'] = nxt < end or (i > 0 and ends[i - 1] > s['offset'])
+        s['locked'] = False
+        if nxt < end:
+            # Another pointer points into this string: this entry is only the
+            # part before it, written without NUL and padded to the exact size
+            try:
+                s['jp'] = exe[s['offset']:nxt].decode(sttext.ENCODING)
+                s['max'] = nxt - s['offset']
+                s['joined'] = True
+            except UnicodeDecodeError:
+                s['locked'] = True
         del s['size']
     return found
 
 
-def patch(exe, offset, text_bytes, max_len):
+FULLWIDTH_SPACE = '　'.encode(sttext.ENCODING)
+
+
+def patch(exe, offset, text_bytes, max_len, joined=False):
     if len(text_bytes) > max_len:
         raise ValueError(f'{PATH} {offset:#x}: {len(text_bytes)} bytes, only {max_len} fit')
     exe = bytearray(exe)
-    exe[offset:offset + max_len + 1] = text_bytes + b'\0' * (max_len + 1 - len(text_bytes))
+    if joined:
+        # the text continues into the next string: pad with spaces, no NUL
+        if (max_len - len(text_bytes)) % 2:
+            raise ValueError(f'{PATH} {offset:#x}: must fill exactly {max_len} bytes, odd byte left over')
+        exe[offset:offset + max_len] = text_bytes + FULLWIDTH_SPACE * ((max_len - len(text_bytes)) // 2)
+    else:
+        exe[offset:offset + max_len + 1] = text_bytes + b'\0' * (max_len + 1 - len(text_bytes))
     return bytes(exe)

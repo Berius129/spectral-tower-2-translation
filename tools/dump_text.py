@@ -39,7 +39,8 @@ def main(bin_path):
 
     strings = exestrings.find(img.read(exestrings.PATH))
     entries = [{'offset': f'{s["offset"]:#x}', 'max': s['max'], 'jp': s['jp'], 'en': ''}
-               | ({'locked': True} if s['locked'] else {}) for s in strings]
+               | ({'locked': True} if s['locked'] else {})
+               | ({'joined': True} if s.get('joined') else {}) for s in strings]
     save(exestrings.PATH, entries, lambda e: (e['offset'], e['jp']))
     print(f'{exestrings.PATH}: {len(entries)} strings')
 

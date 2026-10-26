@@ -125,7 +125,8 @@ def main():
             continue
         warnings += check_codes(e, where)
         try:
-            exe = exestrings.patch(exe, off, encode_text(e, table, args.fullwidth).encode(sttext.ENCODING), e['max'])
+            exe = exestrings.patch(exe, off, encode_text(e, table, args.fullwidth).encode(sttext.ENCODING),
+                                   e['max'], e.get('joined', False))
             translated += 1
         except (ValueError, UnicodeEncodeError) as ex:
             print(f'ERROR {ex}')

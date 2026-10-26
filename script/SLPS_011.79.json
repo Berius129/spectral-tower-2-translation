@@ -1,1714 +1,1714 @@
 [
  {
   "offset": "0x87c",
-  "max": 3,
-  "jp": "スペクトラルタワー２　開発中バージョンデータ",
+  "max": 4,
+  "jp": "スペ",
   "en": "",
-  "locked": true
+  "joined": true
  },
  {
   "offset": "0x880",
   "max": 43,
   "jp": "クトラルタワー２　開発中バージョンデータ",
-  "en": "",
-  "locked": true
+  "en": ""
  },
  {
   "offset": "0x221c",
   "max": 21,
   "jp": "は　ちからつきた",
-  "en": ""
+  "en": " has fallen."
  },
  {
   "offset": "0x2244",
   "max": 11,
   "jp": "に攻撃￥ｎ",
-  "en": ""
+  "en": " hit!￥ｎ"
  },
  {
   "offset": "0x2250",
   "max": 19,
   "jp": "なんとか　当たった",
-  "en": ""
+  "en": "Barely hit."
  },
  {
   "offset": "0x2264",
   "max": 19,
   "jp": "手ごたえは　あった",
-  "en": ""
+  "en": "A solid hit."
  },
  {
   "offset": "0x2278",
   "max": 11,
   "jp": "強烈な一撃",
-  "en": ""
+  "en": "Big hit!"
  },
  {
   "offset": "0x2284",
   "max": 15,
   "jp": "確かな手ごたえ",
-  "en": ""
+  "en": "A sure hit!"
  },
  {
   "offset": "0x2294",
   "max": 11,
   "jp": "急所に命中",
-  "en": ""
+  "en": "Vital hit!"
  },
  {
   "offset": "0x22a0",
   "max": 15,
   "jp": "クリーンヒット",
-  "en": ""
+  "en": "Clean hit!"
  },
  {
   "offset": "0x22b0",
   "max": 15,
   "jp": "クリティカル",
-  "en": ""
+  "en": "Critical!"
  },
  {
   "offset": "0x22c0",
   "max": 11,
   "jp": "の攻撃￥ｎ",
-  "en": ""
+  "en": " hits!￥ｎ"
  },
  {
   "offset": "0x22cc",
   "max": 15,
   "jp": "攻撃は外れた",
-  "en": ""
+  "en": "Missed!"
  },
  {
   "offset": "0x22dc",
   "max": 11,
   "jp": "を盗んだ",
-  "en": ""
+  "en": " stolen!"
  },
  {
   "offset": "0x22e8",
   "max": 15,
   "jp": "を盗まれた！",
-  "en": ""
+  "en": " was stolen!"
  },
  {
   "offset": "0x22f8",
   "max": 15,
   "jp": "は　逃げ出した",
-  "en": ""
+  "en": " ran away!"
  },
  {
   "offset": "0x2308",
   "max": 23,
   "jp": "道具を持っていない！！",
-  "en": ""
+  "en": "You have no items!"
  },
  {
   "offset": "0x2320",
   "max": 35,
   "jp": "を使ったが￥ｎ何も起こらなかった",
-  "en": ""
+  "en": " used...￥ｎNothing happened."
  },
  {
   "offset": "0x23a4",
   "max": 27,
   "jp": "方向キーで￥ｎ属性の選択",
-  "en": ""
+  "en": "D-pad:￥ｎselect element"
  },
  {
   "offset": "0x23c0",
   "max": 47,
   "jp": "○－決定￥ｎ△－切替￥ｎ×－戻る￥ｎ□－待機",
-  "en": ""
+  "en": "○－OK￥ｎ△－Swap￥ｎ×－Back￥ｎ□－Wait"
  },
  {
   "offset": "0x23f0",
   "max": 15,
   "jp": "メダル数￥ｎ",
-  "en": ""
+  "en": "Medals￥ｎ"
  },
  {
   "offset": "0x2400",
   "max": 15,
   "jp": "消費体力￥ｎ",
-  "en": ""
+  "en": "HP cost￥ｎ"
  },
  {
   "offset": "0x2410",
   "max": 15,
   "jp": "　消費値￥ｎ",
-  "en": ""
+  "en": " Cost￥ｎ"
  },
  {
   "offset": "0x2448",
   "max": 15,
   "jp": "は行動できない",
-  "en": ""
+  "en": " can't move."
  },
  {
   "offset": "0x2458",
   "max": 17,
   "jp": "行動目標は？",
-  "en": ""
+  "en": "Target?"
  },
  {
   "offset": "0x26b4",
   "max": 19,
   "jp": "冒険者は逃げ出した",
-  "en": ""
+  "en": "Adventurer fled."
  },
  {
   "offset": "0x26c8",
   "max": 23,
   "jp": "冒険者達は逃げ出した",
-  "en": ""
+  "en": "Adventurers fled."
  },
  {
   "offset": "0x26e0",
   "max": 19,
   "jp": "魔物は逃げ出した",
-  "en": ""
+  "en": "Monster fled."
  },
  {
   "offset": "0x26f4",
   "max": 19,
   "jp": "魔物達は逃げ出した",
-  "en": ""
+  "en": "Monsters fled."
  },
  {
   "offset": "0x2708",
   "max": 15,
   "jp": "冒険者を倒した",
-  "en": ""
+  "en": "Foe defeated."
  },
  {
   "offset": "0x2718",
   "max": 19,
   "jp": "冒険者達を倒した",
-  "en": ""
+  "en": "Adventurers beaten"
  },
  {
   "offset": "0x272c",
   "max": 15,
   "jp": "魔物を倒した！",
-  "en": ""
+  "en": "Monster slain!"
  },
  {
   "offset": "0x273c",
   "max": 19,
   "jp": "魔物達を倒した！",
-  "en": ""
+  "en": "Monsters slain!"
  },
  {
   "offset": "0x276c",
   "max": 15,
   "jp": "は　眠っている",
-  "en": ""
+  "en": " is asleep."
  },
  {
   "offset": "0x277c",
   "max": 19,
   "jp": "は　目を覚ました",
-  "en": ""
+  "en": " woke up!"
  },
  {
   "offset": "0x2790",
   "max": 23,
   "jp": "￥ｎは　マヒしている！",
-  "en": ""
+  "en": "￥ｎis paralyzed!"
  },
  {
   "offset": "0x27a8",
   "max": 19,
   "jp": "は　マヒがとけた",
-  "en": ""
+  "en": " can move again."
  },
  {
   "offset": "0x27bc",
   "max": 19,
   "jp": "は　混乱している",
-  "en": ""
+  "en": " is confused."
  },
  {
   "offset": "0x27d0",
   "max": 27,
   "jp": "は　われ　を￥ｎ取り戻した",
-  "en": ""
+  "en": " snapped￥ｎout of it!"
  },
  {
   "offset": "0x27fc",
-  "max": 11,
-  "jp": "は　マヒしている",
+  "max": 12,
+  "jp": "は　マヒして",
   "en": "",
-  "locked": true
+  "joined": true
  },
  {
   "offset": "0x2808",
   "max": 7,
   "jp": "いる",
-  "en": "",
-  "locked": true
+  "en": ""
  },
  {
   "offset": "0x2810",
   "max": 23,
   "jp": "商人は　去っていった",
-  "en": ""
+  "en": "The merchant left."
  },
  {
   "offset": "0x2828",
   "max": 23,
   "jp": "商人達は　去っていった",
-  "en": ""
+  "en": "The merchants left."
  },
  {
   "offset": "0x2840",
   "max": 23,
   "jp": "冒険者は　去っていった",
-  "en": ""
+  "en": "The adventurer left."
  },
  {
   "offset": "0x2858",
   "max": 27,
   "jp": "冒険者達は　去っていった",
-  "en": ""
+  "en": "The adventurers left."
  },
  {
   "offset": "0x2874",
   "max": 23,
   "jp": "魔物は　去っていった",
-  "en": ""
+  "en": "The monster left."
  },
  {
   "offset": "0x288c",
   "max": 23,
   "jp": "魔物達は　去っていった",
-  "en": ""
+  "en": "The monsters left."
  },
  {
   "offset": "0x28a4",
   "max": 11,
   "jp": "メダル￥ｎ",
-  "en": ""
+  "en": " medal￥ｎ"
  },
  {
   "offset": "0x28b0",
   "max": 11,
   "jp": "買わない",
-  "en": ""
+  "en": "No thanks"
  },
  {
   "offset": "0x28bc",
   "max": 11,
   "jp": "ありがとう",
-  "en": ""
+  "en": "Thank you"
  },
  {
   "offset": "0x28c8",
   "max": 19,
   "jp": "メダルが足りません",
-  "en": ""
+  "en": "Not enough medals"
  },
  {
   "offset": "0x28dc",
   "max": 27,
   "jp": "はい￥ｎいいえ￥ｎう～ん",
-  "en": ""
+  "en": "Yes￥ｎNo￥ｎHmm..."
  },
  {
   "offset": "0x28f8",
   "max": 19,
   "jp": "が仲間に加わった",
-  "en": ""
+  "en": " joined you!"
  },
  {
   "offset": "0x290c",
   "max": 15,
   "jp": "みんな　断った",
-  "en": ""
+  "en": "All refused."
  },
  {
   "offset": "0x2988",
   "max": 15,
   "jp": "魔物が現れた！",
-  "en": ""
+  "en": "A monster!"
  },
  {
   "offset": "0x2998",
   "max": 19,
   "jp": "魔物達が現れた！！",
-  "en": ""
+  "en": "Monsters appear!!"
  },
  {
   "offset": "0x29ac",
   "max": 15,
   "jp": "商人が現れた",
-  "en": ""
+  "en": "A merchant!"
  },
  {
   "offset": "0x29bc",
   "max": 15,
   "jp": "商人達が現れた",
-  "en": ""
+  "en": "Merchants!"
  },
  {
   "offset": "0x29cc",
   "max": 15,
   "jp": "冒険者が現れた",
-  "en": ""
+  "en": "An adventurer!"
  },
  {
   "offset": "0x29dc",
   "max": 19,
   "jp": "冒険者達が現れた",
-  "en": ""
+  "en": "Adventurers appear"
  },
  {
   "offset": "0x29f0",
   "max": 15,
   "jp": "魔物が現れた",
-  "en": ""
+  "en": "A monster!"
  },
  {
   "offset": "0x2a00",
   "max": 15,
   "jp": "魔物達が現れた",
-  "en": ""
+  "en": "Monsters!"
  },
  {
   "offset": "0x3334",
   "max": 31,
   "jp": "アイテム￥ｎステータス￥ｎ設定",
-  "en": ""
+  "en": "Items￥ｎStatus￥ｎSettings"
  },
  {
   "offset": "0x3364",
   "max": 11,
   "jp": "ブレイク",
-  "en": ""
+  "en": "Break"
  },
  {
   "offset": "0x3370",
   "max": 15,
   "jp": "ラフウィンド",
-  "en": ""
+  "en": "Rough Wind"
  },
  {
   "offset": "0x3380",
   "max": 11,
   "jp": "ヒューリー",
-  "en": ""
+  "en": "Hurley"
  },
  {
   "offset": "0x338c",
   "max": 11,
   "jp": "アイアイ",
-  "en": ""
+  "en": "Aiai"
  },
  {
   "offset": "0x3398",
   "max": 11,
   "jp": "クッキー",
-  "en": ""
+  "en": "Cookie"
  },
  {
   "offset": "0x33a4",
   "max": 11,
   "jp": "コボルト",
-  "en": ""
+  "en": "Kobold"
  },
  {
   "offset": "0x33b0",
   "max": 11,
   "jp": "コインマン",
-  "en": ""
+  "en": "Coinman"
  },
  {
   "offset": "0x33bc",
   "max": 11,
   "jp": "ひよこむし",
-  "en": ""
+  "en": "Chickbug"
  },
  {
   "offset": "0x3a24",
   "max": 19,
   "jp": "差出人不明－１１",
-  "en": ""
+  "en": "Anonymous #11"
  },
  {
   "offset": "0x3a38",
   "max": 19,
   "jp": "差出人不明－１０",
-  "en": ""
+  "en": "Anonymous #10"
  },
  {
   "offset": "0x3a4c",
   "max": 19,
   "jp": "差出人不明－　９",
-  "en": ""
+  "en": "Anonymous #9"
  },
  {
   "offset": "0x3a60",
   "max": 19,
   "jp": "差出人不明－　８",
-  "en": ""
+  "en": "Anonymous #8"
  },
  {
   "offset": "0x3a74",
   "max": 19,
   "jp": "差出人不明－　７",
-  "en": ""
+  "en": "Anonymous #7"
  },
  {
   "offset": "0x3a88",
   "max": 19,
   "jp": "差出人不明－　６",
-  "en": ""
+  "en": "Anonymous #6"
  },
  {
   "offset": "0x3a9c",
   "max": 19,
   "jp": "差出人不明－　５",
-  "en": ""
+  "en": "Anonymous #5"
  },
  {
   "offset": "0x3ab0",
   "max": 19,
   "jp": "差出人不明－　４",
-  "en": ""
+  "en": "Anonymous #4"
  },
  {
   "offset": "0x3ac4",
   "max": 19,
   "jp": "差出人不明－　３",
-  "en": ""
+  "en": "Anonymous #3"
  },
  {
   "offset": "0x3ad8",
   "max": 19,
   "jp": "差出人不明－　２",
-  "en": ""
+  "en": "Anonymous #2"
  },
  {
   "offset": "0x3aec",
   "max": 19,
   "jp": "雷　　　　　　　",
-  "en": ""
+  "en": "Thunder"
  },
  {
   "offset": "0x3b00",
   "max": 19,
   "jp": "ナオプー　　　　",
-  "en": ""
+  "en": "Naopoo"
  },
  {
   "offset": "0x3b14",
   "max": 19,
   "jp": "占い屋さん　　　",
-  "en": ""
+  "en": "Fortune Teller"
  },
  {
   "offset": "0x3b28",
   "max": 19,
   "jp": "ババァー　　　　",
-  "en": ""
+  "en": "Granny"
  },
  {
   "offset": "0x3b3c",
   "max": 19,
   "jp": "大賢者オルフ　　",
-  "en": ""
+  "en": "Great Sage Olf"
  },
  {
   "offset": "0x3b50",
   "max": 19,
   "jp": "ナフノイ　　　　",
-  "en": ""
+  "en": "Nafnoi"
  },
  {
   "offset": "0x3b64",
   "max": 19,
   "jp": "騎士団長グラン　",
-  "en": ""
+  "en": "Knight Cmdr. Gran"
  },
  {
   "offset": "0x3b78",
   "max": 19,
   "jp": "町人　　　　　　",
-  "en": ""
+  "en": "Townsperson"
  },
  {
   "offset": "0x3b8c",
   "max": 19,
   "jp": "武器屋の主人　　",
-  "en": ""
+  "en": "Weapon Shop Owner"
  },
  {
   "offset": "0x3ba0",
   "max": 19,
   "jp": "友　　　　　　　",
-  "en": ""
+  "en": "Friend"
  },
  {
   "offset": "0x3bb4",
   "max": 19,
   "jp": "るんた　　　　　",
-  "en": ""
+  "en": "Runta"
  },
  {
   "offset": "0x3bc8",
   "max": 19,
   "jp": "エリー　　　　　",
-  "en": ""
+  "en": "Ellie"
  },
  {
   "offset": "0x3bdc",
   "max": 19,
   "jp": "リック　　　　　",
-  "en": ""
+  "en": "Rick"
  },
  {
   "offset": "0x3bf0",
   "max": 19,
   "jp": "ソーマ　　　　　",
-  "en": ""
+  "en": "Soma"
  },
  {
   "offset": "0x3c04",
   "max": 19,
   "jp": "キヨ　　　　　　",
-  "en": ""
+  "en": "Kiyo"
  },
  {
   "offset": "0x3c18",
   "max": 19,
   "jp": "兄ちゃん　　　　",
-  "en": ""
+  "en": "Big Bro"
  },
  {
   "offset": "0x3c2c",
   "max": 19,
   "jp": "るう　　　　　　",
-  "en": ""
+  "en": "Ruu"
  },
  {
   "offset": "0x3c40",
   "max": 19,
   "jp": "女装じじい　　　",
-  "en": ""
+  "en": "Old Man in a Dress"
  },
  {
   "offset": "0x3c54",
   "max": 19,
   "jp": "クルストーラ　　",
-  "en": ""
+  "en": "Crustora"
  },
  {
   "offset": "0x3c68",
   "max": 19,
   "jp": "旅の薬師　　　　",
-  "en": ""
+  "en": "Wandering Healer"
  },
  {
   "offset": "0x3c7c",
   "max": 19,
   "jp": "前回Ｎｏ．１　　",
-  "en": ""
+  "en": "Last Year's No.1"
  },
  {
   "offset": "0x3ca4",
   "max": 19,
   "jp": "永遠のライバル　",
-  "en": ""
+  "en": "Eternal Rival"
  },
  {
   "offset": "0x3cb8",
   "max": 19,
   "jp": "登れない男　　　",
-  "en": ""
+  "en": "Can't-Climb Man"
  },
  {
   "offset": "0x3ccc",
   "max": 19,
   "jp": "コウ　　　　　　",
-  "en": ""
+  "en": "Kou"
  },
  {
   "offset": "0x3ce0",
   "max": 19,
   "jp": "差出人不明－　１",
-  "en": ""
+  "en": "Anonymous #1"
  },
  {
   "offset": "0x3cf4",
   "max": 19,
   "jp": "フィーラス　　　",
-  "en": ""
+  "en": "Feelas"
  },
  {
   "offset": "0x3d1c",
   "max": 19,
   "jp": "看板娘　　　　　",
-  "en": ""
+  "en": "Shop Girl"
  },
  {
   "offset": "0x3d30",
   "max": 19,
   "jp": "ガリレオン　　　",
-  "en": ""
+  "en": "Galileon"
  },
  {
   "offset": "0x3d44",
   "max": 19,
   "jp": "老人　　　　　　",
-  "en": ""
+  "en": "Old Man"
  },
  {
   "offset": "0x3d58",
   "max": 19,
   "jp": "ひょっとこ仮面　",
-  "en": ""
+  "en": "Hyottoko Mask"
  },
  {
   "offset": "0x3d6c",
   "max": 19,
   "jp": "ケン　　　　　　",
-  "en": ""
+  "en": "Ken"
  },
  {
   "offset": "0x3d80",
   "max": 19,
   "jp": "ファクトリー　　",
-  "en": ""
+  "en": "Factory"
  },
  {
   "offset": "0x3d94",
   "max": 19,
   "jp": "エルフマン　　　",
-  "en": ""
+  "en": "Elfman"
  },
  {
   "offset": "0x3da8",
   "max": 19,
   "jp": "にせミッチー　　",
-  "en": ""
+  "en": "Fake Mitchie"
  },
  {
   "offset": "0x3dbc",
   "max": 19,
   "jp": "宿屋のおかみ　　",
-  "en": ""
+  "en": "Innkeeper"
  },
  {
   "offset": "0x3dd0",
   "max": 19,
   "jp": "奈美子　　　　　",
-  "en": ""
+  "en": "Namiko"
  },
  {
   "offset": "0x3de4",
   "max": 19,
   "jp": "賭博師　ダイス　",
-  "en": ""
+  "en": "Dice the Gambler"
  },
  {
   "offset": "0x3e0c",
   "max": 19,
   "jp": "唐草屋の女主人　",
-  "en": ""
+  "en": "Karakusa Shop Lady"
  },
  {
   "offset": "0x3e20",
   "max": 19,
   "jp": "古の探索者Ａ　　",
-  "en": ""
+  "en": "Ancient Explorer A"
  },
  {
   "offset": "0x3e48",
   "max": 19,
   "jp": "もう一人のお前　",
-  "en": ""
+  "en": "The Other You"
  },
  {
   "offset": "0x3e5c",
   "max": 19,
   "jp": "ゆうこ　　　　　",
-  "en": ""
+  "en": "Yuko"
  },
  {
   "offset": "0x3e70",
   "max": 19,
   "jp": "魔王ルシファー　",
-  "en": ""
+  "en": "Demon Lord Lucifer"
  },
  {
   "offset": "0x3e84",
   "max": 19,
   "jp": "ぷれいやくん　　",
-  "en": ""
+  "en": "Player-kun"
  },
  {
   "offset": "0x3e98",
   "max": 19,
   "jp": "発明おやじ　　　",
-  "en": ""
+  "en": "Old Inventor"
  },
  {
   "offset": "0x3eac",
   "max": 19,
   "jp": "ＩＦスタッフ一同",
-  "en": ""
+  "en": "All IF Staff"
  },
  {
   "offset": "0x3ec0",
   "max": 19,
   "jp": "ただすけ　　　　",
-  "en": ""
+  "en": "Tadasuke"
  },
  {
   "offset": "0x3ed4",
   "max": 19,
   "jp": "ロマリネ　　　　",
-  "en": ""
+  "en": "Romarine"
  },
  {
   "offset": "0x3ee8",
   "max": 19,
   "jp": "ナミュ　　　　　",
-  "en": ""
+  "en": "Namyu"
  },
  {
   "offset": "0x3efc",
   "max": 19,
   "jp": "氷雨　　　　　　",
-  "en": ""
+  "en": "Hisame"
  },
  {
   "offset": "0x3f24",
   "max": 19,
   "jp": "貧乏学生　　　　",
-  "en": ""
+  "en": "Poor Student"
  },
  {
   "offset": "0x3f38",
   "max": 19,
   "jp": "魔法使いメリドル",
-  "en": ""
+  "en": "Meridle the Mage"
  },
  {
   "offset": "0x3f4c",
   "max": 19,
   "jp": "あなたを想う少女",
-  "en": ""
+  "en": "Girl Who Loves You"
  },
  {
   "offset": "0x3f60",
   "max": 19,
   "jp": "ゴンドー　　　　",
-  "en": ""
+  "en": "Gondo"
  },
  {
   "offset": "0x3f74",
   "max": 19,
   "jp": "ご近所一同　　　",
-  "en": ""
+  "en": "The Neighbors"
  },
  {
   "offset": "0x3f88",
   "max": 19,
   "jp": "食い逃げ犯　　　",
-  "en": ""
+  "en": "Dine-and-Dasher"
  },
  {
   "offset": "0x3f9c",
   "max": 19,
   "jp": "某考古学者　　　",
-  "en": ""
+  "en": "Some Archaeologist"
  },
  {
   "offset": "0x3fb0",
   "max": 19,
   "jp": "テット　　　　　",
-  "en": ""
+  "en": "Tett"
  },
  {
   "offset": "0x3fc4",
   "max": 19,
   "jp": "みみず　　　　　",
-  "en": ""
+  "en": "Earthworm"
  },
  {
   "offset": "0x3fd8",
   "max": 19,
   "jp": "だ○ぺー　　　　",
-  "en": ""
+  "en": "Da○pee"
  },
  {
   "offset": "0x3fec",
   "max": 19,
   "jp": "Ｍ薬品　　　　　",
-  "en": ""
+  "en": "M Pharma"
  },
  {
   "offset": "0x4000",
   "max": 19,
   "jp": "かじ屋のフィル　",
-  "en": ""
+  "en": "Phil the Smith"
  },
  {
   "offset": "0x4014",
   "max": 19,
   "jp": "ラデカナ　　　　",
-  "en": ""
+  "en": "Radekana"
  },
  {
   "offset": "0x4028",
   "max": 19,
   "jp": "さすらいのヒマ人",
-  "en": ""
+  "en": "Idle Wanderer"
  },
  {
   "offset": "0x403c",
   "max": 19,
   "jp": "貴方のファンＹ　",
-  "en": ""
+  "en": "Your Fan Y"
  },
  {
   "offset": "0x4050",
   "max": 19,
   "jp": "タブチ　　　　　",
-  "en": ""
+  "en": "Tabuchi"
  },
  {
   "offset": "0x4064",
   "max": 19,
   "jp": "旅の吟遊詩人　　",
-  "en": ""
+  "en": "Wandering Bard"
  },
  {
   "offset": "0x4078",
   "max": 19,
   "jp": "間未矢　　　　　",
-  "en": ""
+  "en": "Mamiya"
  },
  {
   "offset": "0x408c",
   "max": 19,
   "jp": "ハッタリ不動産　",
-  "en": ""
+  "en": "Bluff Realty"
  },
  {
   "offset": "0x40a0",
   "max": 19,
   "jp": "カズヤ　　　　　",
-  "en": ""
+  "en": "Kazuya"
  },
  {
   "offset": "0x40b4",
   "max": 19,
   "jp": "漫画好きの少年　",
-  "en": ""
+  "en": "Manga-Loving Boy"
  },
  {
   "offset": "0x40c8",
   "max": 19,
   "jp": "ヘソクリ研究会　",
-  "en": ""
+  "en": "Nest Egg Society"
  },
  {
   "offset": "0x40dc",
   "max": 19,
   "jp": "剣士リーン　　　",
-  "en": ""
+  "en": "Leen the Swordsman"
  },
  {
   "offset": "0x40f0",
   "max": 19,
   "jp": "聖人フレア　　　",
-  "en": ""
+  "en": "Saint Flare"
  },
  {
   "offset": "0x4104",
   "max": 19,
   "jp": "孤独なハンターＭ",
-  "en": ""
+  "en": "Lonely Hunter M"
  },
  {
   "offset": "0x4118",
   "max": 19,
   "jp": "沼　裕昭　　　　",
-  "en": ""
+  "en": "Hiroaki Numa"
  },
  {
   "offset": "0x412c",
   "max": 19,
   "jp": "ヒデト　　　　　",
-  "en": ""
+  "en": "Hideto"
  },
  {
   "offset": "0x4140",
   "max": 19,
   "jp": "どっかの国の兵士",
-  "en": ""
+  "en": "Soldier from Afar"
  },
  {
   "offset": "0x4154",
   "max": 19,
   "jp": "リーサ　　　　　",
-  "en": ""
+  "en": "Lisa"
  },
  {
   "offset": "0x4168",
   "max": 19,
   "jp": "ラピス　　　　　",
-  "en": ""
+  "en": "Lapis"
  },
  {
   "offset": "0x417c",
   "max": 19,
   "jp": "酒場「鳥龍」　　",
-  "en": ""
+  "en": "Bar \"Choryu\""
  },
  {
   "offset": "0x4190",
   "max": 19,
   "jp": "ザイル　　　　　",
-  "en": ""
+  "en": "Zile"
  },
  {
   "offset": "0x41a4",
   "max": 19,
   "jp": "少年Ｓ　　　　　",
-  "en": ""
+  "en": "Boy S"
  },
  {
   "offset": "0x41b8",
   "max": 19,
   "jp": "レオン　　　　　",
-  "en": ""
+  "en": "Leon"
  },
  {
   "offset": "0x41cc",
   "max": 19,
   "jp": "きたるべき風　　",
-  "en": ""
+  "en": "Wind to Come"
  },
  {
   "offset": "0x41e0",
   "max": 19,
   "jp": "深沢　光顕　　　",
-  "en": ""
+  "en": "Mitsuaki Fukasawa"
  },
  {
   "offset": "0x41f4",
   "max": 19,
   "jp": "エッチュウ薬店　",
-  "en": ""
+  "en": "Etchu Drugstore"
  },
  {
   "offset": "0x4208",
   "max": 19,
   "jp": "料理職人マキ　　",
-  "en": ""
+  "en": "Chef Maki"
  },
  {
   "offset": "0x421c",
   "max": 19,
   "jp": "風来人Ｓ　　　　",
-  "en": ""
+  "en": "Drifter S"
  },
  {
   "offset": "0x4230",
   "max": 19,
   "jp": "ハロハロン　　　",
-  "en": ""
+  "en": "Halohalon"
  },
  {
   "offset": "0x4244",
   "max": 19,
   "jp": "未来の関係者　　",
-  "en": ""
+  "en": "Future Associate"
  },
  {
   "offset": "0x4258",
   "max": 19,
   "jp": "バイトＫ　　　　",
-  "en": ""
+  "en": "Part-timer K"
  },
  {
   "offset": "0x426c",
   "max": 19,
   "jp": "レイリア　　　　",
-  "en": ""
+  "en": "Leiria"
  },
  {
   "offset": "0x4280",
   "max": 19,
   "jp": "ネバーズキッド　",
-  "en": ""
+  "en": "Never's Kid"
  },
  {
   "offset": "0x4294",
   "max": 19,
   "jp": "マリー　　　　　",
-  "en": ""
+  "en": "Marie"
  },
  {
   "offset": "0x42a8",
   "max": 19,
   "jp": "ミュウ　　　　　",
-  "en": ""
+  "en": "Myu"
  },
  {
   "offset": "0x42bc",
   "max": 19,
   "jp": "恋人たち　　　　",
-  "en": ""
+  "en": "The Lovers"
  },
  {
   "offset": "0x42d0",
   "max": 19,
   "jp": "アサッシン　　　",
-  "en": ""
+  "en": "Assassin"
  },
  {
   "offset": "0x42e4",
   "max": 19,
   "jp": "トヒキア　　　　",
-  "en": ""
+  "en": "Tohikia"
  },
  {
   "offset": "0x42f8",
   "max": 19,
   "jp": "オノデン　　　　",
-  "en": ""
+  "en": "Onoden"
  },
  {
   "offset": "0x430c",
   "max": 19,
   "jp": "ヒデヤタカ　　　",
-  "en": ""
+  "en": "Hideyataka"
  },
  {
   "offset": "0x4320",
   "max": 19,
   "jp": "冒険者だった男　",
-  "en": ""
+  "en": "Ex-Adventurer"
  },
  {
   "offset": "0x4334",
   "max": 19,
   "jp": "少年Ｈ　　　　　",
-  "en": ""
+  "en": "Boy H"
  },
  {
   "offset": "0x4348",
   "max": 19,
   "jp": "リュート　　　　",
-  "en": ""
+  "en": "Lute"
  },
  {
   "offset": "0x435c",
   "max": 19,
   "jp": "けんたろー　　　",
-  "en": ""
+  "en": "Kentaro"
  },
  {
   "offset": "0x4370",
   "max": 19,
   "jp": "酒場のマスター　",
-  "en": ""
+  "en": "Bar Master"
  },
  {
   "offset": "0x4384",
   "max": 19,
   "jp": "炎術士アスリア　",
-  "en": ""
+  "en": "Asria the Pyro"
  },
  {
   "offset": "0x43ac",
   "max": 19,
   "jp": "手紙配達人２　　",
-  "en": ""
+  "en": "Mail Carrier 2"
  },
  {
   "offset": "0x43c0",
   "max": 19,
   "jp": "手紙配達人１　　",
-  "en": ""
+  "en": "Mail Carrier 1"
  },
  {
   "offset": "0x43d4",
   "max": 19,
   "jp": "トミー＆ロミナ　",
-  "en": ""
+  "en": "Tommy & Romina"
  },
  {
   "offset": "0x43e8",
   "max": 19,
   "jp": "テクス・レン　　",
-  "en": ""
+  "en": "Tex Len"
  },
  {
   "offset": "0x43fc",
   "max": 19,
   "jp": "アンナ　　　　　",
-  "en": ""
+  "en": "Anna"
  },
  {
   "offset": "0x4410",
   "max": 19,
   "jp": "ナカジ　　　　　",
-  "en": ""
+  "en": "Nakaji"
  },
  {
   "offset": "0x4424",
   "max": 19,
   "jp": "オダケン　　　　",
-  "en": ""
+  "en": "Odaken"
  },
  {
   "offset": "0x4438",
   "max": 19,
   "jp": "ミンク　　　　　",
-  "en": ""
+  "en": "Mink"
  },
  {
   "offset": "0x46c0",
   "max": 119,
   "jp": "攻撃対獣￥ｎ　　対鬼￥ｎ　　対竜￥ｎ　　対魔￥ｎ　　対霊￥ｎ　　対人￥ｎ装備能力￥ｎ魔法能力￥ｎ食回復力￥ｎ注意能力",
-  "en": ""
+  "en": "Atk Bst￥ｎ    Oni￥ｎ    Drg￥ｎ    Fnd￥ｎ    Spr￥ｎ    Hum￥ｎEquip￥ｎMagic￥ｎFood Rec￥ｎCaution"
  },
  {
   "offset": "0x4738",
   "max": 15,
   "jp": "病気￥ｎ呪い",
-  "en": ""
+  "en": "Sick￥ｎCurse"
  },
  {
   "offset": "0x4758",
   "max": 15,
   "jp": "武　器　＠ｂ",
-  "en": ""
+  "en": "Weapon  ＠ｂ"
  },
  {
   "offset": "0x4768",
   "max": 15,
   "jp": "ヨロイ　＠ｂ",
-  "en": ""
+  "en": "Armor   ＠ｂ"
  },
  {
   "offset": "0x4778",
   "max": 15,
   "jp": "ルーツ　＠４",
-  "en": ""
+  "en": "Roots   ＠４"
  },
  {
   "offset": "0x4794",
   "max": 15,
   "jp": "の￥ｎ詳細情報",
-  "en": ""
+  "en": "'s￥ｎdetails"
  },
  {
   "offset": "0x47a4",
   "max": 27,
   "jp": "ルーツ特性　　やっつけた数",
-  "en": ""
+  "en": "Root Traits   Defeated"
  },
  {
   "offset": "0x4800",
-  "max": 35,
-  "jp": "獣　＠２%s＠０匹￥ｎ鬼　＠２%s＠０匹￥ｎ竜　＠２%s＠０匹￥ｎ魔　＠２%s＠０人￥ｎ霊　＠２%s＠０体￥ｎ人　＠２%s＠０人",
-  "en": "",
-  "locked": true
+  "max": 36,
+  "jp": "獣　＠２%s＠０匹￥ｎ鬼　＠２%s＠０匹",
+  "en": "Bst ＠２%s＠０￥ｎOni ＠２%s＠０",
+  "joined": true
  },
  {
   "offset": "0x4824",
-  "max": 5,
-  "jp": "￥ｎ竜　＠２%s＠０匹￥ｎ魔　＠２%s＠０人￥ｎ霊　＠２%s＠０体￥ｎ人　＠２%s＠０人",
-  "en": "",
-  "locked": true
+  "max": 6,
+  "jp": "￥ｎ竜",
+  "en": "￥ｎDr",
+  "joined": true
  },
  {
   "offset": "0x482a",
   "max": 77,
   "jp": "　＠２%s＠０匹￥ｎ魔　＠２%s＠０人￥ｎ霊　＠２%s＠０体￥ｎ人　＠２%s＠０人",
-  "en": "",
-  "locked": true
+  "en": " ＠２%s＠０￥ｎFnd ＠２%s＠０￥ｎSpr ＠２%s＠０￥ｎHum ＠２%s＠０"
  },
  {
   "offset": "0x4878",
   "max": 19,
   "jp": "＠９剣装備可能￥ｎ",
-  "en": ""
+  "en": "＠９Sword OK￥ｎ"
  },
  {
   "offset": "0x488c",
   "max": 19,
   "jp": "＠６剣装備不可￥ｎ",
-  "en": ""
+  "en": "＠６No swords￥ｎ"
  },
  {
   "offset": "0x48a0",
   "max": 19,
   "jp": "＠９杖装備可能￥ｎ",
-  "en": ""
+  "en": "＠９Staff OK￥ｎ"
  },
  {
   "offset": "0x48b4",
   "max": 19,
   "jp": "＠６杖装備不可￥ｎ",
-  "en": ""
+  "en": "＠６No staves￥ｎ"
  },
  {
   "offset": "0x48fc",
   "max": 23,
   "jp": "発見済みルーツリスト",
-  "en": ""
+  "en": "Roots Discovered"
  },
  {
   "offset": "0x4914",
   "max": 11,
   "jp": "ルーツ名",
-  "en": ""
+  "en": "Root name"
  },
  {
   "offset": "0x4920",
   "max": 55,
   "jp": "格剣祈虚魔魔魔魔賢自裏遊￥ｎ闘技り無炎風水土明然技芸",
-  "en": ""
+  "en": "BrSwPrVoFiWiWaEaWsNaTrAr￥ｎ"
  },
  {
   "offset": "0x4958",
   "max": 27,
   "jp": "マスターしたルーツ技リスト",
-  "en": ""
+  "en": "Mastered Root Skills"
  },
  {
   "offset": "0x4974",
   "max": 31,
   "jp": "ルーツ技名　　　対象　装備条件",
-  "en": ""
+  "en": "Skill name      TargetRequires"
  },
  {
   "offset": "0x4b24",
   "max": 11,
   "jp": "鉄の宝箱",
-  "en": ""
+  "en": "Iron Box"
  },
  {
   "offset": "0x4b30",
   "max": 11,
   "jp": "魔法の宝箱",
-  "en": ""
+  "en": "Magic Box"
  },
  {
   "offset": "0x4b3c",
   "max": 11,
   "jp": "木の宝箱",
-  "en": ""
+  "en": "Wood Box"
  },
  {
   "offset": "0x4b48",
   "max": 19,
   "jp": "がこんなところに！",
-  "en": ""
+  "en": " right here!"
  },
  {
   "offset": "0x4b5c",
   "max": 15,
   "jp": "を見つけた！",
-  "en": ""
+  "en": " found!"
  },
  {
   "offset": "0x4b6c",
   "max": 39,
   "jp": "とにかく大変だ！￥ｎステータスを見よ！",
-  "en": ""
+  "en": "Big trouble!￥ｎCheck your status!"
  },
  {
   "offset": "0x4b94",
   "max": 19,
   "jp": "最悪の事態に直面！",
-  "en": ""
+  "en": "Disaster strikes!"
  },
  {
   "offset": "0x4ba8",
   "max": 39,
   "jp": "命だけは助かった…￥ｎ早く回復しよう！",
-  "en": ""
+  "en": "Barely alive...￥ｎHeal up fast!"
  },
  {
   "offset": "0x4bd0",
   "max": 15,
   "jp": "なんと大爆発！",
-  "en": ""
+  "en": "Big explosion!"
  },
  {
   "offset": "0x4be0",
   "max": 63,
   "jp": "魔法でアイテムを消滅させられた￥ｎ何がなくなったかチェックだ！",
-  "en": ""
+  "en": "Magic erased an item!￥ｎCheck what you lost!"
  },
  {
   "offset": "0x4c20",
   "max": 15,
   "jp": "アイテム没収！",
-  "en": ""
+  "en": "Item seized!"
  },
  {
   "offset": "0x4c30",
   "max": 39,
   "jp": "何者かの呪いが…￥ｎ呪いが上昇した！",
-  "en": ""
+  "en": "Someone's curse...￥ｎCurse went up!"
  },
  {
   "offset": "0x4c58",
   "max": 19,
   "jp": "呪いをかけられた！",
-  "en": ""
+  "en": "You were cursed!"
  },
  {
   "offset": "0x4c6c",
   "max": 43,
   "jp": "指先にチクッときた！￥ｎ病気が上昇した！",
-  "en": ""
+  "en": "Your finger stings!￥ｎSickness went up!"
  },
  {
   "offset": "0x4c98",
   "max": 19,
   "jp": "毒針が刺さった！",
-  "en": ""
+  "en": "Poison needle!"
  },
  {
   "offset": "0x4cac",
   "max": 35,
   "jp": "使用￥ｎ解除￥ｎ食べる￥ｎ捨てる",
-  "en": ""
+  "en": "Use￥ｎRemove￥ｎEat￥ｎDrop"
  },
  {
   "offset": "0x4cd0",
   "max": 35,
   "jp": "使用￥ｎ装備￥ｎ食べる￥ｎ捨てる",
-  "en": ""
+  "en": "Use￥ｎEquip￥ｎEat￥ｎDrop"
  },
  {
   "offset": "0x4cf4",
   "max": 27,
   "jp": "を￥ｎ身につけようとした",
-  "en": ""
+  "en": ":￥ｎYou try to equip it."
  },
  {
   "offset": "0x4d10",
   "max": 27,
   "jp": "(B)しかし　装備できない！",
-  "en": ""
+  "en": "(B)But you can't equip it!"
  },
  {
   "offset": "0x4d2c",
   "max": 11,
   "jp": "装備解除！",
-  "en": ""
+  "en": "Removed!"
  },
  {
   "offset": "0x4d38",
   "max": 31,
   "jp": "秘剣・最下降を解除できない！",
-  "en": ""
+  "en": "Can't remove Abyss Blade!"
  },
  {
   "offset": "0x4d58",
   "max": 11,
   "jp": "装備能力が",
-  "en": ""
+  "en": "Equip pts"
  },
  {
   "offset": "0x4d64",
   "max": 15,
   "jp": "足りません！",
-  "en": ""
+  "en": " too low!"
  },
  {
   "offset": "0x4d74",
   "max": 11,
   "jp": "装備完了！",
-  "en": ""
+  "en": "Equipped!"
  },
  {
   "offset": "0x4d80",
   "max": 31,
   "jp": "このルーツでは装備できません",
-  "en": ""
+  "en": "This Root can't equip it."
  },
  {
   "offset": "0x4da0",
   "max": 19,
   "jp": "を￥ｎ食べますか？",
-  "en": ""
+  "en": ":￥ｎEat it?"
  },
  {
   "offset": "0x4db4",
   "max": 119,
   "jp": "本当に秘剣・最下降を￥ｎ捨てますか？(B)「わたしは秘剣・最下降￥ｎ捨てるなんて　とんでもない…(B)ふふふ…　　　　　　",
-  "en": ""
+  "en": "Really throw away￥ｎthe Abyss Blade?(B)\"I am the Abyss Blade.￥ｎThrow me away? Never...(B)Heh heh heh..."
  },
  {
   "offset": "0x4e2c",
   "max": 19,
   "jp": "を￥ｎ捨てますか？",
-  "en": ""
+  "en": ":￥ｎDrop it?"
  },
  {
   "offset": "0x4e50",
   "max": 11,
   "jp": "(B)病気が",
-  "en": ""
+  "en": "(B)Sickness"
  },
  {
   "offset": "0x4e5c",
   "max": 23,
   "jp": "ポイント￥ｎ下がった！",
-  "en": ""
+  "en": " points￥ｎlower!"
  },
  {
   "offset": "0x4e74",
   "max": 11,
   "jp": "(B)呪いが",
-  "en": ""
+  "en": "(B)Curse"
  },
  {
   "offset": "0x4e80",
   "max": 75,
   "jp": "(B)「あれ　でもここはワナがないから￥ｎボク帰るね！」(B)ケロタンは消えた…",
-  "en": ""
+  "en": "(B)\"Huh, no traps here,￥ｎso I'm going home!\"(B)Kerotan vanished..."
  },
  {
   "offset": "0x4ecc",
   "max": 87,
   "jp": "(B)「あら　ここにはカギもトビラも￥ｎないわよ　また呼んでね！」(B)フェアリーは消えた…",
-  "en": ""
+  "en": "(B)\"Oh, no locks or doors￥ｎhere! Call me again!\"(B)The fairy vanished..."
  },
  {
   "offset": "0x4f24",
   "max": 31,
   "jp": "(B)しかし　なにもおこらなかった",
-  "en": ""
+  "en": "(B)But nothing happened."
  },
  {
   "offset": "0x4f44",
   "max": 27,
   "jp": "(B)カードは消えてしまった",
-  "en": ""
+  "en": "(B)The card vanished."
  },
  {
   "offset": "0x4f60",
   "max": 43,
   "jp": "(B)カードから声が聞こえる…(B)今回は特別に",
-  "en": ""
+  "en": "(B)The card speaks...(B)Just this once,"
  },
  {
   "offset": "0x4f8c",
   "max": 43,
   "jp": "フロア￥ｎジャンプさせてやろう！(B)幸福だ…",
-  "en": ""
+  "en": " floors￥ｎup you go!(B)Lucky..."
  },
  {
   "offset": "0x4fb8",
   "max": 43,
   "jp": "フロア￥ｎダウンさせてやろう！(B)不幸だ…",
-  "en": ""
+  "en": " floors￥ｎdown you go!(B)Unlucky..."
  },
  {
   "offset": "0x4fe4",
   "max": 11,
   "jp": "(B)体力が",
-  "en": ""
+  "en": "(B)HP "
  },
  {
   "offset": "0x4ff0",
   "max": 19,
   "jp": "ポイント回復した！",
-  "en": ""
+  "en": " pts restored!"
  },
  {
   "offset": "0x5004",
   "max": 35,
   "jp": "(B)(1)はこわれて￥ｎなくなった！",
-  "en": ""
+  "en": "(B)(1) broke￥ｎand is gone!"
  },
  {
   "offset": "0x5028",
   "max": 31,
   "jp": "ポイント￥ｎあがってしまった！",
-  "en": ""
+  "en": " points￥ｎhigher. Uh-oh!"
  },
  {
   "offset": "0x5048",
   "max": 19,
   "jp": "　修行終わり！　",
-  "en": ""
+  "en": " Training done! "
  },
  {
   "offset": "0x505c",
   "max": 27,
   "jp": "はい￥ｎいいえ￥ｎうーん",
-  "en": ""
+  "en": "Yes￥ｎNo￥ｎHmm..."
  },
  {
   "offset": "0x5078",
   "max": 11,
   "jp": "を捨てた",
-  "en": ""
+  "en": " dropped."
  },
  {
   "offset": "0x5084",
   "max": 11,
   "jp": "は悩んだ(B)",
-  "en": ""
+  "en": " wavers(B)"
  },
  {
   "offset": "0x5090",
   "max": 11,
   "jp": "やっぱり",
-  "en": ""
+  "en": "Nah..."
  },
  {
   "offset": "0x509c",
   "max": 19,
   "jp": "は￥ｎ食べたくない",
-  "en": ""
+  "en": ":￥ｎNo, thanks."
  },
  {
   "offset": "0x50b0",
   "max": 23,
   "jp": "を￥ｎ捨ててしまった！",
-  "en": ""
+  "en": ":￥ｎThrown away!"
  },
  {
   "offset": "0x50c8",
   "max": 19,
   "jp": "を￥ｎしまいこんだ",
-  "en": ""
+  "en": ":￥ｎPut away."
  },
  {
   "offset": "0x50dc",
   "max": 11,
   "jp": "メダル￥ｎ",
-  "en": ""
+  "en": " medal￥ｎ"
  },
  {
   "offset": "0x50e8",
   "max": 19,
   "jp": "ただいま修行中！",
-  "en": ""
+  "en": "In training now!"
  },
  {
   "offset": "0x50fc",
   "max": 47,
   "jp": "対獣￥ｎ対鬼￥ｎ対竜￥ｎ対魔￥ｎ対霊￥ｎ対人",
-  "en": ""
+  "en": "Bst￥ｎOni￥ｎDrg￥ｎFnd￥ｎSpr￥ｎHum"
  },
  {
   "offset": "0x512c",
   "max": 47,
   "jp": "装備能力￥ｎ魔法能力￥ｎ食回復力￥ｎ注意能力",
-  "en": ""
+  "en": "Equip￥ｎMagic￥ｎFood Rec￥ｎCaution"
  },
  {
   "offset": "0x517c",
   "max": 15,
   "jp": "￥ｎレベル　　",
-  "en": ""
+  "en": "￥ｎLevel     "
  },
  {
   "offset": "0x518c",
   "max": 15,
   "jp": "回チャレンジ",
-  "en": ""
+  "en": " attempts"
  },
  {
   "offset": "0x519c",
   "max": 31,
   "jp": "そっと￥ｎガツンと￥ｎうーん…",
-  "en": ""
+  "en": "Gently￥ｎHard￥ｎHmm..."
  },
  {
   "offset": "0x51bc",
   "max": 11,
   "jp": "をゲット！",
-  "en": ""
+  "en": " obtained"
  },
  {
   "offset": "0x51c8",
   "max": 15,
   "jp": "が入っている",
-  "en": ""
+  "en": " is inside."
  },
  {
   "offset": "0x51d8",
   "max": 35,
   "jp": "しかしアイテムはいっぱいだ！￥ｎ",
-  "en": ""
+  "en": "But your bag is full!￥ｎ"
  },
  {
   "offset": "0x51fc",
   "max": 15,
   "jp": "をあきらめた",
-  "en": ""
+  "en": " left behind"
  },
  {
   "offset": "0x520c",
   "max": 27,
   "jp": "宝箱はこわれてしまった！",
-  "en": ""
+  "en": "The chest broke!"
  },
  {
   "offset": "0x5228",
   "max": 15,
   "jp": "あきらめたッ！",
-  "en": ""
+  "en": "I give up!"
  },
  {
   "offset": "0x5250",
   "max": 31,
   "jp": "それでは「じいさんの気持ち」",
-  "en": ""
+  "en": "Now, \"An Old Man's Heart\""
  },
  {
   "offset": "0x5270",
   "max": 11,
   "jp": "それでは「",
-  "en": ""
+  "en": "Now, \""
  },
  {
   "offset": "0x5904",
   "max": 35,
   "jp": "スペクトラルタワー２　冒険の記録",
-  "en": ""
+  "en": "Spectral Tower 2",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x5948",
   "max": 19,
   "jp": "の中断データ￥ｎ",
-  "en": ""
+  "en": " quicksave￥ｎ"
  },
  {
   "offset": "0x595c",
   "max": 15,
   "jp": "新規データ￥ｎ",
-  "en": ""
+  "en": "New data￥ｎ"
  },
  {
   "offset": "0x5984",
   "max": 19,
   "jp": "中断データ保存領域",
-  "en": ""
+  "en": "Quicksave",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x66a4",
   "max": 11,
   "jp": "ウェイブ",
-  "en": ""
+  "en": "Wave",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x66b0",
@@ -1792,3695 +1792,3694 @@
   "offset": "0x689c",
   "max": 27,
   "jp": "スタートボタンで入力終了",
-  "en": ""
+  "en": "START to finish"
  },
  {
   "offset": "0x68b8",
   "max": 15,
   "jp": "主人公の名前",
-  "en": ""
+  "en": "Hero's name"
  },
  {
   "offset": "0x68c8",
   "max": 11,
   "jp": "人目の男",
-  "en": ""
+  "en": ": Male"
  },
  {
   "offset": "0x68d4",
   "max": 11,
   "jp": "人目の女",
-  "en": ""
+  "en": ": Female"
  },
  {
   "offset": "0x68e0",
-  "max": 11,
-  "jp": "番号を入力してください",
+  "max": 12,
+  "jp": "番号を入力し",
   "en": "",
-  "locked": true
+  "joined": true
  },
  {
   "offset": "0x68ec",
   "max": 11,
   "jp": "てください",
-  "en": "",
-  "locked": true
+  "en": ""
  },
  {
   "offset": "0x68f8",
   "max": 23,
   "jp": "%sをルーツにしますか？",
-  "en": ""
+  "en": "Make %s your Root?"
  },
  {
   "offset": "0x6910",
   "max": 15,
   "jp": "はい￥ｎいいえ",
-  "en": ""
+  "en": "Yes￥ｎNo"
  },
  {
   "offset": "0x6920",
   "max": 23,
   "jp": "%sは%sをルーツにした",
-  "en": ""
+  "en": "%s's Root is now %s"
  },
  {
   "offset": "0x6b58",
   "max": 23,
   "jp": "Ｒ１ボタンでゲーム中断",
-  "en": ""
+  "en": "R1: suspend game"
  },
  {
   "offset": "0x6b70",
   "max": 55,
   "jp": "ゲームを中断しタイトルに戻っても￥ｎよろしいですか？",
-  "en": ""
+  "en": "Quit to the title screen?￥ｎAre you sure?"
  },
  {
   "offset": "0x6ba8",
   "max": 15,
   "jp": "はい￥ｎいいえ",
-  "en": ""
+  "en": "Yes￥ｎNo"
  },
  {
   "offset": "0x6bb8",
   "max": 63,
   "jp": "やっつけた敵￥ｎ開けた宝箱￥ｎこわしたツボ￥ｎスピードクリア",
-  "en": ""
+  "en": "Foes beaten￥ｎChests opened￥ｎPots broken￥ｎSpeed clear"
  },
  {
   "offset": "0x6bf8",
   "max": 19,
   "jp": "￥ｎ病気ペナルティ",
-  "en": ""
+  "en": "￥ｎSick penalty"
  },
  {
   "offset": "0x6c0c",
   "max": 31,
   "jp": "＠７%s体＠０×　%s…　＠７%s",
-  "en": ""
+  "en": "＠７%s＠０×　%s…　＠７%s"
  },
  {
   "offset": "0x6c2c",
   "max": 31,
   "jp": "＠７%s個＠０×３０…　＠７%s",
-  "en": ""
+  "en": "＠７%s＠０×３０…　＠７%s"
  },
  {
   "offset": "0x6c4c",
   "max": 31,
   "jp": "＠７%s個＠０×　３…　＠７%s",
-  "en": ""
+  "en": "＠７%s＠０×　３…　＠７%s"
  },
  {
   "offset": "0x6c6c",
   "max": 31,
   "jp": "＠７%s秒＠０×　５…　＠７%s",
-  "en": ""
+  "en": "＠７%ss＠０×　５…　＠７%s"
  },
  {
   "offset": "0x6ca8",
   "max": 19,
   "jp": "ボーナスポイント",
-  "en": ""
+  "en": "Bonus points"
  },
  {
   "offset": "0x6cd4",
   "max": 35,
   "jp": "＠ｂ最大ＨＰが＠８%s＠ｂアップ！",
-  "en": ""
+  "en": "＠ｂMax HP up by ＠８%s＠ｂ!"
  },
  {
   "offset": "0x6dd4",
   "max": 147,
   "jp": "メッセージの表示速度￥ｎウィンドウのタイプ￥ｎウィンドウのカラー￥ｎウィンドウの明るさ￥ｎフォントのタイプ￥ｎ戦闘でのコマンド入力￥ｎサウンド出力",
-  "en": ""
+  "en": "Message speed￥ｎWindow type￥ｎWindow color￥ｎWindow brightness￥ｎFont type￥ｎBattle input￥ｎSound"
  },
  {
   "offset": "0x6e68",
   "max": 23,
   "jp": "速い￥ｎ標準￥ｎ遅い",
-  "en": ""
+  "en": "Fast￥ｎNormal￥ｎSlow"
  },
  {
   "offset": "0x6e80",
   "max": 47,
   "jp": "タイプＡ￥ｎタイプＢ￥ｎタイプＣ￥ｎタイプＤ",
-  "en": ""
+  "en": "Type A￥ｎType B￥ｎType C￥ｎType D"
  },
  {
   "offset": "0x6eb0",
   "max": 55,
   "jp": "灰色￥ｎ赤色￥ｎ黄色￥ｎ黄緑色￥ｎ緑色￥ｎ水色￥ｎ青色",
-  "en": ""
+  "en": "Gray￥ｎRed￥ｎGold￥ｎLime￥ｎGreen￥ｎCyan￥ｎBlue"
  },
  {
   "offset": "0x6ee8",
   "max": 51,
   "jp": "暗い￥ｎやや暗い￥ｎ標準￥ｎやや明るい￥ｎ明るい",
-  "en": ""
+  "en": "Dark￥ｎDim￥ｎNormal￥ｎLight￥ｎBright"
  },
  {
   "offset": "0x6f1c",
   "max": 31,
   "jp": "白文字￥ｎ白影文字￥ｎ黒影文字",
-  "en": ""
+  "en": "White￥ｎShadow W￥ｎShadow B"
  },
  {
   "offset": "0x6f3c",
   "max": 23,
   "jp": "ウェイト￥ｎクイック",
-  "en": ""
+  "en": "Wait￥ｎQuick"
  },
  {
   "offset": "0x6f54",
   "max": 23,
   "jp": "モノラル￥ｎステレオ",
-  "en": ""
+  "en": "Mono￥ｎStereo"
  },
  {
   "offset": "0x6f6c",
   "max": 11,
   "jp": "現在の設定",
-  "en": ""
+  "en": "Current"
  },
  {
   "offset": "0x6f78",
   "max": 15,
   "jp": "　　　　速い",
-  "en": ""
+  "en": "        Fast"
  },
  {
   "offset": "0x6f88",
   "max": 15,
   "jp": "　　　　標準",
-  "en": ""
+  "en": "      Normal"
  },
  {
   "offset": "0x6f98",
   "max": 15,
   "jp": "　　　　遅い",
-  "en": ""
+  "en": "        Slow"
  },
  {
   "offset": "0x6fa8",
   "max": 15,
   "jp": "　　タイプＡ",
-  "en": ""
+  "en": "      Type A"
  },
  {
   "offset": "0x6fb8",
   "max": 15,
   "jp": "　　タイプＢ",
-  "en": ""
+  "en": "      Type B"
  },
  {
   "offset": "0x6fc8",
   "max": 15,
   "jp": "　　タイプＣ",
-  "en": ""
+  "en": "      Type C"
  },
  {
   "offset": "0x6fd8",
   "max": 15,
   "jp": "　　タイプＤ",
-  "en": ""
+  "en": "      Type D"
  },
  {
   "offset": "0x6fe8",
   "max": 15,
   "jp": "　　　　灰色",
-  "en": ""
+  "en": "        Gray"
  },
  {
   "offset": "0x6ff8",
   "max": 15,
   "jp": "　　　　赤色",
-  "en": ""
+  "en": "         Red"
  },
  {
   "offset": "0x7008",
   "max": 15,
   "jp": "　　　　黄色",
-  "en": ""
+  "en": "        Gold"
  },
  {
   "offset": "0x7018",
   "max": 15,
   "jp": "　　　黄緑色",
-  "en": ""
+  "en": "        Lime"
  },
  {
   "offset": "0x7028",
   "max": 15,
   "jp": "　　　　緑色",
-  "en": ""
+  "en": "       Green"
  },
  {
   "offset": "0x7038",
   "max": 15,
   "jp": "　　　　水色",
-  "en": ""
+  "en": "        Cyan"
  },
  {
   "offset": "0x7048",
   "max": 15,
   "jp": "　　　　青色",
-  "en": ""
+  "en": "        Blue"
  },
  {
   "offset": "0x7058",
   "max": 15,
   "jp": "　　　　暗い",
-  "en": ""
+  "en": "        Dark"
  },
  {
   "offset": "0x7068",
   "max": 15,
   "jp": "　　やや暗い",
-  "en": ""
+  "en": "         Dim"
  },
  {
   "offset": "0x7078",
   "max": 15,
   "jp": "　やや明るい",
-  "en": ""
+  "en": "       Light"
  },
  {
   "offset": "0x7088",
   "max": 15,
   "jp": "　　　明るい",
-  "en": ""
+  "en": "      Bright"
  },
  {
   "offset": "0x7098",
   "max": 15,
   "jp": "　　　白文字",
-  "en": ""
+  "en": "       White"
  },
  {
   "offset": "0x70a8",
   "max": 15,
   "jp": "　　白影文字",
-  "en": ""
+  "en": "    Shadow W"
  },
  {
   "offset": "0x70b8",
   "max": 15,
   "jp": "　　黒影文字",
-  "en": ""
+  "en": "    Shadow B"
  },
  {
   "offset": "0x70c8",
   "max": 15,
   "jp": "　　ウェイト",
-  "en": ""
+  "en": "        Wait"
  },
  {
   "offset": "0x70d8",
   "max": 15,
   "jp": "　　クイック",
-  "en": ""
+  "en": "       Quick"
  },
  {
   "offset": "0x70e8",
   "max": 15,
   "jp": "　　モノラル",
-  "en": ""
+  "en": "        Mono"
  },
  {
   "offset": "0x70f8",
   "max": 15,
   "jp": "　　ステレオ",
-  "en": ""
+  "en": "      Stereo"
  },
  {
   "offset": "0x7108",
   "max": 15,
   "jp": "をマスター！",
-  "en": ""
+  "en": " mastered!"
  },
  {
   "offset": "0x7118",
   "max": 23,
   "jp": "を￥ｎ勝手に食べた！",
-  "en": ""
+  "en": ":￥ｎgobbled it up!"
  },
  {
   "offset": "0x7130",
   "max": 19,
   "jp": "が仲間に加わった！",
-  "en": ""
+  "en": " joined you!"
  },
  {
   "offset": "0x7144",
   "max": 19,
   "jp": "と一緒に戦おう！",
-  "en": ""
+  "en": ", let's fight!"
  },
  {
   "offset": "0x7158",
   "max": 19,
   "jp": "は仲間から抜けた！",
-  "en": ""
+  "en": " left the party!"
  },
  {
   "offset": "0x7228",
   "max": 63,
   "jp": "は「無限の力」を手に入れた￥ｎしかし　力の輝きは薄れつつある",
-  "en": ""
+  "en": " gained \"Infinite Power\"!￥ｎBut its glow is fading..."
  },
  {
   "offset": "0x7268",
   "max": 27,
   "jp": "「無限の力」を使いますか？",
-  "en": ""
+  "en": "Use \"Infinite Power\"?"
  },
  {
   "offset": "0x72a0",
   "max": 51,
   "jp": "ならば聞こう￥ｎお前の考えている力とは一体何なのか",
-  "en": ""
+  "en": "Then tell me,￥ｎwhat is power to you?"
  },
  {
   "offset": "0x72d4",
   "max": 55,
   "jp": "世界を恐怖で満たし破滅に導くもの￥ｎそれは力ではない",
-  "en": ""
+  "en": "Filling the world with fear￥ｎand ruin is not power."
  },
  {
   "offset": "0x730c",
   "max": 63,
   "jp": "力とは　世界を守り￥ｎ新しいものを生み出すもの￥ｎそれが力だ",
-  "en": ""
+  "en": "Power protects￥ｎand creates anew.￥ｎThat is power."
  },
  {
   "offset": "0x734c",
   "max": 35,
   "jp": "お前はその意味を取りちがえている",
-  "en": ""
+  "en": "You have mistaken its meaning."
  },
  {
   "offset": "0x7370",
   "max": 95,
   "jp": "よ￥ｎ私はお前に何も強いることはしない￥ｎこの世界を生かすも滅ぼすも￥ｎそれはお前たちの問題だ",
-  "en": ""
+  "en": ",￥ｎI will force nothing on you.￥ｎSave this world or end it;￥ｎthat is up to you all."
  },
  {
   "offset": "0x73d0",
   "max": 67,
   "jp": "これからは　ここでその様子を￥ｎただ見守らせてもらうことにするよ",
-  "en": ""
+  "en": "From now on, I will simply￥ｎwatch over it from here."
  },
  {
   "offset": "0x7414",
   "max": 39,
   "jp": "さあ　外に出て自分の世界を見るがよい",
-  "en": ""
+  "en": "Now go out and see your world"
  },
  {
   "offset": "0x743c",
   "max": 35,
   "jp": "そしてその目に　焼き付けるのだ…",
-  "en": ""
+  "en": "and burn it into your eyes..."
  },
  {
   "offset": "0x8844",
-  "max": 11,
-  "jp": "ニューゲーム￥ｎデータロード￥ｎアルバム",
-  "en": "",
-  "locked": true
+  "max": 12,
+  "jp": "ニューゲーム",
+  "en": "New Game",
+  "joined": true
  },
  {
   "offset": "0x8850",
   "max": 31,
   "jp": "￥ｎデータロード￥ｎアルバム",
-  "en": "",
-  "locked": true
+  "en": "￥ｎLoad Game￥ｎAlbum"
  },
  {
   "offset": "0x8870",
   "max": 31,
   "jp": "主人公に名前をつけてください",
-  "en": ""
+  "en": "Please name the hero."
  },
  {
   "offset": "0x8890",
   "max": 19,
   "jp": "ウェイブ＿＿＿＿",
-  "en": ""
+  "en": "Wave____",
+  "mode": "fullwidth"
  },
  {
   "offset": "0x88a4",
   "max": 47,
   "jp": "男のフリーキャスト５人に名前￥ｎをつけますか？",
-  "en": ""
+  "en": "Name the 5 male￥ｎfree cast members?"
  },
  {
   "offset": "0x88d4",
   "max": 15,
   "jp": "はい￥ｎいいえ",
-  "en": ""
+  "en": "Yes￥ｎNo"
  },
  {
   "offset": "0x88f8",
   "max": 51,
   "jp": "女のフリーキャスト５人に名前￥ｎをつけますか？",
-  "en": ""
+  "en": "Name the 5 female￥ｎfree cast members?"
  },
  {
   "offset": "0x8ce0",
   "max": 19,
   "jp": "ルーツ番号　　＠ｂ",
-  "en": ""
+  "en": "Root No.      ＠ｂ"
  },
  {
   "offset": "0x8cf4",
   "max": 39,
   "jp": "ルーツ番号　　＠ｂ＊＊＊＊－＊＊＊＊",
-  "en": ""
+  "en": "Root No.      ＠ｂ＊＊＊＊－＊＊＊＊"
  },
  {
   "offset": "0x8d1c",
   "max": 19,
   "jp": "ルーツ名　　　＠４",
-  "en": ""
+  "en": "Root name     ＠４"
  },
  {
   "offset": "0x8d30",
   "max": 119,
   "jp": "攻撃対獣￥ｎ　　対鬼￥ｎ　　対竜￥ｎ　　対魔￥ｎ　　対霊￥ｎ　　対人￥ｎ装備能力￥ｎ魔法能力￥ｎ食回復力￥ｎ注意能力",
-  "en": ""
+  "en": "Atk Bst￥ｎ    Oni￥ｎ    Drg￥ｎ    Fnd￥ｎ    Spr￥ｎ    Hum￥ｎEquip￥ｎMagic￥ｎFood Rec￥ｎCaution"
  },
  {
   "offset": "0x8de8",
   "max": 67,
   "jp": "格闘￥ｎ剣技￥ｎ祈り￥ｎ虚無￥ｎ魔炎￥ｎ魔風￥ｎ￥ｎ　剣￥ｎ　杖",
-  "en": ""
+  "en": "Brwl￥ｎSwrd￥ｎPray￥ｎVoid￥ｎFire￥ｎWind￥ｎ￥ｎ Swd￥ｎ Stf"
  },
  {
   "offset": "0x8e2c",
   "max": 51,
   "jp": "魔水￥ｎ魔土￥ｎ賢明￥ｎ自然￥ｎ裏技￥ｎ遊芸",
-  "en": ""
+  "en": "Watr￥ｎErth￥ｎWise￥ｎNatr￥ｎTrck￥ｎArts"
  },
  {
   "offset": "0x92b0",
   "max": 51,
   "jp": "あなた宛てのメールは￥ｎひとつもあずかっていません",
-  "en": ""
+  "en": "There is no mail￥ｎfor you."
  },
  {
   "offset": "0xc15d0",
   "max": 16,
   "jp": "だみー",
-  "en": ""
+  "en": "Dummy"
  },
  {
   "offset": "0xc1630",
   "max": 16,
   "jp": "天魔剣",
-  "en": ""
+  "en": "Tenma Sword"
  },
  {
   "offset": "0xc1690",
   "max": 16,
   "jp": "ワールドヘブン",
-  "en": ""
+  "en": "World Heaven"
  },
  {
   "offset": "0xc16f0",
   "max": 16,
   "jp": "秘剣・最下降",
-  "en": ""
+  "en": "Abyss Blade"
  },
  {
   "offset": "0xc1750",
   "max": 16,
   "jp": "エクスカリバー",
-  "en": ""
+  "en": "Excalibur"
  },
  {
   "offset": "0xc17b0",
   "max": 16,
   "jp": "ダークスレイヤー",
-  "en": ""
+  "en": "Dark Slayer"
  },
  {
   "offset": "0xc1810",
   "max": 16,
   "jp": "バスタードソード",
-  "en": ""
+  "en": "Bastard Sword"
  },
  {
   "offset": "0xc1870",
   "max": 16,
   "jp": "ブラックサーベル",
-  "en": ""
+  "en": "Black Saber"
  },
  {
   "offset": "0xc18d0",
   "max": 16,
   "jp": "人斬りの刃",
-  "en": ""
+  "en": "Manslayer Blade"
  },
  {
   "offset": "0xc1930",
   "max": 16,
   "jp": "ドラゴンブレイク",
-  "en": ""
+  "en": "Dragon Break"
  },
  {
   "offset": "0xc1990",
   "max": 16,
   "jp": "フラッシュソード",
-  "en": ""
+  "en": "Flash Sword"
  },
  {
   "offset": "0xc19f0",
   "max": 16,
   "jp": "サムライブレード",
-  "en": ""
+  "en": "Samurai Blade"
  },
  {
   "offset": "0xc1a50",
   "max": 16,
   "jp": "マルスブレイド",
-  "en": ""
+  "en": "Mars Blade"
  },
  {
   "offset": "0xc1ab0",
   "max": 16,
   "jp": "ロングソード",
-  "en": ""
+  "en": "Long Sword"
  },
  {
   "offset": "0xc1b10",
   "max": 16,
   "jp": "ブロンズソード",
-  "en": ""
+  "en": "Bronze Sword"
  },
  {
   "offset": "0xc1b70",
   "max": 16,
   "jp": "ショートソード",
-  "en": ""
+  "en": "Short Sword"
  },
  {
   "offset": "0xc1bd0",
   "max": 16,
   "jp": "さびた剣",
-  "en": ""
+  "en": "Rusty Sword"
  },
  {
   "offset": "0xc1c30",
   "max": 16,
   "jp": "ユニコーンロッド",
-  "en": ""
+  "en": "Unicorn Rod"
  },
  {
   "offset": "0xc1c90",
   "max": 16,
   "jp": "ドマンビーロッド",
-  "en": ""
+  "en": "Domanbee Rod"
  },
  {
   "offset": "0xc1cf0",
   "max": 16,
   "jp": "フェアリーロッド",
-  "en": ""
+  "en": "Fairy Rod"
  },
  {
   "offset": "0xc1d50",
   "max": 16,
   "jp": "マジカルロッド",
-  "en": ""
+  "en": "Magical Rod"
  },
  {
   "offset": "0xc1db0",
   "max": 16,
   "jp": "ロッド",
-  "en": ""
+  "en": "Rod"
  },
  {
   "offset": "0xc1e10",
   "max": 16,
   "jp": "ペロペロステッキ",
-  "en": ""
+  "en": "Lollipop Wand"
  },
  {
   "offset": "0xc1e70",
   "max": 16,
   "jp": "天魔のよろい",
-  "en": ""
+  "en": "Tenma Armor"
  },
  {
   "offset": "0xc1ed0",
   "max": 16,
   "jp": "ジャネスのよろい",
-  "en": ""
+  "en": "Janes Armor"
  },
  {
   "offset": "0xc1f30",
   "max": 16,
   "jp": "シルバーアーマー",
-  "en": ""
+  "en": "Silver Armor"
  },
  {
   "offset": "0xc1f90",
   "max": 16,
   "jp": "ブラックアーマー",
-  "en": ""
+  "en": "Black Armor"
  },
  {
   "offset": "0xc1ff0",
   "max": 16,
   "jp": "サムライアーマー",
-  "en": ""
+  "en": "Samurai Armor"
  },
  {
   "offset": "0xc2050",
   "max": 16,
   "jp": "アイアンアーマー",
-  "en": ""
+  "en": "Iron Armor"
  },
  {
   "offset": "0xc20b0",
   "max": 16,
   "jp": "くさりかたびら",
-  "en": ""
+  "en": "Chain Mail"
  },
  {
   "offset": "0xc2110",
   "max": 16,
   "jp": "レザーアーマー",
-  "en": ""
+  "en": "Leather Armor"
  },
  {
   "offset": "0xc2170",
   "max": 16,
   "jp": "さびたヨロイ",
-  "en": ""
+  "en": "Rusty Armor"
  },
  {
   "offset": "0xc21d0",
   "max": 16,
   "jp": "ぶどう酒",
-  "en": ""
+  "en": "Wine"
  },
  {
   "offset": "0xc2230",
   "max": 16,
   "jp": "豆の保存食",
-  "en": ""
+  "en": "Bean Rations"
  },
  {
   "offset": "0xc2290",
   "max": 16,
   "jp": "パン",
-  "en": ""
+  "en": "Bread"
  },
  {
   "offset": "0xc22f0",
   "max": 16,
   "jp": "ほし肉",
-  "en": ""
+  "en": "Jerky"
  },
  {
   "offset": "0xc2350",
   "max": 16,
   "jp": "きのこ",
-  "en": ""
+  "en": "Mushroom"
  },
  {
   "offset": "0xc23b0",
   "max": 16,
   "jp": "きのこ",
-  "en": ""
+  "en": "Mushroom"
  },
  {
   "offset": "0xc2410",
   "max": 16,
   "jp": "トゲ木の実",
-  "en": ""
+  "en": "Spiky Nut"
  },
  {
   "offset": "0xc2470",
   "max": 16,
   "jp": "丸い木の実",
-  "en": ""
+  "en": "Round Nut"
  },
  {
   "offset": "0xc24d0",
   "max": 16,
   "jp": "青い果実",
-  "en": ""
+  "en": "Blue Fruit"
  },
  {
   "offset": "0xc2530",
   "max": 16,
   "jp": "青い果実",
-  "en": ""
+  "en": "Blue Fruit"
  },
  {
   "offset": "0xc2590",
   "max": 16,
   "jp": "黄色い果実",
-  "en": ""
+  "en": "Yellow Fruit"
  },
  {
   "offset": "0xc25f0",
   "max": 16,
   "jp": "黄色い果実",
-  "en": ""
+  "en": "Yellow Fruit"
  },
  {
   "offset": "0xc2650",
   "max": 16,
   "jp": "赤い果実",
-  "en": ""
+  "en": "Red Fruit"
  },
  {
   "offset": "0xc26b0",
   "max": 16,
   "jp": "赤い果実",
-  "en": ""
+  "en": "Red Fruit"
  },
  {
   "offset": "0xc2710",
   "max": 16,
   "jp": "玉状の木の根",
-  "en": ""
+  "en": "Round Root"
  },
  {
   "offset": "0xc2770",
   "max": 16,
   "jp": "長細い木の根",
-  "en": ""
+  "en": "Long Root"
  },
  {
   "offset": "0xc27d0",
   "max": 16,
   "jp": "黄色の固形物",
-  "en": ""
+  "en": "Yellow Lump"
  },
  {
   "offset": "0xc2830",
   "max": 16,
   "jp": "白色の固形物",
-  "en": ""
+  "en": "White Lump"
  },
  {
   "offset": "0xc2890",
   "max": 16,
   "jp": "甘く香る固形物",
-  "en": ""
+  "en": "Sweet Lump"
  },
  {
   "offset": "0xc28f0",
   "max": 16,
   "jp": "くさい生肉",
-  "en": ""
+  "en": "Smelly Raw Meat"
  },
  {
   "offset": "0xc2950",
   "max": 16,
   "jp": "何かの生肉",
-  "en": ""
+  "en": "Mystery Meat"
  },
  {
   "offset": "0xc29b0",
   "max": 16,
   "jp": "ネズミのしっぽ",
-  "en": ""
+  "en": "Rat Tail"
  },
  {
   "offset": "0xc2a10",
   "max": 16,
   "jp": "イモムシ",
-  "en": ""
+  "en": "Caterpillar"
  },
  {
   "offset": "0xc2a70",
   "max": 16,
   "jp": "食用バチの巣",
-  "en": ""
+  "en": "Edible Beehive"
  },
  {
   "offset": "0xc2ad0",
   "max": 16,
   "jp": "食用バチの幼虫",
-  "en": ""
+  "en": "Bee Larvae"
  },
  {
   "offset": "0xc2b30",
   "max": 16,
   "jp": "食用ほしガエル",
-  "en": ""
+  "en": "Dried Frog"
  },
  {
   "offset": "0xc2b90",
   "max": 16,
   "jp": "食用ほしモグラ",
-  "en": ""
+  "en": "Dried Mole"
  },
  {
   "offset": "0xc2bf0",
   "max": 16,
   "jp": "食用ゴケ",
-  "en": ""
+  "en": "Edible Moss"
  },
  {
   "offset": "0xc2c50",
   "max": 16,
   "jp": "隠された財宝",
-  "en": ""
+  "en": "Hidden Treasure"
  },
  {
   "offset": "0xc2cb0",
   "max": 16,
   "jp": "絵師シンの名画",
-  "en": ""
+  "en": "Shin's Painting"
  },
  {
   "offset": "0xc2d10",
   "max": 16,
   "jp": "白い宝石",
-  "en": ""
+  "en": "White Gem"
  },
  {
   "offset": "0xc2d70",
   "max": 16,
   "jp": "赤い宝石",
-  "en": ""
+  "en": "Red Gem"
  },
  {
   "offset": "0xc2dd0",
   "max": 16,
   "jp": "ホコリっぽいゴミ",
-  "en": ""
+  "en": "Dusty Trash"
  },
  {
   "offset": "0xc2e30",
   "max": 16,
   "jp": "価値のない石",
-  "en": ""
+  "en": "Worthless Stone"
  },
  {
   "offset": "0xc2e90",
   "max": 16,
   "jp": "ただのガラクタ",
-  "en": ""
+  "en": "Plain Junk"
  },
  {
   "offset": "0xc2ef0",
   "max": 16,
   "jp": "う○こ",
-  "en": ""
+  "en": "Po○p"
  },
  {
   "offset": "0xc2f50",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc2fb0",
   "max": 16,
   "jp": "修行の心得",
-  "en": ""
+  "en": "Training Tips"
  },
  {
   "offset": "0xc3010",
   "max": 16,
   "jp": "せいすい草",
-  "en": ""
+  "en": "Holywater Herb"
  },
  {
   "offset": "0xc3070",
   "max": 16,
   "jp": "どくけし",
-  "en": ""
+  "en": "Antidote"
  },
  {
   "offset": "0xc30d0",
   "max": 16,
   "jp": "スカラベ",
-  "en": ""
+  "en": "Scarab"
  },
  {
   "offset": "0xc3130",
   "max": 16,
   "jp": "ベラカス",
-  "en": ""
+  "en": "Belacus"
  },
  {
   "offset": "0xc3190",
   "max": 16,
   "jp": "ケロタン",
-  "en": ""
+  "en": "Kerotan"
  },
  {
   "offset": "0xc31f0",
   "max": 16,
   "jp": "マジカルリカー",
-  "en": ""
+  "en": "Magic Liquor"
  },
  {
   "offset": "0xc3250",
   "max": 16,
   "jp": "といし",
-  "en": ""
+  "en": "Whetstone"
  },
  {
   "offset": "0xc32b0",
   "max": 16,
   "jp": "魔法のといし",
-  "en": ""
+  "en": "Magic Whetstone"
  },
  {
   "offset": "0xc3310",
   "max": 16,
   "jp": "幸福カード",
-  "en": ""
+  "en": "Lucky Card"
  },
  {
   "offset": "0xc3370",
   "max": 16,
   "jp": "不幸カード",
-  "en": ""
+  "en": "Unlucky Card"
  },
  {
   "offset": "0xc33d0",
   "max": 16,
   "jp": "何者かの日記",
-  "en": ""
+  "en": "Someone's Diary"
  },
  {
   "offset": "0xc3430",
   "max": 16,
   "jp": "魔法の貝がら",
-  "en": ""
+  "en": "Magic Shell"
  },
  {
   "offset": "0xc3490",
   "max": 16,
   "jp": "うたの本",
-  "en": ""
+  "en": "Song Book"
  },
  {
   "offset": "0xc34f0",
   "max": 16,
   "jp": "知識の本",
-  "en": ""
+  "en": "Book of Wisdom"
  },
  {
   "offset": "0xc3550",
   "max": 16,
   "jp": "エッチ本",
-  "en": ""
+  "en": "Naughty Book"
  },
  {
   "offset": "0xc35b0",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc3610",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc3670",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc36d0",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc3730",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc3790",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc37f0",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc3850",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc38b0",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc3910",
   "max": 16,
   "jp": "パピルス",
-  "en": ""
+  "en": "Papyrus"
  },
  {
   "offset": "0xc3b8c",
   "max": 19,
   "jp": "フール",
-  "en": ""
+  "en": "Fool"
  },
  {
   "offset": "0xc3ba8",
   "max": 19,
   "jp": "旅人",
-  "en": ""
+  "en": "Traveler"
  },
  {
   "offset": "0xc3bc4",
   "max": 19,
   "jp": "シーフ",
-  "en": ""
+  "en": "Thief"
  },
  {
   "offset": "0xc3be0",
   "max": 19,
   "jp": "遊牧民",
-  "en": ""
+  "en": "Nomad"
  },
  {
   "offset": "0xc3bfc",
   "max": 19,
   "jp": "商人",
-  "en": ""
+  "en": "Merchant"
  },
  {
   "offset": "0xc3c18",
   "max": 19,
   "jp": "野生児",
-  "en": ""
+  "en": "Wild Child"
  },
  {
   "offset": "0xc3c34",
   "max": 19,
   "jp": "フリーファイター",
-  "en": ""
+  "en": "Free Fighter"
  },
  {
   "offset": "0xc3c50",
   "max": 19,
   "jp": "クレリック",
-  "en": ""
+  "en": "Cleric"
  },
  {
   "offset": "0xc3c6c",
   "max": 19,
   "jp": "ライトメイジ",
-  "en": ""
+  "en": "Light Mage"
  },
  {
   "offset": "0xc3c88",
   "max": 19,
   "jp": "ダークメイジ",
-  "en": ""
+  "en": "Dark Mage"
  },
  {
   "offset": "0xc3ca4",
   "max": 19,
   "jp": "アイテムハンター",
-  "en": ""
+  "en": "Item Hunter"
  },
  {
   "offset": "0xc3cc0",
   "max": 19,
   "jp": "戦士",
-  "en": ""
+  "en": "Warrior"
  },
  {
   "offset": "0xc3cdc",
   "max": 19,
   "jp": "ソードマン",
-  "en": ""
+  "en": "Swordsman"
  },
  {
   "offset": "0xc3cf8",
   "max": 19,
   "jp": "デザートガード",
-  "en": ""
+  "en": "Desert Guard"
  },
  {
   "offset": "0xc3d14",
   "max": 19,
   "jp": "オーラファイター",
-  "en": ""
+  "en": "Aura Fighter"
  },
  {
   "offset": "0xc3d30",
   "max": 19,
   "jp": "ドラゴンバスター",
-  "en": ""
+  "en": "Dragon Buster"
  },
  {
   "offset": "0xc3d4c",
   "max": 19,
   "jp": "デビルバスター",
-  "en": ""
+  "en": "Devil Buster"
  },
  {
   "offset": "0xc3d68",
   "max": 19,
   "jp": "美しき戦士",
-  "en": ""
+  "en": "Beautiful Warrior"
  },
  {
   "offset": "0xc3d84",
   "max": 19,
   "jp": "魔法戦士",
-  "en": ""
+  "en": "Magic Warrior"
  },
  {
   "offset": "0xc3da0",
   "max": 19,
   "jp": "ビーストハンター",
-  "en": ""
+  "en": "Beast Hunter"
  },
  {
   "offset": "0xc3dbc",
   "max": 19,
   "jp": "オークキラー",
-  "en": ""
+  "en": "Orc Killer"
  },
  {
   "offset": "0xc3dd8",
   "max": 19,
   "jp": "アーマーナイト",
-  "en": ""
+  "en": "Armor Knight"
  },
  {
   "offset": "0xc3df4",
   "max": 19,
   "jp": "バトルマスター",
-  "en": ""
+  "en": "Battle Master"
  },
  {
   "offset": "0xc3e10",
   "max": 19,
   "jp": "ライトナイト",
-  "en": ""
+  "en": "Light Knight"
  },
  {
   "offset": "0xc3e2c",
   "max": 19,
   "jp": "ドク戦魔",
-  "en": ""
+  "en": "Toxic Warfiend"
  },
  {
   "offset": "0xc3e48",
   "max": 19,
   "jp": "超戦士",
-  "en": ""
+  "en": "Super Warrior"
  },
  {
   "offset": "0xc3e64",
   "max": 19,
   "jp": "エルフナイト",
-  "en": ""
+  "en": "Elf Knight"
  },
  {
   "offset": "0xc3e80",
   "max": 19,
   "jp": "エルフメイジ",
-  "en": ""
+  "en": "Elf Mage"
  },
  {
   "offset": "0xc3e9c",
   "max": 19,
   "jp": "エルフレンジャー",
-  "en": ""
+  "en": "Elf Ranger"
  },
  {
   "offset": "0xc3eb8",
   "max": 19,
   "jp": "エルフクレリック",
-  "en": ""
+  "en": "Elf Cleric"
  },
  {
   "offset": "0xc3ed4",
   "max": 19,
   "jp": "原始人",
-  "en": ""
+  "en": "Caveman"
  },
  {
   "offset": "0xc3ef0",
   "max": 19,
   "jp": "レンジャー",
-  "en": ""
+  "en": "Ranger"
  },
  {
   "offset": "0xc3f0c",
   "max": 19,
   "jp": "おさる",
-  "en": ""
+  "en": "Monkey"
  },
  {
   "offset": "0xc3f28",
   "max": 19,
   "jp": "羊飼い",
-  "en": ""
+  "en": "Shepherd"
  },
  {
   "offset": "0xc3f44",
   "max": 19,
   "jp": "魔獣使い",
-  "en": ""
+  "en": "Beast Tamer"
  },
  {
   "offset": "0xc3f60",
   "max": 19,
   "jp": "風水師",
-  "en": ""
+  "en": "Geomancer"
  },
  {
   "offset": "0xc3f7c",
   "max": 19,
   "jp": "ネコ戦士",
-  "en": ""
+  "en": "Cat Warrior"
  },
  {
   "offset": "0xc3f98",
   "max": 19,
   "jp": "カエル戦士",
-  "en": ""
+  "en": "Frog Warrior"
  },
  {
   "offset": "0xc3fb4",
   "max": 19,
   "jp": "バーサーカー",
-  "en": ""
+  "en": "Berserker"
  },
  {
   "offset": "0xc3fd0",
   "max": 19,
   "jp": "夢の住人",
-  "en": ""
+  "en": "Dream Dweller"
  },
  {
   "offset": "0xc3fec",
   "max": 19,
   "jp": "パラディン",
-  "en": ""
+  "en": "Paladin"
  },
  {
   "offset": "0xc4008",
   "max": 19,
   "jp": "聖者",
-  "en": ""
+  "en": "Saint"
  },
  {
   "offset": "0xc4024",
   "max": 19,
   "jp": "ウォーロック",
-  "en": ""
+  "en": "Warlock"
  },
  {
   "offset": "0xc4040",
   "max": 19,
   "jp": "賢者",
-  "en": ""
+  "en": "Sage"
  },
  {
   "offset": "0xc405c",
   "max": 19,
   "jp": "ルーンマスター",
-  "en": ""
+  "en": "Rune Master"
  },
  {
   "offset": "0xc4078",
   "max": 19,
   "jp": "聖獣使い",
-  "en": ""
+  "en": "Holy Beast Tamer"
  },
  {
   "offset": "0xc4094",
   "max": 19,
   "jp": "案内人",
-  "en": ""
+  "en": "Guide"
  },
  {
   "offset": "0xc40b0",
   "max": 19,
   "jp": "ビショップ",
-  "en": ""
+  "en": "Bishop"
  },
  {
   "offset": "0xc40cc",
   "max": 19,
   "jp": "英雄",
-  "en": ""
+  "en": "Hero"
  },
  {
   "offset": "0xc40e8",
   "max": 19,
   "jp": "ヘラクレス",
-  "en": ""
+  "en": "Hercules"
  },
  {
   "offset": "0xc4104",
   "max": 19,
   "jp": "村人",
-  "en": ""
+  "en": "Villager"
  },
  {
   "offset": "0xc4120",
   "max": 19,
   "jp": "手品師",
-  "en": ""
+  "en": "Magician"
  },
  {
   "offset": "0xc413c",
   "max": 19,
   "jp": "隠者",
-  "en": ""
+  "en": "Hermit"
  },
  {
   "offset": "0xc4158",
   "max": 19,
   "jp": "占い師",
-  "en": ""
+  "en": "Fortuneteller"
  },
  {
   "offset": "0xc4174",
   "max": 19,
   "jp": "武器商人",
-  "en": ""
+  "en": "Arms Dealer"
  },
  {
   "offset": "0xc4190",
   "max": 19,
   "jp": "呪術師",
-  "en": ""
+  "en": "Shaman"
  },
  {
   "offset": "0xc41ac",
   "max": 19,
   "jp": "船長",
-  "en": ""
+  "en": "Captain"
  },
  {
   "offset": "0xc41c8",
   "max": 19,
   "jp": "デザートシーフ",
-  "en": ""
+  "en": "Desert Thief"
  },
  {
   "offset": "0xc41e4",
   "max": 19,
   "jp": "詩人",
-  "en": ""
+  "en": "Poet"
  },
  {
   "offset": "0xc4200",
   "max": 19,
   "jp": "グルメ",
-  "en": ""
+  "en": "Gourmet"
  },
  {
   "offset": "0xc421c",
   "max": 19,
   "jp": "ギャンブラー",
-  "en": ""
+  "en": "Gambler"
  },
  {
   "offset": "0xc4238",
   "max": 19,
   "jp": "マリオネット師",
-  "en": ""
+  "en": "Puppeteer"
  },
  {
   "offset": "0xc4254",
   "max": 19,
   "jp": "縫いぐるみ師",
-  "en": ""
+  "en": "Plushmaker"
  },
  {
   "offset": "0xc4270",
   "max": 19,
   "jp": "ピエロ",
-  "en": ""
+  "en": "Clown"
  },
  {
   "offset": "0xc428c",
   "max": 19,
   "jp": "いかさま師",
-  "en": ""
+  "en": "Swindler"
  },
  {
   "offset": "0xc42a8",
   "max": 19,
   "jp": "コレクター",
-  "en": ""
+  "en": "Collector"
  },
  {
   "offset": "0xc42c4",
   "max": 19,
   "jp": "幻術師",
-  "en": ""
+  "en": "Illusionist"
  },
  {
   "offset": "0xc42e0",
   "max": 19,
   "jp": "アサシン",
-  "en": ""
+  "en": "Assassin"
  },
  {
   "offset": "0xc42fc",
   "max": 19,
   "jp": "海賊",
-  "en": ""
+  "en": "Pirate"
  },
  {
   "offset": "0xc4318",
   "max": 19,
   "jp": "お笑い芸人",
-  "en": ""
+  "en": "Comedian"
  },
  {
   "offset": "0xc4334",
   "max": 19,
   "jp": "侍",
-  "en": ""
+  "en": "Samurai"
  },
  {
   "offset": "0xc4350",
   "max": 19,
   "jp": "忍者",
-  "en": ""
+  "en": "Ninja"
  },
  {
   "offset": "0xc436c",
   "max": 19,
   "jp": "カラテマスター",
-  "en": ""
+  "en": "Karate Master"
  },
  {
   "offset": "0xc4388",
   "max": 19,
   "jp": "ロウニン",
-  "en": ""
+  "en": "Ronin"
  },
  {
   "offset": "0xc43a4",
   "max": 19,
   "jp": "将軍",
-  "en": ""
+  "en": "Shogun"
  },
  {
   "offset": "0xc43c0",
   "max": 19,
   "jp": "柔マスター",
-  "en": ""
+  "en": "Judo Master"
  },
  {
   "offset": "0xc43dc",
   "max": 19,
   "jp": "抜け忍",
-  "en": ""
+  "en": "Rogue Ninja"
  },
  {
   "offset": "0xc43f8",
   "max": 19,
   "jp": "用心棒",
-  "en": ""
+  "en": "Bodyguard"
  },
  {
   "offset": "0xc4414",
   "max": 19,
   "jp": "武道家",
-  "en": ""
+  "en": "Martial Artist"
  },
  {
   "offset": "0xc4430",
   "max": 19,
   "jp": "武将",
-  "en": ""
+  "en": "Warlord"
  },
  {
   "offset": "0xc444c",
   "max": 19,
   "jp": "魔猿・悟空",
-  "en": ""
+  "en": "Demon Ape Goku"
  },
  {
   "offset": "0xc4468",
   "max": 19,
   "jp": "軍師",
-  "en": ""
+  "en": "Tactician"
  },
  {
   "offset": "0xc4484",
   "max": 19,
   "jp": "カンフーマスター",
-  "en": ""
+  "en": "Kung Fu Master"
  },
  {
   "offset": "0xc44a0",
   "max": 19,
   "jp": "キング",
-  "en": ""
+  "en": "King"
  },
  {
   "offset": "0xc44bc",
   "max": 19,
   "jp": "エース",
-  "en": ""
+  "en": "Ace"
  },
  {
   "offset": "0xc44d8",
   "max": 19,
   "jp": "プリンス",
-  "en": ""
+  "en": "Prince"
  },
  {
   "offset": "0xc44f4",
   "max": 19,
   "jp": "騎士団長",
-  "en": ""
+  "en": "Knight Captain"
  },
  {
   "offset": "0xc4510",
   "max": 19,
   "jp": "ジェネラル",
-  "en": ""
+  "en": "General"
  },
  {
   "offset": "0xc452c",
   "max": 19,
   "jp": "魔王の息子",
-  "en": ""
+  "en": "Demon Lord's Son"
  },
  {
   "offset": "0xc4548",
   "max": 19,
   "jp": "ダークナイト",
-  "en": ""
+  "en": "Dark Knight"
  },
  {
   "offset": "0xc4564",
   "max": 19,
   "jp": "ソーサラー",
-  "en": ""
+  "en": "Sorcerer"
  },
  {
   "offset": "0xc4580",
   "max": 19,
   "jp": "バンパイア",
-  "en": ""
+  "en": "Vampire"
  },
  {
   "offset": "0xc459c",
   "max": 19,
   "jp": "ウェアウルフ",
-  "en": ""
+  "en": "Werewolf"
  },
  {
   "offset": "0xc45b8",
   "max": 19,
   "jp": "ゾンビマスター",
-  "en": ""
+  "en": "Zombie Master"
  },
  {
   "offset": "0xc45d4",
   "max": 19,
   "jp": "カエル男爵",
-  "en": ""
+  "en": "Baron Frog"
  },
  {
   "offset": "0xc45f0",
   "max": 19,
   "jp": "ウェアキャット",
-  "en": ""
+  "en": "Werecat"
  },
  {
   "offset": "0xc460c",
   "max": 19,
   "jp": "シュラ",
-  "en": ""
+  "en": "Shura"
  },
  {
   "offset": "0xc4628",
   "max": 19,
   "jp": "ゴーレムマスター",
-  "en": ""
+  "en": "Golem Master"
  },
  {
   "offset": "0xc4644",
   "max": 19,
   "jp": "デビルアーマー",
-  "en": ""
+  "en": "Devil Armor"
  },
  {
   "offset": "0xc4660",
   "max": 19,
   "jp": "リッチ",
-  "en": ""
+  "en": "Lich"
  },
  {
   "offset": "0xc467c",
   "max": 19,
   "jp": "魔神の息子",
-  "en": ""
+  "en": "Demon God's Son"
  },
  {
   "offset": "0xc4698",
   "max": 19,
   "jp": "伝説の勇者",
-  "en": ""
+  "en": "Legendary Hero"
  },
  {
   "offset": "0xc46b4",
   "max": 19,
   "jp": "極戦鬼",
-  "en": ""
+  "en": "Ultimate Ogre"
  },
  {
   "offset": "0xc46d0",
   "max": 19,
   "jp": "天空戦神",
-  "en": ""
+  "en": "Sky War God"
  },
  {
   "offset": "0xc46ec",
   "max": 19,
   "jp": "遺跡戦士",
-  "en": ""
+  "en": "Ruin Warrior"
  },
  {
   "offset": "0xc4708",
   "max": 19,
   "jp": "無限戦闘兵",
-  "en": ""
+  "en": "Endless Soldier"
  },
  {
   "offset": "0xc4724",
   "max": 19,
   "jp": "最後の勇者",
-  "en": ""
+  "en": "The Last Hero"
  },
  {
   "offset": "0xc4740",
   "max": 19,
   "jp": "最初の勇者",
-  "en": ""
+  "en": "The First Hero"
  },
  {
   "offset": "0xc475c",
   "max": 19,
   "jp": "厄介者",
-  "en": ""
+  "en": "Troublemaker"
  },
  {
   "offset": "0xc4778",
   "max": 19,
   "jp": "名探偵",
-  "en": ""
+  "en": "Great Detective"
  },
  {
   "offset": "0xc4794",
   "max": 19,
   "jp": "フールレディ",
-  "en": ""
+  "en": "Fool Lady"
  },
  {
   "offset": "0xc47b0",
   "max": 19,
   "jp": "さすらいの女旅人",
-  "en": ""
+  "en": "Wandering Woman"
  },
  {
   "offset": "0xc47cc",
   "max": 19,
   "jp": "レディシーフ",
-  "en": ""
+  "en": "Lady Thief"
  },
  {
   "offset": "0xc47e8",
   "max": 19,
   "jp": "遊牧民の少女",
-  "en": ""
+  "en": "Nomad Girl"
  },
  {
   "offset": "0xc4804",
   "max": 19,
   "jp": "女あきんど",
-  "en": ""
+  "en": "Saleswoman"
  },
  {
   "offset": "0xc4820",
   "max": 19,
   "jp": "かわいい女野生児",
-  "en": ""
+  "en": "Cute Wild Girl"
  },
  {
   "offset": "0xc483c",
   "max": 19,
   "jp": "レディファイター",
-  "en": ""
+  "en": "Lady Fighter"
  },
  {
   "offset": "0xc4858",
   "max": 19,
   "jp": "シスター",
-  "en": ""
+  "en": "Sister"
  },
  {
   "offset": "0xc4874",
   "max": 19,
   "jp": "ライトマジシャン",
-  "en": ""
+  "en": "Light Magician"
  },
  {
   "offset": "0xc4890",
   "max": 19,
   "jp": "ダークマジシャン",
-  "en": ""
+  "en": "Dark Magician"
  },
  {
   "offset": "0xc48ac",
   "max": 19,
   "jp": "アイテムゲッター",
-  "en": ""
+  "en": "Item Getter"
  },
  {
   "offset": "0xc48c8",
   "max": 19,
   "jp": "爆炎王",
-  "en": ""
+  "en": "Blaze King"
  },
  {
   "offset": "0xc48e4",
   "max": 19,
   "jp": "命水王",
-  "en": ""
+  "en": "Lifewater King"
  },
  {
   "offset": "0xc4900",
   "max": 19,
   "jp": "静地王",
-  "en": ""
+  "en": "Earth King"
  },
  {
   "offset": "0xc491c",
   "max": 19,
   "jp": "斬風王",
-  "en": ""
+  "en": "Blade Wind King"
  },
  {
   "offset": "0xc4938",
   "max": 19,
   "jp": "サトリ",
-  "en": ""
+  "en": "Satori"
  },
  {
   "offset": "0xc4954",
   "max": 19,
   "jp": "ノミ",
-  "en": ""
+  "en": "Flea"
  },
  {
   "offset": "0xc4970",
   "max": 19,
   "jp": "ネコ",
-  "en": ""
+  "en": "Cat"
  },
  {
   "offset": "0xc498c",
   "max": 19,
   "jp": "イヌ",
-  "en": ""
+  "en": "Dog"
  },
  {
   "offset": "0xc49a8",
   "max": 19,
   "jp": "ニワトリ",
-  "en": ""
+  "en": "Chicken"
  },
  {
   "offset": "0xc49c4",
   "max": 19,
   "jp": "サボテン",
-  "en": ""
+  "en": "Cactus"
  },
  {
   "offset": "0xc49e0",
   "max": 19,
   "jp": "ファーマー",
-  "en": ""
+  "en": "Farmer"
  },
  {
   "offset": "0xc49fc",
   "max": 19,
   "jp": "仕立屋",
-  "en": ""
+  "en": "Tailor"
  },
  {
   "offset": "0xc4a18",
   "max": 19,
   "jp": "コーディネーター",
-  "en": ""
+  "en": "Coordinator"
  },
  {
   "offset": "0xc4a34",
   "max": 19,
   "jp": "とのさま",
-  "en": ""
+  "en": "Lord"
  },
  {
   "offset": "0xc4a50",
   "max": 19,
   "jp": "ペンギン",
-  "en": ""
+  "en": "Penguin"
  },
  {
   "offset": "0xc4a6c",
   "max": 19,
   "jp": "カギ開け師",
-  "en": ""
+  "en": "Locksmith"
  },
  {
   "offset": "0xc4a88",
   "max": 19,
   "jp": "チェイサー",
-  "en": ""
+  "en": "Chaser"
  },
  {
   "offset": "0xc4aa4",
   "max": 19,
   "jp": "タワーマスター",
-  "en": ""
+  "en": "Tower Master"
  },
  {
   "offset": "0xc4ac0",
   "max": 19,
   "jp": "ポイントゲッター",
-  "en": ""
+  "en": "Point Getter"
  },
  {
   "offset": "0xc5714",
   "max": 16,
   "jp": "ブタ",
-  "en": ""
+  "en": "Pig"
  },
  {
   "offset": "0xc5728",
   "max": 16,
   "jp": "ウェイブ",
-  "en": ""
+  "en": "Wave"
  },
  {
   "offset": "0xc573c",
   "max": 16,
   "jp": "ブレイク",
-  "en": ""
+  "en": "Break"
  },
  {
   "offset": "0xc5750",
   "max": 16,
   "jp": "クク",
-  "en": ""
+  "en": "Kuku"
  },
  {
   "offset": "0xc5764",
   "max": 16,
   "jp": "ラフウィンド",
-  "en": ""
+  "en": "Rough Wind"
  },
  {
   "offset": "0xc5778",
   "max": 16,
   "jp": "影王",
-  "en": ""
+  "en": "Kageo"
  },
  {
   "offset": "0xc578c",
   "max": 16,
   "jp": "ヒューリー",
-  "en": ""
+  "en": "Hurley"
  },
  {
   "offset": "0xc57a0",
   "max": 16,
   "jp": "鉄",
-  "en": ""
+  "en": "Tetsu"
  },
  {
   "offset": "0xc57b4",
   "max": 16,
   "jp": "アイアイ",
-  "en": ""
+  "en": "Aiai"
  },
  {
   "offset": "0xc57c8",
   "max": 16,
   "jp": "クッキー",
-  "en": ""
+  "en": "Cookie"
  },
  {
   "offset": "0xc57dc",
   "max": 16,
   "jp": "メルン",
-  "en": ""
+  "en": "Merun"
  },
  {
   "offset": "0xc57f0",
   "max": 16,
   "jp": "蘭花",
-  "en": ""
+  "en": "Ranka"
  },
  {
   "offset": "0xc5804",
   "max": 16,
   "jp": "ボロ",
-  "en": ""
+  "en": "Boro"
  },
  {
   "offset": "0xc5818",
   "max": 16,
   "jp": "ボロボロ",
-  "en": ""
+  "en": "Boroboro"
  },
  {
   "offset": "0xc582c",
   "max": 16,
   "jp": "ワンダーマント",
-  "en": ""
+  "en": "Wonder Mantle"
  },
  {
   "offset": "0xc5840",
   "max": 16,
   "jp": "ズタ",
-  "en": ""
+  "en": "Zuta"
  },
  {
   "offset": "0xc5854",
   "max": 16,
   "jp": "ズタボロ",
-  "en": ""
+  "en": "Zutaboro"
  },
  {
   "offset": "0xc5868",
   "max": 16,
   "jp": "アバウトマント",
-  "en": ""
+  "en": "About Mantle"
  },
  {
   "offset": "0xc587c",
   "max": 16,
   "jp": "カザステ",
-  "en": ""
+  "en": "Kazaste"
  },
  {
   "offset": "0xc5890",
   "max": 16,
   "jp": "冒険者",
-  "en": ""
+  "en": "Adventurer"
  },
  {
   "offset": "0xc58a4",
   "max": 16,
   "jp": "冒険者",
-  "en": ""
+  "en": "Adventurer"
  },
  {
   "offset": "0xc58b8",
   "max": 16,
   "jp": "商人",
-  "en": ""
+  "en": "Merchant"
  },
  {
   "offset": "0xc58cc",
   "max": 16,
   "jp": "商人",
-  "en": ""
+  "en": "Merchant"
  },
  {
   "offset": "0xc58e0",
   "max": 16,
   "jp": "おいはぎ",
-  "en": ""
+  "en": "Bandit"
  },
  {
   "offset": "0xc58f4",
   "max": 16,
   "jp": "コボルト",
-  "en": ""
+  "en": "Kobold"
  },
  {
   "offset": "0xc5908",
   "max": 16,
   "jp": "ナハトコボルト",
-  "en": ""
+  "en": "Nacht Kobold"
  },
  {
   "offset": "0xc591c",
   "max": 16,
   "jp": "ガリアンコボルト",
-  "en": ""
+  "en": "Gallian Kobold"
  },
  {
   "offset": "0xc5930",
   "max": 16,
   "jp": "ゴブリン",
-  "en": ""
+  "en": "Goblin"
  },
  {
   "offset": "0xc5944",
   "max": 16,
   "jp": "ホブゴブリン",
-  "en": ""
+  "en": "Hobgoblin"
  },
  {
   "offset": "0xc5958",
   "max": 16,
   "jp": "マスターゴブリン",
-  "en": ""
+  "en": "Master Goblin"
  },
  {
   "offset": "0xc596c",
   "max": 16,
   "jp": "赤鬼",
-  "en": ""
+  "en": "Red Oni"
  },
  {
   "offset": "0xc5980",
   "max": 16,
   "jp": "くまごろし",
-  "en": ""
+  "en": "Bear Killer"
  },
  {
   "offset": "0xc5994",
   "max": 16,
   "jp": "青鬼",
-  "en": ""
+  "en": "Blue Oni"
  },
  {
   "offset": "0xc59a8",
   "max": 16,
   "jp": "阿修羅",
-  "en": ""
+  "en": "Asura"
  },
  {
   "offset": "0xc59bc",
   "max": 16,
   "jp": "シュラキ",
-  "en": ""
+  "en": "Shuraki"
  },
  {
   "offset": "0xc59d0",
   "max": 16,
   "jp": "闘神",
-  "en": ""
+  "en": "War God"
  },
  {
   "offset": "0xc59e4",
   "max": 16,
   "jp": "ガキ",
-  "en": ""
+  "en": "Gaki"
  },
  {
   "offset": "0xc59f8",
   "max": 16,
   "jp": "陰鬼",
-  "en": ""
+  "en": "Shadow Oni"
  },
  {
   "offset": "0xc5a0c",
   "max": 16,
   "jp": "火吹き",
-  "en": ""
+  "en": "Fire Breather"
  },
  {
   "offset": "0xc5a20",
   "max": 16,
   "jp": "ブリモリン",
-  "en": ""
+  "en": "Brimorin"
  },
  {
   "offset": "0xc5a34",
   "max": 16,
   "jp": "ヤーマ",
-  "en": ""
+  "en": "Yama"
  },
  {
   "offset": "0xc5a48",
   "max": 16,
   "jp": "ゴースト",
-  "en": ""
+  "en": "Ghost"
  },
  {
   "offset": "0xc5a5c",
   "max": 16,
   "jp": "レイス",
-  "en": ""
+  "en": "Wraith"
  },
  {
   "offset": "0xc5a70",
   "max": 16,
   "jp": "ソリッド",
-  "en": ""
+  "en": "Solid"
  },
  {
   "offset": "0xc5a84",
   "max": 16,
   "jp": "ゾンビ",
-  "en": ""
+  "en": "Zombie"
  },
  {
   "offset": "0xc5a98",
   "max": 16,
   "jp": "腐りかけた戦士",
-  "en": ""
+  "en": "Rotting Warrior"
  },
  {
   "offset": "0xc5aac",
   "max": 16,
   "jp": "不死の屍",
-  "en": ""
+  "en": "Undead Corpse"
  },
  {
   "offset": "0xc5ac0",
   "max": 16,
   "jp": "青白い死体",
-  "en": ""
+  "en": "Pale Corpse"
  },
  {
   "offset": "0xc5ad4",
   "max": 16,
   "jp": "グール",
-  "en": ""
+  "en": "Ghoul"
  },
  {
   "offset": "0xc5ae8",
   "max": 16,
   "jp": "死せる英雄",
-  "en": ""
+  "en": "Dead Hero"
  },
  {
   "offset": "0xc5afc",
   "max": 16,
   "jp": "朽ちた屍",
-  "en": ""
+  "en": "Decayed Corpse"
  },
  {
   "offset": "0xc5b10",
   "max": 16,
   "jp": "スケルトン",
-  "en": ""
+  "en": "Skeleton"
  },
  {
   "offset": "0xc5b24",
   "max": 16,
   "jp": "死者の王",
-  "en": ""
+  "en": "King of the Dead"
  },
  {
   "offset": "0xc5b38",
   "max": 16,
   "jp": "カラス",
-  "en": ""
+  "en": "Crow"
  },
  {
   "offset": "0xc5b4c",
   "max": 16,
   "jp": "闇紅",
-  "en": ""
+  "en": "Dark Crimson"
  },
  {
   "offset": "0xc5b60",
   "max": 16,
   "jp": "かるら",
-  "en": ""
+  "en": "Karura"
  },
  {
   "offset": "0xc5b74",
   "max": 16,
   "jp": "ヴァンパイア",
-  "en": ""
+  "en": "Vampire"
  },
  {
   "offset": "0xc5b88",
   "max": 16,
   "jp": "死神",
-  "en": ""
+  "en": "Reaper"
  },
  {
   "offset": "0xc5bb0",
   "max": 16,
   "jp": "ドロール",
-  "en": ""
+  "en": "Drool"
  },
  {
   "offset": "0xc5bc4",
   "max": 16,
   "jp": "歩くきのこ",
-  "en": ""
+  "en": "Walking Shroom"
  },
  {
   "offset": "0xc5bd8",
   "max": 16,
   "jp": "うごめく菌糸",
-  "en": ""
+  "en": "Writhing Mold"
  },
  {
   "offset": "0xc5bec",
   "max": 16,
   "jp": "鬼茸",
-  "en": ""
+  "en": "Oni Shroom"
  },
  {
   "offset": "0xc5c00",
   "max": 16,
   "jp": "インプ",
-  "en": ""
+  "en": "Imp"
  },
  {
   "offset": "0xc5c14",
   "max": 16,
   "jp": "グレムリン",
-  "en": ""
+  "en": "Gremlin"
  },
  {
   "offset": "0xc5c28",
   "max": 16,
   "jp": "エルムリン",
-  "en": ""
+  "en": "Elmlin"
  },
  {
   "offset": "0xc5c3c",
   "max": 16,
   "jp": "半魚人",
-  "en": ""
+  "en": "Merman"
  },
  {
   "offset": "0xc5c50",
   "max": 16,
   "jp": "魚人",
-  "en": ""
+  "en": "Fishman"
  },
  {
   "offset": "0xc5c64",
   "max": 16,
   "jp": "水の魔人",
-  "en": ""
+  "en": "Water Djinn"
  },
  {
   "offset": "0xc5c78",
   "max": 16,
   "jp": "アクマ",
-  "en": ""
+  "en": "Akuma"
  },
  {
   "offset": "0xc5c8c",
   "max": 16,
   "jp": "ディーモン",
-  "en": ""
+  "en": "Demon"
  },
  {
   "offset": "0xc5ca0",
   "max": 16,
   "jp": "グレーターデビル",
-  "en": ""
+  "en": "Greater Devil"
  },
  {
   "offset": "0xc5cb4",
   "max": 16,
   "jp": "虚神",
-  "en": ""
+  "en": "Void God"
  },
  {
   "offset": "0xc5cc8",
   "max": 16,
   "jp": "ルドーラ",
-  "en": ""
+  "en": "Rudora"
  },
  {
   "offset": "0xc5cdc",
   "max": 16,
   "jp": "治めし者",
-  "en": ""
+  "en": "The Ruler"
  },
  {
   "offset": "0xc5cf0",
   "max": 16,
   "jp": "ブレイク",
-  "en": ""
+  "en": "Break"
  },
  {
   "offset": "0xc5d04",
   "max": 16,
   "jp": "ドッペルゲンガー",
-  "en": ""
+  "en": "Doppelganger"
  },
  {
   "offset": "0xc5d18",
   "max": 16,
   "jp": "フンドウ",
-  "en": ""
+  "en": "Fundou"
  },
  {
   "offset": "0xc5d2c",
   "max": 16,
   "jp": "タベロン",
-  "en": ""
+  "en": "Taberon"
  },
  {
   "offset": "0xc5d40",
   "max": 16,
   "jp": "サラマンダー",
-  "en": ""
+  "en": "Salamander"
  },
  {
   "offset": "0xc5d54",
   "max": 16,
   "jp": "コマンビー",
-  "en": ""
+  "en": "Komanbee"
  },
  {
   "offset": "0xc5d68",
   "max": 16,
   "jp": "マンビー",
-  "en": ""
+  "en": "Manbee"
  },
  {
   "offset": "0xc5d7c",
   "max": 16,
   "jp": "最悪大王",
-  "en": ""
+  "en": "Worst King"
  },
  {
   "offset": "0xc5d90",
   "max": 16,
   "jp": "騎士の抜け殻",
-  "en": ""
+  "en": "Knight's Husk"
  },
  {
   "offset": "0xc5da4",
   "max": 16,
   "jp": "ディスラプト",
-  "en": ""
+  "en": "Disrupt"
  },
  {
   "offset": "0xc5db8",
   "max": 16,
   "jp": "ヘルガイア",
-  "en": ""
+  "en": "Hellgaia"
  },
  {
   "offset": "0xc5dcc",
   "max": 16,
   "jp": "コインマン",
-  "en": ""
+  "en": "Coinman"
  },
  {
   "offset": "0xc5de0",
   "max": 16,
   "jp": "メッキコイン",
-  "en": ""
+  "en": "Plated Coin"
  },
  {
   "offset": "0xc5df4",
   "max": 16,
   "jp": "呪いコイン",
-  "en": ""
+  "en": "Cursed Coin"
  },
  {
   "offset": "0xc5e08",
   "max": 16,
   "jp": "病気コイン",
-  "en": ""
+  "en": "Sick Coin"
  },
  {
   "offset": "0xc5e1c",
   "max": 16,
   "jp": "暴れコイン",
-  "en": ""
+  "en": "Wild Coin"
  },
  {
   "offset": "0xc5e30",
   "max": 16,
   "jp": "王様コイン",
-  "en": ""
+  "en": "King Coin"
  },
  {
   "offset": "0xc5e44",
   "max": 16,
   "jp": "巨神の足",
-  "en": ""
+  "en": "Titan's Foot"
  },
  {
   "offset": "0xc5e58",
   "max": 16,
   "jp": "死人使い",
-  "en": ""
+  "en": "Necromancer"
  },
  {
   "offset": "0xc5e6c",
   "max": 17,
   "jp": "狂犬",
-  "en": ""
+  "en": "Mad Dog"
  },
  {
   "offset": "0xc5e80",
   "max": 17,
   "jp": "キリングドッグ",
-  "en": ""
+  "en": "Killing Dog"
  },
  {
   "offset": "0xc5e94",
   "max": 17,
   "jp": "キルショップ",
-  "en": ""
+  "en": "Killshop"
  },
  {
   "offset": "0xc5ea8",
   "max": 17,
   "jp": "野獣",
-  "en": ""
+  "en": "Wild Beast"
  },
  {
   "offset": "0xc5ebc",
   "max": 17,
   "jp": "地獄の門番",
-  "en": ""
+  "en": "Hellgate Keeper"
  },
  {
   "offset": "0xc5ed0",
   "max": 17,
   "jp": "怒れるモノ",
-  "en": ""
+  "en": "The Angry One"
  },
  {
   "offset": "0xc5ee4",
   "max": 17,
   "jp": "リザード",
-  "en": ""
+  "en": "Lizard"
  },
  {
   "offset": "0xc5ef8",
   "max": 17,
   "jp": "大とかげ",
-  "en": ""
+  "en": "Giant Lizard"
  },
  {
   "offset": "0xc5f0c",
   "max": 17,
   "jp": "はらぺこトカゲ",
-  "en": ""
+  "en": "Hungry Lizard"
  },
  {
   "offset": "0xc5f20",
   "max": 17,
   "jp": "ムカデ",
-  "en": ""
+  "en": "Centipede"
  },
  {
   "offset": "0xc5f34",
   "max": 17,
   "jp": "つのムカデ",
-  "en": ""
+  "en": "Horned Centipede"
  },
  {
   "offset": "0xc5f48",
   "max": 17,
   "jp": "よだれ虫",
-  "en": ""
+  "en": "Drool Bug"
  },
  {
   "offset": "0xc5f5c",
   "max": 17,
   "jp": "ひよこむし",
-  "en": ""
+  "en": "Chickbug"
  },
  {
   "offset": "0xc5f70",
   "max": 17,
   "jp": "人を喰らう虫",
-  "en": ""
+  "en": "Maneater Bug"
  },
  {
   "offset": "0xc5f84",
   "max": 17,
   "jp": "地獄のとさか",
-  "en": ""
+  "en": "Hell Crest"
  },
  {
   "offset": "0xc5f98",
   "max": 17,
   "jp": "魔魚",
-  "en": ""
+  "en": "Demon Fish"
  },
  {
   "offset": "0xc5fac",
   "max": 17,
   "jp": "飛び岩",
-  "en": ""
+  "en": "Flying Rock"
  },
  {
   "offset": "0xc5fc0",
   "max": 17,
   "jp": "雲海魚",
-  "en": ""
+  "en": "Cloudfish"
  },
  {
   "offset": "0xc5fd4",
   "max": 17,
   "jp": "バット",
-  "en": ""
+  "en": "Bat"
  },
  {
   "offset": "0xc5fe8",
   "max": 17,
   "jp": "ブラッディバット",
-  "en": ""
+  "en": "Bloody Bat"
  },
  {
   "offset": "0xc5ffc",
   "max": 17,
   "jp": "キリングバット",
-  "en": ""
+  "en": "Killing Bat"
  },
  {
   "offset": "0xc6010",
   "max": 16,
   "jp": "ドレイク",
-  "en": ""
+  "en": "Drake"
  },
  {
   "offset": "0xc6024",
   "max": 16,
   "jp": "ファイアドレイク",
-  "en": ""
+  "en": "Fire Drake"
  },
  {
   "offset": "0xc6038",
   "max": 16,
   "jp": "ダークドレイク",
-  "en": ""
+  "en": "Dark Drake"
  },
  {
   "offset": "0xc604c",
   "max": 16,
   "jp": "ワイバーン",
-  "en": ""
+  "en": "Wyvern"
  },
  {
   "offset": "0xc6060",
   "max": 16,
   "jp": "飛竜",
-  "en": ""
+  "en": "Sky Dragon"
  },
  {
   "offset": "0xc6074",
   "max": 16,
   "jp": "カシュシリアス",
-  "en": ""
+  "en": "Kashushirias"
  },
  {
   "offset": "0xc6088",
   "max": 16,
   "jp": "プルトス",
-  "en": ""
+  "en": "Plutos"
  },
  {
   "offset": "0xc609c",
   "max": 16,
   "jp": "アースプルトス",
-  "en": ""
+  "en": "Earth Plutos"
  },
  {
   "offset": "0xc60b0",
   "max": 16,
   "jp": "グレイトプルトス",
-  "en": ""
+  "en": "Great Plutos"
  },
  {
   "offset": "0xc60c4",
   "max": 16,
   "jp": "ドラゴン",
-  "en": ""
+  "en": "Dragon"
  },
  {
   "offset": "0xc60d8",
   "max": 16,
   "jp": "フレアルディアス",
-  "en": ""
+  "en": "Flareldias"
  },
  {
   "offset": "0xc60ec",
   "max": 16,
   "jp": "バラハム",
-  "en": ""
+  "en": "Baraham"
  },
  {
   "offset": "0xc6100",
   "max": 16,
   "jp": "アビスフィアー",
-  "en": ""
+  "en": "Abyss Fear"
  },
  {
   "offset": "0xc6114",
   "max": 16,
   "jp": "シルフィード",
-  "en": ""
+  "en": "Sylphid"
  },
  {
   "offset": "0xc6128",
   "max": 16,
   "jp": "エンパイア",
-  "en": ""
+  "en": "Empire"
  },
  {
   "offset": "0xc613c",
   "max": 16,
   "jp": "クレリューフ",
-  "en": ""
+  "en": "Cleryuf"
  },
  {
   "offset": "0xc6150",
   "max": 16,
   "jp": "皇竜スペクトラル",
-  "en": ""
+  "en": "Emperor Spectral"
  },
  {
   "offset": "0xc64f0",
   "max": 16,
   "jp": "なぐる",
-  "en": ""
+  "en": "Punch"
  },
  {
   "offset": "0xc6554",
   "max": 16,
   "jp": "ワンツー",
-  "en": ""
+  "en": "One-Two"
  },
  {
   "offset": "0xc65b8",
   "max": 16,
   "jp": "ムーンライト突き",
-  "en": ""
+  "en": "Moonlight Jab"
  },
  {
   "offset": "0xc661c",
   "max": 16,
   "jp": "しょうげきは",
-  "en": ""
+  "en": "Shockwave"
  },
  {
   "offset": "0xc6680",
   "max": 16,
   "jp": "シャインパンチ",
-  "en": ""
+  "en": "Shine Punch"
  },
  {
   "offset": "0xc66e4",
   "max": 16,
   "jp": "とぶナックル",
-  "en": ""
+  "en": "Flying Knuckle"
  },
  {
   "offset": "0xc6748",
   "max": 16,
   "jp": "ドラゴンパンチ",
-  "en": ""
+  "en": "Dragon Punch"
  },
  {
   "offset": "0xc67ac",
   "max": 16,
   "jp": "黒の波動",
-  "en": ""
+  "en": "Black Wave"
  },
  {
   "offset": "0xc6810",
   "max": 16,
   "jp": "秘技・皇龍気放覇",
-  "en": ""
+  "en": "Dragon Ki Blast"
  },
  {
   "offset": "0xc6874",
   "max": 16,
   "jp": "裏奥義・殺滅殺",
-  "en": ""
+  "en": "Death Strike"
  },
  {
   "offset": "0xc68d8",
   "max": 16,
   "jp": "斬る",
-  "en": ""
+  "en": "Slash"
  },
  {
   "offset": "0xc693c",
   "max": 16,
   "jp": "連続斬り",
-  "en": ""
+  "en": "Combo Slash"
  },
  {
   "offset": "0xc69a0",
   "max": 16,
   "jp": "みじん切り",
-  "en": ""
+  "en": "Mince"
  },
  {
   "offset": "0xc6a04",
   "max": 16,
   "jp": "すきま通し",
-  "en": ""
+  "en": "Gap Thrust"
  },
  {
   "offset": "0xc6a68",
   "max": 16,
   "jp": "千切り",
-  "en": ""
+  "en": "Shred"
  },
  {
   "offset": "0xc6acc",
   "max": 16,
   "jp": "切り捨て御免",
-  "en": ""
+  "en": "Cut Down"
  },
  {
   "offset": "0xc6b30",
   "max": 16,
   "jp": "聖剣・霊光断",
-  "en": ""
+  "en": "Holy Light Cut"
  },
  {
   "offset": "0xc6b94",
   "max": 16,
   "jp": "邪剣・天地破滅斬",
-  "en": ""
+  "en": "Doom Slash"
  },
  {
   "offset": "0xc6bf8",
   "max": 16,
   "jp": "黙示録の剣",
-  "en": ""
+  "en": "Apocalypse Blade"
  },
  {
   "offset": "0xc6c5c",
   "max": 16,
   "jp": "裏奥義・封神閃",
-  "en": ""
+  "en": "Sealing Flash"
  },
  {
   "offset": "0xc6cc0",
   "max": 16,
   "jp": "無償の祈り",
-  "en": ""
+  "en": "Free Prayer"
  },
  {
   "offset": "0xc6d24",
   "max": 16,
   "jp": "回復の祈り",
-  "en": ""
+  "en": "Heal Prayer"
  },
  {
   "offset": "0xc6d88",
   "max": 16,
   "jp": "治癒の祈り",
-  "en": ""
+  "en": "Cure Prayer"
  },
  {
   "offset": "0xc6dec",
   "max": 16,
   "jp": "供養の祈り",
-  "en": ""
+  "en": "Requiem"
  },
  {
   "offset": "0xc6e50",
   "max": 16,
   "jp": "聖治癒の祈り",
-  "en": ""
+  "en": "Holy Cure"
  },
  {
   "offset": "0xc6eb4",
   "max": 16,
   "jp": "反射の祈り",
-  "en": ""
+  "en": "Reflect Prayer"
  },
  {
   "offset": "0xc6f18",
   "max": 16,
   "jp": "復活の祈り",
-  "en": ""
+  "en": "Revive Prayer"
  },
  {
   "offset": "0xc6f7c",
   "max": 16,
   "jp": "聖回復の祈り",
-  "en": ""
+  "en": "Holy Heal"
  },
  {
   "offset": "0xc6fe0",
   "max": 16,
   "jp": "最後の祈り",
-  "en": ""
+  "en": "Last Prayer"
  },
  {
   "offset": "0xc7044",
   "max": 16,
   "jp": "天魔慈愛の祈り",
-  "en": ""
+  "en": "Tenma Mercy"
  },
  {
   "offset": "0xc70a8",
   "max": 16,
   "jp": "無の空間",
-  "en": ""
+  "en": "Void Space"
  },
  {
   "offset": "0xc710c",
   "max": 16,
   "jp": "みえない壁",
-  "en": ""
+  "en": "Invisible Wall"
  },
  {
   "offset": "0xc7170",
   "max": 16,
   "jp": "消滅の瞬き",
-  "en": ""
+  "en": "Vanish Blink"
  },
  {
   "offset": "0xc71d4",
   "max": 16,
   "jp": "破滅の瞬き",
-  "en": ""
+  "en": "Ruin Blink"
  },
  {
   "offset": "0xc7238",
   "max": 16,
   "jp": "消滅の光",
-  "en": ""
+  "en": "Vanish Light"
  },
  {
   "offset": "0xc729c",
   "max": 16,
   "jp": "破滅の光",
-  "en": ""
+  "en": "Ruin Light"
  },
  {
   "offset": "0xc7300",
   "max": 16,
   "jp": "消滅の閃光",
-  "en": ""
+  "en": "Vanish Flash"
  },
  {
   "offset": "0xc7364",
   "max": 16,
   "jp": "破滅の閃光",
-  "en": ""
+  "en": "Ruin Flash"
  },
  {
   "offset": "0xc73c8",
   "max": 16,
   "jp": "原子分解",
-  "en": ""
+  "en": "Disintegrate"
  },
  {
   "offset": "0xc742c",
   "max": 16,
   "jp": "天魔最終",
-  "en": ""
+  "en": "Tenma Finale"
  },
  {
   "offset": "0xc7490",
   "max": 16,
   "jp": "炎の空間",
-  "en": ""
+  "en": "Fire Space"
  },
  {
   "offset": "0xc74f4",
   "max": 16,
   "jp": "炎の呪文",
-  "en": ""
+  "en": "Fire Spell"
  },
  {
   "offset": "0xc7558",
   "max": 16,
   "jp": "熱の呪文",
-  "en": ""
+  "en": "Heat Spell"
  },
  {
   "offset": "0xc75bc",
   "max": 16,
   "jp": "剣魔斬・炎",
-  "en": ""
+  "en": "Flame Slash"
  },
  {
   "offset": "0xc7620",
   "max": 16,
   "jp": "爆熱の呪文",
-  "en": ""
+  "en": "Blast Heat"
  },
  {
   "offset": "0xc7684",
   "max": 16,
   "jp": "爆炎の呪文",
-  "en": ""
+  "en": "Blaze Spell"
  },
  {
   "offset": "0xc76e8",
   "max": 16,
   "jp": "灼熱の剣",
-  "en": ""
+  "en": "Scorch Sword"
  },
  {
   "offset": "0xc774c",
   "max": 16,
   "jp": "轟炎の剣",
-  "en": ""
+  "en": "Inferno Sword"
  },
  {
   "offset": "0xc77b0",
   "max": 16,
   "jp": "最後の炎",
-  "en": ""
+  "en": "Last Flame"
  },
  {
   "offset": "0xc7814",
   "max": 16,
   "jp": "天魔爆炎",
-  "en": ""
+  "en": "Tenma Blaze"
  },
  {
   "offset": "0xc7878",
   "max": 16,
   "jp": "風の空間",
-  "en": ""
+  "en": "Wind Space"
  },
  {
   "offset": "0xc78dc",
   "max": 16,
   "jp": "風の呪文",
-  "en": ""
+  "en": "Wind Spell"
  },
  {
   "offset": "0xc7940",
   "max": 16,
   "jp": "雷の呪文",
-  "en": ""
+  "en": "Thunder Spell"
  },
  {
   "offset": "0xc79a4",
   "max": 16,
   "jp": "剣魔斬・風",
-  "en": ""
+  "en": "Wind Slash"
  },
  {
   "offset": "0xc7a08",
   "max": 16,
   "jp": "爆雷の呪文",
-  "en": ""
+  "en": "Blast Thunder"
  },
  {
   "offset": "0xc7a6c",
   "max": 16,
   "jp": "爆風の呪文",
-  "en": ""
+  "en": "Gale Spell"
  },
  {
   "offset": "0xc7ad0",
   "max": 16,
   "jp": "雷電の剣",
-  "en": ""
+  "en": "Lightning Sword"
  },
  {
   "offset": "0xc7b34",
   "max": 16,
   "jp": "竜巻の剣",
-  "en": ""
+  "en": "Tornado Sword"
  },
  {
   "offset": "0xc7b98",
   "max": 16,
   "jp": "最後の風",
-  "en": ""
+  "en": "Last Wind"
  },
  {
   "offset": "0xc7bfc",
   "max": 16,
   "jp": "天魔疾風",
-  "en": ""
+  "en": "Tenma Gale"
  },
  {
   "offset": "0xc7c60",
   "max": 16,
   "jp": "水の空間",
-  "en": ""
+  "en": "Water Space"
  },
  {
   "offset": "0xc7cc4",
   "max": 16,
   "jp": "水の呪文",
-  "en": ""
+  "en": "Water Spell"
  },
  {
   "offset": "0xc7d28",
   "max": 16,
   "jp": "氷の呪文",
-  "en": ""
+  "en": "Ice Spell"
  },
  {
   "offset": "0xc7d8c",
   "max": 16,
   "jp": "剣魔斬・水",
-  "en": ""
+  "en": "Water Slash"
  },
  {
   "offset": "0xc7df0",
   "max": 16,
   "jp": "氷界の呪文",
-  "en": ""
+  "en": "Frost Spell"
  },
  {
   "offset": "0xc7e54",
   "max": 16,
   "jp": "水界の呪文",
-  "en": ""
+  "en": "Tide Spell"
  },
  {
   "offset": "0xc7eb8",
   "max": 16,
   "jp": "氷河の剣",
-  "en": ""
+  "en": "Glacier Sword"
  },
  {
   "offset": "0xc7f1c",
   "max": 16,
   "jp": "水明の剣",
-  "en": ""
+  "en": "Clearwater Blade"
  },
  {
   "offset": "0xc7f80",
   "max": 16,
   "jp": "最後の水",
-  "en": ""
+  "en": "Last Water"
  },
  {
   "offset": "0xc7fe4",
   "max": 16,
   "jp": "天魔命水",
-  "en": ""
+  "en": "Tenma Lifewater"
  },
  {
   "offset": "0xc8048",
   "max": 16,
   "jp": "地の空間",
-  "en": ""
+  "en": "Earth Space"
  },
  {
   "offset": "0xc80ac",
   "max": 16,
   "jp": "地の呪文",
-  "en": ""
+  "en": "Earth Spell"
  },
  {
   "offset": "0xc8110",
   "max": 16,
   "jp": "緑の呪文",
-  "en": ""
+  "en": "Green Spell"
  },
  {
   "offset": "0xc8174",
   "max": 16,
   "jp": "剣魔斬・地",
-  "en": ""
+  "en": "Earth Slash"
  },
  {
   "offset": "0xc81d8",
   "max": 16,
   "jp": "緑界の呪文",
-  "en": ""
+  "en": "Verdant Spell"
  },
  {
   "offset": "0xc823c",
   "max": 16,
   "jp": "地界の呪文",
-  "en": ""
+  "en": "Terra Spell"
  },
  {
   "offset": "0xc82a0",
   "max": 16,
   "jp": "万緑の剣",
-  "en": ""
+  "en": "Evergreen Sword"
  },
  {
   "offset": "0xc8304",
   "max": 16,
   "jp": "大地の剣",
-  "en": ""
+  "en": "Earth Sword"
  },
  {
   "offset": "0xc8368",
   "max": 16,
   "jp": "最後の地",
-  "en": ""
+  "en": "Last Earth"
  },
  {
   "offset": "0xc83cc",
   "max": 16,
   "jp": "天魔守地",
-  "en": ""
+  "en": "Tenma Aegis"
  },
  {
   "offset": "0xc8430",
   "max": 16,
   "jp": "鼻歌",
-  "en": ""
+  "en": "Hum"
  },
  {
   "offset": "0xc8494",
   "max": 16,
   "jp": "考える",
-  "en": ""
+  "en": "Think"
  },
  {
   "offset": "0xc84f8",
   "max": 16,
   "jp": "花と木の歌",
-  "en": ""
+  "en": "Song of Flowers"
  },
  {
   "offset": "0xc855c",
   "max": 16,
   "jp": "役立てる",
-  "en": ""
+  "en": "Make Use"
  },
  {
   "offset": "0xc85c0",
   "max": 16,
   "jp": "月と夜の歌",
-  "en": ""
+  "en": "Song of Night"
  },
  {
   "offset": "0xc8624",
   "max": 16,
   "jp": "説得する",
-  "en": ""
+  "en": "Persuade"
  },
  {
   "offset": "0xc8688",
   "max": 16,
   "jp": "空と光の歌",
-  "en": ""
+  "en": "Song of Light"
  },
  {
   "offset": "0xc86ec",
   "max": 16,
   "jp": "悟らせる",
-  "en": ""
+  "en": "Enlighten"
  },
  {
   "offset": "0xc8750",
   "max": 16,
   "jp": "天の理の歌",
-  "en": ""
+  "en": "Song of Heaven"
  },
  {
   "offset": "0xc87b4",
   "max": 16,
   "jp": "調停者の導き",
-  "en": ""
+  "en": "Mediator's Way"
  },
  {
   "offset": "0xc8818",
   "max": 16,
   "jp": "口笛",
-  "en": ""
+  "en": "Whistle"
  },
  {
   "offset": "0xc887c",
   "max": 16,
   "jp": "なめる",
-  "en": ""
+  "en": "Lick"
  },
  {
   "offset": "0xc88e0",
   "max": 16,
   "jp": "おたけび",
-  "en": ""
+  "en": "War Cry"
  },
  {
   "offset": "0xc8944",
   "max": 16,
   "jp": "しゃぶる",
-  "en": ""
+  "en": "Suck"
  },
  {
   "offset": "0xc89a8",
   "max": 16,
   "jp": "解り合う",
-  "en": ""
+  "en": "Understand"
  },
  {
   "offset": "0xc8a0c",
   "max": 16,
   "jp": "かじる",
-  "en": ""
+  "en": "Gnaw"
  },
  {
   "offset": "0xc8a70",
   "max": 16,
   "jp": "語りのきずな",
-  "en": ""
+  "en": "Bond of Words"
  },
  {
   "offset": "0xc8ad4",
   "max": 16,
   "jp": "食べる",
-  "en": ""
+  "en": "Eat"
  },
  {
   "offset": "0xc8b38",
   "max": 16,
   "jp": "愛",
-  "en": ""
+  "en": "Love"
  },
  {
   "offset": "0xc8b9c",
   "max": 16,
   "jp": "大食尽",
-  "en": ""
+  "en": "Devour All"
  },
  {
   "offset": "0xc8c00",
   "max": 16,
   "jp": "逃げる",
-  "en": ""
+  "en": "Flee"
  },
  {
   "offset": "0xc8c64",
   "max": 16,
   "jp": "ぬすむ",
-  "en": ""
+  "en": "Steal"
  },
  {
   "offset": "0xc8cc8",
   "max": 16,
   "jp": "だまし討ち",
-  "en": ""
+  "en": "Sneak Attack"
  },
  {
   "offset": "0xc8d2c",
   "max": 16,
   "jp": "減らす",
-  "en": ""
+  "en": "Reduce"
  },
  {
   "offset": "0xc8d90",
   "max": 16,
   "jp": "化ける",
-  "en": ""
+  "en": "Disguise"
  },
  {
   "offset": "0xc8df4",
   "max": 16,
   "jp": "封じる",
-  "en": ""
+  "en": "Seal"
  },
  {
   "offset": "0xc8e58",
   "max": 16,
   "jp": "消える",
-  "en": ""
+  "en": "Vanish"
  },
  {
   "offset": "0xc8ebc",
   "max": 16,
   "jp": "増やす",
-  "en": ""
+  "en": "Multiply"
  },
  {
   "offset": "0xc8f20",
   "max": 16,
   "jp": "大変更",
-  "en": ""
+  "en": "Big Change"
  },
  {
   "offset": "0xc8f84",
   "max": 16,
   "jp": "無限地獄",
-  "en": ""
+  "en": "Endless Hell"
  },
  {
   "offset": "0xc8fe8",
   "max": 16,
   "jp": "たたずむ",
-  "en": ""
+  "en": "Stand Still"
  },
  {
   "offset": "0xc904c",
   "max": 16,
   "jp": "メダル",
-  "en": ""
+  "en": "Medal"
  },
  {
   "offset": "0xc90b0",
   "max": 16,
   "jp": "おどる",
-  "en": ""
+  "en": "Dance"
  },
  {
   "offset": "0xc9114",
   "max": 16,
   "jp": "サイコロ",
-  "en": ""
+  "en": "Dice"
  },
  {
   "offset": "0xc9178",
   "max": 16,
   "jp": "キスする",
-  "en": ""
+  "en": "Kiss"
  },
  {
   "offset": "0xc91dc",
   "max": 16,
   "jp": "カード",
-  "en": ""
+  "en": "Card"
  },
  {
   "offset": "0xc9240",
   "max": 16,
   "jp": "変なこと",
-  "en": ""
+  "en": "Weird Stuff"
  },
  {
   "offset": "0xc92a4",
   "max": 16,
   "jp": "占い",
-  "en": ""
+  "en": "Fortune"
  },
  {
   "offset": "0xc936c",
   "max": 16,
   "jp": "神々のパズル",
-  "en": ""
+  "en": "Gods' Puzzle"
  },
  {
   "offset": "0xc93d0",
   "max": 16,
   "jp": "ほうし",
-  "en": ""
+  "en": "Spores"
  },
  {
   "offset": "0xc9434",
   "max": 16,
   "jp": "爪",
-  "en": ""
+  "en": "Claw"
  },
  {
   "offset": "0xc9498",
   "max": 16,
   "jp": "かみつく",
-  "en": ""
+  "en": "Bite"
  },
  {
   "offset": "0xc94fc",
   "max": 16,
   "jp": "う○こくん",
-  "en": ""
+  "en": "Mr. Po○p"
  },
  {
   "offset": "0xc9560",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc95c4",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc9628",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc968c",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc96f0",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc9754",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc97b8",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc981c",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc9880",
   "max": 16,
   "jp": "召喚",
-  "en": ""
+  "en": "Summon"
  },
  {
   "offset": "0xc98e4",
   "max": 16,
   "jp": "いかりの一撃",
-  "en": ""
+  "en": "Angry Blow"
  },
  {
   "offset": "0xc9948",
   "max": 16,
   "jp": "光るナワ",
-  "en": ""
+  "en": "Glowing Rope"
  },
  {
   "offset": "0xc99ac",
   "max": 16,
   "jp": "吸収",
-  "en": ""
+  "en": "Absorb"
  },
  {
   "offset": "0xc9a10",
   "max": 16,
   "jp": "よだれ",
-  "en": ""
+  "en": "Drool"
  },
  {
   "offset": "0xc9a74",
   "max": 16,
   "jp": "灼熱",
-  "en": ""
+  "en": "Scorch"
  },
  {
   "offset": "0xc9ad8",
   "max": 16,
   "jp": "稲妻",
-  "en": ""
+  "en": "Lightning"
  },
  {
   "offset": "0xc9b3c",
   "max": 16,
   "jp": "天の雫",
-  "en": ""
+  "en": "Heaven's Drop"
  },
  {
   "offset": "0xc9ba0",
   "max": 16,
   "jp": "氷の牙",
-  "en": ""
+  "en": "Ice Fang"
  },
  {
   "offset": "0xc9c04",
   "max": 16,
   "jp": "大地の息吹",
-  "en": ""
+  "en": "Earth's Breath"
  },
  {
   "offset": "0xc9c68",
   "max": 16,
   "jp": "流星",
-  "en": ""
+  "en": "Meteor"
  },
  {
   "offset": "0xc9ccc",
   "max": 16,
   "jp": "自然の嘆き",
-  "en": ""
+  "en": "Nature's Grief"
  },
  {
   "offset": "0xc9d30",
   "max": 16,
   "jp": "ドラゴンブレス",
-  "en": ""
+  "en": "Dragon Breath"
  },
  {
   "offset": "0xc9d94",
   "max": 16,
   "jp": "ドラゴンブレス",
-  "en": ""
+  "en": "Dragon Breath"
  },
  {
   "offset": "0xc9df8",
   "max": 16,
   "jp": "ドラゴンブレス",
-  "en": ""
+  "en": "Dragon Breath"
  },
  {
   "offset": "0xc9e5c",
   "max": 16,
   "jp": "ドラゴンブレス",
-  "en": ""
+  "en": "Dragon Breath"
  },
  {
   "offset": "0xc9ec0",
   "max": 16,
   "jp": "ドラゴンブレス",
-  "en": ""
+  "en": "Dragon Breath"
  },
  {
   "offset": "0xc9f24",
   "max": 16,
   "jp": "ドラゴンブレス",
-  "en": ""
+  "en": "Dragon Breath"
  },
  {
   "offset": "0xc9f88",
   "max": 16,
   "jp": "ドラゴンブレス",
-  "en": ""
+  "en": "Dragon Breath"
  },
  {
   "offset": "0xc9fec",
   "max": 16,
   "jp": "アイスキャノン",
-  "en": ""
+  "en": "Ice Cannon"
  },
  {
   "offset": "0xca050",
   "max": 16,
   "jp": "加速する進化",
-  "en": ""
+  "en": "Rapid Evolution"
  },
  {
   "offset": "0xca0b4",
   "max": 16,
   "jp": "自然の癒し",
-  "en": ""
+  "en": "Nature's Cure"
  },
  {
   "offset": "0xca118",
   "max": 16,
   "jp": "超音速剣",
-  "en": ""
+  "en": "Sonic Sword"
  },
  {
   "offset": "0xca17c",
   "max": 16,
   "jp": "闇奥義・影落",
-  "en": ""
+  "en": "Shadow Fall"
  },
  {
   "offset": "0xca1e0",
   "max": 16,
   "jp": "銀狼の太刀",
-  "en": ""
+  "en": "Silverwolf Blade"
  },
  {
   "offset": "0xca244",
   "max": 16,
   "jp": "イカズチ",
-  "en": ""
+  "en": "Ikazuchi"
  },
  {
   "offset": "0xca2a8",
   "max": 16,
   "jp": "休息のひととき",
-  "en": ""
+  "en": "Moment of Rest"
  },
  {
   "offset": "0xca30c",
   "max": 16,
   "jp": "聖と闇の法",
-  "en": ""
+  "en": "Holy-Dark Law"
  },
  {
   "offset": "0xca370",
   "max": 16,
   "jp": "クッキーまじっく",
-  "en": ""
+  "en": "Cookie Magic"
  },
  {
   "offset": "0xca3d4",
   "max": 16,
   "jp": "風水の印",
-  "en": ""
+  "en": "Feng Shui Seal"
  },
  {
   "offset": "0xca438",
   "max": 16,
   "jp": "とりつく",
-  "en": ""
+  "en": "Possess"
  },
  {
   "offset": "0xca728",
   "max": 4,
   "jp": "敵１",
-  "en": ""
+  "en": "Foe1"
  },
  {
   "offset": "0xca748",
   "max": 8,
   "jp": "なし",
-  "en": ""
+  "en": "None"
  },
  {
   "offset": "0xca76c",
   "max": 4,
   "jp": "格闘",
-  "en": ""
+  "en": "Brwl"
  },
  {
   "offset": "0xcaa68",
   "max": 19,
   "jp": "今までの最高地点",
-  "en": ""
+  "en": "Highest floor yet"
  },
  {
   "offset": "0xcaed4",
@@ -5603,288 +5602,288 @@
   "offset": "0xcb0d4",
   "max": 827,
   "jp": "(0)メモリーカードをチェックしています(1)ロードする場所を選択してください(2)セーブする場所を選択してください(3)メモリーカードチェックエラーです(4)メモリーカードを差し込み口１に￥ｎセットしてください(5)メモリーカードにデータがありません(6)メモリーカードがフォーマット￥ｎされていません￥ｎフォーマットしますか？(7)フォーマット中…(8)フォーマットが完了しました(9)フォーマットエラーです(10)セーブエラーです(11)ロードエラーです(12)上書きしますか？(13)セーブしています(14)ロードしています(15)はい￥ｎいいえ(16)出口のカギを見つけた！(17)体力がつきた…(18)警報！警報！警報！(19)紙切れが落ちている…(20)ブヒッ！(21)ラッキー出口のカギを見つけた！(22)ハッピー出口のカギを見つけた！(23)さびを落とそう！(24)ひぶっ！(25)メールでーす！(26)中断データは消去されます(27)メモリーカードに空きがありません(28)セーブしますか？(29)中断しますか？(E)",
-  "en": ""
+  "en": "(0)Checking memory card...(1)Choose where to load.(2)Choose where to save.(3)Memory card check error.(4)Insert a memory card￥ｎinto slot 1.(5)No data on the memory card.(6)The memory card is not￥ｎformatted.￥ｎFormat it now?(7)Formatting...(8)Format complete.(9)Format error.(10)Save error.(11)Load error.(12)Overwrite?(13)Saving...(14)Loading...(15)Yes￥ｎNo(16)Found the exit key!(17)Out of HP...(18)Alarm! Alarm! Alarm!(19)A scrap of paper lies here...(20)Oink!(21)Found the Lucky exit key!(22)Found the Happy exit key!(23)Let's polish off the rust!(24)Hbuh!(25)You've got mail!(26)The suspend data will be erased.(27)The memory card is full.(28)Save the game?(29)Suspend the game?(E)"
  },
  {
   "offset": "0xe4594",
   "max": 7,
   "jp": "の行動",
-  "en": ""
+  "en": "'s act"
  },
  {
   "offset": "0xe45ac",
   "max": 7,
   "jp": "格闘",
-  "en": ""
+  "en": "Brawl"
  },
  {
   "offset": "0xe45b4",
   "max": 7,
   "jp": "祈り",
-  "en": ""
+  "en": "Prayer"
  },
  {
   "offset": "0xe45bc",
   "max": 7,
   "jp": "剣術",
-  "en": ""
+  "en": "Sword"
  },
  {
   "offset": "0xe45cc",
   "max": 7,
   "jp": "虚無",
-  "en": ""
+  "en": "Void"
  },
  {
   "offset": "0xe45dc",
   "max": 7,
   "jp": "魔炎",
-  "en": ""
+  "en": "Fire"
  },
  {
   "offset": "0xe45e4",
   "max": 7,
   "jp": "魔水",
-  "en": ""
+  "en": "Water"
  },
  {
   "offset": "0xe45ec",
   "max": 7,
   "jp": "魔風",
-  "en": ""
+  "en": "Wind"
  },
  {
   "offset": "0xe45f4",
   "max": 7,
   "jp": "魔地",
-  "en": ""
+  "en": "Earth"
  },
  {
   "offset": "0xe45fc",
   "max": 7,
   "jp": "賢明",
-  "en": ""
+  "en": "Wisdom"
  },
  {
   "offset": "0xe4604",
   "max": 7,
   "jp": "裏技",
-  "en": ""
+  "en": "Tricks"
  },
  {
   "offset": "0xe460c",
   "max": 7,
   "jp": "自然",
-  "en": ""
+  "en": "Nature"
  },
  {
   "offset": "0xe4614",
   "max": 7,
   "jp": "遊芸",
-  "en": ""
+  "en": "Arts"
  },
  {
   "offset": "0xe4620",
   "max": 3,
   "jp": "近",
-  "en": ""
+  "en": "Nr"
  },
  {
   "offset": "0xe4624",
   "max": 3,
   "jp": "遠",
-  "en": ""
+  "en": "Fr"
  },
  {
   "offset": "0xe4628",
   "max": 3,
   "jp": "全",
-  "en": ""
+  "en": "Al"
  },
  {
   "offset": "0xe462c",
   "max": 3,
   "jp": "補",
-  "en": ""
+  "en": "Sp"
  },
  {
   "offset": "0xe4630",
   "max": 3,
   "jp": "治",
-  "en": ""
+  "en": "Hl"
  },
  {
   "offset": "0xe4634",
   "max": 3,
   "jp": "複",
-  "en": ""
+  "en": "Mu"
  },
  {
   "offset": "0xe4640",
   "max": 3,
   "jp": "枚",
-  "en": ""
+  "en": " "
  },
  {
   "offset": "0xe469c",
   "max": 7,
   "jp": "影王",
-  "en": ""
+  "en": "Kageo"
  },
  {
   "offset": "0xe46a8",
   "max": 7,
   "jp": "クク",
-  "en": ""
+  "en": "Kuku"
  },
  {
   "offset": "0xe46b0",
   "max": 7,
   "jp": "メルン",
-  "en": ""
+  "en": "Merun"
  },
  {
   "offset": "0xe46b8",
   "max": 7,
   "jp": "蘭花",
-  "en": ""
+  "en": "Ranka"
  },
  {
   "offset": "0xe46c0",
   "max": 7,
   "jp": "ボロ",
-  "en": ""
+  "en": "Boro"
  },
  {
   "offset": "0xe46c8",
   "max": 7,
   "jp": "ズタ",
-  "en": ""
+  "en": "Zuta"
  },
  {
   "offset": "0xe46d0",
   "max": 7,
   "jp": "死神",
-  "en": ""
+  "en": "Reaper"
  },
  {
   "offset": "0xe46d8",
   "max": 7,
   "jp": "インプ",
-  "en": ""
+  "en": "Imp"
  },
  {
   "offset": "0xe46e0",
   "max": 7,
   "jp": "アクマ",
-  "en": ""
+  "en": "Akuma"
  },
  {
   "offset": "0xe4728",
   "max": 7,
   "jp": "なし",
-  "en": ""
+  "en": "None"
  },
  {
   "offset": "0xe4740",
   "max": 7,
   "jp": "名人",
-  "en": ""
+  "en": "Master"
  },
  {
   "offset": "0xe4748",
   "max": 7,
   "jp": "師範代",
-  "en": ""
+  "en": "Expert"
  },
  {
   "offset": "0xe4750",
   "max": 7,
   "jp": "上級者",
-  "en": ""
+  "en": "Adept"
  },
  {
   "offset": "0xe4758",
   "max": 7,
   "jp": "中級者",
-  "en": ""
+  "en": "Fair"
  },
  {
   "offset": "0xe4760",
   "max": 7,
   "jp": "初級者",
-  "en": ""
+  "en": "Novice"
  },
  {
   "offset": "0xe4768",
   "max": 7,
   "jp": "初心者",
-  "en": ""
+  "en": "Newbie"
  },
  {
   "offset": "0xe479c",
   "max": 7,
   "jp": "だッ！",
-  "en": ""
+  "en": "!!"
  },
  {
   "offset": "0xe47a8",
   "max": 7,
   "jp": "本当に",
-  "en": ""
+  "en": "Really"
  },
  {
   "offset": "0xe47b8",
   "max": 3,
   "jp": "階",
-  "en": ""
+  "en": "F"
  },
  {
   "offset": "0xe47bc",
   "max": 7,
   "jp": "は￥ｎ",
-  "en": ""
+  "en": ":￥ｎ"
  },
  {
   "offset": "0xe47c4",
   "max": 7,
   "jp": "思わず",
-  "en": ""
+  "en": "Oops!"
  },
  {
   "offset": "0xe47cc",
   "max": 7,
   "jp": "そっと",
-  "en": ""
+  "en": "Gently"
  },
  {
   "offset": "0xe47d8",
   "max": 3,
   "jp": "枚",
-  "en": ""
+  "en": " "
  },
  {
   "offset": "0xe4814",
   "max": 7,
   "jp": "開いた",
-  "en": ""
+  "en": "opened"
  },
  {
   "offset": "0xe481c",
   "max": 7,
   "jp": "あと",
-  "en": ""
+  "en": "Left:"
  },
  {
   "offset": "0xe4938",
   "max": 7,
   "jp": "は￥ｎ",
-  "en": ""
+  "en": ":￥ｎ"
  },
  {
   "offset": "0xe4940",
   "max": 3,
   "jp": "は",
-  "en": ""
+  "en": " "
  }
 ]
