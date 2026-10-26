@@ -19,7 +19,7 @@ You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track
    ```
    python3 tools/build.py "path/to/Spectral Tower II (Japan).bin"
    ```
-   Output: `build/Spectral Tower II (English).bin/.cue`. Add `--fullwidth` to convert English to full-width characters (ＡＢＣ) while the font question is open.
+   Output: `build/Spectral Tower II (English).bin/.cue`. English is encoded with DTE (see below); `--fullwidth` uses full-width characters (ＡＢＣ) instead.
 4. Test in an emulator (DuckStation recommended).
 
 ## Text format
@@ -37,11 +37,27 @@ Lines may start with a label such as `TALK0:`; keep it.
 
 Translated files are patched in place, so each file must still fit in its original sectors. `build.py` reports any file that doesn't fit.
 
+## Font and DTE
+
+The game only draws 2-byte Shift-JIS characters, so plain ASCII shows garbage. Its font is in `SLPS_011.79`: 1bpp glyphs of 16×11 pixels, 22 bytes each, MSB = leftmost pixel.
+
+| Table | RAM | File offset | Codes |
+|---|---|---|---|
+| Symbols, kana, full-width letters | `0x800B9AA4` | `0xAA2A4` | `0x8140`–`0x84BE` |
+| Kanji (JIS level 1) | `0x800BC7AC` | `0xACFAC` | `0x889F`–`0x9872` |
+
+Glyph lookup: `0x80021ACC`; code → index: `0x80021E48`.
+
+`build.py` splits English text into letter pairs, gives each distinct pair a kanji code and draws the pair into that kanji's glyph using `tools/font_5x9.txt` (editable). Kanji still needed by untranslated Japanese text are used last. One character cell holds two letters, so a dialogue line fits about 32 letters; `build.py` warns when a line is longer than the window.
+
+Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`, `(ON030:1)`…), `￥ｎ` and choice markers (`=CP1,`) stay as ASCII. Avoid parentheses around letters/digits in English text, since `(word)` looks like a control code.
+
 ## Status
 
 - [x] Disc reading/patching with EDC/ECC (`tools/psxiso.py`)
 - [x] Extraction and reinsertion of text files (~2,800 lines, 351 files)
-- [ ] Check if the font can display narrow ASCII, or add a variable-width font
+- [x] Font: DTE letter pairs (`tools/dte.py`, `tools/font_5x9.txt`)
+- [ ] Confirm DTE spacing in the emulator; consider variable-width font later
 - [ ] Strings inside the executable `SLPS_011.79` (~1,100 strings, plain Shift-JIS)
 - [ ] Check for fixed-length fields in `ITEM` and `ROOTSDAT` files
 - [ ] Graphics with text (`COMMON/*.TIM`: title, names, save screen)
