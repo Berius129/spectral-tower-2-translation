@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは　ここは運命の町￥ｎ昔からそう呼ばれています(E)",
-  "en": ""
+  "en": "ALL,Hello! This is Destiny Town.￥ｎIt's been called that for ages.(E)"
  },
  {
   "line": 12,
@@ -22,12 +22,12 @@
  {
   "line": 14,
   "jp": "1:1,もし塔の中で彼女に会ったら￥ｎ帰ってこいと言ってくれ(E)",
-  "en": ""
+  "en": "1:1,If you meet my girlfriend in￥ｎthe tower, tell her to return.(E)"
  },
  {
   "line": 15,
   "jp": "DEF,町の北西にある塔へ行くんだろ？￥ｎいいこと教えてやるよ(B)塔の中にも町があるんだぜ￥ｎ俺の彼女もそこにいるんだ(B)早く帰ってこないかなぁ(ON001:1)",
-  "en": ""
+  "en": "DEF,Heading to the tower northwest￥ｎof town? Here's a tip.(B)There's a town inside the tower.￥ｎMy girlfriend is there too.(B)I wish she'd come home soon...(ON001:1)"
  },
  {
   "line": 16,
@@ -37,7 +37,7 @@
  {
   "line": 18,
   "jp": "ALL,運命の木の奥にいるお方は￥ｎイプシロン様です(B)イプシロン様はセーブやルーツを￥ｎ司るお方です(B)私はあの方の身のまわりのお世話を￥ｎさせていただいております(E)",
-  "en": ""
+  "en": "ALL,The one deep in the Tree of￥ｎDestiny is Epsilon.(B)Epsilon oversees saving￥ｎand Roots.(B)I look after Epsilon's￥ｎdaily needs.(E)"
  },
  {
   "line": 19,
@@ -47,7 +47,7 @@
  {
   "line": 21,
   "jp": "ALL,聞いてくれ若者よ￥ｎワシの孫は塔の町に住んでおる(B)だがワシも年のせいで￥ｎそこまで行けんのじゃ(B)もし塔に登ってワシの孫に会ったら￥ｎよろしく言っておいてくれ(ON002:1)",
-  "en": ""
+  "en": "ALL,Listen, young one. My grandchild￥ｎlives in the tower town.(B)But I'm too old to make it￥ｎall the way there.(B)If you climb the tower and meet￥ｎmy grandchild, say hello for me.(ON002:1)"
  },
  {
   "line": 22,
@@ -57,7 +57,7 @@
  {
   "line": 24,
   "jp": "ALL,いそがしいんだ￥ｎ話なら手短に話してくれよ(N2)塔について聞きたい=CP1,アイテムってなに？=CP2(CP2)私たち商人にとっちゃ￥ｎ商売道具さ(B)まあ町の人や冒険者にとってみれば￥ｎ生活に必要なもんだね(B)パンを食べれば体力が回復するし…(B)武器や防具を装備すれば￥ｎ戦闘を有利にできる！(ON003:1)(CP1)塔の中は宝がいっぱい！￥ｎ魔物もいっぱい！！(B)ついでにワナもいっぱいの￥ｎ天国と地獄のようなところさ(ON003:1)",
-  "en": ""
+  "en": "ALL,I'm busy. Make it quick￥ｎif you want to talk.(N2)About the tower=CP1,What are items?=CP2(CP2)For us merchants,￥ｎthey're the tools of the trade.(B)For townsfolk and adventurers,￥ｎthey're daily necessities.(B)Eat bread to restore HP...(B)Equip weapons and armor to get￥ｎthe upper hand in battle!(ON003:1)(CP1)The tower's full of treasure!￥ｎAnd full of monsters!!(B)Plus full of traps. It's heaven￥ｎand hell rolled into one.(ON003:1)"
  },
  {
   "line": 25,
@@ -67,7 +67,7 @@
  {
   "line": 27,
   "jp": "ALL,わーい　橋の下で水遊びだー(E)",
-  "en": ""
+  "en": "ALL,Yay! Playing in the water￥ｎunder the bridge!(E)"
  },
  {
   "line": 28,
@@ -77,7 +77,7 @@
  {
   "line": 30,
   "jp": "ALL,弟といっしょに町の外へ￥ｎ遊びに行くところなんだけど…(B)あんまり塔に近づくなって￥ｎ言われているんだ(E)",
-  "en": ""
+  "en": "ALL,I'm going out of town to play￥ｎwith my little brother, but...(B)we were told not to go￥ｎtoo close to the tower.(E)"
  },
  {
   "line": 31,
@@ -87,7 +87,7 @@
  {
   "line": 33,
   "jp": "ALL,兄さん　塔に登るつもりだろ？(N2)そうだ！=CP1,どうかな…=CP2(CP2)せっかく　いいこと￥ｎ教えてやるのによ！(E)(CP1)そうか　だったら￥ｎいろんなルーツで挑戦してみな！(B)最初のうちはよ￥ｎ基本のルーツの中の…(B)シーフかアイテムハンターが￥ｎおすすめだぜ！(E)",
-  "en": ""
+  "en": "ALL,You're planning to climb￥ｎthe tower, aren't you?(N2)That's right!=CP1,Maybe...=CP2(CP2)And here I was going to￥ｎtell you something good!(E)(CP1)Then try taking it on￥ｎwith all kinds of Roots!(B)Early on, among the￥ｎbasic Roots...(B)I recommend Thief or￥ｎItem Hunter!(E)"
  },
  {
   "line": 34,
@@ -97,7 +97,7 @@
  {
   "line": 36,
   "jp": "ALL,運命の木へ　よくぞ参った！￥ｎ今日の用事は何じゃ？(N5)ルーツを入力したい=CP1,セーブがしたい=CP2,キズを治してほしい=CP3,メールを読みたい=CP4,何でもないです=CP5(CP5)用があればいつでもくるがよい(E)(CP2)今からセーブを行うぞ(F000)(CP1)ではルーツを入力するんじゃ(F001)(CP3)コリーアの力でそなたの元気を￥ｎとりもどそう(B)では　目をとじなされ…(F004)(CP4)さあ　読むがよい…(F002)",
-  "en": ""
+  "en": "ALL,Welcome to the Tree of Destiny!￥ｎWhat brings you here today?(N5)Enter a Root=CP1,Save=CP2,Heal my wounds=CP3,Read mail=CP4,Nothing=CP5(CP5)Come anytime you need me.(E)(CP2)I shall now save.(F000)(CP1)Then enter your Root.(F001)(CP3)By Coria's power, I shall￥ｎrestore your vigor.(B)Now, close your eyes...(F004)(CP4)Now, read...(F002)"
  },
  {
   "line": 37,
@@ -107,6 +107,6 @@
  {
   "line": 39,
   "jp": "ALL,ようこそ　運命の木へ(B)あなたはルーツについて￥ｎくわしく知っているかしら？(N2)はい=CP1,いいえ=CP2(CP2)そう　それじゃあ教えるわね￥ｎルーツの何が聞きたいのかしら？(N3)ルーツの意味=CP3,ルーツ入力=CP4,ルーツ技=CP5(CP5)ルーツによって修得する技は￥ｎルーツ技と呼ばれているわ(B)ルーツ技は１２の属性に￥ｎ分かれているのよ(B)ひとつの属性には￥ｎ１０のルーツ技があるの(B)わかってもらえたかしら！(E)(CP4)ルーツを呼び覚ますには￥ｎ８桁の数字を入力するの(B)あなたの好きな数字を￥ｎ入力すればいいのよ(B)入力はイプシロン様に￥ｎ頼んでみるといいわ(B)呼び覚ますことができるルーツは￥ｎ１００以上もあるのよ！(B)それからルーツ変更すると￥ｎ装備がはずれるのよ(B)新しいルーツにあわせて￥ｎ装備しなおしてね(E)(CP3)ルーツとは　いにしえの血の記憶…￥ｎあなたの血にも眠っているわ…(B)ルーツを呼び覚ますことで￥ｎあなたの能力は変化するの(B)成長していくとルーツによる差は￥ｎはっきりしてくるわ(B)修得する必殺技も￥ｎルーツによって違うのよ(E)(CP1)そう…　でも￥ｎいつでも聞いてちょうだいね！(E)",
-  "en": ""
+  "en": "ALL,Welcome to the Tree of Destiny.(B)Do you know much￥ｎabout Roots?(N2)Yes=CP1,No=CP2(CP2)I see. Then I'll explain.￥ｎWhat would you like to know?(N3)What Roots are=CP3,Entering Roots=CP4,Root skills=CP5(CP5)Skills learned through Roots￥ｎare called Root skills.(B)Root skills are divided￥ｎinto 12 types.(B)Each type has￥ｎ10 Root skills.(B)Do you understand now?(E)(CP4)To awaken a Root, you￥ｎenter an 8-digit number.(B)You can enter any number￥ｎyou like.(B)Ask Epsilon to￥ｎenter it for you.(B)There are over 100 Roots￥ｎthat can be awakened!(B)Also, changing your Root￥ｎremoves your equipment.(B)Re-equip to suit￥ｎyour new Root.(E)(CP3)Roots: ancient blood memories...￥ｎthey sleep in your blood too...(B)Awakening a Root￥ｎchanges your abilities.(B)As you grow, differences between￥ｎRoots become clear.(B)The special moves you learn￥ｎalso differ by Root.(E)(CP1)I see... but feel free￥ｎto ask anytime!(E)"
  }
 ]

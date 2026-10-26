@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,な…！！！　お　おまえは……！！￥ｎな　なぜ！？(B)近づくでない…………！！(B)なんということ…￥ｎそうか　そうであったか……(B)聞こえる……(B)闇がせまっている￥ｎもうすぐ……(B)すぐここまで……(B)大きな力が世界をつつむ…(B)さあ　開くがよい…(B)おまえの手で……(B)破滅への扉を…(F016)",
-  "en": ""
+  "en": "ALL,Wh...!!! Y-you are...!!￥ｎB-but why!?(B)Do not come near...!!(B)What is this...￥ｎI see, so that's how it is...(B)I hear it...(B)Darkness approaches.￥ｎSoon...(B)Very soon, it will be here...(B)Great power engulfs the world...(B)Now, open it...(B)With your own hand...(B)the door to ruin...(F016)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,イプシロン様(B)私はくやしくてなりません(B)罪のない人々がなぜこのような…(E)",
-  "en": ""
+  "en": "ALL,Epsilon...(B)I can't bear this frustration.(B)Why must innocent people...(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,ここは運命の町(B)そう呼ばれることも￥ｎもうないでしょう(E)",
-  "en": ""
+  "en": "ALL,This is Destiny Town.(B)It probably won't be￥ｎcalled that anymore.(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,最後くらい彼女のそばに￥ｎいてやりたかった(E)",
-  "en": ""
+  "en": "ALL,At the end, I wanted to be￥ｎby her side, at least.(E)"
  },
  {
   "line": 21,
@@ -52,7 +52,7 @@
  {
   "line": 23,
   "jp": "ALL,イプシロン様(B)私たちはどこに行くのでしょう(E)",
-  "en": ""
+  "en": "ALL,Epsilon...(B)Where will we go now?(E)"
  },
  {
   "line": 24,
@@ -62,7 +62,7 @@
  {
   "line": 26,
   "jp": "ALL,せめて孫だけでも￥ｎ助けてやりたかった…(E)",
-  "en": ""
+  "en": "ALL,I wish I could have at least￥ｎsaved my grandchild...(E)"
  },
  {
   "line": 27,
@@ -72,7 +72,7 @@
  {
   "line": 29,
   "jp": "ALL,仕事ばかりで子供たちに何も￥ｎしてやれなかったことが心残りです(E)",
-  "en": ""
+  "en": "ALL,I regret that I only worked and￥ｎnever did anything for my kids.(E)"
  },
  {
   "line": 30,
@@ -82,7 +82,7 @@
  {
   "line": 32,
   "jp": "ALL,なにが来るの？(B)お兄ちゃんこわいよー(E)",
-  "en": ""
+  "en": "ALL,What's coming?(B)Big brother, I'm scared!(E)"
  },
  {
   "line": 33,
@@ -92,6 +92,6 @@
  {
   "line": 35,
   "jp": "ALL,町の外へ出ちゃだめだって(B)ここで静かに待つんだって…(E)",
-  "en": ""
+  "en": "ALL,They said not to go outside.(B)We have to wait here quietly...(E)"
  }
 ]

@@ -93,8 +93,10 @@ def is_pair(cell):
 
 
 # Codes after which text starts on a fresh line: line break, wait for button,
-# end of message, and (F###) prompts (yes/no, trade...) that open a new window
-LINE_RESET = re.compile(r'￥ｎ|\([BE]\)|\(F\d+\)')
+# end of message, (F###) prompts (yes/no, trade...) that open a new window,
+# and choice menus: (N#) opens the menu, each option ends with =CP#, and
+# each (CP#) branch starts a new message
+LINE_RESET = re.compile(r'￥ｎ|\([BE]\)|\(F\d+\)|\(N\d+\)|=CP\d+,?|\(CP\d+\)|\(ON\d+:\d+\)')
 
 
 def visual_width(parts):

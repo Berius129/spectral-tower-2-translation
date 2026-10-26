@@ -12,22 +12,22 @@
  {
   "line": 11,
   "jp": "10:1,妻を怒らせないでくださいよ…(E)",
-  "en": ""
+  "en": "10:1,Please don't anger my wife...(E)"
  },
  {
   "line": 12,
   "jp": "10:2,なっ　だから言ったんだ！(ON010:3)",
-  "en": ""
+  "en": "10:2,See! I told you so!(ON010:3)"
  },
  {
   "line": 13,
   "jp": "10:3,もう妻を怒らせないでくださいよ(E)",
-  "en": ""
+  "en": "10:3,Please don't make my wife￥ｎangry again.(E)"
  },
  {
   "line": 14,
   "jp": "DEF,こんにちは　ここは運命の町だよ￥ｎ私たち家族みんなで住んでいます(B)ちなみにとなりが私の妻￥ｎ怒らせると恐いですよ(ON010:1)",
-  "en": ""
+  "en": "DEF,Hello! This is Destiny Town.￥ｎOur whole family lives here.(B)This is my wife, by the way.￥ｎShe's scary when she's angry.(ON010:1)"
  },
  {
   "line": 15,
@@ -37,22 +37,22 @@
  {
   "line": 17,
   "jp": "1:1,塔の町にいる俺の彼女に￥ｎ会わなかったかい？(B)そうか…￥ｎ会ってないならいいんだ(E)",
-  "en": ""
+  "en": "1:1,Did you meet my girlfriend￥ｎin the tower town?(B)I see...￥ｎIt's fine if you didn't.(E)"
  },
  {
   "line": 18,
   "jp": "1:2,えっ　俺の彼女に会ったのか￥ｎギャンブルにハマっているって！(B)う～む　ゆるせん！(ON001:3)",
-  "en": ""
+  "en": "1:2,What, you met my girlfriend?￥ｎShe's hooked on gambling!?(B)Grr... unforgivable!(ON001:3)"
  },
  {
   "line": 19,
   "jp": "1:3,俺の彼女はギャンブル好きなんて…(B)イプシロン様に￥ｎ相談してみようかな…(E)",
-  "en": ""
+  "en": "1:3,My girlfriend, a gambler...(B)Maybe I should ask￥ｎEpsilon for advice...(E)"
  },
  {
   "line": 20,
   "jp": "DEF,塔の町にいる俺の彼女に￥ｎ会ったことないかい？(B)そうか…￥ｎ会ってないならいいんだ(E)",
-  "en": ""
+  "en": "DEF,Have you ever met my girlfriend￥ｎin the tower town?(B)I see...￥ｎIt's fine if you didn't.(E)"
  },
  {
   "line": 21,
@@ -62,22 +62,22 @@
  {
   "line": 23,
   "jp": "10:1,あら　何か言いたいことがあるの？(N2)いい家族ですね=CP1,ダメ夫婦だね=CP2(CP2)なんですってぇ～(B)ゴゴゴゴゴッ…(B)あんた　終わってるよ…￥ｎさあ　二度と覚めぬ夢を見よっ！(B)バキバキッ　ズガガッ！(B)…ゴフッ！！(ON010:2)(CP1)あら　ありがとう！(E)",
-  "en": ""
+  "en": "10:1,Oh? Something you want to say?(N2)Nice family!=CP1,Hopeless couple=CP2(CP2)WHAT did you say~(B)Rumble rumble rumble...(B)You're finished...￥ｎNow sleep, and never wake!(B)Crack crack, WHAM!(B)...Gack!!(ON010:2)(CP1)Oh, thank you!(E)"
  },
  {
   "line": 24,
   "jp": "10:2,あんたと話すことなんてないよ(E)",
-  "en": ""
+  "en": "10:2,I have nothing to say to you.(E)"
  },
  {
   "line": 25,
   "jp": "10:3,運命の町へよくこれたなっ！￥ｎ早く出て行けっ！(E)",
-  "en": ""
+  "en": "10:3,How dare you show your face￥ｎin Destiny Town! Get out!(E)"
  },
  {
   "line": 26,
   "jp": "DEF,運命の町へようこそ！￥ｎゆっくりしていってくださいね(E)",
-  "en": ""
+  "en": "DEF,Welcome to Destiny Town!￥ｎPlease make yourself at home.(E)"
  },
  {
   "line": 27,
@@ -87,22 +87,22 @@
  {
   "line": 29,
   "jp": "2:1,ワシの孫に会ったらくれぐれも￥ｎよろしくたのむぞ！(E)",
-  "en": ""
+  "en": "2:1,If you meet my grandchild,￥ｎgive them my best!(E)"
  },
  {
   "line": 30,
   "jp": "2:2,ワシの孫に会ったんだな？(B)………￥ｎそうか元気にやっとったか…(B)ありがとう　若者よ(ON002:3)",
-  "en": ""
+  "en": "2:2,You met my grandchild?(B).........￥ｎI see, they're doing well...(B)Thank you, young one.(ON002:3)"
  },
  {
   "line": 31,
   "jp": "2:3,ワシの孫は元気だそうだ…￥ｎブツブツ…(E)",
-  "en": ""
+  "en": "2:3,My grandchild is doing well...￥ｎmumble mumble...(E)"
  },
  {
   "line": 32,
   "jp": "DEF,聞いてくれ若者よ￥ｎワシの孫は塔の町に住んでおる(B)だがワシも年のせいで￥ｎそこまで行けんのじゃ(B)もし塔に登ってワシの孫に会ったら￥ｎよろしく言っておいてくれ(ON002:1)",
-  "en": ""
+  "en": "DEF,Listen, young one. My grandchild￥ｎlives in the tower town.(B)But I'm too old to make it￥ｎall the way there.(B)If you climb the tower and meet￥ｎmy grandchild, say hello for me.(ON002:1)"
  },
  {
   "line": 33,
@@ -112,7 +112,7 @@
  {
   "line": 35,
   "jp": "ALL,あいつはもうこの町を出たのか￥ｎ俺も負けてらんねえな(B)えっ　誰と競ってるかって？￥ｎ他の商人に決まってるだろ！(E)",
-  "en": ""
+  "en": "ALL,So that guy already left town?￥ｎI can't fall behind either.(B)Huh? Who am I competing with?￥ｎOther merchants, obviously!(E)"
  },
  {
   "line": 36,
@@ -122,22 +122,22 @@
  {
   "line": 38,
   "jp": "11:1,ウソはダメだよ￥ｎ子供社会には通用しないんだから(ON011:3)",
-  "en": ""
+  "en": "11:1,No lying!￥ｎIt doesn't work with kids.(ON011:3)"
  },
  {
   "line": 39,
   "jp": "11:2,お兄ちゃん　がんばってね！(E)",
-  "en": ""
+  "en": "11:2,Good luck, mister!(E)"
  },
  {
   "line": 40,
   "jp": "11:3,ボクも少し大人になったかな？(E)",
-  "en": ""
+  "en": "11:3,Am I a little more grown up now?(E)"
  },
  {
   "line": 41,
   "jp": "DEF,お兄ちゃん　塔に登ったんでしょ￥ｎ中はどうなっているの？(N2)魔物の巣くつさ=CP1,豪華な屋敷のようさ=CP2(CP2)お兄ちゃんの目はウソつきの目だ￥ｎ大人はすぐウソをつくんだ(B)ボクのハートは傷ついたよ…(B)ワンポイントアドバイスしとくよ￥ｎ勇者はウソついちゃダメ！(B)わかったよね(ON011:1)(CP1)ふーん　そうなんだ￥ｎ恐そうなところだよね(B)でも　大人になったら￥ｎ挑戦してみようかな(ON011:2)",
-  "en": ""
+  "en": "DEF,Mister, you climbed the tower,￥ｎright? What's it like inside?(N2)A monster den=CP1,Like a fancy mansion=CP2(CP2)Your eyes are lying eyes.￥ｎGrown-ups always lie.(B)You hurt my feelings...(B)Here's a tip for you:￥ｎheroes don't lie!(B)Got it?(ON011:1)(CP1)Hmm, I see.￥ｎSounds scary.(B)But when I grow up,￥ｎmaybe I'll try it.(ON011:2)"
  },
  {
   "line": 42,
@@ -147,22 +147,22 @@
  {
   "line": 44,
   "jp": "11:1,うちの弟　生意気だと思いませんか￥ｎ困っちゃうなあ…(E)",
-  "en": ""
+  "en": "11:1,Isn't my little brother￥ｎcheeky? He's such a pain...(E)"
  },
  {
   "line": 45,
   "jp": "11:2,うちの弟　生意気だと思いませんか￥ｎ素直だと思いますか…(E)",
-  "en": ""
+  "en": "11:2,Isn't my little brother￥ｎcheeky? Or is he honest...(E)"
  },
  {
   "line": 46,
   "jp": "11:3,うちの弟　生意気だと思いませんか￥ｎ困っちゃうなあ…(E)",
-  "en": ""
+  "en": "11:3,Isn't my little brother￥ｎcheeky? He's such a pain...(E)"
  },
  {
   "line": 47,
   "jp": "DEF,うちの弟　最近生意気なんです(E)",
-  "en": ""
+  "en": "DEF,My little brother's been so￥ｎcheeky lately.(E)"
  },
  {
   "line": 48,
@@ -172,7 +172,7 @@
  {
   "line": 50,
   "jp": "ALL,運命の木へ　よくぞ参った！￥ｎ今日の用事は何じゃ？(N5)ルーツを入力したい=CP1,セーブがしたい=CP2,キズを治してほしい=CP3,メールを読みたい=CP4,何でもないです=CP5(CP5)用があればいつでもくるがよい(E)(CP2)今からセーブを行うぞ(F000)(CP1)ではルーツを入力するんじゃ(F001)(CP3)コリーアの力でそなたの元気を￥ｎとりもどそう(B)では　目をとじなされ…(F004)(CP4)さあ　読むがよい…(F002)",
-  "en": ""
+  "en": "ALL,Welcome to the Tree of Destiny!￥ｎWhat brings you here today?(N5)Enter a Root=CP1,Save=CP2,Heal my wounds=CP3,Read mail=CP4,Nothing=CP5(CP5)Come anytime you need me.(E)(CP2)I shall now save.(F000)(CP1)Then enter your Root.(F001)(CP3)By Coria's power, I shall￥ｎrestore your vigor.(B)Now, close your eyes...(F004)(CP4)Now, read...(F002)"
  },
  {
   "line": 51,
@@ -182,6 +182,6 @@
  {
   "line": 53,
   "jp": "ALL,ようこそ　運命の木へ(B)あなたはルーツについて￥ｎくわしく知っているかしら？(N2)はい=CP1,いいえ=CP2(CP2)そう　それじゃあ教えるわね￥ｎルーツの何が聞きたいのかしら？(N3)ルーツの意味=CP3,ルーツ入力=CP4,ルーツ技=CP5(CP5)ルーツによって修得する技は￥ｎルーツ技と呼ばれているわ(B)ルーツ技は１２の属性に￥ｎ分かれているのよ(B)ひとつの属性には￥ｎ１０のルーツ技があるの(B)わかってもらえたかしら！(E)(CP4)ルーツを呼び覚ますには￥ｎ８桁の数字を入力するの(B)あなたの好きな数字を￥ｎ入力すればいいのよ(B)入力はイプシロン様に￥ｎ頼んでみるといいわ(B)呼び覚ますことができるルーツは￥ｎ１００以上もあるのよ！(B)それからルーツ変更すると￥ｎ装備がはずれるのよ(B)新しいルーツにあわせて￥ｎ装備しなおしてね(E)(CP3)ルーツとは　いにしえの血の記憶…￥ｎあなたの血にも眠っているわ…(B)ルーツを呼び覚ますことで￥ｎあなたの能力は変化するの(B)成長していくとルーツによる差は￥ｎはっきりしてくるわ(B)修得する必殺技も￥ｎルーツによって違うのよ(E)(CP1)そう…　でも￥ｎいつでも聞いてちょうだいね！(E)",
-  "en": ""
+  "en": "ALL,Welcome to the Tree of Destiny.(B)Do you know much￥ｎabout Roots?(N2)Yes=CP1,No=CP2(CP2)I see. Then I'll explain.￥ｎWhat would you like to know?(N3)What Roots are=CP3,Entering Roots=CP4,Root skills=CP5(CP5)Skills learned through Roots￥ｎare called Root skills.(B)Root skills are divided￥ｎinto 12 types.(B)Each type has￥ｎ10 Root skills.(B)Do you understand now?(E)(CP4)To awaken a Root, you￥ｎenter an 8-digit number.(B)You can enter any number￥ｎyou like.(B)Ask Epsilon to￥ｎenter it for you.(B)There are over 100 Roots￥ｎthat can be awakened!(B)Also, changing your Root￥ｎremoves your equipment.(B)Re-equip to suit￥ｎyour new Root.(E)(CP3)Roots: ancient blood memories...￥ｎthey sleep in your blood too...(B)Awakening a Root￥ｎchanges your abilities.(B)As you grow, differences between￥ｎRoots become clear.(B)The special moves you learn￥ｎalso differ by Root.(E)(CP1)I see... but feel free￥ｎto ask anytime!(E)"
  }
 ]

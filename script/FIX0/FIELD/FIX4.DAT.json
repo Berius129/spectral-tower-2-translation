@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは…　ここは運命の町…(B)うちの家族の運命も￥ｎ大変なことになってるよ…(B)トホホ…(E)",
-  "en": ""
+  "en": "ALL,Hello... this is Destiny Town...(B)My family's destiny is in￥ｎa real mess too...(B)*sigh*...(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,イプシロン様は神聖なるお方￥ｎそそうのないように頼みます(E)",
-  "en": ""
+  "en": "ALL,Epsilon is a holy being.￥ｎPlease show proper respect.(E)"
  },
  {
   "line": 15,
@@ -32,22 +32,22 @@
  {
   "line": 17,
   "jp": "10:1,うちの子供たち￥ｎとつぜんお笑い芸人になるって！(B)どうなっちゃってるの！？(E)",
-  "en": ""
+  "en": "10:1,Our kids suddenly say they want￥ｎto become comedians!(B)What's going on!?(E)"
  },
  {
   "line": 18,
   "jp": "10:2,うちの子供たち￥ｎとつぜんお笑い芸人になるってさ！(B)あんた何かふきこんだんでしょ！(E)",
-  "en": ""
+  "en": "10:2,Our kids suddenly say they want￥ｎto become comedians!(B)You put them up to this, right!(E)"
  },
  {
   "line": 19,
   "jp": "10:3,うちの子供たち￥ｎとつぜんお笑い芸人になるってさ！(B)あんた何かふきこんだんでしょ！(E)",
-  "en": ""
+  "en": "10:3,Our kids suddenly say they want￥ｎto become comedians!(B)You put them up to this, right!(E)"
  },
  {
   "line": 20,
   "jp": "DEF,うちの子供たち￥ｎとつぜんお笑い芸人になるって！(B)どうなっちゃってるの！？(E)",
-  "en": ""
+  "en": "DEF,Our kids suddenly say they want￥ｎto become comedians!(B)What's going on!?(E)"
  },
  {
   "line": 21,
@@ -57,22 +57,22 @@
  {
   "line": 23,
   "jp": "2:1,ワシの孫に会ったらくれぐれも￥ｎよろしくたのむぞ！(E)",
-  "en": ""
+  "en": "2:1,If you meet my grandchild,￥ｎgive them my best!(E)"
  },
  {
   "line": 24,
   "jp": "2:2,ワシの孫に会ったんだな？(B)………￥ｎそうか元気にやっとったか…(B)ありがとう　若者よ(ON002:3)",
-  "en": ""
+  "en": "2:2,You met my grandchild?(B).........￥ｎI see, they're doing well...(B)Thank you, young one.(ON002:3)"
  },
  {
   "line": 25,
   "jp": "2:3,最近　孫から手紙がきよった(B)孫の聞いたウワサだと￥ｎ最上階に登った奴がいるらしいぞ(E)",
-  "en": ""
+  "en": "2:3,My grandchild sent me a letter.(B)They heard a rumor that someone￥ｎmade it to the top floor!(E)"
  },
  {
   "line": 26,
   "jp": "DEF,聞いてくれ若者よ￥ｎワシの孫は塔の町に住んでおる(B)だが年のせいで￥ｎそこまで行けんのじゃ(B)もしワシの孫に会ったら￥ｎよろしく言っておいてくれ(ON002:1)",
-  "en": ""
+  "en": "DEF,Listen, young one. My grandchild￥ｎlives in the tower town.(B)But I'm too old to make it￥ｎall the way there.(B)If you meet my grandchild,￥ｎsay hello for me.(ON002:1)"
  },
  {
   "line": 27,
@@ -82,7 +82,7 @@
  {
   "line": 29,
   "jp": "ALL,えっ　竜人の町に行ったって？(B)こうしちゃいられねえ￥ｎ記念グッズを売り出さなきゃ！(E)",
-  "en": ""
+  "en": "ALL,What, you went to the dragonfolk￥ｎtown?(B)I can't just sit here! Time￥ｎto sell souvenirs!(E)"
  },
  {
   "line": 30,
@@ -92,7 +92,7 @@
  {
   "line": 32,
   "jp": "ALL,兄ちゃん￥ｎお笑い芸人になるルーツを探すんだ(E)",
-  "en": ""
+  "en": "ALL,Hey mister,￥ｎwe're looking for a comedy Root.(E)"
  },
  {
   "line": 33,
@@ -102,7 +102,7 @@
  {
   "line": 35,
   "jp": "ALL,ボクたちイキがあってるから￥ｎ兄弟お笑い芸人めざします(B)でもお笑い芸人になるルーツって￥ｎあるのかな？(E)",
-  "en": ""
+  "en": "ALL,We're totally in sync, so we'll￥ｎbe a comedy duo of brothers!(B)But is there a Root for￥ｎbecoming a comedian?(E)"
  },
  {
   "line": 36,
@@ -112,7 +112,7 @@
  {
   "line": 38,
   "jp": "ALL,運命の木へ　よくぞ参った！￥ｎ今日の用事は何じゃ？(N5)ルーツを入力したい=CP1,セーブがしたい=CP2,キズを治してほしい=CP3,メールを読みたい=CP4,何でもないです=CP5(CP5)用があればいつでもくるがよい(E)(CP2)今からセーブを行うぞ(F000)(CP1)ではルーツを入力するんじゃ(F001)(CP3)コリーアの力でそなたの元気を￥ｎとりもどそう(B)では　目をとじなされ…(F004)(CP4)さあ　読むがよい…(F002)",
-  "en": ""
+  "en": "ALL,Welcome to the Tree of Destiny!￥ｎWhat brings you here today?(N5)Enter a Root=CP1,Save=CP2,Heal my wounds=CP3,Read mail=CP4,Nothing=CP5(CP5)Come anytime you need me.(E)(CP2)I shall now save.(F000)(CP1)Then enter your Root.(F001)(CP3)By Coria's power, I shall￥ｎrestore your vigor.(B)Now, close your eyes...(F004)(CP4)Now, read...(F002)"
  },
  {
   "line": 39,
@@ -122,6 +122,6 @@
  {
   "line": 41,
   "jp": "ALL,ようこそ　運命の木へ(B)あなたはルーツについて￥ｎくわしく知っているかしら？(N2)はい=CP1,いいえ=CP2(CP2)そう　それじゃあ教えるわね￥ｎルーツの何が聞きたいのかしら？(N3)ルーツの意味=CP3,ルーツ入力=CP4,ルーツ技=CP5(CP5)ルーツによって修得する技は￥ｎルーツ技と呼ばれているわ(B)ルーツ技は１２の属性に￥ｎ分かれているのよ(B)ひとつの属性には￥ｎ１０のルーツ技があるの(B)わかってもらえたかしら！(E)(CP4)ルーツを呼び覚ますには￥ｎ８桁の数字を入力するの(B)あなたの好きな数字を￥ｎ入力すればいいのよ(B)入力はイプシロン様に￥ｎ頼んでみるといいわ(B)呼び覚ますことができるルーツは￥ｎ１００以上もあるのよ！(B)それからルーツ変更すると￥ｎ装備がはずれるのよ(B)新しいルーツにあわせて￥ｎ装備しなおしてね(E)(CP3)ルーツとは　いにしえの血の記憶…￥ｎあなたの血にも眠っているわ…(B)ルーツを呼び覚ますことで￥ｎあなたの能力は変化するの(B)成長していくとルーツによる差は￥ｎはっきりしてくるわ(B)修得する必殺技も￥ｎルーツによって違うのよ(E)(CP1)そう…　でも￥ｎいつでも聞いてちょうだいね！(E)",
-  "en": ""
+  "en": "ALL,Welcome to the Tree of Destiny.(B)Do you know much￥ｎabout Roots?(N2)Yes=CP1,No=CP2(CP2)I see. Then I'll explain.￥ｎWhat would you like to know?(N3)What Roots are=CP3,Entering Roots=CP4,Root skills=CP5(CP5)Skills learned through Roots￥ｎare called Root skills.(B)Root skills are divided￥ｎinto 12 types.(B)Each type has￥ｎ10 Root skills.(B)Do you understand now?(E)(CP4)To awaken a Root, you￥ｎenter an 8-digit number.(B)You can enter any number￥ｎyou like.(B)Ask Epsilon to￥ｎenter it for you.(B)There are over 100 Roots￥ｎthat can be awakened!(B)Also, changing your Root￥ｎremoves your equipment.(B)Re-equip to suit￥ｎyour new Root.(E)(CP3)Roots: ancient blood memories...￥ｎthey sleep in your blood too...(B)Awakening a Root￥ｎchanges your abilities.(B)As you grow, differences between￥ｎRoots become clear.(B)The special moves you learn￥ｎalso differ by Root.(E)(CP1)I see... but feel free￥ｎto ask anytime!(E)"
  }
 ]
