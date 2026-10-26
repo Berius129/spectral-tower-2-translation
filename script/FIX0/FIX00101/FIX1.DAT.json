@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,最近魔物がよく出るのよ￥ｎ恐いわ…(B)うちのおじいちゃんなんて￥ｎ退治するってきかないのよ(E)",
-  "en": "ALL,Monsters keep showing up lately.￥ｎIt's scary...(B)And my grandpa insists he'll￥ｎget rid of them himself.(E)"
+  "en": "ALL,Monsters keep coming lately.￥ｎIt's scary...(B)And my grandpa insists he'll￥ｎget rid of them himself.(E)"
  },
  {
   "line": 21,
@@ -72,7 +72,7 @@
  {
   "line": 28,
   "jp": "ALL,ぼくは見たんだ…￥ｎユウサンが…(N2)イモムシを…=CP1,真夜中に…=CP2(CP2)真夜中に新しいパンを￥ｎ作っているところを見たんだ(B)ユウサンはまじめだよね(E)(CP1)イモムシを食べているのを￥ｎ見たんだ(B)まあ　夢だったんだけどね(E)",
-  "en": "ALL,I saw it...￥ｎYusan was...(N2)a caterpillar...=CP1,at midnight...=CP2(CP2)I saw him making new bread￥ｎin the middle of the night.(B)Yusan sure is hardworking.(E)(CP1)I saw him eating￥ｎa caterpillar.(B)Well, it was just a dream.(E)"
+  "en": "ALL,I saw it...￥ｎYusan was...(N2)a caterpillar...=CP1,at midnight...=CP2(CP2)I saw him baking new bread￥ｎat midnight.(B)Yusan sure is hardworking.(E)(CP1)I saw him eating￥ｎa caterpillar.(B)Well, it was just a dream.(E)"
  },
  {
   "line": 29,
@@ -102,6 +102,6 @@
  {
   "line": 36,
   "jp": "ALL,ボク　パン屋のユウサン￥ｎまた新しいパン考えたよ(B)ドクムシパン…￥ｎなんちゃってね(B)食べてみるかい？￥ｎウヒョーッ　ヒョッ　ヒョッ！(N2)うんうん！=CP1,いらないよ=CP2(CP2)そうかい　残念だなぁ￥ｎウヒヒッ…(E)(CP1)(2)は￥ｎドクムシパンを食べてみた！(B)むしゃ　むしゃ…(B)………(B)こ　こんなパン…(B)食べたことがないぃぃーっ！(F004)",
-  "en": "ALL,I'm Yusan the baker.￥ｎI came up with a new bread!(B)Poison bug bread...￥ｎjust kidding.(B)Want to try it?￥ｎHeehee, hee, hee!(N2)Yes, yes!=CP1,No thanks=CP2(CP2)Is that so? Too bad.￥ｎHeh heh...(E)(CP1)(2) tried the￥ｎpoison bug bread!(B)Munch, munch...(B).........(B)Th-this bread...(B)I've never had anything like it!(F004)"
+  "en": "ALL,I'm Yusan the baker.￥ｎI came up with a new bread!(B)Poison bug bread...￥ｎjust kidding.(B)Want to try it?￥ｎHeehee, hee, hee!(N2)Yes, yes!=CP1,No thanks=CP2(CP2)Is that so? Too bad.￥ｎHeh heh...(E)(CP1)(2) tried the￥ｎpoison bug bread!(B)Munch, munch...(B).........(B)Th-this bread...(B)Never had anything like it!(F004)"
  }
 ]
