@@ -110,7 +110,8 @@ def patch_movie(disc, name, tmp, index_text):
     os.makedirs(out_dir, exist_ok=True)
     replaced = []
     for sub in cfg['subtitles']:
-        area = AREAS[sub['area']]
+        # a movie can move an area, e.g. {"areas": {"bottom": {"text_rows": [204, 220], "top": 200}}}
+        area = {**AREAS[sub['area']], **cfg.get('areas', {}).get(sub['area'], {})}
         top = area['top']
         mask = text_mask(sub['text'], tmp)
         bg = sub.get('background')

@@ -1,0 +1,16 @@
+{
+ "file": "/MOVIE/MOV01.STR",
+ "note": "Opening narration. Subtitles in the bottom letterbox, rows 206-217, always on black.",
+ "areas": {"bottom": {"text_rows": [204, 220], "top": 200}},
+ "subtitles": [
+  {"start": 18,  "end": 102, "area": "bottom", "text": "Infinite power."},
+  {"start": 108, "end": 192, "area": "bottom", "text": "Eternal life."},
+  {"start": 198, "end": 282, "area": "bottom", "text": "Insatiable human desire."},
+  {"start": 288, "end": 380, "area": "bottom", "text": "What is the measure? What is sin?"},
+  {"start": 408, "end": 471, "area": "bottom", "text": "And..."},
+  {"start": 527, "end": 626, "area": "bottom", "text": "Who will judge that sin?"},
+  {"start": 661, "end": 733, "area": "bottom", "text": "A tower that grants forbidden human desires."},
+  {"start": 736, "end": 808, "area": "bottom", "text": "Only those who reach its summit"},
+  {"start": 811, "end": 904, "area": "bottom", "text": "can draw near to the truth, it is said..."}
+ ]
+}
