@@ -1,0 +1,36 @@
+{
+ "file": "/MOVIE/MOV09.STR",
+ "note": "Trailer (title screen demo). Subtitles on black or dark frames are replaced. Text that can't be erased cleanly stays and gets an English line with a black outline: overlays on the picture, the hero's line over his face (258-303), gameplay captions and the kanji titles from MOV05. Letterboxed part (660-860): picture rows 64-175, logo at the bottom right, so English goes in the top band.",
+ "areas": {
+  "overlay": {"text_rows": [218, 238], "top": 218, "h": 20, "erase": "none"},
+  "overlay2": {"text_rows": [198, 238], "top": 198, "h": 40, "erase": "none"},
+  "top_band": {"text_rows": [26, 60], "top": 24, "h": 36},
+  "low_band_left": {"text_rows": [182, 216], "top": 180, "h": 38, "cols": [0, 197], "x": "(197-tw)/2"},
+  "middle": {"text_rows": [112, 128], "top": 104, "h": 32, "erase": "inpaint"},
+  "bottom": {"text_rows": [196, 212], "top": 192, "h": 24}
+ },
+ "subtitles": [
+  {"start": 30,  "end": 66,  "area": "overlay", "text": "In the midst of an endless adventure,", "fade": [6, 6], "encode": "full"},
+  {"start": 86,  "end": 124, "area": "overlay", "text": "you will meet and part again and again,", "fade": [6, 6], "encode": "full"},
+  {"start": 140, "end": 172, "area": "overlay", "text": "as irreplaceable companions...", "fade": [6, 8], "encode": "full"},
+  {"start": 190, "end": 232, "area": "overlay", "text": "...or as enemies standing in your way.", "fade": [6, 8], "encode": "full"},
+  {"start": 258, "end": 303, "area": "overlay2", "text": "All I wanted was power.\nThat was all...", "fade": [6, 14], "encode": "full"},
+  {"start": 495, "end": 507, "area": "overlay", "text": "A giant tower reaching to the heavens", "fade": [2, 1], "encode": "full"},
+  {"start": 508, "end": 523, "area": "overlay", "text": "SPECTRAL TOWER", "fade": [1, 1], "encode": "full"},
+  {"start": 524, "end": 537, "area": "overlay", "text": "A grand adventure of 10,000 floors", "fade": [1, 2], "encode": "full"},
+  {"start": 544, "end": 565, "area": "overlay", "text": "Random maps! Unravel the great labyrinth!", "fade": [2, 2], "encode": "full"},
+  {"start": 590, "end": 604, "area": "overlay", "text": "Awaken, Roots! O memories of blood!", "fade": [2, 2], "encode": "full"},
+  {"start": 606, "end": 650, "area": "overlay", "text": "Inherit 100 skills and aim for the top floor!", "fade": [2, 4], "encode": "full"},
+  {"start": 664, "end": 682, "area": "top_band", "text": "Those who consume...", "fade": [2, 0], "encode": "full"},
+  {"start": 690, "end": 707, "area": "low_band_left", "text": "...and those who create.", "fade": [2, 0], "encode": "full"},
+  {"start": 736, "end": 757, "area": "top_band", "text": "Which of them will be chosen?", "fade": [2, 3], "encode": "full"},
+  {"start": 760, "end": 779, "area": "top_band", "text": "Infinite power, eternal life,", "fade": [3, 2], "encode": "full"},
+  {"start": 780, "end": 791, "area": "top_band", "text": "forbidden desires, wounding nature,", "fade": [2, 2], "encode": "full"},
+  {"start": 792, "end": 807, "area": "top_band", "text": "wounding the earth... after the slaughter,", "fade": [2, 2], "encode": "full"},
+  {"start": 808, "end": 823, "area": "top_band", "text": "what is gained is the power of desire.", "fade": [2, 2], "encode": "full"},
+  {"start": 824, "end": 858, "area": "top_band", "text": "That is sin. Human sin.", "fade": [2, 8], "encode": "full"},
+  {"start": 1037, "end": 1073, "area": "middle", "text": "Coming here made it clear to me."},
+  {"start": 1088, "end": 1116, "area": "middle", "text": "I was called by this tower...", "fade": [3, 4], "silhouette_frame": 1100, "encode": "full"},
+  {"start": 1125, "end": 1148, "area": "bottom", "text": "I'll tell you this much..."}
+ ]
+}
