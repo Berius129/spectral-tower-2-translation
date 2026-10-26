@@ -18,6 +18,17 @@ DATA_AREAS = [(0x800, 0xA000), (0xBD000, None)]  # file offsets
 # 21 bytes per row; only the first row is referenced directly
 NAME_INPUT_ROWS = [base + 21 * i for base in (0xCAED4, 0xCAF94) for i in range(9)]
 
+# Fixed-size records whose text fields are reached as record + offset, so
+# they have no pointer of their own: (first record, stride, count, fields)
+# with fields as (offset, end) inside the record.
+RECORDS = [
+    (0xC15D0, 0x60, 95, [(0x00, 0x11), (0x11, 0x5A)]),    # items: name, description
+    (0xC64F0, 0x64, 163, [(0x00, 0x11), (0x18, 0x64)]),   # skills: name, description
+]
+FIELD_END = {base + r * stride + start: base + r * stride + end
+             for base, stride, count, fields in RECORDS
+             for r in range(count) for start, end in fields}
+
 # Kana or kanji; strings with only full-width digits/symbols are number glyphs
 JAPANESE = re.compile(r'[぀-ヿ一-鿿]')
 SYNTAX = re.compile(r'%[-0-9]*[sdxc]|\([0-9A-Za-z]+\)')
@@ -48,7 +59,7 @@ def _in_data(off):
 def find(exe):
     """Return [{'offset', 'max', 'jp', 'locked'}] sorted by offset."""
     found = []
-    for off in sorted(_referenced(exe) | set(NAME_INPUT_ROWS)):
+    for off in sorted(_referenced(exe) | set(NAME_INPUT_ROWS) | set(FIELD_END)):
         if not _in_data(off):
             continue
         raw = exe[off:exe.find(b'\0', off)]
@@ -70,7 +81,7 @@ def find(exe):
         while pad < len(exe) and exe[pad] == 0:
             pad += 1
         nxt = starts[i + 1] if i + 1 < len(starts) else len(exe)
-        s['max'] = min(pad, nxt) - s['offset'] - 1  # keep one NUL
+        s['max'] = min(pad, nxt, FIELD_END.get(s['offset'], len(exe))) - s['offset'] - 1  # keep one NUL
         s['locked'] = False
         if nxt < end:
             # Another pointer points into this string: this entry is only the

@@ -2296,10 +2296,22 @@
   "en": "Dummy"
  },
  {
+  "offset": "0xc15e1",
+  "max": 72,
+  "jp": "バグをとりのぞくための仮の￥ｎアイテム",
+  "en": "A placeholder item￥ｎfor removing bugs."
+ },
+ {
   "offset": "0xc1630",
   "max": 16,
   "jp": "天魔剣",
   "en": "Tenma Sword"
+ },
+ {
+  "offset": "0xc1641",
+  "max": 72,
+  "jp": "無限の魔力を宿した最強の剣￥ｎ全てを消し去る力を持つ",
+  "en": "Mightiest sword of endless magic.￥ｎIt can erase anything."
  },
  {
   "offset": "0xc1690",
@@ -2308,10 +2320,22 @@
   "en": "World Heaven"
  },
  {
+  "offset": "0xc16a1",
+  "max": 72,
+  "jp": "凄まじい魔力を宿した剣￥ｎあらゆる敵に対し強力な威力を誇る",
+  "en": "A sword of tremendous magic.￥ｎDevastating against any foe."
+ },
+ {
   "offset": "0xc16f0",
   "max": 16,
   "jp": "秘剣・最下降",
   "en": "Abyss Blade"
+ },
+ {
+  "offset": "0xc1701",
+  "max": 72,
+  "jp": "暗黒の魔力を宿した幻の剣￥ｎその魔力は所持者の能力を奪い去る",
+  "en": "A phantom sword of dark magic.￥ｎIt drains its wielder's power."
  },
  {
   "offset": "0xc1750",
@@ -2320,10 +2344,22 @@
   "en": "Excalibur"
  },
  {
+  "offset": "0xc1761",
+  "max": 72,
+  "jp": "神々が人に与えたという神聖剣￥ｎ強力な光の魔力を宿している",
+  "en": "A holy sword given by the gods.￥ｎIt holds strong light magic."
+ },
+ {
   "offset": "0xc17b0",
   "max": 16,
   "jp": "ダークスレイヤー",
   "en": "Dark Slayer"
+ },
+ {
+  "offset": "0xc17c1",
+  "max": 72,
+  "jp": "闇の魔力を宿した漆黒の魔剣￥ｎ敵の能力を低下させる力を持つ",
+  "en": "A jet-black sword of dark magic.￥ｎIt weakens enemies."
  },
  {
   "offset": "0xc1810",
@@ -2332,10 +2368,22 @@
   "en": "Bastard Sword"
  },
  {
+  "offset": "0xc1821",
+  "max": 72,
+  "jp": "片手でも両手でも扱える剣￥ｎ幅広の刃から繰り出す一撃は強烈",
+  "en": "Usable with one hand or two.￥ｎIts broad blade hits hard."
+ },
+ {
   "offset": "0xc1870",
   "max": 16,
   "jp": "ブラックサーベル",
   "en": "Black Saber"
+ },
+ {
+  "offset": "0xc1881",
+  "max": 72,
+  "jp": "黒き輝きを放つ暗黒剣￥ｎ刃には不気味に変色した痕跡がある",
+  "en": "A sword with a black gleam.￥ｎIts blade bears eerie stains."
  },
  {
   "offset": "0xc18d0",
@@ -2344,10 +2392,22 @@
   "en": "Manslayer Blade"
  },
  {
+  "offset": "0xc18e1",
+  "max": 72,
+  "jp": "人の生き血を吸い取る妖刀￥ｎ刃に宿る魔力が生き血を求めさせる",
+  "en": "A cursed blade that drinks blood.￥ｎIts magic craves more."
+ },
+ {
   "offset": "0xc1930",
   "max": 16,
   "jp": "ドラゴンブレイク",
   "en": "Dragon Break"
+ },
+ {
+  "offset": "0xc1941",
+  "max": 72,
+  "jp": "ドラゴンバスターたちが持つ魔法剣￥ｎ竜のウロコを切り裂く魔力を宿す",
+  "en": "Magic sword of Dragon Busters.￥ｎIt can cut dragon scales."
  },
  {
   "offset": "0xc1990",
@@ -2356,10 +2416,22 @@
   "en": "Flash Sword"
  },
  {
+  "offset": "0xc19a1",
+  "max": 72,
+  "jp": "やわらかな光を放つ神聖剣￥ｎ光に宿る魔力で邪霊を振り払う",
+  "en": "A holy sword of gentle light.￥ｎIts light drives off evil."
+ },
+ {
   "offset": "0xc19f0",
   "max": 16,
   "jp": "サムライブレード",
   "en": "Samurai Blade"
+ },
+ {
+  "offset": "0xc1a01",
+  "max": 72,
+  "jp": "鬼斬り人「サムライ」が扱う剣￥ｎ刃には鬼を切り裂く魔力が宿る",
+  "en": "Sword of the oni-slaying Samurai.￥ｎIts magic cuts down oni."
  },
  {
   "offset": "0xc1a50",
@@ -2368,10 +2440,22 @@
   "en": "Mars Blade"
  },
  {
+  "offset": "0xc1a61",
+  "max": 72,
+  "jp": "伝説の遺跡戦士「マルス」の剣￥ｎ古の魔力は所持者の能力を高める",
+  "en": "Sword of Mars, legendary warrior.￥ｎRaises the user's power."
+ },
+ {
   "offset": "0xc1ab0",
   "max": 16,
   "jp": "ロングソード",
   "en": "Long Sword"
+ },
+ {
+  "offset": "0xc1ac1",
+  "max": 72,
+  "jp": "戦士が扱う大振りの剣￥ｎ一般的な剣だが高い攻撃力を持つ",
+  "en": "A large warrior's sword.￥ｎCommon, but hits hard."
  },
  {
   "offset": "0xc1b10",
@@ -2380,10 +2464,22 @@
   "en": "Bronze Sword"
  },
  {
+  "offset": "0xc1b21",
+  "max": 72,
+  "jp": "青銅でつくられた標準の武器￥ｎその攻撃力はあなどれない",
+  "en": "A standard bronze weapon.￥ｎDon't underestimate it."
+ },
+ {
   "offset": "0xc1b70",
   "max": 16,
   "jp": "ショートソード",
   "en": "Short Sword"
+ },
+ {
+  "offset": "0xc1b81",
+  "max": 72,
+  "jp": "軽装の者が扱う少し短めの剣￥ｎ携帯・護身用として広く使われる",
+  "en": "A shortish sword for light users.￥ｎGood for self-defense."
  },
  {
   "offset": "0xc1bd0",
@@ -2392,10 +2488,22 @@
   "en": "Rusty Sword"
  },
  {
+  "offset": "0xc1be1",
+  "max": 72,
+  "jp": "文字通りさびついた剣￥ｎ「といし」で研いでみると…",
+  "en": "A sword covered in rust.￥ｎMaybe try a Whetstone..."
+ },
+ {
   "offset": "0xc1c30",
   "max": 16,
   "jp": "ユニコーンロッド",
   "en": "Unicorn Rod"
+ },
+ {
+  "offset": "0xc1c41",
+  "max": 72,
+  "jp": "聖獣ユニコーンの角でつくられた杖￥ｎ杖に宿る魔力は体調を整えてくれる",
+  "en": "Staff made from a unicorn horn.￥ｎIts magic keeps you healthy."
  },
  {
   "offset": "0xc1c90",
@@ -2404,10 +2512,22 @@
   "en": "Domanbee Rod"
  },
  {
+  "offset": "0xc1ca1",
+  "max": 72,
+  "jp": "ドロボウの神様「ドマンビー」の￥ｎ魔力が宿っている杖",
+  "en": "Staff holding the magic of￥ｎDomanbee, god of thieves."
+ },
+ {
   "offset": "0xc1cf0",
   "max": 16,
   "jp": "フェアリーロッド",
   "en": "Fairy Rod"
+ },
+ {
+  "offset": "0xc1d01",
+  "max": 72,
+  "jp": "妖精と交信できる魔力を宿す杖￥ｎ道案内の妖精を召喚できる様になる",
+  "en": "Staff that talks with fairies.￥ｎSummons a guiding fairy."
  },
  {
   "offset": "0xc1d50",
@@ -2416,10 +2536,22 @@
   "en": "Magical Rod"
  },
  {
+  "offset": "0xc1d61",
+  "max": 72,
+  "jp": "不思議な魔力を宿す杖￥ｎ持っていると魔法弾を撃ちだせる",
+  "en": "A staff of strange magic.￥ｎLets you fire magic shots."
+ },
+ {
   "offset": "0xc1db0",
   "max": 16,
   "jp": "ロッド",
   "en": "Rod"
+ },
+ {
+  "offset": "0xc1dc1",
+  "max": 72,
+  "jp": "魔道士が愛用している杖￥ｎ装備すると魔力が上昇する",
+  "en": "A favorite staff of mages.￥ｎEquipping it raises magic."
  },
  {
   "offset": "0xc1e10",
@@ -2428,10 +2560,22 @@
   "en": "Lollipop Wand"
  },
  {
+  "offset": "0xc1e21",
+  "max": 72,
+  "jp": "魔力の宿ったお菓子の杖￥ｎなめると体力が回復する",
+  "en": "A candy staff full of magic.￥ｎLick it to restore HP."
+ },
+ {
   "offset": "0xc1e70",
   "max": 16,
   "jp": "天魔のよろい",
   "en": "Tenma Armor"
+ },
+ {
+  "offset": "0xc1e81",
+  "max": 72,
+  "jp": "無限の魔力を宿した最強のよろい￥ｎあらゆる攻撃に対して強い",
+  "en": "Mightiest armor of endless magic.￥ｎStrong against everything."
  },
  {
   "offset": "0xc1ed0",
@@ -2440,10 +2584,22 @@
   "en": "Janes Armor"
  },
  {
+  "offset": "0xc1ee1",
+  "max": 72,
+  "jp": "伝説の大魔王「ジャネス」のよろい￥ｎ強大な魔力を宿している",
+  "en": "Armor of the demon lord Janes.￥ｎIt holds immense magic."
+ },
+ {
   "offset": "0xc1f30",
   "max": 16,
   "jp": "シルバーアーマー",
   "en": "Silver Armor"
+ },
+ {
+  "offset": "0xc1f41",
+  "max": 72,
+  "jp": "聖なる魔力が宿る白銀のよろい￥ｎ神秘の魔力で邪悪な力をはね返す",
+  "en": "Silver armor of holy magic.￥ｎIt repels evil forces."
  },
  {
   "offset": "0xc1f90",
@@ -2452,10 +2608,22 @@
   "en": "Black Armor"
  },
  {
+  "offset": "0xc1fa1",
+  "max": 72,
+  "jp": "闇の深淵を思わせる漆黒のよろい￥ｎ強力な魔力の防護フィールドを持つ",
+  "en": "Armor black as the abyss.￥ｎIt has a strong magic barrier."
+ },
+ {
   "offset": "0xc1ff0",
   "max": 16,
   "jp": "サムライアーマー",
   "en": "Samurai Armor"
+ },
+ {
+  "offset": "0xc2001",
+  "max": 72,
+  "jp": "鬼斬り人「サムライ」のよろい￥ｎ鬼族の攻撃を防ぐ魔力を宿している",
+  "en": "Armor of the oni-slaying Samurai.￥ｎIt guards against oni."
  },
  {
   "offset": "0xc2050",
@@ -2464,10 +2632,22 @@
   "en": "Iron Armor"
  },
  {
+  "offset": "0xc2061",
+  "max": 72,
+  "jp": "戦士が扱う鉄製のよろい￥ｎ全般的に高い防御力を持っている",
+  "en": "Iron armor used by warriors.￥ｎGood all-around defense."
+ },
+ {
   "offset": "0xc20b0",
   "max": 16,
   "jp": "くさりかたびら",
   "en": "Chain Mail"
+ },
+ {
+  "offset": "0xc20c1",
+  "max": 72,
+  "jp": "鋼鉄の糸をつなぎ合わせたよろい￥ｎ見かけよりも軽くて頑丈",
+  "en": "Armor of linked steel wire.￥ｎLighter and tougher than it looks."
  },
  {
   "offset": "0xc2110",
@@ -2476,10 +2656,22 @@
   "en": "Leather Armor"
  },
  {
+  "offset": "0xc2121",
+  "max": 72,
+  "jp": "軽装の者が好んで扱う革よろい￥ｎ機動力重視のため防御力は低め",
+  "en": "Leather armor for light users.￥ｎMobile, but low defense."
+ },
+ {
   "offset": "0xc2170",
   "max": 16,
   "jp": "さびたヨロイ",
   "en": "Rusty Armor"
+ },
+ {
+  "offset": "0xc2181",
+  "max": 72,
+  "jp": "文字通りさびついたヨロイ￥ｎ「といし」でみがいてみると…",
+  "en": "Armor covered in rust.￥ｎMaybe try a Whetstone..."
  },
  {
   "offset": "0xc21d0",
@@ -2488,10 +2680,22 @@
   "en": "Wine"
  },
  {
+  "offset": "0xc21e1",
+  "max": 72,
+  "jp": "「酒の神」より伝わるとされる霊酒￥ｎとても不思議な味わいをしている",
+  "en": "Spirit wine from the god of wine.￥ｎIt tastes very strange."
+ },
+ {
   "offset": "0xc2230",
   "max": 16,
   "jp": "豆の保存食",
   "en": "Bean Rations"
+ },
+ {
+  "offset": "0xc2241",
+  "max": 72,
+  "jp": "豆を煎ってつくった保存食￥ｎ食べると体力が少し回復する",
+  "en": "Rations made of roasted beans.￥ｎRestores a little HP."
  },
  {
   "offset": "0xc2290",
@@ -2500,10 +2704,22 @@
   "en": "Bread"
  },
  {
+  "offset": "0xc22a1",
+  "max": 72,
+  "jp": "長期間保存できるパン￥ｎ食べると体力が回復する",
+  "en": "Bread that keeps a long time.￥ｎRestores HP."
+ },
+ {
   "offset": "0xc22f0",
   "max": 16,
   "jp": "ほし肉",
   "en": "Jerky"
+ },
+ {
+  "offset": "0xc2301",
+  "max": 72,
+  "jp": "保存食としてカラカラに干した肉￥ｎ遠征用の食糧として重宝されている",
+  "en": "Meat dried for preserving.￥ｎValued on long journeys."
  },
  {
   "offset": "0xc2350",
@@ -2512,10 +2728,22 @@
   "en": "Mushroom"
  },
  {
+  "offset": "0xc2361",
+  "max": 72,
+  "jp": "場所を選ばず群生しているきのこ￥ｎ鮮やかな色彩は人をも惑わす",
+  "en": "Mushrooms that grow anywhere.￥ｎTheir bright colors mislead."
+ },
+ {
   "offset": "0xc23b0",
   "max": 16,
   "jp": "きのこ",
   "en": "Mushroom"
+ },
+ {
+  "offset": "0xc23c1",
+  "max": 72,
+  "jp": "場所を選ばず群生しているきのこ￥ｎ鮮やかな色彩は人をも惑わす",
+  "en": "Mushrooms that grow anywhere.￥ｎTheir bright colors mislead."
  },
  {
   "offset": "0xc2410",
@@ -2524,10 +2752,22 @@
   "en": "Spiky Nut"
  },
  {
+  "offset": "0xc2421",
+  "max": 72,
+  "jp": "トゲで覆われている木の実￥ｎあまり食用には向いていない",
+  "en": "A nut covered in spikes.￥ｎNot great for eating."
+ },
+ {
   "offset": "0xc2470",
   "max": 16,
   "jp": "丸い木の実",
   "en": "Round Nut"
+ },
+ {
+  "offset": "0xc2481",
+  "max": 72,
+  "jp": "表面が丸みを帯びている木の実￥ｎ非常に美味とされている",
+  "en": "A nut with a round shell.￥ｎSaid to be delicious."
  },
  {
   "offset": "0xc24d0",
@@ -2536,10 +2776,22 @@
   "en": "Blue Fruit"
  },
  {
+  "offset": "0xc24e1",
+  "max": 72,
+  "jp": "青く発光している果実￥ｎ熟れるまでに長い年月を必要とする",
+  "en": "A fruit glowing blue.￥ｎIt takes years to ripen."
+ },
+ {
   "offset": "0xc2530",
   "max": 16,
   "jp": "青い果実",
   "en": "Blue Fruit"
+ },
+ {
+  "offset": "0xc2541",
+  "max": 72,
+  "jp": "青く発光している果実￥ｎ熟れるまでに長い年月を必要とする",
+  "en": "A fruit glowing blue.￥ｎIt takes years to ripen."
  },
  {
   "offset": "0xc2590",
@@ -2548,10 +2800,22 @@
   "en": "Yellow Fruit"
  },
  {
+  "offset": "0xc25a1",
+  "max": 72,
+  "jp": "黄色に発光している果実￥ｎ腐っても色が変わらないので要注意",
+  "en": "A fruit glowing yellow.￥ｎCareful: stays yellow when rotten."
+ },
+ {
   "offset": "0xc25f0",
   "max": 16,
   "jp": "黄色い果実",
   "en": "Yellow Fruit"
+ },
+ {
+  "offset": "0xc2601",
+  "max": 72,
+  "jp": "黄色に発光している果実￥ｎ腐っても色が変わらないので要注意",
+  "en": "A fruit glowing yellow.￥ｎCareful: stays yellow when rotten."
  },
  {
   "offset": "0xc2650",
@@ -2560,10 +2824,22 @@
   "en": "Red Fruit"
  },
  {
+  "offset": "0xc2661",
+  "max": 72,
+  "jp": "赤色に発光している果実￥ｎ青い果実が熟れたものである",
+  "en": "A fruit glowing red.￥ｎIt is a ripened blue fruit."
+ },
+ {
   "offset": "0xc26b0",
   "max": 16,
   "jp": "赤い果実",
   "en": "Red Fruit"
+ },
+ {
+  "offset": "0xc26c1",
+  "max": 72,
+  "jp": "赤色に発光している果実￥ｎ青い果実が熟れたものである",
+  "en": "A fruit glowing red.￥ｎIt is a ripened blue fruit."
  },
  {
   "offset": "0xc2710",
@@ -2572,10 +2848,22 @@
   "en": "Round Root"
  },
  {
+  "offset": "0xc2721",
+  "max": 72,
+  "jp": "小さい球根が沢山ついている木の根￥ｎ球根の部分は食べることができる",
+  "en": "A root with many small bulbs.￥ｎThe bulbs are edible."
+ },
+ {
   "offset": "0xc2770",
   "max": 16,
   "jp": "長細い木の根",
   "en": "Long Root"
+ },
+ {
+  "offset": "0xc2781",
+  "max": 72,
+  "jp": "するりと長く伸びている木の根￥ｎ傷みやすいが珍味とされている",
+  "en": "A long, slender root.￥ｎSpoils fast, but a delicacy."
  },
  {
   "offset": "0xc27d0",
@@ -2584,10 +2872,22 @@
   "en": "Yellow Lump"
  },
  {
+  "offset": "0xc27e1",
+  "max": 72,
+  "jp": "粘着性のある柔らかいかたまり￥ｎ食べることもできるらしい",
+  "en": "A soft, sticky lump.￥ｎApparently it's edible."
+ },
+ {
   "offset": "0xc2830",
   "max": 16,
   "jp": "白色の固形物",
   "en": "White Lump"
+ },
+ {
+  "offset": "0xc2841",
+  "max": 72,
+  "jp": "白濁色をした硬質のかたまり￥ｎ食べることもできるらしい",
+  "en": "A hard, cloudy white lump.￥ｎApparently it's edible."
  },
  {
   "offset": "0xc2890",
@@ -2596,10 +2896,22 @@
   "en": "Sweet Lump"
  },
  {
+  "offset": "0xc28a1",
+  "max": 72,
+  "jp": "無色透明で縦長のかたまり￥ｎ強烈な甘い香りが辺りに漂っている",
+  "en": "A tall, clear lump.￥ｎIt gives off a strong sweet smell."
+ },
+ {
   "offset": "0xc28f0",
   "max": 16,
   "jp": "くさい生肉",
   "en": "Smelly Raw Meat"
+ },
+ {
+  "offset": "0xc2901",
+  "max": 72,
+  "jp": "ちょっとくさい生肉￥ｎ賞味期限の明記はない",
+  "en": "Slightly smelly raw meat.￥ｎNo expiration date given."
  },
  {
   "offset": "0xc2950",
@@ -2608,10 +2920,22 @@
   "en": "Mystery Meat"
  },
  {
+  "offset": "0xc2961",
+  "max": 72,
+  "jp": "正体不明の生肉￥ｎ胃腸の弱い方にはお勧めできません",
+  "en": "Raw meat of unknown origin.￥ｎNot for weak stomachs."
+ },
+ {
   "offset": "0xc29b0",
   "max": 16,
   "jp": "ネズミのしっぽ",
   "en": "Rat Tail"
+ },
+ {
+  "offset": "0xc29c1",
+  "max": 72,
+  "jp": "ちぎれた「ネズミのしっぽ」￥ｎ食べることもできるが…まずそう",
+  "en": "A torn-off rat tail.￥ｎEdible, but... looks awful."
  },
  {
   "offset": "0xc2a10",
@@ -2620,10 +2944,22 @@
   "en": "Caterpillar"
  },
  {
+  "offset": "0xc2a21",
+  "max": 72,
+  "jp": "まるまる太った「イモムシ」￥ｎコロコロして可愛らしい",
+  "en": "A big, plump caterpillar.￥ｎRound and kind of cute."
+ },
+ {
   "offset": "0xc2a70",
   "max": 16,
   "jp": "食用バチの巣",
   "en": "Edible Beehive"
+ },
+ {
+  "offset": "0xc2a81",
+  "max": 72,
+  "jp": "食用に育てられたハチたちの巣￥ｎ栄養価の高い貴重な食糧である",
+  "en": "A hive of bees raised for food.￥ｎRare and very nutritious."
  },
  {
   "offset": "0xc2ad0",
@@ -2632,10 +2968,22 @@
   "en": "Bee Larvae"
  },
  {
+  "offset": "0xc2ae1",
+  "max": 72,
+  "jp": "食用に育てられたハチたちの幼虫￥ｎ甘く煮つけるなど保存食にもなる",
+  "en": "Larvae of bees raised for food.￥ｎCan be stewed to preserve."
+ },
+ {
   "offset": "0xc2b30",
   "max": 16,
   "jp": "食用ほしガエル",
   "en": "Dried Frog"
+ },
+ {
+  "offset": "0xc2b41",
+  "max": 72,
+  "jp": "食用に育てられた「カエル」￥ｎ見た目はすごく新鮮だけど…",
+  "en": "A frog raised for food.￥ｎIt looks very fresh, but..."
  },
  {
   "offset": "0xc2b90",
@@ -2644,10 +2992,22 @@
   "en": "Dried Mole"
  },
  {
+  "offset": "0xc2ba1",
+  "max": 72,
+  "jp": "食用として育てられた「モグラ」￥ｎ土くさくて食べにくい",
+  "en": "A mole raised for food.￥ｎEarthy and hard to eat."
+ },
+ {
   "offset": "0xc2bf0",
   "max": 16,
   "jp": "食用ゴケ",
   "en": "Edible Moss"
+ },
+ {
+  "offset": "0xc2c01",
+  "max": 72,
+  "jp": "食用として育てられた「コケ」￥ｎ食物繊維がとってもヘルシー",
+  "en": "Moss grown for food.￥ｎFull of fiber. Very healthy!"
  },
  {
   "offset": "0xc2c50",
@@ -2656,10 +3016,22 @@
   "en": "Hidden Treasure"
  },
  {
+  "offset": "0xc2c61",
+  "max": 72,
+  "jp": "何者かにより隠され続けられた財宝￥ｎ永遠の輝きは見る者を魅了する",
+  "en": "Treasure hidden away for ages.￥ｎIts eternal shine enchants."
+ },
+ {
   "offset": "0xc2cb0",
   "max": 16,
   "jp": "絵師シンの名画",
   "en": "Shin's Painting"
+ },
+ {
+  "offset": "0xc2cc1",
+  "max": 72,
+  "jp": "知る人ぞ知る絵師シンの名画￥ｎ見る人の心に感動を与える",
+  "en": "A masterpiece by painter Shin.￥ｎIt moves all who see it."
  },
  {
   "offset": "0xc2d10",
@@ -2668,10 +3040,22 @@
   "en": "White Gem"
  },
  {
+  "offset": "0xc2d21",
+  "max": 72,
+  "jp": "白く透き通る宝石￥ｎつめたい輝きを放っている",
+  "en": "A clear white gem.￥ｎIt gives off a cold gleam."
+ },
+ {
   "offset": "0xc2d70",
   "max": 16,
   "jp": "赤い宝石",
   "en": "Red Gem"
+ },
+ {
+  "offset": "0xc2d81",
+  "max": 72,
+  "jp": "炎を結晶化させたような宝石￥ｎその輝きはかすかにゆらめいている",
+  "en": "A gem like crystallized fire.￥ｎIts glow faintly flickers."
  },
  {
   "offset": "0xc2dd0",
@@ -2680,10 +3064,22 @@
   "en": "Dusty Trash"
  },
  {
+  "offset": "0xc2de1",
+  "max": 72,
+  "jp": "ホコリにまみれているアイテム￥ｎどうやってもホコリはとれない",
+  "en": "An item covered in dust.￥ｎThe dust won't come off."
+ },
+ {
   "offset": "0xc2e30",
   "max": 16,
   "jp": "価値のない石",
   "en": "Worthless Stone"
+ },
+ {
+  "offset": "0xc2e41",
+  "max": 72,
+  "jp": "どこにでもよく見られる石￥ｎどう見てもただの石にしか見えない",
+  "en": "A stone found anywhere.￥ｎIt's just a plain stone."
  },
  {
   "offset": "0xc2e90",
@@ -2692,10 +3088,22 @@
   "en": "Plain Junk"
  },
  {
+  "offset": "0xc2ea1",
+  "max": 72,
+  "jp": "足下に転がっていそうなガラクタ￥ｎ本当に役にたたない",
+  "en": "Junk you'd find underfoot.￥ｎTotally useless."
+ },
+ {
   "offset": "0xc2ef0",
   "max": 16,
   "jp": "う○こ",
   "en": "Po○p"
+ },
+ {
+  "offset": "0xc2f01",
+  "max": 72,
+  "jp": "本当にくっさそうな「う○こ」￥ｎなんでこんなものもってるんだ？",
+  "en": "Really stinky-looking po○p.￥ｎWhy are you carrying this?"
  },
  {
   "offset": "0xc2f50",
@@ -2704,10 +3112,22 @@
   "en": "Papyrus"
  },
  {
+  "offset": "0xc2f61",
+  "max": 72,
+  "jp": "過去の情報が書き記されていた紙￥ｎ不思議なことに文字が消えている",
+  "en": "Paper with records of the past.￥ｎOddly, the writing is gone."
+ },
+ {
   "offset": "0xc2fb0",
   "max": 16,
   "jp": "修行の心得",
   "en": "Training Tips"
+ },
+ {
+  "offset": "0xc2fc1",
+  "max": 72,
+  "jp": "修行せずにはいられなくなるという￥ｎ不思議な魔力が宿ったアイテム",
+  "en": "An item with strange magic that￥ｎmakes you want to train."
  },
  {
   "offset": "0xc3010",
@@ -2716,10 +3136,22 @@
   "en": "Holywater Herb"
  },
  {
+  "offset": "0xc3021",
+  "max": 72,
+  "jp": "聖水で清められた草￥ｎ呪いを打ち消す効果がある",
+  "en": "Grass purified by holy water.￥ｎIt removes curses."
+ },
+ {
   "offset": "0xc3070",
   "max": 16,
   "jp": "どくけし",
   "en": "Antidote"
+ },
+ {
+  "offset": "0xc3081",
+  "max": 72,
+  "jp": "強力な毒消し作用を持つ薬草￥ｎ普通の薬草としても服用できる",
+  "en": "An herb with strong antidote.￥ｎAlso works as normal medicine."
  },
  {
   "offset": "0xc30d0",
@@ -2728,10 +3160,22 @@
   "en": "Scarab"
  },
  {
+  "offset": "0xc30e1",
+  "max": 72,
+  "jp": "空間を移動する魔力を宿している￥ｎ「運命の町」に戻ることができる",
+  "en": "It holds space-moving magic.￥ｎReturns you to Destiny Town."
+ },
+ {
   "offset": "0xc3130",
   "max": 16,
   "jp": "ベラカス",
   "en": "Belacus"
+ },
+ {
+  "offset": "0xc3141",
+  "max": 72,
+  "jp": "空間を移動する魔力を宿している￥ｎタワーへ瞬間移動することができる",
+  "en": "It holds space-moving magic.￥ｎWarps you to the tower."
  },
  {
   "offset": "0xc3190",
@@ -2740,10 +3184,22 @@
   "en": "Kerotan"
  },
  {
+  "offset": "0xc31a1",
+  "max": 72,
+  "jp": "ケロタンを喚びだせる魔法アイテム￥ｎ使用したフロアのワナを回避できる",
+  "en": "Summons Kerotan.￥ｎAvoids the traps on this floor."
+ },
+ {
   "offset": "0xc31f0",
   "max": 16,
   "jp": "マジカルリカー",
   "en": "Magic Liquor"
+ },
+ {
+  "offset": "0xc3201",
+  "max": 72,
+  "jp": "小ビンに入った栄養ドリンク￥ｎ飲みなれないと副作用がある",
+  "en": "Energy drink in a small bottle.￥ｎSide effects if unused to it."
  },
  {
   "offset": "0xc3250",
@@ -2752,10 +3208,22 @@
   "en": "Whetstone"
  },
  {
+  "offset": "0xc3261",
+  "max": 72,
+  "jp": "さびて使えない剣やよろいの￥ｎ「サビ」を落とすことができる",
+  "en": "Removes the rust from swords￥ｎand armor too rusty to use."
+ },
+ {
   "offset": "0xc32b0",
   "max": 16,
   "jp": "魔法のといし",
   "en": "Magic Whetstone"
+ },
+ {
+  "offset": "0xc32c1",
+  "max": 72,
+  "jp": "鍛冶神の魔力が宿った「といし」￥ｎさびついた武具を一瞬で輝かせる",
+  "en": "Whetstone of the smith god.￥ｎMakes rusty gear shine at once."
  },
  {
   "offset": "0xc3310",
@@ -2764,10 +3232,22 @@
   "en": "Lucky Card"
  },
  {
+  "offset": "0xc3321",
+  "max": 72,
+  "jp": "運命を変える魔力を宿すカード￥ｎ持つ者を幸福へ導くといわれる",
+  "en": "A card with fate-changing magic.￥ｎSaid to bring good luck."
+ },
+ {
   "offset": "0xc3370",
   "max": 16,
   "jp": "不幸カード",
   "en": "Unlucky Card"
+ },
+ {
+  "offset": "0xc3381",
+  "max": 72,
+  "jp": "運命を変える魔力を宿すカード￥ｎ持つ者を不幸へ導くといわれる",
+  "en": "A card with fate-changing magic.￥ｎSaid to bring bad luck."
  },
  {
   "offset": "0xc33d0",
@@ -2776,10 +3256,22 @@
   "en": "Someone's Diary"
  },
  {
+  "offset": "0xc33e1",
+  "max": 72,
+  "jp": "古ぼけた誰かの日記￥ｎ様々なことが書き残されている",
+  "en": "Someone's worn-out diary.￥ｎMany things are written in it."
+ },
+ {
   "offset": "0xc3430",
   "max": 16,
   "jp": "魔法の貝がら",
   "en": "Magic Shell"
+ },
+ {
+  "offset": "0xc3441",
+  "max": 72,
+  "jp": "人の思いを声で伝える貝がら￥ｎ心を伝える魔力が宿っている",
+  "en": "A shell that carries voices.￥ｎIt holds heart-sharing magic."
  },
  {
   "offset": "0xc3490",
@@ -2788,10 +3280,22 @@
   "en": "Song Book"
  },
  {
+  "offset": "0xc34a1",
+  "max": 72,
+  "jp": "はるか昔より伝わる詩人たちの本￥ｎ本を開けば詩人たちの声が聞こえる",
+  "en": "An ancient book of poets.￥ｎOpen it to hear their voices."
+ },
+ {
   "offset": "0xc34f0",
   "max": 16,
   "jp": "知識の本",
   "en": "Book of Wisdom"
+ },
+ {
+  "offset": "0xc3501",
+  "max": 72,
+  "jp": "偉大な賢者が残したとされる書物￥ｎ本には様々な知識が記されている",
+  "en": "A book left by a great sage.￥ｎIt records all kinds of lore."
  },
  {
   "offset": "0xc3550",
@@ -2800,10 +3304,22 @@
   "en": "Naughty Book"
  },
  {
+  "offset": "0xc3561",
+  "max": 72,
+  "jp": "誰かが隠しておいたエッチ本￥ｎ後は読んでのお楽しみ",
+  "en": "A naughty book someone hid.￥ｎEnjoy reading the rest..."
+ },
+ {
   "offset": "0xc35b0",
   "max": 16,
   "jp": "パピルス",
   "en": "Papyrus"
+ },
+ {
+  "offset": "0xc35c1",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
  },
  {
   "offset": "0xc3610",
@@ -2812,10 +3328,22 @@
   "en": "Papyrus"
  },
  {
+  "offset": "0xc3621",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
+ },
+ {
   "offset": "0xc3670",
   "max": 16,
   "jp": "パピルス",
   "en": "Papyrus"
+ },
+ {
+  "offset": "0xc3681",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
  },
  {
   "offset": "0xc36d0",
@@ -2824,10 +3352,22 @@
   "en": "Papyrus"
  },
  {
+  "offset": "0xc36e1",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
+ },
+ {
   "offset": "0xc3730",
   "max": 16,
   "jp": "パピルス",
   "en": "Papyrus"
+ },
+ {
+  "offset": "0xc3741",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
  },
  {
   "offset": "0xc3790",
@@ -2836,10 +3376,22 @@
   "en": "Papyrus"
  },
  {
+  "offset": "0xc37a1",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
+ },
+ {
   "offset": "0xc37f0",
   "max": 16,
   "jp": "パピルス",
   "en": "Papyrus"
+ },
+ {
+  "offset": "0xc3801",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
  },
  {
   "offset": "0xc3850",
@@ -2848,16 +3400,34 @@
   "en": "Papyrus"
  },
  {
+  "offset": "0xc3861",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
+ },
+ {
   "offset": "0xc38b0",
   "max": 16,
   "jp": "パピルス",
   "en": "Papyrus"
  },
  {
+  "offset": "0xc38c1",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
+ },
+ {
   "offset": "0xc3910",
   "max": 16,
   "jp": "パピルス",
   "en": "Papyrus"
+ },
+ {
+  "offset": "0xc3921",
+  "max": 72,
+  "jp": "過去の情報が書き記されている紙",
+  "en": "Paper with records of the past."
  },
  {
   "offset": "0xc3b8c",
@@ -4492,10 +5062,22 @@
   "en": "Punch"
  },
  {
+  "offset": "0xc6508",
+  "max": 75,
+  "jp": "熱い拳で敵を殴りつける",
+  "en": "Strike the foe with a hot fist."
+ },
+ {
   "offset": "0xc6554",
   "max": 16,
   "jp": "ワンツー",
   "en": "One-Two"
+ },
+ {
+  "offset": "0xc656c",
+  "max": 75,
+  "jp": "華麗なフットワークで￥ｎワンツーをくりだす",
+  "en": "With graceful footwork,￥ｎthrow a one-two."
  },
  {
   "offset": "0xc65b8",
@@ -4504,10 +5086,22 @@
   "en": "Moonlight Jab"
  },
  {
+  "offset": "0xc65d0",
+  "max": 75,
+  "jp": "拳に聖なる気を込めて￥ｎ連続突きをくりだす",
+  "en": "Fill your fists with holy ki￥ｎand jab in a rapid flurry."
+ },
+ {
   "offset": "0xc661c",
   "max": 16,
   "jp": "しょうげきは",
   "en": "Shockwave"
+ },
+ {
+  "offset": "0xc6634",
+  "max": 75,
+  "jp": "激しい衝撃波を放つ￥ｎ気功体術",
+  "en": "A ki martial art that fires￥ｎa violent shockwave."
  },
  {
   "offset": "0xc6680",
@@ -4516,10 +5110,22 @@
   "en": "Shine Punch"
  },
  {
+  "offset": "0xc6698",
+  "max": 75,
+  "jp": "光り輝く拳で￥ｎ光の波動をたたき込む",
+  "en": "With a shining fist,￥ｎdrive in a wave of light."
+ },
+ {
   "offset": "0xc66e4",
   "max": 16,
   "jp": "とぶナックル",
   "en": "Flying Knuckle"
+ },
+ {
+  "offset": "0xc66fc",
+  "max": 75,
+  "jp": "飛びかう拳が敵を討つ￥ｎ必殺の気功体術",
+  "en": "A deadly ki technique of￥ｎflying fists."
  },
  {
   "offset": "0xc6748",
@@ -4528,10 +5134,22 @@
   "en": "Dragon Punch"
  },
  {
+  "offset": "0xc6760",
+  "max": 75,
+  "jp": "ドラゴンパワーを拳に込めて￥ｎ強烈な一撃をくりだす",
+  "en": "Fill your fist with dragon power￥ｎand deliver a fierce blow."
+ },
+ {
   "offset": "0xc67ac",
   "max": 16,
   "jp": "黒の波動",
   "en": "Black Wave"
+ },
+ {
+  "offset": "0xc67c4",
+  "max": 75,
+  "jp": "まわりの呪いを取り込んで￥ｎ暗黒の波動として放つ",
+  "en": "Absorb the curses around you￥ｎand release them as a dark wave."
  },
  {
   "offset": "0xc6810",
@@ -4540,10 +5158,22 @@
   "en": "Dragon Ki Blast"
  },
  {
+  "offset": "0xc6828",
+  "max": 75,
+  "jp": "皇龍のエネルギーを操り￥ｎ爆発的に解放する究極の気功体術",
+  "en": "Control imperial dragon power and￥ｎunleash it. The ultimate ki art."
+ },
+ {
   "offset": "0xc6874",
   "max": 16,
   "jp": "裏奥義・殺滅殺",
   "en": "Death Strike"
+ },
+ {
+  "offset": "0xc688c",
+  "max": 75,
+  "jp": "闇の牙で魂を切り裂く￥ｎ古より伝わる滅殺拳",
+  "en": "Rend the soul with fangs of dark.￥ｎAn ancient killing fist."
  },
  {
   "offset": "0xc68d8",
@@ -4552,10 +5182,22 @@
   "en": "Slash"
  },
  {
+  "offset": "0xc68f0",
+  "max": 75,
+  "jp": "敵を剣で斬りつける",
+  "en": "Slash the foe with a sword."
+ },
+ {
   "offset": "0xc693c",
   "max": 16,
   "jp": "連続斬り",
   "en": "Combo Slash"
+ },
+ {
+  "offset": "0xc6954",
+  "max": 75,
+  "jp": "華麗なフットワークで￥ｎ連続で斬りつける",
+  "en": "With graceful footwork,￥ｎslash again and again."
  },
  {
   "offset": "0xc69a0",
@@ -4564,10 +5206,22 @@
   "en": "Mince"
  },
  {
+  "offset": "0xc69b8",
+  "max": 75,
+  "jp": "目に見えない程の速さで￥ｎ斬りつけてバラバラにする",
+  "en": "Slash so fast it can't be seen,￥ｎcutting foes to pieces."
+ },
+ {
   "offset": "0xc6a04",
   "max": 16,
   "jp": "すきま通し",
   "en": "Gap Thrust"
+ },
+ {
+  "offset": "0xc6a1c",
+  "max": 75,
+  "jp": "ヨロイや装甲のすきまを狙って￥ｎ一瞬でつらぬく",
+  "en": "Aim for gaps in the armor￥ｎand pierce in an instant."
  },
  {
   "offset": "0xc6a68",
@@ -4576,10 +5230,22 @@
   "en": "Shred"
  },
  {
+  "offset": "0xc6a80",
+  "max": 75,
+  "jp": "細切れになるまで斬りつける",
+  "en": "Slash until it's in shreds."
+ },
+ {
   "offset": "0xc6acc",
   "max": 16,
   "jp": "切り捨て御免",
   "en": "Cut Down"
+ },
+ {
+  "offset": "0xc6ae4",
+  "max": 75,
+  "jp": "真空の刃でヨロイや装甲ごと￥ｎまっぷたつに切り裂く",
+  "en": "A vacuum blade that cuts foes￥ｎin two, armor and all."
  },
  {
   "offset": "0xc6b30",
@@ -4588,10 +5254,22 @@
   "en": "Holy Light Cut"
  },
  {
+  "offset": "0xc6b48",
+  "max": 75,
+  "jp": "聖なる光の剣で￥ｎ邪悪なる存在を消し去る",
+  "en": "A sword of holy light that￥ｎerases evil beings."
+ },
+ {
   "offset": "0xc6b94",
   "max": 16,
   "jp": "邪剣・天地破滅斬",
   "en": "Doom Slash"
+ },
+ {
+  "offset": "0xc6bac",
+  "max": 75,
+  "jp": "異世界から暗黒の波動を引き寄せる￥ｎ天地を滅ぼす魔剣技",
+  "en": "Draws dark waves from another￥ｎworld. A world-ending sword art."
  },
  {
   "offset": "0xc6bf8",
@@ -4600,10 +5278,22 @@
   "en": "Apocalypse Blade"
  },
  {
+  "offset": "0xc6c10",
+  "max": 75,
+  "jp": "あまりにも強力な破壊力ゆえに￥ｎ伝説と共に封じられし剣技",
+  "en": "A sword art so destructive it was￥ｎsealed away with its legend."
+ },
+ {
   "offset": "0xc6c5c",
   "max": 16,
   "jp": "裏奥義・封神閃",
   "en": "Sealing Flash"
+ },
+ {
+  "offset": "0xc6c74",
+  "max": 75,
+  "jp": "神の力をも封じ　滅すると言われる￥ｎ究極の超人剣技",
+  "en": "Said to seal even gods' power.￥ｎThe ultimate superhuman sword art."
  },
  {
   "offset": "0xc6cc0",
@@ -4612,10 +5302,22 @@
   "en": "Free Prayer"
  },
  {
+  "offset": "0xc6cd8",
+  "max": 75,
+  "jp": "聖神の加護を受けることができる￥ｎ術者の祈りの力を強める",
+  "en": "Receive the holy god's blessing.￥ｎStrengthens your prayers."
+ },
+ {
   "offset": "0xc6d24",
   "max": 16,
   "jp": "回復の祈り",
   "en": "Heal Prayer"
+ },
+ {
+  "offset": "0xc6d3c",
+  "max": 75,
+  "jp": "聖神に祈りを捧げ￥ｎ味方一人の体力を回復する",
+  "en": "Pray to the holy god to￥ｎrestore one ally's HP."
  },
  {
   "offset": "0xc6d88",
@@ -4624,10 +5326,22 @@
   "en": "Cure Prayer"
  },
  {
+  "offset": "0xc6da0",
+  "max": 75,
+  "jp": "聖神に祈りを捧げ￥ｎ味方一人の体調を回復する",
+  "en": "Pray to the holy god to￥ｎcure one ally's condition."
+ },
+ {
   "offset": "0xc6dec",
   "max": 16,
   "jp": "供養の祈り",
   "en": "Requiem"
+ },
+ {
+  "offset": "0xc6e04",
+  "max": 75,
+  "jp": "聖なる祈りを捧げ￥ｎ邪悪なる存在を攻撃する",
+  "en": "Offer a holy prayer￥ｎthat attacks evil beings."
  },
  {
   "offset": "0xc6e50",
@@ -4636,10 +5350,22 @@
   "en": "Holy Cure"
  },
  {
+  "offset": "0xc6e68",
+  "max": 75,
+  "jp": "聖神に願いを捧げ￥ｎ味方全員の体調を回復する",
+  "en": "Pray to the holy god to￥ｎcure all allies' conditions."
+ },
+ {
   "offset": "0xc6eb4",
   "max": 16,
   "jp": "反射の祈り",
   "en": "Reflect Prayer"
+ },
+ {
+  "offset": "0xc6ecc",
+  "max": 75,
+  "jp": "聖神に願いを捧げ￥ｎ魔法を反射する結界をつくる",
+  "en": "Pray to the holy god for a￥ｎbarrier that reflects magic."
  },
  {
   "offset": "0xc6f18",
@@ -4648,10 +5374,22 @@
   "en": "Revive Prayer"
  },
  {
+  "offset": "0xc6f30",
+  "max": 75,
+  "jp": "聖神に願いを捧げ￥ｎ倒れた者の復活をおこなう",
+  "en": "Pray to the holy god to￥ｎrevive a fallen ally."
+ },
+ {
   "offset": "0xc6f7c",
   "max": 16,
   "jp": "聖回復の祈り",
   "en": "Holy Heal"
+ },
+ {
+  "offset": "0xc6f94",
+  "max": 75,
+  "jp": "聖神に願いを捧げ￥ｎ味方全員の傷を癒す",
+  "en": "Pray to the holy god to￥ｎheal all allies' wounds."
  },
  {
   "offset": "0xc6fe0",
@@ -4660,10 +5398,22 @@
   "en": "Last Prayer"
  },
  {
+  "offset": "0xc6ff8",
+  "max": 75,
+  "jp": "聖神と交信することにより￥ｎ味方全員の体力を回復する",
+  "en": "Commune with the holy god to￥ｎrestore all allies' HP."
+ },
+ {
   "offset": "0xc7044",
   "max": 16,
   "jp": "天魔慈愛の祈り",
   "en": "Tenma Mercy"
+ },
+ {
+  "offset": "0xc705c",
+  "max": 75,
+  "jp": "聖神と交信することにより￥ｎ味方全員を完治させる",
+  "en": "Commune with the holy god to￥ｎfully cure all allies."
  },
  {
   "offset": "0xc70a8",
@@ -4672,10 +5422,22 @@
   "en": "Void Space"
  },
  {
+  "offset": "0xc70c0",
+  "max": 75,
+  "jp": "周囲に魔力のフィールドを展開して￥ｎ虚無の魔力を高める",
+  "en": "Spread a field of magic around￥ｎyou to boost Void magic."
+ },
+ {
   "offset": "0xc710c",
   "max": 16,
   "jp": "みえない壁",
   "en": "Invisible Wall"
+ },
+ {
+  "offset": "0xc7124",
+  "max": 75,
+  "jp": "強力な精神障壁を発生させる事で￥ｎ敵の攻撃を防ぐ",
+  "en": "Raise a strong mental barrier￥ｎthat blocks enemy attacks."
  },
  {
   "offset": "0xc7170",
@@ -4684,10 +5446,22 @@
   "en": "Vanish Blink"
  },
  {
+  "offset": "0xc7188",
+  "max": 75,
+  "jp": "触れた物質を消滅させる￥ｎ光の粒子を撃ち出す",
+  "en": "Fire particles of light that￥ｎerase whatever they touch."
+ },
+ {
   "offset": "0xc71d4",
   "max": 16,
   "jp": "破滅の瞬き",
   "en": "Ruin Blink"
+ },
+ {
+  "offset": "0xc71ec",
+  "max": 75,
+  "jp": "触れた物質を消滅させる￥ｎ光の粒子をまき散らす",
+  "en": "Scatter particles of light that￥ｎerase whatever they touch."
  },
  {
   "offset": "0xc7238",
@@ -4696,10 +5470,22 @@
   "en": "Vanish Light"
  },
  {
+  "offset": "0xc7250",
+  "max": 75,
+  "jp": "触れた物質を消滅させる￥ｎ光玉を撃ち出す",
+  "en": "Fire an orb of light that￥ｎerases whatever it touches."
+ },
+ {
   "offset": "0xc729c",
   "max": 16,
   "jp": "破滅の光",
   "en": "Ruin Light"
+ },
+ {
+  "offset": "0xc72b4",
+  "max": 75,
+  "jp": "触れた物質を消滅させる￥ｎ光玉を乱れ撃つ",
+  "en": "Rapid-fire orbs of light that￥ｎerase whatever they touch."
  },
  {
   "offset": "0xc7300",
@@ -4708,10 +5494,22 @@
   "en": "Vanish Flash"
  },
  {
+  "offset": "0xc7318",
+  "max": 75,
+  "jp": "触れた物質を消滅させる￥ｎ閃光の矢を放つ高等魔法",
+  "en": "High magic: fire arrows of light￥ｎthat erase what they touch."
+ },
+ {
   "offset": "0xc7364",
   "max": 16,
   "jp": "破滅の閃光",
   "en": "Ruin Flash"
+ },
+ {
+  "offset": "0xc737c",
+  "max": 75,
+  "jp": "触れた物質を消滅させる￥ｎ集束した閃光を放射する高等魔法",
+  "en": "High magic: a focused beam that￥ｎerases whatever it touches."
  },
  {
   "offset": "0xc73c8",
@@ -4720,10 +5518,22 @@
   "en": "Disintegrate"
  },
  {
+  "offset": "0xc73e0",
+  "max": 75,
+  "jp": "敵を隔離空間に封縛し￥ｎ原子の粒子まで分解する超高等魔法",
+  "en": "Supreme magic: trap the foe and￥ｎbreak it down to atoms."
+ },
+ {
   "offset": "0xc742c",
   "max": 16,
   "jp": "天魔最終",
   "en": "Tenma Finale"
+ },
+ {
+  "offset": "0xc7444",
+  "max": 75,
+  "jp": "…全ての現象を無に還す最終の光…",
+  "en": "...The final light that returns￥ｎall things to nothing..."
  },
  {
   "offset": "0xc7490",
@@ -4732,10 +5542,22 @@
   "en": "Fire Space"
  },
  {
+  "offset": "0xc74a8",
+  "max": 75,
+  "jp": "周囲に魔力のフィールドを展開して￥ｎ炎の魔力を高める",
+  "en": "Spread a field of magic around￥ｎyou to boost Fire magic."
+ },
+ {
   "offset": "0xc74f4",
   "max": 16,
   "jp": "炎の呪文",
   "en": "Fire Spell"
+ },
+ {
+  "offset": "0xc750c",
+  "max": 75,
+  "jp": "炎の精霊に働きかけ￥ｎ火球を撃ち出す",
+  "en": "Call on the fire spirits￥ｎto shoot a fireball."
  },
  {
   "offset": "0xc7558",
@@ -4744,10 +5566,22 @@
   "en": "Heat Spell"
  },
  {
+  "offset": "0xc7570",
+  "max": 75,
+  "jp": "炎の精霊に働きかけ￥ｎ敵を焦熱で包み込む",
+  "en": "Call on the fire spirits￥ｎto wrap the foe in heat."
+ },
+ {
   "offset": "0xc75bc",
   "max": 16,
   "jp": "剣魔斬・炎",
   "en": "Flame Slash"
+ },
+ {
+  "offset": "0xc75d4",
+  "max": 75,
+  "jp": "剣と魔法を合成した魔法剣￥ｎ炎の属性を持つ",
+  "en": "A magic sword art fusing blade￥ｎand spell. Fire element."
  },
  {
   "offset": "0xc7620",
@@ -4756,10 +5590,22 @@
   "en": "Blast Heat"
  },
  {
+  "offset": "0xc7638",
+  "max": 75,
+  "jp": "炎の精霊に働きかけ￥ｎ爆熱の嵐を巻き起こす高等魔法",
+  "en": "High magic: call on fire spirits￥ｎto raise a blazing storm."
+ },
+ {
   "offset": "0xc7684",
   "max": 16,
   "jp": "爆炎の呪文",
   "en": "Blaze Spell"
+ },
+ {
+  "offset": "0xc769c",
+  "max": 75,
+  "jp": "炎の精霊に働きかけ￥ｎ爆炎で周囲を焼き尽くす高等魔法",
+  "en": "High magic: call on fire spirits￥ｎto burn all around."
  },
  {
   "offset": "0xc76e8",
@@ -4768,10 +5614,22 @@
   "en": "Scorch Sword"
  },
  {
+  "offset": "0xc7700",
+  "max": 75,
+  "jp": "大岩を一瞬で溶かす程の熱量を放つ￥ｎ炎属性の高等魔法剣",
+  "en": "Heat that melts boulders at once.￥ｎA high Fire sword art."
+ },
+ {
   "offset": "0xc774c",
   "max": 16,
   "jp": "轟炎の剣",
   "en": "Inferno Sword"
+ },
+ {
+  "offset": "0xc7764",
+  "max": 75,
+  "jp": "切り口から爆炎を内部に送り込む￥ｎ炎属性の高等魔法剣",
+  "en": "Sends a blast into the wound.￥ｎA high Fire sword art."
  },
  {
   "offset": "0xc77b0",
@@ -4780,10 +5638,22 @@
   "en": "Last Flame"
  },
  {
+  "offset": "0xc77c8",
+  "max": 75,
+  "jp": "炎の精霊界との扉を開き￥ｎ炎の矢を降らせる超高等魔法",
+  "en": "Supreme magic: open the fire realm￥ｎand rain arrows of flame."
+ },
+ {
   "offset": "0xc7814",
   "max": 16,
   "jp": "天魔爆炎",
   "en": "Tenma Blaze"
+ },
+ {
+  "offset": "0xc782c",
+  "max": 75,
+  "jp": "全てを焼き尽くし一面を焦土と化す￥ｎ炎を司る者のみが扱える極大魔法",
+  "en": "Burns everything to ash. Only the￥ｎmaster of fire can use it."
  },
  {
   "offset": "0xc7878",
@@ -4792,10 +5662,22 @@
   "en": "Wind Space"
  },
  {
+  "offset": "0xc7890",
+  "max": 75,
+  "jp": "周囲に魔力のフィールドを展開して￥ｎ風の魔力を高める",
+  "en": "Spread a field of magic around￥ｎyou to boost Wind magic."
+ },
+ {
   "offset": "0xc78dc",
   "max": 16,
   "jp": "風の呪文",
   "en": "Wind Spell"
+ },
+ {
+  "offset": "0xc78f4",
+  "max": 75,
+  "jp": "風の精霊に働きかけ￥ｎかまいたちを放つ",
+  "en": "Call on the wind spirits￥ｎto loose a cutting wind."
  },
  {
   "offset": "0xc7940",
@@ -4804,10 +5686,22 @@
   "en": "Thunder Spell"
  },
  {
+  "offset": "0xc7958",
+  "max": 75,
+  "jp": "風の精霊に働きかけ￥ｎ敵の頭上に雷を招く",
+  "en": "Call on the wind spirits￥ｎto bring lightning on the foe."
+ },
+ {
   "offset": "0xc79a4",
   "max": 16,
   "jp": "剣魔斬・風",
   "en": "Wind Slash"
+ },
+ {
+  "offset": "0xc79bc",
+  "max": 75,
+  "jp": "剣と魔法を合成した魔法剣￥ｎ風の属性を持つ",
+  "en": "A magic sword art fusing blade￥ｎand spell. Wind element."
  },
  {
   "offset": "0xc7a08",
@@ -4816,10 +5710,22 @@
   "en": "Blast Thunder"
  },
  {
+  "offset": "0xc7a20",
+  "max": 75,
+  "jp": "風の精霊に働きかけ￥ｎ爆雷の渦を巻き起こす高等魔法",
+  "en": "High magic: call on wind spirits￥ｎto whip up a thunderstorm."
+ },
+ {
   "offset": "0xc7a6c",
   "max": 16,
   "jp": "爆風の呪文",
   "en": "Gale Spell"
+ },
+ {
+  "offset": "0xc7a84",
+  "max": 75,
+  "jp": "風の精霊の働きかけ￥ｎ局地に真空領域を展開する高等魔法",
+  "en": "High magic: call on wind spirits￥ｎto create a vacuum zone."
  },
  {
   "offset": "0xc7ad0",
@@ -4828,10 +5734,22 @@
   "en": "Lightning Sword"
  },
  {
+  "offset": "0xc7ae8",
+  "max": 75,
+  "jp": "敵を凄まじい雷電で溶解させる￥ｎ風属性の高等魔法剣",
+  "en": "Melts foes with fierce lightning.￥ｎA high Wind sword art."
+ },
+ {
   "offset": "0xc7b34",
   "max": 16,
   "jp": "竜巻の剣",
   "en": "Tornado Sword"
+ },
+ {
+  "offset": "0xc7b4c",
+  "max": 75,
+  "jp": "剣の軌跡から真空の刃が舞う￥ｎ風属性の高等魔法剣",
+  "en": "Vacuum blades fly from its path.￥ｎA high Wind sword art."
  },
  {
   "offset": "0xc7b98",
@@ -4840,10 +5758,22 @@
   "en": "Last Wind"
  },
  {
+  "offset": "0xc7bb0",
+  "max": 75,
+  "jp": "風の精霊界との扉を開き￥ｎ破邪の風を導く超高等魔法",
+  "en": "Supreme magic: open the wind realm￥ｎfor a wind that banishes evil."
+ },
+ {
   "offset": "0xc7bfc",
   "max": 16,
   "jp": "天魔疾風",
   "en": "Tenma Gale"
+ },
+ {
+  "offset": "0xc7c14",
+  "max": 75,
+  "jp": "異形の者を浄化する風を巻き起こす￥ｎ風を司る者のみが扱える極大魔法",
+  "en": "A wind that purifies monsters. Only￥ｎthe master of wind can use it."
  },
  {
   "offset": "0xc7c60",
@@ -4852,10 +5782,22 @@
   "en": "Water Space"
  },
  {
+  "offset": "0xc7c78",
+  "max": 75,
+  "jp": "周囲に魔力のフィールドを展開して￥ｎ水の魔力を高める",
+  "en": "Spread a field of magic around￥ｎyou to boost Water magic."
+ },
+ {
   "offset": "0xc7cc4",
   "max": 16,
   "jp": "水の呪文",
   "en": "Water Spell"
+ },
+ {
+  "offset": "0xc7cdc",
+  "max": 75,
+  "jp": "水の精霊に働きかけ￥ｎ水の刃で攻撃する",
+  "en": "Call on the water spirits￥ｎto attack with a water blade."
  },
  {
   "offset": "0xc7d28",
@@ -4864,10 +5806,22 @@
   "en": "Ice Spell"
  },
  {
+  "offset": "0xc7d40",
+  "max": 75,
+  "jp": "水の精霊に働きかけ￥ｎ氷の矢を撃ち出す",
+  "en": "Call on the water spirits￥ｎto shoot arrows of ice."
+ },
+ {
   "offset": "0xc7d8c",
   "max": 16,
   "jp": "剣魔斬・水",
   "en": "Water Slash"
+ },
+ {
+  "offset": "0xc7da4",
+  "max": 75,
+  "jp": "剣と魔法を合成した魔法剣￥ｎ水の属性を持つ",
+  "en": "A magic sword art fusing blade￥ｎand spell. Water element."
  },
  {
   "offset": "0xc7df0",
@@ -4876,10 +5830,22 @@
   "en": "Frost Spell"
  },
  {
+  "offset": "0xc7e08",
+  "max": 75,
+  "jp": "水の精霊に働きかけ￥ｎ氷塊の中に封じる高等魔法",
+  "en": "High magic: call on water spirits￥ｎto seal foes in ice."
+ },
+ {
   "offset": "0xc7e54",
   "max": 16,
   "jp": "水界の呪文",
   "en": "Tide Spell"
+ },
+ {
+  "offset": "0xc7e6c",
+  "max": 75,
+  "jp": "水の精霊に働きかけ￥ｎ聖水を超高水圧で撃ち出す高等魔法",
+  "en": "High magic: blast holy water￥ｎat extreme pressure."
  },
  {
   "offset": "0xc7eb8",
@@ -4888,10 +5854,22 @@
   "en": "Glacier Sword"
  },
  {
+  "offset": "0xc7ed0",
+  "max": 75,
+  "jp": "剣に触れた物質を一瞬に凍結させる￥ｎ水属性の高等魔法剣",
+  "en": "Instantly freezes what it touches.￥ｎA high Water sword art."
+ },
+ {
   "offset": "0xc7f1c",
   "max": 16,
   "jp": "水明の剣",
   "en": "Clearwater Blade"
+ },
+ {
+  "offset": "0xc7f34",
+  "max": 75,
+  "jp": "水の波紋を衝撃として放つ￥ｎ水属性の高等魔法剣",
+  "en": "Strikes with ripples of water.￥ｎA high Water sword art."
  },
  {
   "offset": "0xc7f80",
@@ -4900,10 +5878,22 @@
   "en": "Last Water"
  },
  {
+  "offset": "0xc7f98",
+  "max": 75,
+  "jp": "水の精霊界との扉を開き￥ｎ水龍を喚び出す超高等魔法",
+  "en": "Supreme magic: open the water realm￥ｎand call a water dragon."
+ },
+ {
   "offset": "0xc7fe4",
   "max": 16,
   "jp": "天魔命水",
   "en": "Tenma Lifewater"
+ },
+ {
+  "offset": "0xc7ffc",
+  "max": 75,
+  "jp": "水に秘められた力を引き出す￥ｎ水を司る者のみが扱える極大魔法",
+  "en": "Draws out water's hidden power.￥ｎOnly the water master can use it."
  },
  {
   "offset": "0xc8048",
@@ -4912,10 +5902,22 @@
   "en": "Earth Space"
  },
  {
+  "offset": "0xc8060",
+  "max": 75,
+  "jp": "周囲に魔力のフィールドを展開して￥ｎ地の魔力を高める",
+  "en": "Spread a field of magic around￥ｎyou to boost Earth magic."
+ },
+ {
   "offset": "0xc80ac",
   "max": 16,
   "jp": "地の呪文",
   "en": "Earth Spell"
+ },
+ {
+  "offset": "0xc80c4",
+  "max": 75,
+  "jp": "地の精霊に働きかけ￥ｎ岩石を高速で撃ちこむ",
+  "en": "Call on the earth spirits￥ｎto hurl rocks at high speed."
  },
  {
   "offset": "0xc8110",
@@ -4924,10 +5926,22 @@
   "en": "Green Spell"
  },
  {
+  "offset": "0xc8128",
+  "max": 75,
+  "jp": "地の精霊に働きかけ￥ｎ対象を眠らせるガスを発生させる",
+  "en": "Call on the earth spirits￥ｎto release a sleeping gas."
+ },
+ {
   "offset": "0xc8174",
   "max": 16,
   "jp": "剣魔斬・地",
   "en": "Earth Slash"
+ },
+ {
+  "offset": "0xc818c",
+  "max": 75,
+  "jp": "剣と魔法を合成した魔法剣￥ｎ地の属性を持つ",
+  "en": "A magic sword art fusing blade￥ｎand spell. Earth element."
  },
  {
   "offset": "0xc81d8",
@@ -4936,10 +5950,22 @@
   "en": "Verdant Spell"
  },
  {
+  "offset": "0xc81f0",
+  "max": 75,
+  "jp": "地の精霊に働きかけ￥ｎ木の根で動きを封じる高等魔法",
+  "en": "High magic: call on earth spirits￥ｎto bind foes with roots."
+ },
+ {
   "offset": "0xc823c",
   "max": 16,
   "jp": "地界の呪文",
   "en": "Terra Spell"
+ },
+ {
+  "offset": "0xc8254",
+  "max": 75,
+  "jp": "地の精霊に働きかけ￥ｎ重力場を発生させる高等魔法",
+  "en": "High magic: call on earth spirits￥ｎto create a gravity field."
  },
  {
   "offset": "0xc82a0",
@@ -4948,10 +5974,22 @@
   "en": "Evergreen Sword"
  },
  {
+  "offset": "0xc82b8",
+  "max": 75,
+  "jp": "植物の種を対象内部で成長させる￥ｎ地属性の高等魔法剣",
+  "en": "Grows plant seeds inside the foe.￥ｎA high Earth sword art."
+ },
+ {
   "offset": "0xc8304",
   "max": 16,
   "jp": "大地の剣",
   "en": "Earth Sword"
+ },
+ {
+  "offset": "0xc831c",
+  "max": 75,
+  "jp": "重力波で動きを封じて斬りつける￥ｎ地属性の高等魔法剣",
+  "en": "Pin with gravity waves, then slash.￥ｎA high Earth sword art."
  },
  {
   "offset": "0xc8368",
@@ -4960,10 +5998,22 @@
   "en": "Last Earth"
  },
  {
+  "offset": "0xc8380",
+  "max": 75,
+  "jp": "目標体内に超重力の領域を展開して￥ｎ内部から破壊する超高等魔法",
+  "en": "Supreme magic: heavy gravity inside￥ｎthe foe tears it apart."
+ },
+ {
   "offset": "0xc83cc",
   "max": 16,
   "jp": "天魔守地",
   "en": "Tenma Aegis"
+ },
+ {
+  "offset": "0xc83e4",
+  "max": 75,
+  "jp": "全属性の攻撃を遮断する障壁を築く￥ｎ地を司る者のみが扱える極大魔法",
+  "en": "A wall that blocks every element.￥ｎOnly the earth master can use it."
  },
  {
   "offset": "0xc8430",
@@ -4972,10 +6022,22 @@
   "en": "Hum"
  },
  {
+  "offset": "0xc8448",
+  "max": 75,
+  "jp": "鼻歌を口ずさんでみる￥ｎ気分転換になる",
+  "en": "Hum a little tune.￥ｎA nice change of mood."
+ },
+ {
   "offset": "0xc8494",
   "max": 16,
   "jp": "考える",
   "en": "Think"
+ },
+ {
+  "offset": "0xc84ac",
+  "max": 75,
+  "jp": "いろいろな事を考えてみる￥ｎいいアイデアが浮かぶ",
+  "en": "Think about all sorts of things.￥ｎA good idea comes to mind."
  },
  {
   "offset": "0xc84f8",
@@ -4984,10 +6046,22 @@
   "en": "Song of Flowers"
  },
  {
+  "offset": "0xc8510",
+  "max": 75,
+  "jp": "心地よい歌で￥ｎ敵を眠りへ誘いこむ",
+  "en": "Lull foes to sleep￥ｎwith a soothing song."
+ },
+ {
   "offset": "0xc855c",
   "max": 16,
   "jp": "役立てる",
   "en": "Make Use"
+ },
+ {
+  "offset": "0xc8574",
+  "max": 75,
+  "jp": "戦闘中に手持ちのアイテムを￥ｎ使うことができる",
+  "en": "Lets you use items you carry￥ｎduring battle."
  },
  {
   "offset": "0xc85c0",
@@ -4996,10 +6070,22 @@
   "en": "Song of Night"
  },
  {
+  "offset": "0xc85d8",
+  "max": 75,
+  "jp": "月の魔力をこめた歌を歌い￥ｎ敵の体力を奪う",
+  "en": "Sing a song of moon magic￥ｎthat drains the foe's HP."
+ },
+ {
   "offset": "0xc8624",
   "max": 16,
   "jp": "説得する",
   "en": "Persuade"
+ },
+ {
+  "offset": "0xc863c",
+  "max": 75,
+  "jp": "相手を説得する￥ｎ説得されると戦闘から離脱する",
+  "en": "Talk the foe down. If convinced,￥ｎit leaves the battle."
  },
  {
   "offset": "0xc8688",
@@ -5008,10 +6094,22 @@
   "en": "Song of Light"
  },
  {
+  "offset": "0xc86a0",
+  "max": 75,
+  "jp": "光の魔力をこめた歌をうたって￥ｎ傷ついた身体を回復する",
+  "en": "Sing a song of light magic￥ｎthat heals wounded bodies."
+ },
+ {
   "offset": "0xc86ec",
   "max": 16,
   "jp": "悟らせる",
   "en": "Enlighten"
+ },
+ {
+  "offset": "0xc8704",
+  "max": 75,
+  "jp": "戦闘の意志が無い事を悟らせる￥ｎ成功すると戦闘が終了する",
+  "en": "Show you have no will to fight.￥ｎIf it works, the battle ends."
  },
  {
   "offset": "0xc8750",
@@ -5020,10 +6118,22 @@
   "en": "Song of Heaven"
  },
  {
+  "offset": "0xc8768",
+  "max": 75,
+  "jp": "天界の理を示す歌をうたって￥ｎ邪悪を振り払う",
+  "en": "Sing of heaven's law￥ｎto drive away evil."
+ },
+ {
   "offset": "0xc87b4",
   "max": 16,
   "jp": "調停者の導き",
   "en": "Mediator's Way"
+ },
+ {
+  "offset": "0xc87cc",
+  "max": 75,
+  "jp": "全てを裁く瞳で見つめる￥ｎ見つめられた相手は魂を抜かれる",
+  "en": "A gaze that judges all. Those it￥ｎfalls on lose their souls."
  },
  {
   "offset": "0xc8818",
@@ -5032,10 +6142,22 @@
   "en": "Whistle"
  },
  {
+  "offset": "0xc8830",
+  "max": 75,
+  "jp": "さわやかな口笛をふいて￥ｎ敵をなだめる",
+  "en": "Whistle a refreshing tune￥ｎto calm the foe."
+ },
+ {
   "offset": "0xc887c",
   "max": 16,
   "jp": "なめる",
   "en": "Lick"
+ },
+ {
+  "offset": "0xc8894",
+  "max": 75,
+  "jp": "敵をなめて味見をする",
+  "en": "Lick the foe for a taste."
  },
  {
   "offset": "0xc88e0",
@@ -5044,10 +6166,22 @@
   "en": "War Cry"
  },
  {
+  "offset": "0xc88f8",
+  "max": 75,
+  "jp": "耳が痛いほどのおたけびをあげる￥ｎびっくりさせて動きを止める",
+  "en": "Let out a deafening war cry.￥ｎStartles foes so they can't move."
+ },
+ {
   "offset": "0xc8944",
   "max": 16,
   "jp": "しゃぶる",
   "en": "Suck"
+ },
+ {
+  "offset": "0xc895c",
+  "max": 75,
+  "jp": "相手の美味しそうなところを￥ｎしゃぶって味見をする",
+  "en": "Suck on the tasty-looking parts￥ｎof the foe for a taste."
  },
  {
   "offset": "0xc89a8",
@@ -5056,10 +6190,22 @@
   "en": "Understand"
  },
  {
+  "offset": "0xc89c0",
+  "max": 75,
+  "jp": "相手と心を通わせて￥ｎ自分を仲間だと勘違いさせる",
+  "en": "Connect heart to heart so the￥ｎfoe thinks you're on its side."
+ },
+ {
   "offset": "0xc8a0c",
   "max": 16,
   "jp": "かじる",
   "en": "Gnaw"
+ },
+ {
+  "offset": "0xc8a24",
+  "max": 75,
+  "jp": "美味しそうなところを狙って￥ｎ思い切りかじりつく",
+  "en": "Aim for a tasty-looking spot￥ｎand bite down hard."
  },
  {
   "offset": "0xc8a70",
@@ -5068,10 +6214,22 @@
   "en": "Bond of Words"
  },
  {
+  "offset": "0xc8a88",
+  "max": 75,
+  "jp": "大勢でとことん語り合って￥ｎ自分を仲間だと勘違いさせる",
+  "en": "Everyone talks it out until the￥ｎfoe thinks you're its ally."
+ },
+ {
   "offset": "0xc8ad4",
   "max": 16,
   "jp": "食べる",
   "en": "Eat"
+ },
+ {
+  "offset": "0xc8aec",
+  "max": 75,
+  "jp": "味のほうはともかくとしても￥ｎとりあえず食べてしまう",
+  "en": "Never mind the taste,￥ｎjust eat it anyway."
  },
  {
   "offset": "0xc8b38",
@@ -5080,10 +6238,22 @@
   "en": "Love"
  },
  {
+  "offset": "0xc8b50",
+  "max": 75,
+  "jp": "愛の力で魔物を撃退する",
+  "en": "Repel monsters with love."
+ },
+ {
   "offset": "0xc8b9c",
   "max": 16,
   "jp": "大食尽",
   "en": "Devour All"
+ },
+ {
+  "offset": "0xc8bb4",
+  "max": 75,
+  "jp": "恐るべき勢いで￥ｎみさかい無く敵を食いつくす",
+  "en": "With terrifying force, devour￥ｎfoes without restraint."
  },
  {
   "offset": "0xc8c00",
@@ -5092,10 +6262,22 @@
   "en": "Flee"
  },
  {
+  "offset": "0xc8c18",
+  "max": 75,
+  "jp": "戦闘を放棄してひたすら逃げる￥ｎ追いつかれる事もある",
+  "en": "Abandon the fight and just run.￥ｎYou may get caught."
+ },
+ {
   "offset": "0xc8c64",
   "max": 16,
   "jp": "ぬすむ",
   "en": "Steal"
+ },
+ {
+  "offset": "0xc8c7c",
+  "max": 75,
+  "jp": "こっそりアイテムを盗む￥ｎ気づかれることもある",
+  "en": "Sneakily steal an item.￥ｎYou may get noticed."
  },
  {
   "offset": "0xc8cc8",
@@ -5104,10 +6286,22 @@
   "en": "Sneak Attack"
  },
  {
+  "offset": "0xc8ce0",
+  "max": 75,
+  "jp": "敵を油断させて￥ｎ不意をついて攻撃する",
+  "en": "Get the foe to drop its guard,￥ｎthen strike by surprise."
+ },
+ {
   "offset": "0xc8d2c",
   "max": 16,
   "jp": "減らす",
   "en": "Reduce"
+ },
+ {
+  "offset": "0xc8d44",
+  "max": 75,
+  "jp": "敵の数を減少させる￥ｎ失敗することもある",
+  "en": "Reduce the number of foes.￥ｎIt can fail."
  },
  {
   "offset": "0xc8d90",
@@ -5116,10 +6310,22 @@
   "en": "Disguise"
  },
  {
+  "offset": "0xc8da8",
+  "max": 75,
+  "jp": "敵の動きをマネして同じ技を使う￥ｎ効果のない敵もいる",
+  "en": "Mimic the foe and use its skill.￥ｎSome foes are immune."
+ },
+ {
   "offset": "0xc8df4",
   "max": 16,
   "jp": "封じる",
   "en": "Seal"
+ },
+ {
+  "offset": "0xc8e0c",
+  "max": 75,
+  "jp": "敵の動きを少しの間だけ封じ込める",
+  "en": "Seal the foe's movement for a bit."
  },
  {
   "offset": "0xc8e58",
@@ -5128,10 +6334,22 @@
   "en": "Vanish"
  },
  {
+  "offset": "0xc8e70",
+  "max": 75,
+  "jp": "敵の前から少しの間だけ￥ｎ姿を消して行動できる",
+  "en": "Vanish from the foe's sight￥ｎfor a short while."
+ },
+ {
   "offset": "0xc8ebc",
   "max": 16,
   "jp": "増やす",
   "en": "Multiply"
+ },
+ {
+  "offset": "0xc8ed4",
+  "max": 75,
+  "jp": "敵の数を増加させる￥ｎ失敗することもある",
+  "en": "Increase the number of foes.￥ｎIt can fail."
  },
  {
   "offset": "0xc8f20",
@@ -5140,10 +6358,22 @@
   "en": "Big Change"
  },
  {
+  "offset": "0xc8f38",
+  "max": 75,
+  "jp": "敵の数を極端に増やしたり￥ｎ減らしたりする",
+  "en": "Drastically increase or reduce￥ｎthe number of foes."
+ },
+ {
   "offset": "0xc8f84",
   "max": 16,
   "jp": "無限地獄",
   "en": "Endless Hell"
+ },
+ {
+  "offset": "0xc8f9c",
+  "max": 75,
+  "jp": "生物を腐敗させる障気を発生させて￥ｎ細胞から腐らせる暗黒邪法",
+  "en": "Dark art: a miasma that makes￥ｎliving things rot from within."
  },
  {
   "offset": "0xc8fe8",
@@ -5152,10 +6382,22 @@
   "en": "Stand Still"
  },
  {
+  "offset": "0xc9000",
+  "max": 75,
+  "jp": "ボーっとたたずんで物思いにふける￥ｎ無意識に動き出す事もある",
+  "en": "Stand around lost in thought.￥ｎYou may start moving on your own."
+ },
+ {
   "offset": "0xc904c",
   "max": 16,
   "jp": "メダル",
   "en": "Medal"
+ },
+ {
+  "offset": "0xc9064",
+  "max": 75,
+  "jp": "メダルに魔力を吹き込んで￥ｎ不思議な効果を生み出す",
+  "en": "Breathe magic into a medal￥ｎto make something strange happen."
  },
  {
   "offset": "0xc90b0",
@@ -5164,10 +6406,22 @@
   "en": "Dance"
  },
  {
+  "offset": "0xc90c8",
+  "max": 75,
+  "jp": "軽やかなステップをふんで￥ｎ自分以外の誰かになぐりかかる",
+  "en": "Step lightly and punch￥ｎsomeone other than yourself."
+ },
+ {
   "offset": "0xc9114",
   "max": 16,
   "jp": "サイコロ",
   "en": "Dice"
+ },
+ {
+  "offset": "0xc912c",
+  "max": 75,
+  "jp": "サイコロに魔力を吹き込んで￥ｎ不思議な効果を生み出す",
+  "en": "Breathe magic into dice￥ｎto make something strange happen."
  },
  {
   "offset": "0xc9178",
@@ -5176,10 +6430,22 @@
   "en": "Kiss"
  },
  {
+  "offset": "0xc9190",
+  "max": 75,
+  "jp": "キスをして体力を吸収する￥ｎ逆に吸収されることもある",
+  "en": "Kiss to absorb HP.￥ｎYou may get absorbed instead."
+ },
+ {
   "offset": "0xc91dc",
   "max": 16,
   "jp": "カード",
   "en": "Card"
+ },
+ {
+  "offset": "0xc91f4",
+  "max": 75,
+  "jp": "カードに魔力を吹き込んで￥ｎ不思議な効果を生み出す",
+  "en": "Breathe magic into a card￥ｎto make something strange happen."
  },
  {
   "offset": "0xc9240",
@@ -5188,10 +6454,22 @@
   "en": "Weird Stuff"
  },
  {
+  "offset": "0xc9258",
+  "max": 75,
+  "jp": "いきなり変なことを始める￥ｎ何が起こるか分からない",
+  "en": "Suddenly start doing weird stuff.￥ｎNo telling what will happen."
+ },
+ {
   "offset": "0xc92a4",
   "max": 16,
   "jp": "占い",
   "en": "Fortune"
+ },
+ {
+  "offset": "0xc92bc",
+  "max": 75,
+  "jp": "妖しげな占いをして￥ｎ不思議な効果を生み出す",
+  "en": "Tell a shady fortune￥ｎto make something strange happen."
  },
  {
   "offset": "0xc936c",
@@ -5200,10 +6478,22 @@
   "en": "Gods' Puzzle"
  },
  {
+  "offset": "0xc9384",
+  "max": 75,
+  "jp": "古の神々が遊んだといわれるパズル￥ｎ時と次元の狭間へ誘い込む",
+  "en": "A puzzle the ancient gods played.￥ｎIt pulls you between worlds."
+ },
+ {
   "offset": "0xc93d0",
   "max": 16,
   "jp": "ほうし",
   "en": "Spores"
+ },
+ {
+  "offset": "0xc93e8",
+  "max": 75,
+  "jp": "「ほうし」をまき散らして攻撃する",
+  "en": "Attack by scattering spores."
  },
  {
   "offset": "0xc9434",
@@ -5212,10 +6502,22 @@
   "en": "Claw"
  },
  {
+  "offset": "0xc944c",
+  "max": 75,
+  "jp": "するどい爪で切り裂く",
+  "en": "Rend with sharp claws."
+ },
+ {
   "offset": "0xc9498",
   "max": 16,
   "jp": "かみつく",
   "en": "Bite"
+ },
+ {
+  "offset": "0xc94b0",
+  "max": 75,
+  "jp": "するどい牙でかみつく",
+  "en": "Bite with sharp fangs."
  },
  {
   "offset": "0xc94fc",
@@ -5224,10 +6526,22 @@
   "en": "Mr. Po○p"
  },
  {
+  "offset": "0xc9514",
+  "max": 75,
+  "jp": "どこかで拾った「う○こ」を￥ｎおもいきり投げつける",
+  "en": "Hurl some po○p picked up￥ｎsomewhere with all your might."
+ },
+ {
   "offset": "0xc9560",
   "max": 16,
   "jp": "召喚",
   "en": "Summon"
+ },
+ {
+  "offset": "0xc9578",
+  "max": 75,
+  "jp": "「カザステ」の特殊能力￥ｎどこからか仲間を呼び集める",
+  "en": "Kazaste's special ability.￥ｎCalls allies from somewhere."
  },
  {
   "offset": "0xc95c4",
@@ -5236,10 +6550,22 @@
   "en": "Summon"
  },
  {
+  "offset": "0xc95dc",
+  "max": 75,
+  "jp": "「不死の屍」の特殊能力￥ｎさまよう霊を呼び寄せる",
+  "en": "Undead Corpse's special ability.￥ｎCalls wandering spirits."
+ },
+ {
   "offset": "0xc9628",
   "max": 16,
   "jp": "召喚",
   "en": "Summon"
+ },
+ {
+  "offset": "0xc9640",
+  "max": 75,
+  "jp": "「死せる英雄」の特殊能力￥ｎかつての兵を呼び集める",
+  "en": "Dead Hero's special ability.￥ｎCalls its former soldiers."
  },
  {
   "offset": "0xc968c",
@@ -5248,10 +6574,22 @@
   "en": "Summon"
  },
  {
+  "offset": "0xc96a4",
+  "max": 75,
+  "jp": "「かるら」の特殊能力￥ｎ手下を呼び集める",
+  "en": "Karura's special ability.￥ｎCalls its underlings."
+ },
+ {
   "offset": "0xc96f0",
   "max": 16,
   "jp": "召喚",
   "en": "Summon"
+ },
+ {
+  "offset": "0xc9708",
+  "max": 75,
+  "jp": "「ヴァンパイア」の特殊能力￥ｎしもべを呼び集める",
+  "en": "Vampire's special ability.￥ｎCalls its servants."
  },
  {
   "offset": "0xc9754",
@@ -5260,10 +6598,22 @@
   "en": "Summon"
  },
  {
+  "offset": "0xc976c",
+  "max": 75,
+  "jp": "「死神」の特殊能力￥ｎ骸骨の兵を呼び集める",
+  "en": "Reaper's special ability.￥ｎCalls skeleton soldiers."
+ },
+ {
   "offset": "0xc97b8",
   "max": 16,
   "jp": "召喚",
   "en": "Summon"
+ },
+ {
+  "offset": "0xc97d0",
+  "max": 75,
+  "jp": "「マンビー」の特殊能力￥ｎ手下を呼び集める",
+  "en": "Manbee's special ability.￥ｎCalls its underlings."
  },
  {
   "offset": "0xc981c",
@@ -5272,10 +6622,22 @@
   "en": "Summon"
  },
  {
+  "offset": "0xc9834",
+  "max": 75,
+  "jp": "「グレーターデビル」の特殊能力￥ｎ配下の悪魔を呼び寄せる",
+  "en": "Greater Devil's special ability.￥ｎCalls the demons it commands."
+ },
+ {
   "offset": "0xc9880",
   "max": 16,
   "jp": "召喚",
   "en": "Summon"
+ },
+ {
+  "offset": "0xc9898",
+  "max": 75,
+  "jp": "「死人使い」の特殊能力￥ｎ死体を操りけしかける",
+  "en": "Necromancer's special ability.￥ｎSends corpses to attack."
  },
  {
   "offset": "0xc98e4",
@@ -5284,10 +6646,22 @@
   "en": "Angry Blow"
  },
  {
+  "offset": "0xc98fc",
+  "max": 75,
+  "jp": "力を一点に集中することで￥ｎ強力な一撃を繰り出す",
+  "en": "Focus all your power on one point￥ｎfor a powerful blow."
+ },
+ {
   "offset": "0xc9948",
   "max": 16,
   "jp": "光るナワ",
   "en": "Glowing Rope"
+ },
+ {
+  "offset": "0xc9960",
+  "max": 75,
+  "jp": "光のナワを巻き付けて動きを封じる",
+  "en": "Bind the foe with a rope of light."
  },
  {
   "offset": "0xc99ac",
@@ -5296,10 +6670,22 @@
   "en": "Absorb"
  },
  {
+  "offset": "0xc99c4",
+  "max": 75,
+  "jp": "邪念を帯びた手で触れて￥ｎ体力を吸い取る",
+  "en": "Touch with a hand full of malice￥ｎto drain HP."
+ },
+ {
   "offset": "0xc9a10",
   "max": 16,
   "jp": "よだれ",
   "en": "Drool"
+ },
+ {
+  "offset": "0xc9a28",
+  "max": 75,
+  "jp": "異臭がただよう「よだれ」￥ｎ物を腐らせる効果を持つ",
+  "en": "Foul-smelling drool￥ｎthat makes things rot."
  },
  {
   "offset": "0xc9a74",
@@ -5308,10 +6694,22 @@
   "en": "Scorch"
  },
  {
+  "offset": "0xc9a8c",
+  "max": 75,
+  "jp": "荒れ狂う灼熱の炎が乱舞する",
+  "en": "Raging, searing flames dance wildly."
+ },
+ {
   "offset": "0xc9ad8",
   "max": 16,
   "jp": "稲妻",
   "en": "Lightning"
+ },
+ {
+  "offset": "0xc9af0",
+  "max": 75,
+  "jp": "無数の稲妻で攻撃する￥ｎしびれさせて動きを封じる",
+  "en": "Attack with countless bolts.￥ｎParalyzes the foe."
  },
  {
   "offset": "0xc9b3c",
@@ -5320,10 +6718,22 @@
   "en": "Heaven's Drop"
  },
  {
+  "offset": "0xc9b54",
+  "max": 75,
+  "jp": "氷雨が滝のように降り注ぐ",
+  "en": "Icy rain pours down like a waterfall."
+ },
+ {
   "offset": "0xc9ba0",
   "max": 16,
   "jp": "氷の牙",
   "en": "Ice Fang"
+ },
+ {
+  "offset": "0xc9bb8",
+  "max": 75,
+  "jp": "周囲を極度に冷却し￥ｎ大気中の水蒸気を氷の刃にする",
+  "en": "Chill the air until its vapor￥ｎturns into blades of ice."
  },
  {
   "offset": "0xc9c04",
@@ -5332,10 +6742,22 @@
   "en": "Earth's Breath"
  },
  {
+  "offset": "0xc9c1c",
+  "max": 75,
+  "jp": "足元から無数の石槍を突き出す",
+  "en": "Countless stone spears shoot up."
+ },
+ {
   "offset": "0xc9c68",
   "max": 16,
   "jp": "流星",
   "en": "Meteor"
+ },
+ {
+  "offset": "0xc9c80",
+  "max": 75,
+  "jp": "頭上で異空間との門を解放し￥ｎ小規模の隕石群を呼び寄せる",
+  "en": "Open a gate to another world￥ｎoverhead and call down meteors."
  },
  {
   "offset": "0xc9ccc",
@@ -5344,10 +6766,22 @@
   "en": "Nature's Grief"
  },
  {
+  "offset": "0xc9ce4",
+  "max": 75,
+  "jp": "自然界における浄化作用を￥ｎ限定空間に解放する",
+  "en": "Release nature's cleansing power￥ｎinside a closed space."
+ },
+ {
   "offset": "0xc9d30",
   "max": 16,
   "jp": "ドラゴンブレス",
   "en": "Dragon Breath"
+ },
+ {
+  "offset": "0xc9d48",
+  "max": 75,
+  "jp": "ドラゴンが吐き出す￥ｎ数千度の火炎のブレス",
+  "en": "A dragon breathes fire of￥ｎthousands of degrees."
  },
  {
   "offset": "0xc9d94",
@@ -5356,10 +6790,22 @@
   "en": "Dragon Breath"
  },
  {
+  "offset": "0xc9dac",
+  "max": 75,
+  "jp": "ドラゴンが巻き起こす￥ｎ凄まじいかまいたちの渦",
+  "en": "A dragon whips up a fearsome￥ｎvortex of cutting wind."
+ },
+ {
   "offset": "0xc9df8",
   "max": 16,
   "jp": "ドラゴンブレス",
   "en": "Dragon Breath"
+ },
+ {
+  "offset": "0xc9e10",
+  "max": 75,
+  "jp": "ドラゴンが吐き出す￥ｎ零下百数十度の氷結のブレス",
+  "en": "A dragon breathes a freezing￥ｎblast far below zero."
  },
  {
   "offset": "0xc9e5c",
@@ -5368,10 +6814,22 @@
   "en": "Dragon Breath"
  },
  {
+  "offset": "0xc9e74",
+  "max": 75,
+  "jp": "ドラゴンが巻き起こす￥ｎ超重力の嵐",
+  "en": "A dragon raises a storm￥ｎof crushing gravity."
+ },
+ {
   "offset": "0xc9ec0",
   "max": 16,
   "jp": "ドラゴンブレス",
   "en": "Dragon Breath"
+ },
+ {
+  "offset": "0xc9ed8",
+  "max": 75,
+  "jp": "ドラゴンが吐き出す￥ｎ純粋なエネルギー波",
+  "en": "A dragon breathes out￥ｎa wave of pure energy."
  },
  {
   "offset": "0xc9f24",
@@ -5380,10 +6838,22 @@
   "en": "Dragon Breath"
  },
  {
+  "offset": "0xc9f3c",
+  "max": 75,
+  "jp": "ドラゴンが巻き起こす￥ｎ光粒子の乱舞",
+  "en": "A dragon raises a wild dance￥ｎof light particles."
+ },
+ {
   "offset": "0xc9f88",
   "max": 16,
   "jp": "ドラゴンブレス",
   "en": "Dragon Breath"
+ },
+ {
+  "offset": "0xc9fa0",
+  "max": 75,
+  "jp": "ドラゴンが吐き出す￥ｎ暗黒のブレス",
+  "en": "A dragon breathes out￥ｎa breath of darkness."
  },
  {
   "offset": "0xc9fec",
@@ -5392,10 +6862,22 @@
   "en": "Ice Cannon"
  },
  {
+  "offset": "0xca004",
+  "max": 75,
+  "jp": "絶対零度の魔法弾を￥ｎ魔力の引き金で放つ",
+  "en": "Fire a magic shot of absolute zero￥ｎwith a trigger of magic."
+ },
+ {
   "offset": "0xca050",
   "max": 16,
   "jp": "加速する進化",
   "en": "Rapid Evolution"
+ },
+ {
+  "offset": "0xca068",
+  "max": 75,
+  "jp": "治めし者と融合した為に￥ｎ身体に異常な変化がおこる",
+  "en": "Fusing with the Ruler causes￥ｎstrange changes in the body."
  },
  {
   "offset": "0xca0b4",
@@ -5404,10 +6886,22 @@
   "en": "Nature's Cure"
  },
  {
+  "offset": "0xca0cc",
+  "max": 75,
+  "jp": "自然から少しだけ力を分けてもらう￥ｎ優しい光が身体を回復させる",
+  "en": "Borrow a little of nature's power.￥ｎA gentle light heals you."
+ },
+ {
   "offset": "0xca118",
   "max": 16,
   "jp": "超音速剣",
   "en": "Sonic Sword"
+ },
+ {
+  "offset": "0xca130",
+  "max": 75,
+  "jp": "自らの剣技と風の魔力を融合し￥ｎ敵周囲の空間を切り裂く魔法剣術",
+  "en": "Fuse sword skill with wind magic￥ｎto cut the space around foes."
  },
  {
   "offset": "0xca17c",
@@ -5416,10 +6910,22 @@
   "en": "Shadow Fall"
  },
  {
+  "offset": "0xca194",
+  "max": 75,
+  "jp": "敵の影を操り￥ｎ死の舞を踊らせる闇奥義",
+  "en": "Control the foe's shadow and make￥ｎit dance to death. Dark art."
+ },
+ {
   "offset": "0xca1e0",
   "max": 16,
   "jp": "銀狼の太刀",
   "en": "Silverwolf Blade"
+ },
+ {
+  "offset": "0xca1f8",
+  "max": 75,
+  "jp": "剣術の極意を求めし者が編み出した￥ｎ裏の超人剣術",
+  "en": "A superhuman secret sword art made￥ｎby one who sought its essence."
  },
  {
   "offset": "0xca244",
@@ -5428,10 +6934,22 @@
   "en": "Ikazuchi"
  },
  {
+  "offset": "0xca25c",
+  "max": 75,
+  "jp": "怒りの力を集め￥ｎ雷電の波動として放つ裏奥義",
+  "en": "Gather the power of rage and￥ｎfire it as a lightning wave."
+ },
+ {
   "offset": "0xca2a8",
   "max": 16,
   "jp": "休息のひととき",
   "en": "Moment of Rest"
+ },
+ {
+  "offset": "0xca2c0",
+  "max": 75,
+  "jp": "神経系に直接影響を与える事で￥ｎ身体の疲れを癒す",
+  "en": "Act directly on the nerves to￥ｎheal the body's fatigue."
  },
  {
   "offset": "0xca30c",
@@ -5440,10 +6958,22 @@
   "en": "Holy-Dark Law"
  },
  {
+  "offset": "0xca324",
+  "max": 75,
+  "jp": "相反する聖と闇の魔力を操り￥ｎ強力な破壊をもたらす秘法",
+  "en": "A secret art wielding opposing holy￥ｎand dark magic to destroy."
+ },
+ {
   "offset": "0xca370",
   "max": 16,
   "jp": "クッキーまじっく",
   "en": "Cookie Magic"
+ },
+ {
+  "offset": "0xca388",
+  "max": 75,
+  "jp": "四大属性の魔法を連続で放つ￥ｎ扱える者が他にはいないオリジナル",
+  "en": "Fire all four elements in a row.￥ｎAn original no one else can use."
  },
  {
   "offset": "0xca3d4",
@@ -5452,10 +6982,22 @@
   "en": "Feng Shui Seal"
  },
  {
+  "offset": "0xca3ec",
+  "max": 75,
+  "jp": "風水の力を応用して編み出した￥ｎ風と水の法印で不浄を消し去る",
+  "en": "Seals of wind and water, from feng￥ｎshui, wipe away impurity."
+ },
+ {
   "offset": "0xca438",
   "max": 16,
   "jp": "とりつく",
   "en": "Possess"
+ },
+ {
+  "offset": "0xca450",
+  "max": 75,
+  "jp": "敵にとりついて￥ｎ身体の自由を奪う",
+  "en": "Possess the foe and take￥ｎcontrol of its body."
  },
  {
   "offset": "0xca728",
