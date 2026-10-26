@@ -29,6 +29,11 @@ FIELD_END = {base + r * stride + start: base + r * stride + end
              for base, stride, count, fields in RECORDS
              for r in range(count) for start, end in fields}
 
+# Strings the game copies with a fixed number of bytes instead of strcpy:
+# the text plus its NUL must fit. 0xE481C ("あと", chest tries prefix) is
+# copied as 5 bytes at 0x80061908.
+FIXED_COPY_MAX = {0xE481C: 4}
+
 # Kana or kanji; strings with only full-width digits/symbols are number glyphs
 JAPANESE = re.compile(r'[぀-ヿ一-鿿]')
 SYNTAX = re.compile(r'%[-0-9]*[sdxc]|\([0-9A-Za-z]+\)')
@@ -82,6 +87,7 @@ def find(exe):
             pad += 1
         nxt = starts[i + 1] if i + 1 < len(starts) else len(exe)
         s['max'] = min(pad, nxt, FIELD_END.get(s['offset'], len(exe))) - s['offset'] - 1  # keep one NUL
+        s['max'] = min(s['max'], FIXED_COPY_MAX.get(s['offset'], s['max']))
         s['locked'] = False
         if nxt < end:
             # Another pointer points into this string: this entry is only the
