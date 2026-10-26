@@ -1,0 +1,11 @@
+# Disc images and game files: never commit
+*.bin
+*.cue
+*.iso
+*.img
+*.chd
+build/
+extracted/
+
+__pycache__/
+.DS_Store
