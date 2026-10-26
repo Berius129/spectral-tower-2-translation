@@ -29,7 +29,10 @@ FONT_SIZE = 12
 
 W, H = 320, 240
 CANVAS_H = 24
-# Rows of the original Japanese text and of the strip we redraw, per area
+# Rows of the original Japanese text and of the strip we redraw, per area.
+# Optional keys: "h" (strip height), "font_size", and "erase": "black" clears
+# the strip (text on a black band) while "inpaint" only removes the pixels of
+# the Japanese text, keeping whatever is drawn around it (e.g. sparks).
 AREAS = {
     'bottom': {'text_rows': (211, 227), 'top': 207},
     'middle': {'text_rows': (111, 127), 'top': 107},
@@ -63,18 +66,27 @@ def read_frames(pattern, start, count):
     return [bytearray(raw[i * size:(i + 1) * size]) for i in range(len(raw) // size)]
 
 
-def text_mask(text, tmp):
+def text_mask(text, tmp, height, font_size):
+    """Gray mask of the English text, centered; "\n" starts a new line."""
     path = os.path.join(tmp, 'text.txt')
     with open(path, 'w', encoding='utf-8') as f:
         f.write(text)
-    vf = (f"drawtext=fontfile='{FONT}':textfile='{path}':fontsize={FONT_SIZE}:"
-          f"fontcolor=white:x=(w-tw)/2:y=(h-th)/2")
-    return run([FFMPEG, '-v', 'error', '-f', 'lavfi', '-i', f'color=black:s={W}x{CANVAS_H}',
+    vf = (f"drawtext=fontfile='{FONT}':textfile='{path}':fontsize={font_size}:text_align=C:"
+          f"line_spacing=3:fontcolor=white:x=(w-tw)/2:y=(h-th)/2")
+    return run([FFMPEG, '-v', 'error', '-f', 'lavfi', '-i', f'color=black:s={W}x{height}',
                 '-vf', vf, '-frames:v', '1', '-f', 'rawvideo', '-pix_fmt', 'gray', '-']).stdout
 
 
 def text_peak(frame, rows):
-    return max(max(frame[(y * W + x) * 3:(y * W + x) * 3 + 3]) for y in range(*rows) for x in range(16, W - 16))
+    # the darkest channel: the text is white, colored sparks or fog don't count
+    return max(min(frame[(y * W + x) * 3:(y * W + x) * 3 + 3]) for y in range(*rows) for x in range(16, W - 16))
+
+
+def silhouette(frame, rows, threshold):
+    """Pixels of the white Japanese text, grown by one pixel."""
+    jp = {(x, y) for y in range(*rows) for x in range(W)
+          if min(frame[(y * W + x) * 3:(y * W + x) * 3 + 3]) > threshold}
+    return {(x + dx, y + dy) for x, y in jp for dx in (-1, 0, 1) for dy in (-1, 0, 1)}
 
 
 def inpaint(frame, pixels):
@@ -110,10 +122,11 @@ def patch_movie(disc, name, tmp, index_text):
     os.makedirs(out_dir, exist_ok=True)
     replaced = []
     for sub in cfg['subtitles']:
-        # a movie can move an area, e.g. {"areas": {"bottom": {"text_rows": [204, 220], "top": 200}}}
-        area = {**AREAS[sub['area']], **cfg.get('areas', {}).get(sub['area'], {})}
-        top = area['top']
-        mask = text_mask(sub['text'], tmp)
+        # a movie can move an area or add its own, e.g. {"areas": {"bottom": {"text_rows": [204, 220], "top": 200}}}
+        area = {**AREAS.get(sub['area'], {}), **cfg.get('areas', {}).get(sub['area'], {})}
+        top, height = area['top'], area.get('h', CANVAS_H)
+        mask = text_mask(sub['text'], tmp, height, area.get('font_size', FONT_SIZE))
+        erase_only = area.get('erase') == 'inpaint'
         bg = sub.get('background')
         last = sub['end']
         frames = read_frames(pattern, sub['start'], last - sub['start'] + 1)
@@ -121,6 +134,11 @@ def patch_movie(disc, name, tmp, index_text):
         # text opacity follows the brightness of the original Japanese text
         alphas = [max(0.0, min(1.0, (text_peak(f, area['text_rows']) - BLACK_LEVEL) / (255 - BLACK_LEVEL)))
                   for f in frames]
+        # text added where the original has none (e.g. under artwork titles):
+        # fixed fade in/out of the given number of frames
+        if 'fade' in sub:
+            fin, fout = sub['fade']
+            alphas = [min(1.0, (k + 1) / (fin + 1), (len(frames) - k) / (fout + 1)) for k in range(len(frames))]
         # where the picture fades in behind the text, brightness can't be
         # measured: fade the text out linearly instead
         if bg:
@@ -131,18 +149,19 @@ def patch_movie(disc, name, tmp, index_text):
                 alphas[k] = max(0.0, start_alpha * (1 - (k - i0 + 1) / span))
             # silhouette of the Japanese text, from a frame well before the
             # picture starts fading in (background still pure black), grown by one pixel
-            ref = frames[max(0, i0 - 10)]
-            jp = {(x, y) for y in range(top, top + CANVAS_H) for x in range(W)
-                  if max(ref[(y * W + x) * 3:(y * W + x) * 3 + 3]) > 30}
-            jp |= {(x + dx, y + dy) for x, y in jp for dx in (-1, 0, 1) for dy in (-1, 0, 1)}
+            jp = silhouette(frames[max(0, i0 - 10)], (top, top + height), 30)
+        elif erase_only:
+            # the text doesn't move: take its shape from its brightest frame
+            brightest = max(range(len(frames)), key=alphas.__getitem__)
+            jp = silhouette(frames[brightest], area['text_rows'], 40)
 
         for k, frame in enumerate(frames):
             n = sub['start'] + k
             a = alphas[k]
-            behind = bg and n >= bg['from']
+            behind = erase_only or (bg and n >= bg['from'])
             if behind:
                 inpaint(frame, jp)
-            for y in range(CANVAS_H):
+            for y in range(height):
                 fy = top + y
                 for x in range(W):
                     i = (fy * W + x) * 3
@@ -153,15 +172,20 @@ def patch_movie(disc, name, tmp, index_text):
             path = os.path.join(out_dir, f'{n:04d}.png')
             run([FFMPEG, '-v', 'error', '-y', '-f', 'rawvideo', '-pix_fmt', 'rgb24', '-s', f'{W}x{H}',
                  '-i', '-', path], input=bytes(frame))
-            replaced.append((n, path))
+            replaced.append((n, path, sub.get('encode') == 'full'))
 
     xml = os.path.join(tmp, name + '.xml')
     with open(xml, 'w', encoding='utf-8') as f:
         f.write('<?xml version="1.0" encoding="UTF-8"?>\n<str-replace version="0.3">\n')
         # partial-replace only re-encodes the macroblocks that differ from the
         # original frame, so the rest of the picture keeps its original data
-        for n, path in replaced:
-            f.write(f'  <partial-replace frame="{n}" tolerance="{TOLERANCE}">{path}</partial-replace>\n')
+        # "encode": "full" re-encodes the whole frame instead: needed where a
+        # busy picture leaves no bits for new text (it shows as gray blocks)
+        for n, path, full in replaced:
+            if full:
+                f.write(f'  <replace frame="{n}">{path}</replace>\n')
+            else:
+                f.write(f'  <partial-replace frame="{n}" tolerance="{TOLERANCE}">{path}</partial-replace>\n')
         f.write('</str-replace>\n')
     log = jpsxdec('-x', 'disc.idx', '-f', disc, '-i', item, '-replaceframes', xml, cwd=tmp)
     return len(replaced), log

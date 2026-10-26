@@ -1,0 +1,25 @@
+{
+ "file": "/MOVIE/MOV05.STR",
+ "note": "Rival scene. Subtitles (one or two lines) in the bottom letterbox, rows 196-216. The rival's monologue is on dark screens with sparks (rows 116-124): only the text is erased. The big kanji titles (649-753) are artwork and stay; their translation goes in the black band below, one line inside one macroblock row (rows 192-207) so the busy frames have bits left for it.",
+ "areas": {
+  "bottom": {"text_rows": [192, 220], "top": 186, "h": 40},
+  "middle": {"text_rows": [112, 128], "top": 100, "h": 40, "erase": "inpaint"},
+  "titles": {"text_rows": [192, 208], "top": 192, "h": 16}
+ },
+ "subtitles": [
+  {"start": 240, "end": 291, "area": "bottom", "text": "You've done well."},
+  {"start": 296, "end": 347, "area": "bottom", "text": "I never thought you'd\nmake it this far..."},
+  {"start": 352, "end": 403, "area": "bottom", "text": "I'll finish this thing off\nand take its power for myself."},
+  {"start": 566, "end": 623, "area": "bottom", "text": "Now I'll...\nNow I'll...."},
+  {"start": 649, "end": 669, "area": "titles", "text": "Infinite power, eternal life,", "fade": [3, 3], "encode": "full"},
+  {"start": 670, "end": 687, "area": "titles", "text": "forbidden desires, wounding nature,", "fade": [3, 3], "encode": "full"},
+  {"start": 688, "end": 705, "area": "titles", "text": "wounding the earth... after the slaughter,", "fade": [3, 3], "encode": "full"},
+  {"start": 706, "end": 723, "area": "titles", "text": "what is gained is the power of desire.", "fade": [3, 3], "encode": "full"},
+  {"start": 724, "end": 753, "area": "titles", "text": "That is sin. Human sin.", "fade": [3, 8], "encode": "full"},
+  {"start": 781, "end": 826, "area": "middle", "text": "Coming here made it clear to me."},
+  {"start": 827, "end": 870, "area": "middle", "text": "I was called by this tower..."},
+  {"start": 901, "end": 942, "area": "middle", "text": "I want that power."},
+  {"start": 973, "end": 1018, "area": "middle", "text": "If you get in my way...\nI won't hold back, even for you."},
+  {"start": 1074, "end": 1100, "area": "bottom", "text": "I'll tell you this much..."}
+ ]
+}
