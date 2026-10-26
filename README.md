@@ -22,6 +22,10 @@ You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track
    Output: `build/Spectral Tower II (English).bin/.cue`. English is encoded with DTE (see below); `--fullwidth` uses full-width characters (ＡＢＣ) instead.
 4. Test in an emulator (DuckStation recommended).
 
+## Root codes
+
+[docs/ROOTS.md](docs/ROOTS.md) lists all 140 Roots with the code to enter at the Tree of Destiny, regenerated with `python3 tools/roots_table.py "<disc.bin>"`.
+
 ## Text format
 
 Text files on the disc are Shift-JIS (cp932) with every byte XOR'd with `0xFF`, one entry per CRLF line. Control codes must be kept as-is:
