@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,町の中でコウモリが￥ｎあばれている！(B)あれはヴァンパイアにちがいない(B)はやく　逃げた方がいい！(E)",
-  "en": ""
+  "en": "ALL,Bats are rampaging￥ｎin town!(B)That must be a vampire.(B)You'd better run!(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,た　大変じゃ！￥ｎこ　こ　こ…(B)腰が抜けた！(E)",
-  "en": ""
+  "en": "ALL,Th-this is terrible!￥ｎM-m-my...(B)my back gave out!(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,こりゃ　遊んでる場合じゃねえ(E)",
-  "en": ""
+  "en": "ALL,No time for fun and games!(E)"
  },
  {
   "line": 17,
@@ -37,6 +37,6 @@
  {
   "line": 19,
   "jp": "ALL,この吸血王ヴァンパイアに￥ｎ逆らう気か？(B)おろかな人間よ…(B)我が血となるがよい！(B007)",
-  "en": ""
+  "en": "ALL,You dare defy the Vampire,￥ｎking of bloodsuckers?(B)Foolish human...(B)Become my blood!(B007)"
  }
 ]

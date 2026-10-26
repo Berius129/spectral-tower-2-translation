@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはガラクタの町よ(B)最近　みんな￥ｎ元気がないみたい…(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Junk Town.(B)Lately everyone seems￥ｎa little down...(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,他の町は今　やばいらしい…￥ｎ魔物が出るんだってさ(E)",
-  "en": ""
+  "en": "ALL,The other towns are in trouble￥ｎnow... monsters are showing up.(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,ウワサじゃ　塔の外は￥ｎだいぶすさんじまってるらしい…(E)",
-  "en": ""
+  "en": "ALL,Rumor says it's gotten grim￥ｎoutside the tower...(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,ガラクタの町なんて￥ｎ誰がつけたんでしょうね(B)こんなにいいところなのに(E)",
-  "en": ""
+  "en": "ALL,Who named this place￥ｎJunk Town, anyway?(B)It's such a nice place.(E)"
  },
  {
   "line": 21,
@@ -52,27 +52,27 @@
  {
   "line": 23,
   "jp": "25:1,最近　もの忘れがひどくてな…￥ｎサイフはどこにしまったかのう…(ON025:2)",
-  "en": ""
+  "en": "25:1,I've been so forgetful lately...￥ｎWhere did I put my wallet...(ON025:2)"
  },
  {
   "line": 24,
   "jp": "25:2,ワシはボケとらん￥ｎだってまだ若葉の１０代じゃよ！(B)ふふふ…えへへ…(ON025:3)",
-  "en": ""
+  "en": "25:2,I'm not senile!￥ｎI'm still a sprightly teenager!(B)Heh heh... ehehe...(ON025:3)"
  },
  {
   "line": 25,
   "jp": "25:3,昔を思い出すなあ…(B)ワシはドラゴンレーサーで￥ｎトシとライバルだった…(B)ブゥロローン　キキーッ！￥ｎヘイ　トシ！(B)ユーとストリートで勝負ね￥ｎウィナーが彼女とデイトね！(B)ドライブテクはトシが上￥ｎヨコ文字はワシが上…(B)ブツブツ…(ON025:4)",
-  "en": ""
+  "en": "25:3,Brings back memories...(B)I was a dragon racer, and￥ｎToshi was my rival...(B)Vroom vroom, screech!￥ｎHey, Toshi!(B)Let's race on the street,￥ｎwinner gets a date with her!(B)Toshi drove better, but￥ｎmy English was better...(B)Mumble mumble...(ON025:4)"
  },
  {
   "line": 26,
   "jp": "25:4,はっ！￥ｎどうも最近ゆめみがちじゃよ…(E)",
-  "en": ""
+  "en": "25:4,Huh!￥ｎI daydream a lot lately...(E)"
  },
  {
   "line": 27,
   "jp": "DEF,最近　もの忘れがひどくてな…￥ｎお昼食べたっけ？(ON025:1)",
-  "en": ""
+  "en": "DEF,I've been so forgetful lately...￥ｎDid I eat lunch?(ON025:1)"
  },
  {
   "line": 28,
@@ -82,7 +82,7 @@
  {
   "line": 30,
   "jp": "ALL,ボクは塔に登るより￥ｎ塔の外に出たいなあ(E)",
-  "en": ""
+  "en": "ALL,Rather than climb the tower,￥ｎI want to go outside it.(E)"
  },
  {
   "line": 31,
@@ -92,17 +92,17 @@
  {
   "line": 33,
   "jp": "26:1,器の小さい大人に￥ｎなりたくないなあ(E)",
-  "en": ""
+  "en": "26:1,I don't want to grow up￥ｎto be petty.(E)"
  },
  {
   "line": 34,
   "jp": "26:2,世の中やさしさだけじゃ￥ｎわたっていけないんだ(B)お兄ちゃんを見てて￥ｎそう思ったよ！(B)ふふふ…(E)",
-  "en": ""
+  "en": "26:2,You can't get by in this world￥ｎon kindness alone.(B)Watching you, mister,￥ｎmade me think that!(B)Heh heh...(E)"
  },
  {
   "line": 35,
   "jp": "DEF,友だちがボクのこと￥ｎ裏切ったんだ　どう思う？(N2)ゆるしてやれよ=CP1,絶交すべきさ！=CP2(CP2)お兄ちゃんて案外￥ｎ器が小さいんだね…(ON026:1)(CP1)意外と甘いんだね(B)そんなこと言ってると￥ｎ仲間にだまされちゃうよ(ON026:2)",
-  "en": ""
+  "en": "DEF,My friend betrayed me.￥ｎWhat do you think?(N2)Forgive him=CP1,Cut him off!=CP2(CP2)You're kind of petty,￥ｎmister...(ON026:1)(CP1)You're softer than I thought.(B)Talk like that and your￥ｎfriends will fool you.(ON026:2)"
  },
  {
   "line": 36,
@@ -112,7 +112,7 @@
  {
   "line": 38,
   "jp": "ALL,ワシはガラクタ爺さんじゃが…￥ｎ何か用かい？(N4)上に登りたい=CP1,ガラクタを渡す=CP2,アイテムと交換=CP6,用はないです=CP3(CP3)そうか…￥ｎならいいんじゃ(B)ちなみに　おぬしからもらった￥ｎガラクタの数は…(B)(g)個じゃ！￥ｎどんどん　ひきとるからの！(E)(CP1)上の階にいきたいのか？(N2)はい=CP4,いいえ=CP5(CP5)そうか　ならいいんじゃよ(E)(CP4)ほいきたっ！(B)ワシの発明した￥ｎ『ノボールライツ』で…(B)ビカビカーッ！(F003)(CP2)ほほぅ！￥ｎガラクタをくれるのか！(B)では　遠慮なくいただくかの～(F009)(CP6)ほいきたっ！￥ｎアイテムと交換じゃな(B)(i)…(B)これでよいかな？(N2)はい=CP7,やだ=CP8(CP8)そうか…￥ｎ残念じゃな…(E)(CP7)では　交換じゃ！(B)ここで　交換したガラクタは￥ｎリサイクルしてるのじゃ(B)気がむいたら￥ｎ井戸の中にいってみるといいぞ(F013)",
-  "en": ""
+  "en": "ALL,I'm the Junk Geezer...￥ｎWhat do you need?(N4)Go up a floor=CP1,Give junk=CP2,Trade for items=CP6,Nothing=CP3(CP3)I see...￥ｎThat's fine.(B)By the way, the junk you've￥ｎgiven me so far is...(B)(g) pieces!￥ｎI'll take all you've got!(E)(CP1)Want to go up a floor?(N2)Yes=CP4,No=CP5(CP5)I see. That's fine.(E)(CP4)Coming right up!(B)With my invention,￥ｎthe \"Upward Lights\"...(B)Zap zap zap!(F003)(CP2)Oho!￥ｎYou'll give me junk!(B)Then I'll gladly take it~(F009)(CP6)Coming right up!￥ｎA trade for items, then.(B)(i)...(B)Will this do?(N2)Yes=CP7,No way=CP8(CP8)I see...￥ｎToo bad...(E)(CP7)Then let's trade!(B)The junk traded here￥ｎgets recycled.(B)If you feel like it,￥ｎtake a look inside the well.(F013)"
  },
  {
   "line": 39,
@@ -122,42 +122,42 @@
  {
   "line": 41,
   "jp": "49:1,井戸の底に　こんな所があるとは￥ｎ思いもしなかっただろう？(B)ガラクタがたくさんあれば￥ｎワシ好みの大御殿を作るんじゃが…(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ！￥ｎどんどん　ひきとるからの！(E)",
-  "en": ""
+  "en": "49:1,Bet you never thought there'd be￥ｎa place like this down the well?(B)With enough junk, I'll build￥ｎthe grand palace of my dreams...(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces!￥ｎI'll take all you've got!(E)"
  },
  {
   "line": 42,
   "jp": "49:2,見てくれ！　少し出来てきたぞ！(B)ガラクタも使いようによって￥ｎいろいろ　役立つモノなのじゃ(B)まだまだ　散らかってるが￥ｎここが　完成したら祭じゃぞ！(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ！￥ｎどんどん　ひきとるからの！(E)",
-  "en": ""
+  "en": "49:2,Look! It's taking shape!(B)Even junk can be useful￥ｎif you use it right.(B)It's still messy, but once it's￥ｎdone, we'll have a festival!(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces!￥ｎI'll take all you've got!(E)"
  },
  {
   "line": 43,
   "jp": "49:3,ふぃ～￥ｎやっと完成間近といったところじゃ(B)たくさんのガラクタが￥ｎこんなにも立派になったのじゃ！(B)もう一息じゃな￥ｎむ…む…む！　がんばれワシ！(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ！￥ｎどんどん　ひきとるからの！(E)",
-  "en": ""
+  "en": "49:3,Phew~￥ｎIt's almost finished at last.(B)So much junk has become￥ｎsomething this splendid!(B)Just a little more.￥ｎMmm... mmm! Go, me!(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces!￥ｎI'll take all you've got!(E)"
  },
  {
   "line": 44,
   "jp": "49:4,きたぞ　きたのじゃ！(B)めでたく完成なのじゃ！(B)上の人たちを呼んで祭をするぞ！￥ｎいままでヒミツじゃったからなぁ…(B)きっと　みんなビックリじゃ！￥ｎむ…む…む！　楽しみなのじゃ！(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ！￥ｎどんどん　ひきとるからの！(E)",
-  "en": ""
+  "en": "49:4,It's here, it's finally here!(B)It's finished at last!(B)We'll have a festival! It was￥ｎall a secret until now...(B)Everyone will be amazed!￥ｎMmm... mmm! I can't wait!(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces!￥ｎI'll take all you've got!(E)"
  },
  {
   "line": 45,
   "jp": "49:5,……………(B)悲しいのじゃ…(B)誰に見せる間もなく￥ｎ崩れてしまったのじゃ…！(B)………なぐさめは　いらんよ(B)もう　ここはヒミツの場所じゃ…￥ｎ誰にも知られたくないのじゃ(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ￥ｎどんどん　ひきとるからの…(E)",
-  "en": ""
+  "en": "49:5,...............(B)I'm so sad...(B)It collapsed before I￥ｎcould show anyone...!(B).........No need to comfort me.(B)This is a secret place now...￥ｎI don't want anyone to know.(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces.￥ｎI'll take all you've got...(E)"
  },
  {
   "line": 46,
   "jp": "49:6,不思議なもんじゃな…(B)崩れたときには￥ｎわからんかったのに…(B)こんな所にも草木は生えるんじゃな￥ｎこれからは　水でもまいてるのじゃ(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ￥ｎどんどん　ひきとるからの…(E)",
-  "en": ""
+  "en": "49:6,How strange...(B)I didn't notice when￥ｎit collapsed, but...(B)plants grow even in a place like￥ｎthis. Now I water them.(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces.￥ｎI'll take all you've got...(E)"
  },
  {
   "line": 47,
   "jp": "49:7,どんどん　育てようとしていたら￥ｎ育ちすぎてしまった…(B)このままじゃと　上の人に￥ｎ気づかれるかも…(B)ここはヒミツの場所じゃから￥ｎあまり知られたくないんじゃ(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ！￥ｎがんばっとるのぉ(E)",
-  "en": ""
+  "en": "49:7,I kept trying to grow them,￥ｎand they grew too much...(B)At this rate, the people up top￥ｎmight notice...(B)This is a secret place, so I￥ｎdon't want it known.(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces!￥ｎYou're working hard!(E)"
  },
  {
   "line": 48,
   "jp": "DEF,ガラクタでリサイクル！￥ｎワシのモットーじゃよ…(B)ちなみに　今までリサイクルした￥ｎガラクタの数は…(B)(h)個じゃ！￥ｎどんどん　ひきとるからの！(E)",
-  "en": ""
+  "en": "DEF,Recycle with junk!￥ｎThat's my motto...(B)By the way, the junk I've￥ｎrecycled so far is...(B)(h) pieces!￥ｎI'll take all you've got!(E)"
  },
  {
   "line": 49,
@@ -167,21 +167,21 @@
  {
   "line": 51,
   "jp": "40:0,ガラクタの中にスカラベが￥ｎ落ちていたんだ(B)スカラベ　あげよっか？(N2)ちょーだい=CP1,いらない=CP2(CP2)そっか…(E)(CP1)はい　スカラベ！(F007)",
-  "en": ""
+  "en": "40:0,I found a Scarab in￥ｎthe junk.(B)Want the Scarab?(N2)Gimme=CP1,No thanks=CP2(CP2)Okay...(E)(CP1)Here, a Scarab!(F007)"
  },
  {
   "line": 52,
   "jp": "40:1,ここは　秘密の遊び場なんだ(E)",
-  "en": ""
+  "en": "40:1,This is my secret playground.(E)"
  },
  {
   "line": 53,
   "jp": "40:2,ガラクタの中にスカラベが￥ｎ落ちていたんだ(B)スカラベ　あげよっか？(B)あれ？￥ｎ荷物がいっぱいだよ(E)",
-  "en": ""
+  "en": "40:2,I found a Scarab in￥ｎthe junk.(B)Want the Scarab?(B)Huh?￥ｎYour bag is full.(E)"
  },
  {
   "line": 54,
   "jp": "40:3,ガラクタの中にスカラベが￥ｎ落ちていたんだ(B)スカラベ　あげよっか？(B)あれ？￥ｎベラカス持ってるんだ…(B)スカラベと　とりかえたい？(N2)はい=CP1,いいえ=CP2(CP2)そっか…(E)(CP1)はい　とりかえっこ！(F008)",
-  "en": ""
+  "en": "40:3,I found a Scarab in￥ｎthe junk.(B)Want the Scarab?(B)Huh?￥ｎYou have a Belacus...(B)Want to swap it for the Scarab?(N2)Yes=CP1,No=CP2(CP2)Okay...(E)(CP1)Here, let's swap!(F008)"
  }
 ]

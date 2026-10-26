@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,おれはライバル(E)",
-  "en": ""
+  "en": "ALL,I'm the rival(E)"
  },
  {
   "line": 11,
@@ -17,27 +17,27 @@
  {
   "line": 13,
   "jp": "36:1,あ　あんなやつ……！(E)",
-  "en": ""
+  "en": "36:1,Wh-what a jerk......!(E)"
  },
  {
   "line": 14,
   "jp": "36:2,ボ　ボクのおじさん￥ｎ魔法に詳しいから(B)今度一緒に行ってみない？(ON036:3)",
-  "en": ""
+  "en": "36:2,M-my uncle knows￥ｎa lot about magic,(B)want to go see him sometime?(ON036:3)"
  },
  {
   "line": 15,
   "jp": "36:3,ねえ　いいだろ？(E)",
-  "en": ""
+  "en": "36:3,C'mon, okay?(E)"
  },
  {
   "line": 16,
   "jp": "36:4,ま　魔法って便利だよな(B)ボクなんかついつい魔法を￥ｎ使っちゃうよ(E)",
-  "en": ""
+  "en": "36:4,M-magic sure is handy.(B)I end up using it￥ｎall the time.(E)"
  },
  {
   "line": 17,
   "jp": "DEF,失礼なやつだ(B)こ　これだから外の世界の人間は￥ｎ嫌いなんだ(B)自分のことしか考えてない！(ON036:1)",
-  "en": ""
+  "en": "DEF,How rude!(B)Th-this is why I hate￥ｎpeople from outside.(B)They only think of themselves!(ON036:1)"
  },
  {
   "line": 18,
@@ -47,27 +47,27 @@
  {
   "line": 20,
   "jp": "36:1,あ　あんなやつ……！(E)",
-  "en": ""
+  "en": "36:1,Wh-what a jerk......!(E)"
  },
  {
   "line": 21,
   "jp": "36:2,あ　新しい魔法覚えたんだけど(B)今度教えてあげるよ(ON036:3)",
-  "en": ""
+  "en": "36:2,I l-learned a new spell.(B)I'll teach you sometime.(ON036:3)"
  },
  {
   "line": 22,
   "jp": "36:3,女の子でもカンタンだよ(E)　",
-  "en": ""
+  "en": "36:3,It's easy, even for girls.(E)　"
  },
  {
   "line": 23,
   "jp": "36:4,き　君の瞳を見ていると(B)まるで魔法をかけられたような￥ｎ気分になるよ(E)",
-  "en": ""
+  "en": "36:4,L-looking into your eyes,(B)I feel like I'm under￥ｎa magic spell.(E)"
  },
  {
   "line": 24,
   "jp": "DEF,なんだい今の男は！？(B)人にぶつかっといて￥ｎ謝りもしないなんて…！(ON036:1)",
-  "en": ""
+  "en": "DEF,What was that guy!?(B)He bumps into people￥ｎand doesn't even apologize...!(ON036:1)"
  },
  {
   "line": 25,
@@ -77,27 +77,27 @@
  {
   "line": 27,
   "jp": "36:1,あんたたちがボーっとしてるから￥ｎ悪いのよ！(B)いい男に￥ｎ悪い人はいなくてよ(B)銀色の髪の　ス　テ　キ　な　人！(ON036:2)",
-  "en": ""
+  "en": "36:1,It's your fault for spacing out!(B)A handsome man￥ｎcan't be a bad man.(B)Silver hair... so... dreamy!(ON036:2)"
  },
  {
   "line": 28,
   "jp": "36:2,顔の血走ってるところなんか特に(B)い　い　わ……(E)",
-  "en": ""
+  "en": "36:2,Especially his bloodshot face.(B)So... hot......(E)"
  },
  {
   "line": 29,
   "jp": "36:3,そうねぇ￥ｎどうしよっかなぁ(ON036:4)",
-  "en": ""
+  "en": "36:3,Hmm,￥ｎshould I or shouldn't I~(ON036:4)"
  },
  {
   "line": 30,
   "jp": "36:4,いまどきの女の子に魔法は￥ｎ欠かせないわよね…(E)",
-  "en": ""
+  "en": "36:4,Girls these days can't do￥ｎwithout magic...(E)"
  },
  {
   "line": 31,
   "jp": "DEF,い　今のだれ！？(E)",
-  "en": ""
+  "en": "DEF,Wh-who was that!?(E)"
  },
  {
   "line": 32,
@@ -107,7 +107,7 @@
  {
   "line": 34,
   "jp": "ALL,宝物目当ての商人　冒険者￥ｎ観光ツアーに遠足(B)いつからこんなに外の世界の人が￥ｎ増えたんだろう(E)",
-  "en": ""
+  "en": "ALL,Treasure-hunting merchants,￥ｎadventurers, tourists, kids...(B)When did so many outsiders￥ｎstart coming here?(E)"
  },
  {
   "line": 35,
@@ -117,7 +117,7 @@
  {
   "line": 37,
   "jp": "ALL,どうも最近(B)ベラカスを外の世界の人間に￥ｎ横流ししている商人がいるらしいが(B)いつか大変なことになるぞ(E)",
-  "en": ""
+  "en": "ALL,Lately, it seems...(B)some merchant is selling Belacus￥ｎto outsiders on the side.(B)Something terrible will happen.(E)"
  },
  {
   "line": 38,
@@ -127,6 +127,6 @@
  {
   "line": 40,
   "jp": "ALL,外の世界の人間のもたらすものは￥ｎ私たちの生活を豊かにしてくれるが(B)もし聖域を冒すようなことに￥ｎなったら…(E)",
-  "en": ""
+  "en": "ALL,What outsiders bring makes￥ｎour lives richer, but...(B)if they ever violate the￥ｎsanctuary...(E)"
  }
 ]

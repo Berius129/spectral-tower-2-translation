@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはやすらぎの町です(B)魔物も出なくなりまして￥ｎやすらぎが戻ってきました(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Tranquil Town.(B)The monsters stopped coming,￥ｎand peace has returned.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,空がすみわたっている￥ｎみんなの不安もやわらいだようです(E)",
-  "en": ""
+  "en": "ALL,The sky is clear.￥ｎEveryone seems less uneasy.(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,最上階に登った奴がいるらしい(B)すごい奴がいるものだ(E)",
-  "en": ""
+  "en": "ALL,Someone reached the top, I hear.(B)What an amazing person.(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,となりのおじいちゃんが￥ｎ元気になったみたい(B)でも　うちのおじいちゃんが￥ｎ腰痛でねこんでます(E)",
-  "en": ""
+  "en": "ALL,The old man next door seems￥ｎto be well again.(B)But now my grandpa is in bed￥ｎwith a bad back.(E)"
  },
  {
   "line": 21,
@@ -52,7 +52,7 @@
  {
   "line": 23,
   "jp": "ALL,ユウサンのパンはまずいわ￥ｎもう買うのやめるわ(E)",
-  "en": ""
+  "en": "ALL,Yusan's bread is awful.￥ｎI'm done buying it.(E)"
  },
  {
   "line": 24,
@@ -62,7 +62,7 @@
  {
   "line": 26,
   "jp": "ALL,ケンカ相手がいないと￥ｎつまらんのう(B)仕方ない…￥ｎ見舞いにいくか(E)",
-  "en": ""
+  "en": "ALL,No one to quarrel with￥ｎmakes it boring...(B)Oh well...￥ｎI'll go visit him.(E)"
  },
  {
   "line": 27,
@@ -72,7 +72,7 @@
  {
   "line": 29,
   "jp": "ALL,魔物って恐いんでしょ？￥ｎうちのママより恐いのかなぁ(E)",
-  "en": ""
+  "en": "ALL,Monsters are scary, right?￥ｎScarier than my mom?(E)"
  },
  {
   "line": 30,
@@ -82,17 +82,17 @@
  {
   "line": 32,
   "jp": "2:1,えっ　運命の町にいる￥ｎおじいちゃんに会ったの？(B)今度またおじいちゃんに会ったら￥ｎ元気だよって言っといてね(ON002:2)",
-  "en": ""
+  "en": "2:1,What, you met my grandpa￥ｎin Destiny Town?(B)If you see Grandpa again,￥ｎtell him I'm doing well.(ON002:2)"
  },
  {
   "line": 33,
   "jp": "2:2,運命の町にいる　おじいちゃんに￥ｎ手紙をかこっと！(E)",
-  "en": ""
+  "en": "2:2,I'll write a letter to my￥ｎgrandpa in Destiny Town!(E)"
  },
  {
   "line": 34,
   "jp": "DEF,あーあ　運命の町のおじいちゃん￥ｎ元気かなぁ(E)",
-  "en": ""
+  "en": "DEF,Ahh, I wonder if Grandpa in￥ｎDestiny Town is doing well.(E)"
  },
  {
   "line": 35,
@@ -102,6 +102,6 @@
  {
   "line": 37,
   "jp": "ALL,ボク　パン屋のユウサン￥ｎみんなに嫌われちゃった…(B)ちゃんとしたパンを￥ｎ作ってるのに…(B)試食するかい？￥ｎウヒョーッ　ヒョッ　ヒョッ！(N2)うんうん！=CP1,するものか！=CP2(CP2)そうかい　残念だなぁ￥ｎウヒヒッ…(E)(CP1)(2)は￥ｎためしにパンを食べてみた！(B)むしゃ　むしゃ…(B)………(B)ユ　ユウサンのパンは￥ｎ最高だーっ！(F004)",
-  "en": ""
+  "en": "ALL,I'm Yusan the baker.￥ｎEveryone hates me now...(B)And I make proper￥ｎbread, too...(B)Want a sample?￥ｎHeehee, hee, hee!(N2)Yes, yes!=CP1,No way!=CP2(CP2)Is that so? Too bad.￥ｎHeh heh...(E)(CP1)(2) tried the￥ｎbread for a test!(B)Munch, munch...(B).........(B)Y-Yusan's bread￥ｎis the best!(F004)"
  }
 ]

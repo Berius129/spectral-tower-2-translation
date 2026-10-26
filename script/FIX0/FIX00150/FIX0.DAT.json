@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,………?(B)なんだ　人間か￥ｎ…何のようだ？(N2)通りかかっただけ=CP1,友達になろう！=CP2(CP2)友達…？￥ｎなんだ　それ？(B)………ほぉ￥ｎそれはいいもんだな(B)しかしなぁ　おれもゾンビとしての￥ｎプライドってものがなぁ…(B)………(B)やっぱり　だめだ！￥ｎ生きてる人間とは友達にはなれん！(B)…しかしだ(B)あんた　いい人間みたいだから￥ｎ死んだら遊びにこいよ(B)…そうだ！￥ｎいま　殺してやろうか？(N2)やめておくよ=CP3,お願いします=CP4(CP4)あ…！(B)やっぱり　やめておこう￥ｎコイツらに肉を食われちまう(E)(CP3)お…？￥ｎなんだ　残念だな(B)じゃ　五体満足で死んだら￥ｎまた　こいよな！(E)(CP1)そうか…￥ｎ生き物に話すことはないなぁ(E)",
-  "en": ""
+  "en": "ALL,.........?(B)Oh, a human.￥ｎ...What do you want?(N2)Just passing by=CP1,Let's be friends!=CP2(CP2)Friends...?￥ｎWhat's that?(B)......Ooh,￥ｎthat sounds nice.(B)But, y'know, I've got my pride￥ｎas a zombie...(B).........(B)No, can't do it!￥ｎNo friends with the living!(B)...But still,(B)you seem like a nice human,￥ｎso come visit when you're dead.(B)...I know!￥ｎShall I kill you right now?(N2)I'll pass=CP3,Yes, please=CP4(CP4)Ah...!(B)No, never mind.￥ｎThese guys would eat your flesh.(E)(CP3)Oh...?￥ｎThat's a shame.(B)Well, if you die in one piece,￥ｎcome see me again!(E)(CP1)I see...￥ｎNothing to say to the living.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,わ～　人間だぁ￥ｎこんなとこで　何してんの？(N2)おばけ退治=CP1,お前と話してる=CP2(CP2)………ふ～ん￥ｎどんなこと　はなしてんの？(N2)…こんなこと=CP3,言いたくない=CP4(CP4)そうか～￥ｎ人間ってわかんないなぁ(E)(CP3)………！￥ｎボクをバカにしてるだろ(B)………(B)ま…まぁ　ホントのこと言うと￥ｎボクもからかってたんだけどね(E)(CP1)………！？￥ｎ…おばけ退治(B)な…何を言ってるのか￥ｎわ…わかんないな～(B)はやく　上に登ったら？￥ｎ先はながいよ(E)",
-  "en": ""
+  "en": "ALL,Whoa, a human!￥ｎWhat are you doing here?(N2)Ghost hunting=CP1,Talking to you=CP2(CP2)......Hmm.￥ｎTalking about what?(N2)...About this=CP3,Won't say=CP4(CP4)I see~￥ｎHumans are so confusing.(E)(CP3)......!￥ｎYou're making fun of me!(B).........(B)W-well, to be honest,￥ｎI was teasing you too.(E)(CP1)......!?￥ｎ...Ghost hunting?(B)I-I have no idea￥ｎwhat you mean~(B)Why not hurry upstairs?￥ｎIt's a long way.(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,ナンダ　オマエ？￥ｎヨウブン　キュウシュウ　スルゾ！(B)タタカウ…？　チガウノカ？(N2)チガウノダ=CP1,ソウナノダ=CP2(CP2)………ヤメテオコウ￥ｎイマ　イソガシイ(B)オレノ　ナカマ…￥ｎココノ　イタキレニ　ナッタ…(B)ダカラ　オキルノ　マッテル(B)オレ　カナシイ…￥ｎナカマ　ヘッテク…(B)オマエモ　ナカマ　シヌ￥ｎカナシイ　…チガウカ？(N2)カナシイ=CP3,カナシクナイ=CP4(CP4)………ソウカ￥ｎダカラ　ヘイキデ　コロスノカ…(E)(CP3)ソレデモ　ヘイキデ　コロス￥ｎオレ　ニンゲン　ワカラナイ…(E)(CP1)………ソウカ￥ｎホカノ　ニンゲント　チガウナ…(B)イママデノ　ニンゲン　スグニ￥ｎオレタチ　コロソウトシタ(B)………オマエ　ダケ￥ｎトクベツナ　ニンゲン　ナノカ？(B)オレ　ニンゲン　ワカラナイ…(E)",
-  "en": ""
+  "en": "ALL,WHAT ARE YOU?￥ｎI WILL ABSORB NUTRIENTS!(B)FIGHT...? NO?(N2)WE NO FIGHT=CP1,WE FIGHT=CP2(CP2)......I WILL NOT.￥ｎBUSY NOW.(B)MY FRIENDS...￥ｎBECAME BOARDS HERE...(B)SO I WAIT FOR THEM TO WAKE.(B)I AM SAD...￥ｎFRIENDS GROW FEWER...(B)YOUR FRIENDS DIE TOO.￥ｎSAD... YES?(N2)SAD=CP3,NOT SAD=CP4(CP4)......I SEE.￥ｎSO YOU KILL WITHOUT CARE...(E)(CP3)AND STILL YOU KILL.￥ｎI DO NOT UNDERSTAND HUMANS...(E)(CP1)......I SEE.￥ｎYOU ARE NOT LIKE OTHER HUMANS...(B)HUMANS BEFORE ALWAYS TRIED￥ｎTO KILL US AT ONCE.(B)......ARE YOU ALONE￥ｎA SPECIAL HUMAN?(B)I DO NOT UNDERSTAND HUMANS...(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,な…なんだ　おまえ￥ｎボ…ボクに　なんか用か？(B)あ…！　そうだ(B)そ…それ以上　こっちに来るな！￥ｎし…知ってるんだぞ！(B)人間は　平気でボクたちを￥ｎ殺すんだろ！？(B)そして　食べちゃうんだ！(B)ボクたちは　なにもしないから￥ｎはやく　どこかに行っちゃえ！(E)",
-  "en": ""
+  "en": "ALL,Wh-what are you?￥ｎD-do you want something with me?(B)Ah...! I know!(B)D-don't come any closer!￥ｎI-I know about you!(B)Humans kill us￥ｎwithout a second thought!(B)And then you eat us!(B)We won't do anything,￥ｎso go away, quick!(E)"
  },
  {
   "line": 21,
@@ -52,22 +52,22 @@
  {
   "line": 23,
   "jp": "40:0,オマエニ　コレ　ヤルゾ(B)スカラベ…￥ｎイラナイカ？(N2)ホシイ=CP1,イラナイ=CP2(CP2)ソレナラ　ヤラナイ(E)(CP1)スカラベ　ヤル(F007)",
-  "en": ""
+  "en": "40:0,I GIVE YOU THIS.(B)SCARAB...￥ｎYOU WANT?(N2)WANT=CP1,NO WANT=CP2(CP2)THEN I NOT GIVE.(E)(CP1)I GIVE SCARAB.(F007)"
  },
  {
   "line": 24,
   "jp": "40:1,スカラベ　キライダ￥ｎオレノ　カラダ　タベルカラ(E)",
-  "en": ""
+  "en": "40:1,I HATE SCARABS.￥ｎTHEY EAT MY BODY.(E)"
  },
  {
   "line": 25,
   "jp": "40:2,ナンダ…￥ｎオマエ　ドウグ　イッパイ(E)",
-  "en": ""
+  "en": "40:2,WHAT...￥ｎYOU HAVE MANY ITEMS.(E)"
  },
  {
   "line": 26,
   "jp": "40:3,ナンダ…￥ｎオマエ　ベラカス　モッテル(B)スカラベト　コウカン　スルカ？(N2)スル=CP1,シナイ=CP2(CP2)ソウカ…(E)(CP1)コウカンダ…(F008)",
-  "en": ""
+  "en": "40:3,WHAT...￥ｎYOU HAVE BELACUS.(B)TRADE FOR SCARAB?(N2)TRADE=CP1,NO TRADE=CP2(CP2)I SEE...(E)(CP1)WE TRADE...(F008)"
  },
  {
   "line": 27,
@@ -77,6 +77,6 @@
  {
   "line": 29,
   "jp": "ALL,ヘィ！　そこの人間！￥ｎ上に登るかい？(N2)登るぜ！=CP1,やめとく=CP2(CP2)そうかい！￥ｎじゃ～なぁ！(E)(CP1)オッケ～！￥ｎ天国まで行っちまいな！(F003)",
-  "en": ""
+  "en": "ALL,Hey! You there, human!￥ｎGoing up?(N2)I'm going up!=CP1,I'll pass=CP2(CP2)Alright!￥ｎSee ya!(E)(CP1)Okaaay!￥ｎGo all the way to heaven!(F003)"
  }
 ]

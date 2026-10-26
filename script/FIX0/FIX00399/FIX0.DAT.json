@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,かつてここで多くの冒険者が￥ｎ命を落としたという(B)そして今でもここにはその￥ｎ冒険者たちの霊が現れるんじゃ(B)わしは時々ここでお祈りをしておる(E)",
-  "en": ""
+  "en": "ALL,They say many adventurers￥ｎlost their lives here.(B)And their spirits still￥ｎappear here to this day.(B)I come here to pray sometimes.(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,ここは私の主人が足をすべらせて￥ｎ命を落とした場所です(B)あれから６年…(B)わたしにも新しい人が見つかり￥ｎ一緒になることになったんです(B)今日は主人とお別れに来ました(B)さようならあなた￥ｎいつまでもお元気で…(E)",
-  "en": ""
+  "en": "ALL,This is where my husband slipped￥ｎand lost his life.(B)Six years since then...(B)I've found someone new,￥ｎand we're getting married.(B)Today I came to say goodbye.(B)Farewell, my dear.￥ｎTake care, always...(E)"
  },
  {
   "line": 14,
@@ -27,6 +27,6 @@
  {
   "line": 16,
   "jp": "ALL,こんちわ！￥ｎボクおだけん(B)お調子者だよ！(E)",
-  "en": ""
+  "en": "ALL,Hiya!￥ｎI'm Odaken.(B)Life of the party!(E)"
  }
 ]

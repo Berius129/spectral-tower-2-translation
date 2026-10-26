@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,むむっ！！(B)おぬし見かけによらずセンスいいの(B)見えそうで見えないところが￥ｎまたいいのお…ムフッ(B)よし　通るがよい！(E)",
-  "en": ""
+  "en": "ALL,Hmm!!(B)You've got good taste,￥ｎdespite your looks.(B)Hinting without showing...￥ｎvery nice... heh.(B)Very well, you may pass!(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,あなたみたいな大人にだけは￥ｎならないようにしなきゃ…(E)",
-  "en": ""
+  "en": "ALL,I must never grow up￥ｎto be like you...(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,な　なんとお下劣な！(B)私はとてもそのような￥ｎはずかしめを受けるなど…(B)これですっぱりあきらめられた！(E)",
-  "en": ""
+  "en": "ALL,H-how vulgar!(B)I could never endure￥ｎsuch humiliation...(B)Now I can give up for good!(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,おまえの情熱はその程度なのか？(B)こんなところで戻ったら￥ｎ男としてくやしくないのか！(E)",
-  "en": ""
+  "en": "ALL,Is that all your passion is?(B)Turning back here, don't you￥ｎfeel ashamed as a man!(E)"
  },
  {
   "line": 20,
@@ -47,7 +47,7 @@
  {
   "line": 22,
   "jp": "ALL,そうかその手があったか！(B)ようし町に戻ろう！(B)あれっ！￥ｎスカラベがないや…(E)",
-  "en": ""
+  "en": "ALL,Of course, that's the way!(B)Alright, back to town!(B)Huh!￥ｎI don't have a Scarab...(E)"
  },
  {
   "line": 23,
@@ -57,7 +57,7 @@
  {
   "line": 25,
   "jp": "ALL,なぜだ！　なぜおまえだけ￥ｎ通ることを許されたのだ！(B)くそぉ…！！(E)",
-  "en": ""
+  "en": "ALL,Why! Why were only you￥ｎallowed through!(B)Damn it...!!(E)"
  },
  {
   "line": 26,
@@ -67,6 +67,6 @@
  {
   "line": 28,
   "jp": "ALL,おじさん血のにおいがするね(B)塔にすむ生き物を殺したでしょ(B)どうしてかな￥ｎ彼らはおびえているだけなのに(B)おびえておそいかかってくる￥ｎだけなのに…(E)",
-  "en": ""
+  "en": "ALL,Mister, you smell of blood.(B)You killed creatures living￥ｎin the tower, didn't you.(B)Why? They're only￥ｎscared...(B)They only attack because￥ｎthey're scared...(E)"
  }
 ]

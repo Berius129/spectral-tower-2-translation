@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,ここは￥ｎかつてすべての音を吸い込んだ(B)ミュートという神様が￥ｎまつられていた神殿跡です(B)ここは静かだから￥ｎ心が休まりますよ(E)",
-  "en": ""
+  "en": "ALL,These are the ruins of a temple￥ｎto Mute, the god who once(B)swallowed every sound.(B)It's quiet here,￥ｎso it calms the soul.(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,わたし　あんまり口数が多いから(B)このミュート神殿でしゃべらない￥ｎ練習してこいだって…(B)でもわかってきたの￥ｎ相手と話すってことは…(B)相手の話を聞くってことなのよね…(E)",
-  "en": ""
+  "en": "ALL,I talk too much, so they told me(B)to go practice not talking￥ｎin the Mute Temple...(B)But I'm starting to get it.￥ｎTalking with someone...(B)means listening to them too...(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,ほれ！　ほれ！(B)どうじゃ！￥ｎわしのこと　鳥と思ったじゃろ(B)もう一息で大空を舞うことが￥ｎできそうじゃな(B)上にいくか？(N2)はい=CP1,いいえ=CP2(CP1)ほれっ(F003)(CP2)そうか…(B)ここはミュートされた空間じゃ…(E)",
-  "en": ""
+  "en": "ALL,Hup! Hup!(B)How's that!￥ｎYou thought I was a bird, eh?(B)One more push and I'll be￥ｎsoaring through the sky.(B)Going up?(N2)Yes=CP1,No=CP2(CP1)Hup!(F003)(CP2)I see...(B)This is a muted space...(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,これこれ！￥ｎふぅ　まいったなぁ(B)やっと依頼の家出少年を￥ｎ見つけたのに…(B)あ　申し遅れましたが￥ｎ私　探偵なんですよ…(B)けして怪しいものじゃないっすよ！(B)ね　そこの坊ちゃん(B)こんな高いところまで来たら￥ｎ危ないよ(B)おじさんと一緒に下の階に戻ろうよ(E)",
-  "en": ""
+  "en": "ALL,Now, now!￥ｎPhew, what a pain.(B)I finally found the runaway￥ｎboy I was hired to find...(B)Oh, pardon me, I'm￥ｎa detective...(B)Not anyone suspicious, honest!(B)Hey, young man,(B)it's dangerous to come￥ｎup this high.(B)Let's go back down together.(E)"
  },
  {
   "line": 20,
@@ -47,6 +47,6 @@
  {
   "line": 22,
   "jp": "ALL,だれに頼まれたんだよ！(B)ほんとうに戻って欲しいなら￥ｎどうして自分で来ないんだよ！(B)まったく…最近の大人は￥ｎ親としての自覚がないんだから！(E)",
-  "en": ""
+  "en": "ALL,Who sent you!(B)If they really want me back,￥ｎwhy don't they come themselves!(B)Honestly... grown-ups these days￥ｎhave no sense of being parents!(E)"
  }
 ]

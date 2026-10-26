@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,ふうふう　なんて高い塔なんじゃ￥ｎ老人にやさしくないのう…(B)これじゃ生き地獄じゃわい(E)",
-  "en": ""
+  "en": "ALL,Huff, huff, what a tall tower.￥ｎNot kind to old folks...(B)This is a living hell.(E)"
  },
  {
   "line": 12,
@@ -17,7 +17,7 @@
  {
   "line": 14,
   "jp": "ALL,みんなきちんと一列にならんで￥ｎ歩けよ(B)一般の人の迷惑にならないように！(E)",
-  "en": ""
+  "en": "ALL,Everyone, walk in a neat￥ｎsingle line.(B)Don't bother other visitors!(E)"
  },
  {
   "line": 15,
@@ -27,7 +27,7 @@
  {
   "line": 17,
   "jp": "ALL,はぁはぁ　はぁはぁ(B)はぁはぁ　はぁはぁ(B)はぁはぁ　はぁはぁ(E)",
-  "en": ""
+  "en": "ALL,Pant pant, pant pant(B)Pant pant, pant pant(B)Pant pant, pant pant(E)"
  },
  {
   "line": 19,
@@ -37,7 +37,7 @@
  {
   "line": 21,
   "jp": "ALL,君のためなら￥ｎボクは鳥にだってなれるさ(E)",
-  "en": ""
+  "en": "ALL,For you,￥ｎI could even become a bird.(E)"
  },
  {
   "line": 23,
@@ -47,7 +47,7 @@
  {
   "line": 25,
   "jp": "ALL,おおっ！￥ｎこりゃ高いのう(B)地震が起きても￥ｎ平気なんじゃろか？(E)",
-  "en": ""
+  "en": "ALL,Ooh!￥ｎIt sure is high.(B)Would it be safe in￥ｎan earthquake?(E)"
  },
  {
   "line": 27,
@@ -57,7 +57,7 @@
  {
   "line": 29,
   "jp": "ALL,ぷんぷん！(B)この子供たちったら￥ｎちっとも言うこと聞いてくれないの(B)先生なんかにならなきゃよかった…(E)",
-  "en": ""
+  "en": "ALL,Hmph!(B)These kids never listen￥ｎto a word I say.(B)Why did I become a teacher...(E)"
  },
  {
   "line": 31,
@@ -67,7 +67,7 @@
  {
   "line": 33,
   "jp": "ALL,ほんとに！？(B)わたしといっしょに￥ｎどこまでも飛んでいきましょう！(E)",
-  "en": ""
+  "en": "ALL,Really!?(B)Let's fly away together,￥ｎas far as we can!(E)"
  },
  {
   "line": 35,
@@ -77,7 +77,7 @@
  {
   "line": 37,
   "jp": "ALL,右手をごらんください(B)こちらは見晴らし台になります(B)かつて塔の最上階を目指した￥ｎ冒険者も　みなここで…(B)のぼる朝日に向かい￥ｎ旅の安全を祈ったといわれています(B)こらっ！￥ｎそこのカップル聞いてんの！？(B)おじいちゃんも￥ｎ体乗り出すなっての！！(E)",
-  "en": ""
+  "en": "ALL,Please look to your right.(B)This is the observation deck.(B)Adventurers who once aimed for￥ｎthe top all came here...(B)and prayed to the rising sun￥ｎfor a safe journey, they say.(B)Hey!￥ｎAre you lovebirds listening!?(B)And you, gramps,￥ｎdon't lean out so far!!(E)"
  },
  {
   "line": 39,
@@ -87,7 +87,7 @@
  {
   "line": 41,
   "jp": "ALL,あれっ！￥ｎおにいちゃんもツアーの人なの？(N2)はい=CP1,いいえ=CP2(CP2)あ　そうですか…(E)(CP1)じゃあ　ちゃんと整列しなきゃ￥ｎ先生におこられるよ！(E)",
-  "en": ""
+  "en": "ALL,Huh!￥ｎMister, are you on the tour too?(N2)Yes=CP1,No=CP2(CP2)Oh, I see...(E)(CP1)Then get in line,￥ｎor the teacher will yell!(E)"
  },
  {
   "line": 43,
@@ -97,7 +97,7 @@
  {
   "line": 45,
   "jp": "ALL,おじいちゃんといると￥ｎはずかしいよ！(B)子供の気も知らないで…(E)",
-  "en": ""
+  "en": "ALL,Being with grandpa￥ｎis so embarrassing!(B)He doesn't get kids at all...(E)"
  },
  {
   "line": 47,
@@ -107,7 +107,7 @@
  {
   "line": 49,
   "jp": "ALL,先生ってそこそこいけてるよな(B)つきあってくれって言うなら￥ｎＯＫしてもいいかな(E)",
-  "en": ""
+  "en": "ALL,The teacher's kinda cute, huh.(B)If she asked me out,￥ｎI might say yes.(E)"
  },
  {
   "line": 51,
@@ -117,7 +117,7 @@
  {
   "line": 53,
   "jp": "ALL,塔の上の方って空気が￥ｎないんだってよ(B)大丈夫かなぁ(E)",
-  "en": ""
+  "en": "ALL,They say there's no air￥ｎup at the top.(B)Will we be okay?(E)"
  },
  {
   "line": 55,
@@ -127,7 +127,7 @@
  {
   "line": 57,
   "jp": "ALL,上の方には￥ｎ誰が住んでるの？(B)お金持ちじゃないと￥ｎ住めないんだよね？(E)",
-  "en": ""
+  "en": "ALL,Who lives￥ｎup at the top?(B)Only rich people can￥ｎlive there, right?(E)"
  },
  {
   "line": 58,
@@ -137,7 +137,7 @@
  {
   "line": 60,
   "jp": "ALL,塔の先は　どっか別の空間に￥ｎつながってるんだよ(E)",
-  "en": ""
+  "en": "ALL,The top of the tower connects￥ｎto another dimension.(E)"
  },
  {
   "line": 62,
@@ -147,7 +147,7 @@
  {
   "line": 64,
   "jp": "ALL,くうかんってそれなに？(E)",
-  "en": ""
+  "en": "ALL,What's a dimension?(E)"
  },
  {
   "line": 66,
@@ -157,7 +157,7 @@
  {
   "line": 68,
   "jp": "ALL,おれのおじさん一番上の方まで￥ｎ行ったことあるんだぜ(B)なんでも手足が四本もある生き物が￥ｎいたんだって…(E)",
-  "en": ""
+  "en": "ALL,My uncle went all the way￥ｎup to the top!(B)He says there were creatures￥ｎwith FOUR arms and legs...(E)"
  },
  {
   "line": 70,
@@ -167,7 +167,7 @@
  {
   "line": 72,
   "jp": "ALL,こんな高い塔　誰が作ったのかな？(E)",
-  "en": ""
+  "en": "ALL,Who built such a tall tower?(E)"
  },
  {
   "line": 74,
@@ -177,7 +177,7 @@
  {
   "line": 76,
   "jp": "ALL,神よ感謝します￥ｎ世界はこんなにもうつくしい…(E)",
-  "en": ""
+  "en": "ALL,Thank you, God.￥ｎThe world is so beautiful...(E)"
  },
  {
   "line": 78,
@@ -187,7 +187,7 @@
  {
   "line": 80,
   "jp": "ALL,せんせい！￥ｎ点呼したら１人たりません！(B)しきゅう　そうさく隊のようせいと(B)ご家族にれんらくを！！(B)な　なんと！(B)どうして今の今まで￥ｎ分からなかったのだ！(B)あやつのせいです(B)あ　あやつとは！？(B)その件で実はせんせいにお話が…(B)つづく………なんてね(E)",
-  "en": ""
+  "en": "ALL,Teacher!￥ｎAt roll call, one is missing!(B)Request a search party at once(B)and contact the family!!(B)Wh-what!(B)Why didn't we notice￥ｎuntil now!(B)It's his fault.(B)H-his!?(B)About that, actually...(B)To be continued... just kidding.(E)"
  },
  {
   "line": 82,
@@ -197,7 +197,7 @@
  {
   "line": 84,
   "jp": "ALL,「子供だからってばかにするな！」(B)「大人はボクたちの気持ちなんて￥ｎぜんぜん分かってないよ！」(B)「もっとボクたちを信じてよ！」(B)「………」(B)「ごめんなさい…でもね…」(B)ん？￥ｎおよっ！(B)いま今度のお芝居の練習中なんだ￥ｎじゃましないで！(B)遠足なんて子供のイベントに￥ｎつきあってられないよ！(E)",
-  "en": ""
+  "en": "ALL,\"Don't look down on us￥ｎjust because we're kids!\"(B)\"Grown-ups don't understand￥ｎhow we feel at all!\"(B)\"Trust us more!\"(B)\".........\"(B)\"I'm sorry... but...\"(B)Hm?￥ｎOh!(B)We're rehearsing our next play.￥ｎDon't interrupt!(B)I can't be bothered with a kiddy￥ｎthing like a field trip!(E)"
  },
  {
   "line": 86,
@@ -207,7 +207,7 @@
  {
   "line": 88,
   "jp": "ALL,まだお昼じゃないのに…(B)先生に言っちゃおうかな(E)",
-  "en": ""
+  "en": "ALL,It's not lunchtime yet...(B)Maybe I'll tell the teacher.(E)"
  },
  {
   "line": 90,
@@ -217,7 +217,7 @@
  {
   "line": 92,
   "jp": "ALL,ぎゅるるるぅ…(B)お腹がすいちゃったよ！￥ｎお弁当たべよかな(B)ガチャガチャ　パカッ(B)あれっ　おかずがない！(B)しくしく…(B)！！！(B)なんだ￥ｎフタにくっついていたんだ(B)よかった…(E)",
-  "en": ""
+  "en": "ALL,Grrrumble...(B)I'm hungry!￥ｎMaybe I'll eat my lunch.(B)Rattle rattle, pop!(B)Huh, where's my food!(B)Sob sob...(B)!!!(B)Oh, it was stuck￥ｎto the lid.(B)Phew...(E)"
  },
  {
   "line": 94,
@@ -227,6 +227,6 @@
  {
   "line": 96,
   "jp": "ALL,ヒミツだよ…(B)ボクがヒミツを知っているって￥ｎだれにも言わないでね！(E)",
-  "en": ""
+  "en": "ALL,It's a secret...(B)Don't tell anyone￥ｎI know the secret!(E)"
  }
 ]

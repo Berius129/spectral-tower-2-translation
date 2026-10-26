@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,この橋をわたりたければ￥ｎこのワシを倒してからにしろ！(N2)戦う=CP1,無視…=CP2(CP1)そうこなくっちゃな！(B010)(CP2)クールなやつじゃのぉ…(E)",
-  "en": ""
+  "en": "ALL,To cross this bridge,￥ｎyou'll have to beat me first!(N2)Fight=CP1,Ignore...=CP2(CP1)That's the spirit!(B010)(CP2)Pretty cool customer, eh...(E)"
  },
  {
   "line": 11,
@@ -17,6 +17,6 @@
  {
   "line": 13,
   "jp": "ALL,橋の上に変なヤツがいなかったか？(N2)はい=CP1,いいえ=CP2(CP1)あいつはオレの家来なんだ…(B)文句があるならヤツに言ってくれ(E)(CP2)そんなばかな！￥ｎま　まさかヤツを倒したのか？(B)おまえすごい奴だな(B)オレを家来にしてくれないか？(N2)はい=CP3,いいえ=CP4(CP3)すまぬ　やはりオレのプライドが￥ｎゆるさない(E)(CP4)な　なんと！￥ｎオレも落ちたものよ(E)",
-  "en": ""
+  "en": "ALL,Any weirdo on the bridge?(N2)Yes=CP1,No=CP2(CP1)He's my servant...(B)Any complaints, tell him.(E)(CP2)No way!￥ｎD-did you beat him?(B)You're amazing.(B)Will you make me your servant?(N2)Yes=CP3,No=CP4(CP3)Sorry, my pride won't￥ｎallow it after all.(E)(CP4)Wh-what!￥ｎHow far I've fallen.(E)"
  }
 ]

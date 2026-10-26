@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはやすらぎの町です(B)最近では魔物そうどうで￥ｎあんまりやすらげませんけどね(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Tranquil Town.(B)Though with all the monster￥ｎtrouble, it's not so tranquil.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,魔物が出てくる前に￥ｎ仕事にとりかからないとな(E)",
-  "en": ""
+  "en": "ALL,I'd better get to work￥ｎbefore the monster shows up.(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,うちのおじいちゃん…(B)となりおじいちゃんと￥ｎ毎日　ケンカよ(B)魔物より迷惑だわ…(E)",
-  "en": ""
+  "en": "ALL,My grandpa...(B)fights with the old man next￥ｎdoor every single day.(B)Worse than the monster...(E)"
  },
  {
   "line": 18,
@@ -42,17 +42,17 @@
  {
   "line": 20,
   "jp": "15:1,ユウサンのパンは￥ｎみんなにおすすめよ(E)",
-  "en": ""
+  "en": "15:1,I recommend Yusan's bread￥ｎto everyone!(E)"
  },
  {
   "line": 21,
   "jp": "15:2,ユウサンのパンを￥ｎまた買いにいこっと！(E)",
-  "en": ""
+  "en": "15:2,I'll go buy Yusan's￥ｎbread again!(E)"
  },
  {
   "line": 22,
   "jp": "DEF,ユウサンのところでパンを￥ｎ買ったことある？(N2)あるよ=CP1,まだない=CP2(CP2)あら　ぜったい￥ｎ買った方がいいわよ(B)ほんとにおいしいんだから！(ON015:1)(CP1)やっぱり　ユウサンのパンが￥ｎ一番よねえ(B)ペチャクチャ　ペチャクチャ￥ｎベラベラ　ベラベラ…(B)１０分経過…￥ｎ２０分経過…(B)ふう…(ON015:2)",
-  "en": ""
+  "en": "DEF,Ever bought bread￥ｎat Yusan's?(N2)I have=CP1,Not yet=CP2(CP2)Oh, you absolutely￥ｎshould buy some.(B)It's really delicious!(ON015:1)(CP1)Yusan's bread really is￥ｎthe best.(B)Chatter chatter, chatter￥ｎblah blah, blah blah...(B)10 minutes pass...￥ｎ20 minutes pass...(B)Phew...(ON015:2)"
  },
  {
   "line": 23,
@@ -62,17 +62,17 @@
  {
   "line": 25,
   "jp": "4:1,おぬしはどうせ￥ｎとなりのじいさんの味方じゃろ(B)どこかに行ってしまえっ(E)",
-  "en": ""
+  "en": "4:1,You're on that old man's￥ｎside anyway.(B)Go away!(E)"
  },
  {
   "line": 26,
   "jp": "4:2,おぬしはいい奴じゃから￥ｎいいことを教えてやる(B)最上階の一歩前に￥ｎ最後の町があるらしいぞ(E)",
-  "en": ""
+  "en": "4:2,You're a good one, so I'll￥ｎtell you something good.(B)One step before the top floor,￥ｎthere's said to be a last town.(E)"
  },
  {
   "line": 27,
   "jp": "DEF,となりのじいさんは￥ｎいつもワシの邪魔をしおる(B)けしからーん！(E)",
-  "en": ""
+  "en": "DEF,The old man next door￥ｎalways gets in my way.(B)Outrageous!(E)"
  },
  {
   "line": 28,
@@ -82,17 +82,17 @@
  {
   "line": 30,
   "jp": "4:1,おおっ　おぬしも￥ｎとなりのじいさんが嫌いか(B)はっはっは　そうかそうか！(E)",
-  "en": ""
+  "en": "4:1,Oh, you hate the old man￥ｎnext door too!(B)Ha ha ha, I see, I see!(E)"
  },
  {
   "line": 31,
   "jp": "4:2,おぬしはとなりのじいさんに￥ｎシッポふるのかーっ！(E)",
-  "en": ""
+  "en": "4:2,You wag your tail for the￥ｎold man next door!?(E)"
  },
  {
   "line": 32,
   "jp": "DEF,となりのじいさんは￥ｎねたんでおるんじゃ(B)ワシが健康なもんだから…￥ｎ年はとりたくないもんじゃ(E)",
-  "en": ""
+  "en": "DEF,The old man next door￥ｎis jealous of me,(B)because I'm so healthy...￥ｎI hate getting old.(E)"
  },
  {
   "line": 33,
@@ -102,17 +102,17 @@
  {
   "line": 35,
   "jp": "2:1,えっ　運命の町にいる￥ｎおじいちゃんに会ったの？(B)今度またおじいちゃんに会ったら￥ｎ元気だよって言っといてね(ON002:2)",
-  "en": ""
+  "en": "2:1,What, you met my grandpa￥ｎin Destiny Town?(B)If you see Grandpa again,￥ｎtell him I'm doing well.(ON002:2)"
  },
  {
   "line": 36,
   "jp": "2:2,運命の町にいる　おじいちゃんに￥ｎよろしくねっ！(E)",
-  "en": ""
+  "en": "2:2,Say hi to my grandpa￥ｎin Destiny Town!(E)"
  },
  {
   "line": 37,
   "jp": "DEF,あーあ　運命の町のおじいちゃん￥ｎ元気かなぁ(E)",
-  "en": ""
+  "en": "DEF,Ahh, I wonder if Grandpa in￥ｎDestiny Town is doing well.(E)"
  },
  {
   "line": 38,
@@ -122,16 +122,16 @@
  {
   "line": 40,
   "jp": "15:1,ボク　パン屋のユウサン￥ｎお買得パックを考えてるんだ(B)パン５個入りで値段は３個分￥ｎだけど２個はドク入りなんだ(B)試食するかい？￥ｎウヒョーッ　ヒョッ　ヒョッ！(N2)うんうん！=CP1,するものか！=CP2(CP2)そうかい　残念だなぁ￥ｎウヒヒッ…(E)(CP1)(2)は￥ｎパンをひとつ食べてみた！(B)むしゃ　むしゃ…(B)………(B)せ　せーふ！(F004)",
-  "en": ""
+  "en": "15:1,I'm Yusan the baker.￥ｎI'm planning a bargain pack.(B)5 breads for the price of 3,￥ｎbut 2 of them are poisoned.(B)Want a sample?￥ｎHeehee, hee, hee!(N2)Yes, yes!=CP1,No way!=CP2(CP2)Is that so? Too bad.￥ｎHeh heh...(E)(CP1)(2) tried￥ｎone bread!(B)Munch, munch...(B).........(B)S-safe!(F004)"
  },
  {
   "line": 41,
   "jp": "15:2,ボク　パン屋のユウサン￥ｎお買得パックを考えてるんだ(B)パン５個入りで値段は３個分￥ｎだけど２個はドク入りなんだ(B)試食するかい？￥ｎウヒョーッ　ヒョッ　ヒョッ！(N2)うんうん！=CP1,するものか！=CP2(CP2)そうかい　残念だなぁ￥ｎウヒヒッ…(E)(CP1)(2)は￥ｎパンをひとつ食べてみた！(B)むしゃ　むしゃ…(B)………(B)せ　せーふ！(F004)",
-  "en": ""
+  "en": "15:2,I'm Yusan the baker.￥ｎI'm planning a bargain pack.(B)5 breads for the price of 3,￥ｎbut 2 of them are poisoned.(B)Want a sample?￥ｎHeehee, hee, hee!(N2)Yes, yes!=CP1,No way!=CP2(CP2)Is that so? Too bad.￥ｎHeh heh...(E)(CP1)(2) tried￥ｎone bread!(B)Munch, munch...(B).........(B)S-safe!(F004)"
  },
  {
   "line": 42,
   "jp": "DEF,ボクのパンを買いたいって！￥ｎう～ん…(B)今日は…(B)ダメだねぇ～￥ｎウヒョーッ　ヒョッ　ヒョッ！(E)",
-  "en": ""
+  "en": "DEF,You want to buy my bread!￥ｎHmm...(B)Today...(B)No can do~￥ｎHeehee, hee, hee!(E)"
  }
 ]

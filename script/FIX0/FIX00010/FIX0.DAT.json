@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,あの魔道士のおじさん￥ｎどこいっちゃったのかな…(E)",
-  "en": ""
+  "en": "ALL,Where did that mage man￥ｎgo, I wonder...(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,助かった！(B)これでまた上に行けるぞ！(E)",
-  "en": ""
+  "en": "ALL,Saved!(B)Now I can go up again!(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,気をゆるめるなよ(B)まだまだこの先に何があるか￥ｎわからんのだからな(E)",
-  "en": ""
+  "en": "ALL,Don't let your guard down.(B)Who knows what's still￥ｎwaiting ahead.(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,せっかくおしゃれしてきたのに(B)おれっていつもこうなの？(E)",
-  "en": ""
+  "en": "ALL,I dressed up for this...(B)Is it always like this for me?(E)"
  },
  {
   "line": 20,
@@ -47,6 +47,6 @@
  {
   "line": 22,
   "jp": "ALL,おお！　ロザンナ！！(B)君のおかげなのか？(E)",
-  "en": ""
+  "en": "ALL,Oh! Rosanna!!(B)Is this thanks to you?(E)"
  }
 ]

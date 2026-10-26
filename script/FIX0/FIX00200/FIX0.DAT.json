@@ -7,37 +7,37 @@
  {
   "line": 10,
   "jp": "30:1,こんにちは￥ｎボクはチャイルっていうんだ(B)キミは…？(B)へえ…￥ｎ(2)　か…(B)いい名前だね！(B)ところでここはどこだい？￥ｎいきなり　変な鳥に囲まれてさ…(E)",
-  "en": ""
+  "en": "30:1,Hello!￥ｎMy name is Chile.(B)And you...?(B)Oh...￥ｎ(2), huh...(B)Nice name!(B)By the way, where is this?￥ｎWeird birds surrounded me...(E)"
  },
  {
   "line": 11,
   "jp": "30:2,こんにちは￥ｎボクはチャイルっていうんだ(B)キミは…？(B)へえ…￥ｎ(2)　か…(B)いい名前だね！(B)ところでここはどこだい？￥ｎいきなり　変な鳥に囲まれてさ…(ON030:3)",
-  "en": ""
+  "en": "30:2,Hello!￥ｎMy name is Chile.(B)And you...?(B)Oh...￥ｎ(2), huh...(B)Nice name!(B)By the way, where is this?￥ｎWeird birds surrounded me...(ON030:3)"
  },
  {
   "line": 12,
   "jp": "30:3,上の町から￥ｎ降りてきたのはいいけど…(B)先は長そうだね…(ON030:4)",
-  "en": ""
+  "en": "30:3,We came down from the￥ｎtown above, but...(B)it looks like a long way...(ON030:4)"
  },
  {
   "line": 13,
   "jp": "30:4,上の町から￥ｎ降りてきたのはいいけど…(B)先は長そうだね…(E)",
-  "en": ""
+  "en": "30:4,We came down from the￥ｎtown above, but...(B)it looks like a long way...(E)"
  },
  {
   "line": 14,
   "jp": "30:5,上の町から￥ｎ降りてきたのはいいけど…(B)先は長そうだね…(ON030:6)",
-  "en": ""
+  "en": "30:5,We came down from the￥ｎtown above, but...(B)it looks like a long way...(ON030:6)"
  },
  {
   "line": 15,
   "jp": "30:6,せっかく本を￥ｎ町で交換してもらったのに…(B)ここの鳥たちに￥ｎ食べられちゃうし…(B)その本にはギャンブラーになる方法￥ｎ０１２０－…(B)そんなことが書いてあったよ(E)",
-  "en": ""
+  "en": "30:6,I traded for a book in￥ｎthe town, and...(B)the birds here￥ｎate it...(B)The book had how to become a￥ｎgambler: ０１２０-...(B)something like that.(E)"
  },
  {
   "line": 16,
   "jp": "DEF,こんにちは￥ｎボクはチャイルっていうんだ(B)キミは…？(B)へえ…￥ｎ(2)　か…(B)いい名前だね！(B)ところでここはどこだい？￥ｎいきなり　変な鳥に囲まれてさ…(ON030:1)",
-  "en": ""
+  "en": "DEF,Hello!￥ｎMy name is Chile.(B)And you...?(B)Oh...￥ｎ(2), huh...(B)Nice name!(B)By the way, where is this?￥ｎWeird birds surrounded me...(ON030:1)"
  },
  {
   "line": 17,
@@ -47,37 +47,37 @@
  {
   "line": 19,
   "jp": "30:1,こんにちは￥ｎわたし　クリフっていうの(B)チャイルと二人で￥ｎ上の町から降りてきたけど…(B)鳥の群れに囲まれちゃって￥ｎもう大変よ！(ON030:3)",
-  "en": ""
+  "en": "30:1,Hello!￥ｎI'm Cliff.(B)Chile and I came down￥ｎfrom the town above, but...(B)we got surrounded by birds.￥ｎWhat a mess!(ON030:3)"
  },
  {
   "line": 20,
   "jp": "30:2,こんにちは￥ｎわたし　クリフっていうの(B)チャイルと二人で￥ｎ上の町から降りてきたけど…(B)鳥の群れに囲まれちゃって￥ｎもう大変よ！(E)",
-  "en": ""
+  "en": "30:2,Hello!￥ｎI'm Cliff.(B)Chile and I came down￥ｎfrom the town above, but...(B)we got surrounded by birds.￥ｎWhat a mess!(E)"
  },
  {
   "line": 21,
   "jp": "30:3,チャイルって￥ｎさかさまが好きみたい(B)急に塔を降りるって言いだして…￥ｎ登るのが普通でしょ！(ON030:5)",
-  "en": ""
+  "en": "30:3,Chile seems to like doing￥ｎthings backwards.(B)He suddenly said he'd go down...￥ｎClimbing up is normal!(ON030:5)"
  },
  {
   "line": 22,
   "jp": "30:4,チャイルって￥ｎさかさまが好きみたい(B)急に塔を降りるって言いだして…￥ｎ登るのが普通でしょ！(ON030:6)",
-  "en": ""
+  "en": "30:4,Chile seems to like doing￥ｎthings backwards.(B)He suddenly said he'd go down...￥ｎClimbing up is normal!(ON030:6)"
  },
  {
   "line": 23,
   "jp": "30:5,チャイルって￥ｎさかさまが好きみたい(B)急に塔を降りるって言いだして…￥ｎ登るのが普通でしょ！(E)",
-  "en": ""
+  "en": "30:5,Chile seems to like doing￥ｎthings backwards.(B)He suddenly said he'd go down...￥ｎClimbing up is normal!(E)"
  },
  {
   "line": 24,
   "jp": "30:6,あーあ　私も読んでた本￥ｎ食べられちゃうし…(B)わたしが好きな￥ｎ詩の書いてあるページを見てたの…(B)～詩人の記憶は￥ｎ０１５３－…(B)ここまで読んで￥ｎ食べられちゃった！(E)",
-  "en": ""
+  "en": "30:6,Ugh, the book I was reading￥ｎgot eaten too...(B)I was reading a page with￥ｎmy favorite poem...(B)\"The poet's memory is￥ｎ０１５３-...\"(B)I read that far, and￥ｎit got eaten!(E)"
  },
  {
   "line": 25,
   "jp": "DEF,こんにちは￥ｎわたし　クリフっていうの(B)チャイルと二人で￥ｎ上の町から降りてきたけど…(B)鳥の群れに囲まれちゃって￥ｎもう大変よ！(ON030:2)",
-  "en": ""
+  "en": "DEF,Hello!￥ｎI'm Cliff.(B)Chile and I came down￥ｎfrom the town above, but...(B)we got surrounded by birds.￥ｎWhat a mess!(ON030:2)"
  },
  {
   "line": 26,
@@ -87,7 +87,7 @@
  {
   "line": 28,
   "jp": "ALL,アギ　アギェーッ！￥ｎ（なんか食わせろーっ）(E)",
-  "en": ""
+  "en": "ALL,Agi agyeeh!￥ｎ(Feed me something!)(E)"
  },
  {
   "line": 29,
@@ -97,7 +97,7 @@
  {
   "line": 31,
   "jp": "ALL,アーッ　アギギィーッ！￥ｎ（また　人間だよー）(E)",
-  "en": ""
+  "en": "ALL,Aah, agigiiih!￥ｎ(Another human!)(E)"
  },
  {
   "line": 32,
@@ -107,7 +107,7 @@
  {
   "line": 34,
   "jp": "ALL,ギィエーッ　ハギギッ！￥ｎ（こんにちはーっ）(E)",
-  "en": ""
+  "en": "ALL,Gyeeh, hagig!￥ｎ(Helloooo!)(E)"
  },
  {
   "line": 35,
@@ -117,7 +117,7 @@
  {
   "line": 37,
   "jp": "ALL,ハギィーッ　ギ　ギィーッ！￥ｎ（わたし　クリフ　なんてね！）(E)",
-  "en": ""
+  "en": "ALL,Hagiih, gi, giiih!￥ｎ(I'm Cliff, just kidding!)(E)"
  },
  {
   "line": 38,
@@ -127,7 +127,7 @@
  {
   "line": 40,
   "jp": "ALL,ハイィーッ！￥ｎ（出口はこちらーっ！）(E)",
-  "en": ""
+  "en": "ALL,Haiiih!￥ｎ(Exit's this way!)(E)"
  },
  {
   "line": 41,
@@ -137,6 +137,6 @@
  {
   "line": 43,
   "jp": "ALL,ボクは雑誌記者のアッキー…￥ｎとほほーっ(B)雑誌の原稿　取りに行ったら￥ｎ魔物に原稿　盗られちゃったよ…(E)",
-  "en": ""
+  "en": "ALL,I'm Akkie, magazine reporter...￥ｎboo hoo...(B)I went to pick up a manuscript,￥ｎand a monster stole it...(E)"
  }
 ]

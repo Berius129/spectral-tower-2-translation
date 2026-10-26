@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはギャンブルの町です(B)みんなギャンブル好きで￥ｎ困ります(B)私もそうですけど￥ｎあははは…(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Gambling Town.(B)Everyone loves gambling here.￥ｎIt's a problem.(B)Me too, though.￥ｎAhahaha...(E)"
  },
  {
   "line": 12,
@@ -22,17 +22,17 @@
  {
   "line": 14,
   "jp": "1:1,えっ　運命の町で彼に会ったの？￥ｎ私も帰りたいんだけど…(B)ギャンブルにハマっちゃって…(ON001:2)",
-  "en": ""
+  "en": "1:1,What, you met him in Destiny￥ｎTown? I want to go back too...(B)but I got hooked on gambling...(ON001:2)"
  },
  {
   "line": 15,
   "jp": "1:2,彼にあわせる顔がないわ…(E)",
-  "en": ""
+  "en": "1:2,I can't face him...(E)"
  },
  {
   "line": 16,
   "jp": "DEF,私　運命の町に住んでいるんだけど￥ｎギャンブルにハマっちゃって…(B)彼をおいて￥ｎここまできちゃったの(ON001:2)",
-  "en": ""
+  "en": "DEF,I live in Destiny Town, but￥ｎI got hooked on gambling...(B)and came all the way here,￥ｎleaving him behind.(ON001:2)"
  },
  {
   "line": 17,
@@ -42,7 +42,7 @@
  {
   "line": 19,
   "jp": "ALL,ワシゃ　このギャンブルの町で￥ｎホネをうずめるぞ(B)死ぬまでギャンブラーじゃ！(E)",
-  "en": ""
+  "en": "ALL,I'm going to live out my days￥ｎhere in Gambling Town.(B)A gambler till I die!(E)"
  },
  {
   "line": 20,
@@ -52,7 +52,7 @@
  {
   "line": 22,
   "jp": "ALL,やすらぎの町の仲間から￥ｎ帰れと連絡があるんですが…(B)ギャンブルからはなれられません￥ｎ商人失格でしょうか…(E)",
-  "en": ""
+  "en": "ALL,My partners in Tranquil Town￥ｎtell me to come back, but...(B)I can't quit gambling.￥ｎAm I a failure as a merchant...(E)"
  },
  {
   "line": 23,
@@ -62,7 +62,7 @@
  {
   "line": 25,
   "jp": "ALL,うちのおじいちゃん￥ｎギャンブル命なんだ(B)元気なのはいいんだけどね…(E)",
-  "en": ""
+  "en": "ALL,My grandpa lives￥ｎfor gambling.(B)Good that he's lively, but...(E)"
  },
  {
   "line": 26,
@@ -72,7 +72,7 @@
  {
   "line": 28,
   "jp": "ALL,ここには古今東西のギャンブルが￥ｎそろっているんだぜ(B)まさにギャンブルの町さ！(E)",
-  "en": ""
+  "en": "ALL,Every kind of gambling from all￥ｎover the world is here.(B)A true Gambling Town!(E)"
  },
  {
   "line": 29,
@@ -82,7 +82,7 @@
  {
   "line": 31,
   "jp": "ALL,やったぜ　今日はツイている￥ｎ勝ちまくりだ！(B)調子がいいから￥ｎもう少しガンバルぜーっ！(E)",
-  "en": ""
+  "en": "ALL,Yes! I'm on a roll today.￥ｎWinning big!(B)I'm on fire, so I'll keep￥ｎgoing a little longer!(E)"
  },
  {
   "line": 32,
@@ -92,6 +92,6 @@
  {
   "line": 34,
   "jp": "ALL,全然勝てない…￥ｎ自分の町に帰ろうかなって…(ON005:1)",
-  "en": ""
+  "en": "ALL,I can't win at all...￥ｎMaybe I'll go back to my town...(ON005:1)"
  }
 ]

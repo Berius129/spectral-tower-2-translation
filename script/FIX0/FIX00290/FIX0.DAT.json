@@ -7,7 +7,7 @@
  {
   "line": 11,
   "jp": "ALL,ようこそいらっしゃいました(B)みなさんに異国情緒を楽しんで￥ｎもらいたくて(B)自分の家をリハウスしたんです(B)通行料はメダル１０００枚です￥ｎスカラベ１０個でもいいですよ(B)………￥ｎないんですか？(B)ならいいです(E)",
-  "en": ""
+  "en": "ALL,Welcome!(B)I wanted everyone to enjoy￥ｎan exotic atmosphere,(B)so I remodeled my house.(B)The toll is 1000 medals.￥ｎOr 10 Scarabs is fine too.(B).........￥ｎYou don't have them?(B)Then never mind.(E)"
  },
  {
   "line": 13,
@@ -17,7 +17,7 @@
  {
   "line": 15,
   "jp": "ALL,あの人ったら私の意見もきかずに￥ｎ勝手に家を改装してしまって(B)おかげで私たちはこうして￥ｎ肩身のせまい思いをしています(E)",
-  "en": ""
+  "en": "ALL,That man remodeled the house￥ｎwithout asking me,(B)and now we're stuck feeling￥ｎsmall like this.(E)"
  },
  {
   "line": 17,
@@ -27,7 +27,7 @@
  {
   "line": 19,
   "jp": "ALL,ママぁ￥ｎこの人がヒトサライって人なの？(E)",
-  "en": ""
+  "en": "ALL,Mommy,￥ｎis this a kidnapper?(E)"
  },
  {
   "line": 21,
@@ -37,7 +37,7 @@
  {
   "line": 23,
   "jp": "ALL,な　何だよ！￥ｎ文句あんのかよ！(E)",
-  "en": ""
+  "en": "ALL,Wh-what!￥ｎGot a problem!?(E)"
  },
  {
   "line": 25,
@@ -47,7 +47,7 @@
  {
   "line": 27,
   "jp": "ALL,距離５０　角度４５(B)目標　おまえ(E)",
-  "en": ""
+  "en": "ALL,Distance 50, angle 45.(B)Target: you.(E)"
  },
  {
   "line": 29,
@@ -57,7 +57,7 @@
  {
   "line": 31,
   "jp": "ALL,侵入者発見！　侵入者発見！￥ｎ標準あわせよし！(B)おまえ　死亡(E)",
-  "en": ""
+  "en": "ALL,Intruder found! Intruder found!￥ｎAim locked!(B)You: dead.(E)"
  },
  {
   "line": 33,
@@ -67,7 +67,7 @@
  {
   "line": 35,
   "jp": "ALL,何かくれるのか？(B)何かくれるのか？￥ｎ何かくれるのか？(B)なあ(B)何かくれるのか？￥ｎ何かくれるのか？(E)　",
-  "en": ""
+  "en": "ALL,Gonna give me something?(B)Gonna give me something?￥ｎGonna give me something?(B)Hey.(B)Gonna give me something?￥ｎGonna give me something?(E)　"
  },
  {
   "line": 37,
@@ -77,6 +77,6 @@
  {
   "line": 39,
   "jp": "ALL,この塔には驚かされることばかりだ(B)ぜひとも最上階をこの目にして￥ｎ母上へのみやげ話にしたいものだ(E)",
-  "en": ""
+  "en": "ALL,This tower is full of surprises.(B)I must see the top floor and￥ｎtell Mother all about it.(E)"
  }
 ]

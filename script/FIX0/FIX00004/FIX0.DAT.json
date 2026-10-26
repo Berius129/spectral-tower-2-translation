@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,ステータスに関することなら￥ｎわしにまかせろじゃ！(B)知りたいことがあるのじゃな？(N2)はい=CP1,いいえ=CP2(CP2)物知りじゃのぉ￥ｎじゃが　知ったかぶりはいかんぞ(E)(CP1)なんじゃ？(N7)攻撃対～について=CP3,装備能力について=CP4,魔法能力について=CP5,食回復力について=CP6,注意能力について=CP7,病気と呪いについて=CP8,やっぱり　やめる=CP9(CP3)昔から　敵モンスターはいろいろな￥ｎ種族に分類されておるのじゃ(B)おぬしの　その種族に対しての￥ｎ強さをあらわしたものじゃ(E)(CP4)冒険の途中　武器やヨロイを￥ｎいっぱい　見つけるじゃろう？(B)じゃが　それを使いこなせなければ￥ｎ強くはなれんのじゃ(B)武器を使いこなす能力(B)装備能力とはそんなもんじゃな…(E)(CP5)相手に魔法攻撃をしたときに￥ｎ多くのダメージを与えるのじゃ(E)(CP6)体力が少なくなった！(B)こんなときは　そなたの￥ｎアイテムを食べるのじゃ(B)お腹をこわしそうな食べ物も￥ｎ食回復力があれば平気じゃ(B)食べ物以外のものでも￥ｎ食べることはできるのじゃが…(B)後は知らんぞ…(E)(CP7)宝箱を開けたいが　失敗が多い…￥ｎこんなときは注意能力に注意じゃ(B)この能力値が低いと　宝箱を開ける￥ｎときの　ちから加減が下手になる(B)まあ　失敗は成功のもとじゃがな(E)(CP8)病気になると　体力の最大値が￥ｎ上がりにくくなるのじゃ！(B)呪われていると…￥ｎワナが見えなくなるのじゃ！(B)病気も呪いもアイテムで回復するが(B)一度は体験してみるのもよいぞよ…(E)(CP9)まあ　知りたいと思ったら￥ｎいつでも　くるがええ！(E)",
-  "en": ""
+  "en": "ALL,For anything about status,￥ｎleave it to me!(B)Something you want to know?(N2)Yes=CP1,No=CP2(CP2)Know-it-all, eh?￥ｎDon't pretend to know, now.(E)(CP1)What is it?(N7)About Atk vs.=CP3,About Equip=CP4,About Magic=CP5,About Food Rec=CP6,About Caution=CP7,Sickness/curses=CP8,Never mind=CP9(CP3)Monsters have long been sorted￥ｎinto various types.(B)It shows how strong you are￥ｎagainst each type.(E)(CP4)On your journey, you'll find￥ｎlots of weapons and armor, no?(B)But if you can't handle them,￥ｎyou won't get stronger.(B)The ability to handle weapons...(B)that's what Equip power is.(E)(CP5)It makes your magic attacks￥ｎdo more damage.(E)(CP6)Your HP is running low!(B)At times like this,￥ｎeat one of your items.(B)With Food Rec, even food that￥ｎcould upset you is fine.(B)You can even eat things￥ｎthat aren't food...(B)but no promises after that...(E)(CP7)Want to open chests but￥ｎkeep failing? Mind your Caution.(B)If it's low, you'll be clumsy￥ｎwith your strength on chests.(B)Well, failure is the mother￥ｎof success.(E)(CP8)When you're sick, your max HP￥ｎis hard to raise!(B)When you're cursed...￥ｎyou can't see traps!(B)Items cure sickness and curses,(B)but try them once anyway...(E)(CP9)Well, if you want to know,￥ｎcome anytime!(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,おやおや…(B)こんなところに　人が来るとは￥ｎめずらしいのお…(B)わしは物知りじいさんじゃ…(B)インフォメーションじいさん￥ｎと呼ぶ人たちもいるがのぉ…(B)何が知りたいんじゃ？(N2)これから先…=CP1,このフロア…=CP2(CP1)上の階から水が落ちてきておる(B)なぜならジャングルが広がって￥ｎおるからな…(B)上にワープさせてほしいか？(N2)はい=CP3,いいえ=CP4(CP3)ほいさっ！(F003)(CP4)まあ　ゆっくりしていきなされ…(E)(CP2)おお　いい忘れておった(B)ここには　ベラカスで戻って￥ｎくることができるぞよ(B)便利な世の中じゃのう…(E)",
-  "en": ""
+  "en": "ALL,My, my...(B)A person coming here￥ｎis rare indeed...(B)I'm the know-it-all old man...(B)Some call me the￥ｎInformation Gramps...(B)What would you like to know?(N2)What's ahead...=CP1,This floor...=CP2(CP1)Water is falling from above,(B)because the jungle is spreading￥ｎup there...(B)Want me to warp you up?(N2)Yes=CP3,No=CP4(CP3)Hup!(F003)(CP4)Well, take your time...(E)(CP2)Oh, I forgot to mention.(B)You can come back here￥ｎwith a Belacus.(B)What a convenient world...(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,わしのじいさんの話じゃ…(B)大昔　タワーに大きな生き物が￥ｎぶつかったという…(B)羽根もないのに空から降ってきて￥ｎ頭からつきささったと…(B)じいさん￥ｎかなり　ぶったまげたとな…(B)わしも　ここに来てぶったまげた！(B)なんと￥ｎ石になっとったんじゃ！(E)",
-  "en": ""
+  "en": "ALL,This is my grandpa's story...(B)Long ago, a huge creature￥ｎcrashed into the tower...(B)It had no wings, but fell from￥ｎthe sky and stuck in headfirst.(B)Grandpa was￥ｎquite flabbergasted...(B)I was flabbergasted coming here!(B)Why, it had￥ｎturned to stone!(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,さあ　となりの部屋へ￥ｎ行くがよい(B)おぬしの知りたかった事が￥ｎわかるはずじゃ(E)",
-  "en": ""
+  "en": "ALL,Now, go to the￥ｎnext room.(B)You'll learn what you￥ｎwanted to know.(E)"
  },
  {
   "line": 20,
@@ -47,7 +47,7 @@
  {
   "line": 22,
   "jp": "ALL,わたしは　バトルマスター￥ｎいろいろ知ってるが…(B)戦闘での質問はないかな？(N4)コマンドについて=CP1,ルーツ技について=CP2,前列と後列について=CP3,ないです=CP4(CP4)むむっ！￥ｎ何も聞かなくてよいとな？(B)まぁ　聞きたくなったら￥ｎまた来るがよい…(E)(CP3)前列と後列か…￥ｎ単純に近いか遠いかの２択だな…(B)敵から近ければ￥ｎ攻撃が当たりやすくなり…(B)遠ければ￥ｎ攻撃も外れやすくなる(B)ただし　直接攻撃する場合￥ｎだけの法則だがな(B)考え方として　戦士タイプならば￥ｎ接近戦が主となるが(B)魔道士ならば遠距離からの￥ｎ魔法攻撃が主になる(B)まぁ　こんなところだ！(E)(CP2)ルーツ技（必殺技）は￥ｎ選んだルーツで変わるだろう？(B)ルーツが扱える必殺技の種類は￥ｎ知っているかな？(N2)知っている=CP5,知らない=CP6(CP6)そうか…ルーツを￥ｎ入力したことがあるかな？(N2)…あるけど=CP7,…ないけど=CP8(CP8)運命の町でイプシロン様に￥ｎ会ってみるといいだろう(B)そこで数字を入力すると￥ｎ新しいルーツを発見できるぞ(B)ルーツの確認のときに￥ｎ真ん中の「○」や「－」がカギだ(B)「○」が使えることがら…￥ｎ「－」は使えないことがらだ(B)まずは　生年月日などを￥ｎ入力してみるのがよいだろう(E)(CP7)ルーツ確認のときに￥ｎ「○」や「－」をよく見ておくのだ(B)属性「○」の技は扱えるが￥ｎ属性「－」の技は扱えない…(B)つまり　多くの技を修得していても￥ｎ属性を扱えなければダメなのだ(B)属性と技の関係について￥ｎ知りたいならば…(B)イプシロン様のお世話をしてる￥ｎわたしの娘に聞くといよい(E)(CP5)それでは　少々むずかしいが￥ｎ内容のほうを話そうか(B)ルーツ技は体力とメダルを￥ｎ使って発動するのだ(B)技によってちがうが￥ｎ強い技ほど　使う量が多くなるぞ(B)技によって　いろいろな効果が￥ｎあるから試してみるといい(B)多くの技を修得し￥ｎその技を扱えるルーツを選ぶ…(B)これが￥ｎ最強への一番の近道だろう(B)知っているとは思うが￥ｎ技は魔物を倒すと修得するぞ(E)(CP1)戦闘でのコマンドか…￥ｎまずはアイコンを知ることだ(B)アイコンは△ボタンで切り替えて￥ｎ方向キーで選択　○ボタンで決定(B)そして　相手をカーソルで￥ｎ選んだら○ボタンだ！(B)扱えないアイコンは暗くなり￥ｎ扱えるアイコンは明るくなる(B)あとは　まぁ￥ｎ慣れと経験…だな(E)",
-  "en": ""
+  "en": "ALL,I am the Battle Master.￥ｎI know many things...(B)Any questions about battle?(N4)About commands=CP1,About Root skills=CP2,Front and back row=CP3,None=CP4(CP4)Hmm!￥ｎYou don't need to ask anything?(B)Well, if you want to ask,￥ｎcome again...(E)(CP3)Front and back row...￥ｎsimply close or far...(B)If you're close to the foe,￥ｎattacks hit more easily...(B)If you're far,￥ｎattacks miss more easily.(B)But that only applies to￥ｎdirect attacks.(B)Warrior types mainly fight￥ｎup close,(B)while mages mainly use￥ｎmagic from a distance.(B)That's about it!(E)(CP2)Root skills (special moves)￥ｎchange with your Root, right?(B)Do you know which kinds of￥ｎskills a Root can use?(N2)I know=CP5,I don't=CP6(CP6)I see... have you ever￥ｎentered a Root?(N2)...I have=CP7,...I haven't=CP8(CP8)Go see Epsilon￥ｎin Destiny Town.(B)Enter numbers there to￥ｎdiscover new Roots.(B)When checking a Root, the￥ｎ\"○\" and \"－\" are key.(B)\"○\" means usable...￥ｎ\"－\" means not usable.(B)Start by entering things￥ｎlike your birthday.(E)(CP7)When checking Roots, look￥ｎclosely at the \"○\" and \"－\".(B)Types with \"○\" can be used,￥ｎtypes with \"－\" cannot...(B)So even if you've learned many￥ｎskills, the type must be usable.(B)If you want to know about￥ｎtypes and skills...(B)ask my daughter, who looks￥ｎafter Epsilon.(E)(CP5)Then, it's a bit tricky, but￥ｎlet me explain the details.(B)Root skills use HP and medals￥ｎto activate.(B)It varies by skill, but stronger￥ｎskills cost more.(B)Skills have many effects,￥ｎso try them out.(B)Learn many skills, and pick a￥ｎRoot that can use them...(B)That is the shortest path￥ｎto being the strongest.(B)As you probably know, you learn￥ｎskills by defeating monsters.(E)(CP1)Battle commands...￥ｎfirst, know the icons.(B)Switch icons with △, pick with￥ｎthe D-pad, confirm with ○.(B)Then pick the target with￥ｎthe cursor and press ○!(B)Unusable icons are dark,￥ｎusable ones are bright.(B)After that, well...￥ｎpractice and experience.(E)"
  },
  {
   "line": 23,
@@ -57,6 +57,6 @@
  {
   "line": 25,
   "jp": "ALL,ボクはバトルマスターの￥ｎ弟子なんだけど…(B)教えてもらったことは￥ｎルーツ技の効果範囲だけなんだ…(B)聞きたいかい？(N2)聞きたい=CP1,聞きたくない=CP2(CP2)そうか…ならいいよ(E)(CP1)よ～し！￥ｎじゃあ　説明するよ(B)技を選ぶとき　横に表示される￥ｎ７種類の文字に注意するんだ(B)「近」ならば　接近した敵にしか￥ｎ攻撃できない　主に剣や拳なんだ(B)「遠」ならば　どの場所の敵にも￥ｎ攻撃できる　主に魔法だよ(B)「複」ならば　前列の敵に対して￥ｎ攻撃することができるんだ…(B)「全」ならば　敵全体に対して￥ｎ攻撃することができるんだ(B)次に　「治」だけど…￥ｎ体力や体調を回復することができる(B)そして　「補」だけど…￥ｎこれは戦闘を有利に進めるんだ(B)使いどころが難しいけど￥ｎ慣れると便利な技ばかりだよ(B)使う技によって効果はいろいろ！￥ｎ結局は経験が一番みたいだけどね(B)最後に　「？」は￥ｎなにが起こるかわからないんだ(E)",
-  "en": ""
+  "en": "ALL,I'm the Battle Master's￥ｎapprentice, but...(B)all he taught me was the￥ｎrange of Root skills...(B)Want to hear?(N2)Yes=CP1,No=CP2(CP2)Okay... fine then.(E)(CP1)Alright!￥ｎLet me explain.(B)When picking a skill, note the￥ｎ7 kinds of marks beside it.(B)\"Nr\" (near) only hits close￥ｎfoes. Mostly swords and fists.(B)\"Fr\" (far) hits foes anywhere.￥ｎMostly magic.(B)\"Mu\" (multi) hits the￥ｎfoes in the front row...(B)\"Al\" (all) hits￥ｎevery foe.(B)Next, \"Hl\" (heal)...￥ｎrestores HP or condition.(B)And \"Sp\" (support)...￥ｎgives you the edge in battle.(B)They're tricky to use, but￥ｎhandy once you're used to them.(B)Every skill's effect differs!￥ｎIn the end, experience is best.(B)Lastly, \"?\" means anything￥ｎcould happen.(E)"
  }
 ]

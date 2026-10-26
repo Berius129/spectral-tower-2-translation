@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,どいつもこいつも汚いかっこう￥ｎしやがって(B)わしはすてきな魔道士や！(B)おまえみたいなホコリまみれの￥ｎやつはここを通させへんで！(B)せいぜい￥ｎおしゃれでもしてこいや！(B)なんや　文句あるんか？(N2)はい=CP1,いいえ=CP2(CP2)おとなしく帰れ！(E)(CP1)ナマイキなやつめ！￥ｎいっちょもんだろか！(B001)",
-  "en": ""
+  "en": "ALL,Everyone's dressed so shabby!(B)I'm a fabulous mage!(B)No dusty folk like you￥ｎget past me!(B)Go and at least￥ｎdress up a little!(B)What, got a problem?(N2)Yes=CP1,No=CP2(CP2)Just go home quietly!(E)(CP1)Cheeky brat!￥ｎLet me teach you a lesson!(B001)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,あのおじさん通してくれないんだ(B)きっと悪いこと考えてるんだよ￥ｎボク知ってるんだ(E)",
-  "en": ""
+  "en": "ALL,That man won't let us through.(B)He must be up to something bad.￥ｎI just know it.(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,わたしは旅商人です(B)塔の珍しいアイテムを￥ｎさがしてるんですが…(E)",
-  "en": ""
+  "en": "ALL,I'm a traveling merchant.(B)I'm looking for the tower's￥ｎrare items...(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,まいったなあ…(B)やつの勝手なわがままでここを￥ｎ通れないなんて(B)たしか　こうでねえかっていう￥ｎルーツがあったな(B)運命の町で番号を￥ｎ入力するんだっけ…(E)",
-  "en": ""
+  "en": "ALL,What a pain...(B)Can't get through because￥ｎof his selfish whims.(B)I think there was a Root￥ｎthat might work...(B)You enter a number in￥ｎDestiny Town, right...(E)"
  },
  {
   "line": 20,
@@ -47,7 +47,7 @@
  {
   "line": 22,
   "jp": "ALL,ちぇっ！￥ｎせっかくここまで来たのに(B)この先の魔道士が￥ｎ通してくれないんだ(B)あきらめて帰るよ…(E)",
-  "en": ""
+  "en": "ALL,Tch!￥ｎAfter coming all this way...(B)The mage up ahead won't￥ｎlet me through.(B)I give up and go home...(E)"
  },
  {
   "line": 23,
@@ -57,7 +57,7 @@
  {
   "line": 25,
   "jp": "ALL,スカラベを手に入れた時は(B)つねに　運命の町に戻って￥ｎセーブするようにするんだ(B)何かあってからでは手遅れだからな(B)ただ使うだけでいいから楽ちん！(B)さらに使用後のスカラベは(B)元の場所に戻ることのできる￥ｎベラカスに変化するから一石二鳥！(B)…と大変お得になってます￥ｎあれ？(E)",
-  "en": ""
+  "en": "ALL,When you get a Scarab,(B)always go back to Destiny Town￥ｎand save.(B)Later could be too late.(B)Just use it. So easy!(B)And after use, the Scarab(B)turns into a Belacus that takes￥ｎyou back! Two birds, one stone!(B)...What a great deal it is.￥ｎHuh?(E)"
  },
  {
   "line": 26,
@@ -67,7 +67,7 @@
  {
   "line": 28,
   "jp": "ALL,もうちょっとだったんだが…￥ｎ無念である…(B)ああ…ロザンナ…(B)確か君のスリーサイズは￥ｎ８３　６０　８８．１だったよね…(E)",
-  "en": ""
+  "en": "ALL,I was so close...￥ｎSuch regret...(B)Ah... Rosanna...(B)Your measurements were￥ｎ83, 60, 88.1, right...(E)"
  },
  {
   "line": 29,
@@ -77,22 +77,22 @@
  {
   "line": 31,
   "jp": "40:0,昔のスカラベがズボンのポッケに￥ｎ入っていましたよ(B)ひとつ持っているので￥ｎあなたに差し上げましょうか？(N2)はい=CP1,いいえ=CP2(CP2)そうですか…(E)(CP1)これがないと￥ｎ町へ戻れないですからね(B)はい　どうぞ(F007)",
-  "en": ""
+  "en": "40:0,I found an old Scarab in￥ｎmy pants pocket.(B)I have one, so shall I￥ｎgive it to you?(N2)Yes=CP1,No=CP2(CP2)I see...(E)(CP1)Without this,￥ｎyou can't get back to town.(B)Here you go.(F007)"
  },
  {
   "line": 32,
   "jp": "40:1,さあ　早く町に戻ろうっと！(E)",
-  "en": ""
+  "en": "40:1,Now, back to town quickly!(E)"
  },
  {
   "line": 33,
   "jp": "40:2,昔のスカラベがズボンのポッケに￥ｎ入っていましたよ(B)ひとつ持っているので￥ｎあなたに差し上げましょうか？(B)と思いましたが￥ｎあなた　荷物が一杯のようですね(E)",
-  "en": ""
+  "en": "40:2,I found an old Scarab in￥ｎmy pants pocket.(B)I have one, so shall I￥ｎgive it to you?(B)I was going to, but your￥ｎbag looks full.(E)"
  },
  {
   "line": 34,
   "jp": "40:3,昔のスカラベがズボンのポッケに￥ｎ入っていましたよ(B)ひとつ持っているので￥ｎあなたに差し上げましょうか？(B)と思いましたが￥ｎあなた　ベラカスを持っていますね(B)もし　よろしければ￥ｎこのスカラベと交換しますか？(N2)はい=CP1,いいえ=CP2(CP2)そうですか…(E)(CP1)これがないと町へ￥ｎ戻れないですからね(B)はい　どうぞ(F008)",
-  "en": ""
+  "en": "40:3,I found an old Scarab in￥ｎmy pants pocket.(B)I have one, so shall I￥ｎgive it to you?(B)I was going to, but you￥ｎhave a Belacus.(B)If you like, shall I trade￥ｎit for this Scarab?(N2)Yes=CP1,No=CP2(CP2)I see...(E)(CP1)Without this, you can't￥ｎget back to town.(B)Here you go.(F008)"
  },
  {
   "line": 35,
@@ -102,6 +102,6 @@
  {
   "line": 37,
   "jp": "ALL,おじさん血のにおいがするね(B)塔にすむ生き物を殺したでしょ(B)どうしてかな￥ｎ彼らはおびえているだけなのに(B)おびえておそいかかってくる￥ｎだけなのに…(E)",
-  "en": ""
+  "en": "ALL,Mister, you smell of blood.(B)You killed creatures living￥ｎin the tower, didn't you.(B)Why? They're only￥ｎscared...(B)They only attack because￥ｎthey're scared...(E)"
  }
 ]

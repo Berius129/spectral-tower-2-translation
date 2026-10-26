@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,どうしたんだろう(B)たしかにこの階で￥ｎ待ち合わせたんだが…(E)",
-  "en": ""
+  "en": "ALL,What happened?(B)We were supposed to meet￥ｎon this floor...(E)"
  },
  {
   "line": 11,
@@ -17,6 +17,6 @@
  {
   "line": 13,
   "jp": "ALL,とうちゃん　やっぱり￥ｎふられちゃったのかな(B)新しいお母さんに会えると￥ｎ思ったのに(E)",
-  "en": ""
+  "en": "ALL,Dad, maybe she￥ｎdumped you after all.(B)I thought I'd get to meet￥ｎmy new mom...(E)"
  }
 ]

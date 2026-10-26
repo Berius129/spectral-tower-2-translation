@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはギャンブルの町です(B)たまに外を見ると￥ｎ地上がなつかしく思いますよ(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Gambling Town.(B)Looking outside sometimes,￥ｎI miss the ground below.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,私もこの人と一緒に￥ｎこの町でホネをうずめます…(E)",
-  "en": ""
+  "en": "ALL,I'll stay in this town with￥ｎhim until the end...(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,じいさんは考えたよ￥ｎ孫のためにギャンブルやめようと(B)なのにやめることができんのじゃ￥ｎじいさんのばかぁ！(E)",
-  "en": ""
+  "en": "ALL,Gramps thought about quitting￥ｎgambling for his grandchild.(B)But he just can't quit.￥ｎStupid gramps!(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,上の方から￥ｎ魔物の声が聞こえてくるんだ(B)恐ろしくって登れないよ(E)",
-  "en": ""
+  "en": "ALL,I hear monster voices￥ｎfrom up above.(B)I'm too scared to climb.(E)"
  },
  {
   "line": 21,
@@ -52,7 +52,7 @@
  {
   "line": 23,
   "jp": "ALL,おじいちゃん￥ｎギャンブルはやめてよ(B)じゃないと　ボク￥ｎぐれてやるぅ～(E)",
-  "en": ""
+  "en": "ALL,Grandpa,￥ｎplease quit gambling.(B)Or else I'll￥ｎturn delinquent~(E)"
  },
  {
   "line": 24,
@@ -62,12 +62,12 @@
  {
   "line": 26,
   "jp": "21:1,ボクあての手紙が￥ｎこないかなあ(E)",
-  "en": ""
+  "en": "21:1,I wish a letter would￥ｎcome for me.(E)"
  },
  {
   "line": 27,
   "jp": "DEF,手紙がまちがってきたんだ(B)読んでほしい？(N2)読んでほしい！=CP1,読まなくていいよ=CP2(CP2)それならいいよ(E)(CP1)じゃあ読むよ(B)「早く帰ってきてよーっ！￥ｎキミのアイテムがないと…(B)ボクはダメなんだよーっ￥ｎああ～ん！(B)￥ｎ　　　　　　　ノゥーヴィター」(ON021:1)",
-  "en": ""
+  "en": "DEF,A letter came here by mistake.(B)Want me to read it?(N2)Read it!=CP1,No need=CP2(CP2)Fine then.(E)(CP1)Okay, I'll read it.(B)\"Come back soon!￥ｎWithout your items...(B)I'm useless!￥ｎWaaah!(B)￥ｎ                  Nouvita\"(ON021:1)"
  },
  {
   "line": 28,
@@ -77,7 +77,7 @@
  {
   "line": 30,
   "jp": "ALL,俺はここで一生くらすぜ￥ｎそう決めたんだ(E)",
-  "en": ""
+  "en": "ALL,I'm living here the rest of my￥ｎlife. I've decided.(E)"
  },
  {
   "line": 31,
@@ -87,6 +87,6 @@
  {
   "line": 33,
   "jp": "ALL,魔物さえ出てこなきゃ￥ｎギャンブルに集中できるのに…(E)",
-  "en": ""
+  "en": "ALL,If only monsters didn't come,￥ｎI could focus on gambling...(E)"
  }
 ]

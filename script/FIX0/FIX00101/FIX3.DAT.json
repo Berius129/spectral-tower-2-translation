@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはやすらぎの町です(B)最近　塔の外を見ると￥ｎ空がよどんでいることが多いです…(B)何かやな感じがしますよ(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Tranquil Town.(B)Lately, the sky outside￥ｎthe tower often looks murky...(B)I have a bad feeling.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,どうも最近この塔で￥ｎ何かがおきてる…(B)商人仲間の間では￥ｎそういうウワサだぜ(E)",
-  "en": ""
+  "en": "ALL,Something seems to be￥ｎhappening in this tower...(B)That's the rumor among￥ｎus merchants.(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,となりのおじいちゃん￥ｎすごく元気だったのに…(B)最近　調子が悪いみたい(E)",
-  "en": ""
+  "en": "ALL,The old man next door was￥ｎso full of energy, but...(B)he seems unwell lately.(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,ユウサンのパンを食べたら￥ｎ具合が悪くなった人がいるの(B)買うのをやめようかしら(E)",
-  "en": ""
+  "en": "ALL,Some people got sick after￥ｎeating Yusan's bread.(B)Maybe I'll stop buying it.(E)"
  },
  {
   "line": 21,
@@ -52,7 +52,7 @@
  {
   "line": 23,
   "jp": "ALL,となりのじいさんがいないと￥ｎはりあいがないのお…(B)べ　別に心配してるわけではないぞ(E)",
-  "en": ""
+  "en": "ALL,Without the old man next door,￥ｎthere's no fun in it...(B)N-not that I'm worried.(E)"
  },
  {
   "line": 24,
@@ -62,7 +62,7 @@
  {
   "line": 26,
   "jp": "ALL,今でもブリモリンが出るんだ￥ｎどうなっているんだろう(E)",
-  "en": ""
+  "en": "ALL,Brimorin still shows up.￥ｎWhat's going on?(E)"
  },
  {
   "line": 27,
@@ -72,17 +72,17 @@
  {
   "line": 29,
   "jp": "2:1,えっ　運命の町にいる￥ｎおじいちゃんに会ったの？(B)今度またおじいちゃんに会ったら￥ｎ元気だよって言っといてね(ON002:2)",
-  "en": ""
+  "en": "2:1,What, you met my grandpa￥ｎin Destiny Town?(B)If you see Grandpa again,￥ｎtell him I'm doing well.(ON002:2)"
  },
  {
   "line": 30,
   "jp": "2:2,運命の町にいる　おじいちゃんに￥ｎ手紙をかこっと！(E)",
-  "en": ""
+  "en": "2:2,I'll write a letter to my￥ｎgrandpa in Destiny Town!(E)"
  },
  {
   "line": 31,
   "jp": "DEF,あーあ　運命の町のおじいちゃん￥ｎ元気かなぁ(E)",
-  "en": ""
+  "en": "DEF,Ahh, I wonder if Grandpa in￥ｎDestiny Town is doing well.(E)"
  },
  {
   "line": 32,
@@ -92,6 +92,6 @@
  {
   "line": 34,
   "jp": "ALL,ボク　パン屋のユウサン￥ｎ最近ひょうばん落ちてる(B)さらに斬新なパンを￥ｎ作ってみた…(B)試食するかい？￥ｎウヒョーッ　ヒョッ　ヒョッ！(N2)うんうん！=CP1,するものか！=CP2(CP2)そうかい　残念だなぁ￥ｎウヒヒッ…(E)(CP1)(2)は￥ｎためしにパンを食べてみた！(B)むしゃ　むしゃ…(B)………(B)イ　イケるよ　ユウサン！(F004)",
-  "en": ""
+  "en": "ALL,I'm Yusan the baker.￥ｎMy reputation's dropping lately.(B)So I made an even more￥ｎinnovative bread...(B)Want a sample?￥ｎHeehee, hee, hee!(N2)Yes, yes!=CP1,No way!=CP2(CP2)Is that so? Too bad.￥ｎHeh heh...(E)(CP1)(2) tried the￥ｎbread for a test!(B)Munch, munch...(B).........(B)N-not bad, Yusan!(F004)"
  }
 ]

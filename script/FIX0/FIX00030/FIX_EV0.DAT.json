@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,どいつもこいつも小奇麗なかっこう￥ｎしやがって(B)わしはすてきな魔道士や！(B)おまえみたいなおしゃれなやつは￥ｎここを通させへんで！(B)たまには男らしく￥ｎちょんまげでもしてこいや！(B)なんや　文句あるんか？(N2)はい=CP1,いいえ=CP2(CP2)だまって帰れ！(E)(CP1)しつこいやつめ！￥ｎこれでどうだ！(B001)",
-  "en": ""
+  "en": "ALL,Everyone's dressed so prim￥ｎand proper!(B)I'm a fabulous mage!(B)No dandies like you￥ｎget past me!(B)Be manly for once and￥ｎget a topknot!(B)What, got a problem?(N2)Yes=CP1,No=CP2(CP2)Shut up and go home!(E)(CP1)You don't give up!￥ｎHow about this!(B001)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,あのおじさんどこかで見たような…(B)また悪いこと考えてるんだよ￥ｎボク知ってるんだ(E)",
-  "en": ""
+  "en": "ALL,I feel like I've seen him...(B)He's up to no good again.￥ｎI just know it.(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,わたしは旅商人です(B)塔の珍しいアイテムを￥ｎさがしていたんですが…(E)",
-  "en": ""
+  "en": "ALL,I'm a traveling merchant.(B)I was looking for the tower's￥ｎrare items...(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,なんなんだよ…(B)やつの勝手なわがままで￥ｎここを通れないなんて！(B)たしか　と…なんとかっていう￥ｎルーツがあったな(E)",
-  "en": ""
+  "en": "ALL,What the heck...(B)Can't get through because￥ｎof his selfish whims!(B)I think there was a Root called￥ｎTo... something...(E)"
  },
  {
   "line": 20,
@@ -47,7 +47,7 @@
  {
   "line": 22,
   "jp": "ALL,けっ！(B)やっとここまで来たのに…(B)あの魔道士が通してくれないんだ￥ｎあきらめきれないなあ…(E)",
-  "en": ""
+  "en": "ALL,Tch!(B)I finally got this far...(B)That mage won't let me through.￥ｎI can't give up on it...(E)"
  },
  {
   "line": 23,
@@ -57,7 +57,7 @@
  {
   "line": 25,
   "jp": "ALL,もうちょっとだったんだが…￥ｎ無念である…(B)ああ…ロザンナ…￥ｎ君の声が聞きたかった……！(B)いとしの電話番号は…￥ｎ８２８２の０８１……それから(B)ああ！！　忘れてしまった！！(E)",
-  "en": ""
+  "en": "ALL,I was so close...￥ｎSuch regret...(B)Ah... Rosanna...￥ｎI wanted to hear your voice...!(B)Your dear phone number...￥ｎ8282-081... and then...(B)Ah!! I forgot it!!(E)"
  },
  {
   "line": 26,
@@ -67,21 +67,21 @@
  {
   "line": 28,
   "jp": "40:0,おやおや　今度はこっちのポッケに￥ｎスカラベが入っていましたよ(B)ひとつ持っているので￥ｎあなたに差し上げましょうか？(N2)はい=CP1,いいえ=CP2(CP2)そうですか…(E)(CP1)これがないと￥ｎ町へ戻れないですからね(B)はい　どうぞ(F007)",
-  "en": ""
+  "en": "40:0,Oh my, this time there was a￥ｎScarab in this pocket.(B)I have one, so shall I￥ｎgive it to you?(N2)Yes=CP1,No=CP2(CP2)I see...(E)(CP1)Without this,￥ｎyou can't get back to town.(B)Here you go.(F007)"
  },
  {
   "line": 29,
   "jp": "40:1,さあ　早く町に戻ろうっと！(E)",
-  "en": ""
+  "en": "40:1,Now, back to town quickly!(E)"
  },
  {
   "line": 30,
   "jp": "40:2,今度はこっちのポッケに￥ｎスカラベが入っていましたよ(B)ひとつ持っているので￥ｎあなたに差し上げましょうか？(B)と思いましたが￥ｎあなた　荷物が一杯のようですね(E)",
-  "en": ""
+  "en": "40:2,This time there was a￥ｎScarab in this pocket.(B)I have one, so shall I￥ｎgive it to you?(B)I was going to, but your￥ｎbag looks full.(E)"
  },
  {
   "line": 31,
   "jp": "40:3,今度はこっちのポッケに￥ｎスカラベが入っていましたよ(B)ひとつ持っているので￥ｎあなたに差し上げましょうか？(B)と思いましたが￥ｎあなた　ベラカスを持っていますね(B)もし　よろしければ￥ｎこのスカラベと交換しますか？(N2)はい=CP1,いいえ=CP2(CP2)そうですか…(E)(CP1)これがないと町へ￥ｎ戻れないですからね(B)はい　どうぞ(F008)(E)",
-  "en": ""
+  "en": "40:3,This time there was a￥ｎScarab in this pocket.(B)I have one, so shall I￥ｎgive it to you?(B)I was going to, but you￥ｎhave a Belacus.(B)If you like, shall I trade￥ｎit for this Scarab?(N2)Yes=CP1,No=CP2(CP2)I see...(E)(CP1)Without this, you can't￥ｎget back to town.(B)Here you go.(F008)(E)"
  }
 ]

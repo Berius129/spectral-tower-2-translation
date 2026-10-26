@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,うーむ(B)ガラクタの町に行くには￥ｎ必ずここを通らにゃならんが(B)なんだかいやな予感がするのお…(E)",
-  "en": ""
+  "en": "ALL,Hmm...(B)To reach Junk Town, you￥ｎmust pass through here,(B)but I have a bad feeling...(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,そういえばデビロー￥ｎ宿題はもうやったのか？(B)あん？(B)たまに一緒に飯食ってりゃ￥ｎ宿題宿題って(B)そんなことしか言えねえのかよ！(B)何？(B)何て言った？(B)父親に向かって￥ｎ何て物の言い方だ！！(B)もうやめてよ！￥ｎパパもデビローも…！(B)もうママ疲れちゃった…(B)早くどこか別の階に行きたい…(B)上の方の世界は何の苦労も￥ｎいらないんでしょ？(B)すまん￥ｎパパのかせぎがもう少しあれば…(B)だまされてんだよ！￥ｎそんな世界あるわけないだろ！(B)私たち￥ｎいつになったら…(E)",
-  "en": ""
+  "en": "ALL,By the way, Devilo,￥ｎdid you do your homework?(B)Huh?(B)We eat together once in a while￥ｎand all you say is homework.(B)Is that all you ever say!?(B)What?(B)What did you say?(B)Is that any way to talk￥ｎto your father!!(B)Stop it!￥ｎBoth of you...!(B)Mama is so tired...(B)I want to move floors...(B)Up top, life is easy,￥ｎisn't it?(B)Sorry. If only Papa￥ｎearned a bit more...(B)You're being fooled!￥ｎThere's no such world!(B)When will we ever...(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,あなた会社の方はどうですの？(B)うーん…(B)お前に話したところで￥ｎどうなるものでもあるまい…(B)おやじって窓ぎわ族なんだろ(B)やっぱりカエルの子はカエルか(B)デビコ！　言葉がすぎるわよ……！(B)カエルじゃねえよ￥ｎ悪魔だって…(B)まあ　デビローったら…(E)",
-  "en": ""
+  "en": "ALL,Dear, how's work going?(B)Hmm...(B)Telling you about it￥ｎwon't change anything...(B)Dad's stuck by the window, huh.(B)Like father, like frog.(B)Devico! Watch your mouth...!(B)We're not frogs,￥ｎwe're devils...(B)Oh, Devilo...(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,最近人通りが激しくなってない？(B)そう？　気のせいじゃなくて？(B)プライバシーの外人ってやつだよな(B)外人も来るのか？(B)しらー……(B)とにかく…(B)人の家の団らんの邪魔をするとは￥ｎけしからん！(B)どうすんだおやじ￥ｎやるのか？(B)やるか？(B)何をするの？(B)ママ　口だけよ(B)分かってるわ￥ｎ言ってみただけよ(E)",
-  "en": ""
+  "en": "ALL,Isn't there a lot more traffic￥ｎlately?(B)Is there? Maybe you imagined it?(B)It's an invasion of piracy.(B)Pirates are coming too?(B)*silence*......(B)Anyway...(B)Disturbing a family's￥ｎquality time is outrageous!(B)What'll you do, old man?￥ｎGonna fight?(B)Gonna fight?(B)Do what?(B)Mama, he's all talk.(B)I know.￥ｎI was just saying.(E)"
  },
  {
   "line": 20,
@@ -47,7 +47,7 @@
  {
   "line": 22,
   "jp": "ALL,あねきぃ(B)あねき好みの野郎が来たぜ(B)え　あらほんと(B)あの　私なんかでよければ…(B)だまされてるのよ！￥ｎあの目をごらんなさい！！(B)なかなか精かんな好男子じゃないか(B)わしにも女の子紹介してくれんかの(B)だれがわしじゃ！！！(E)",
-  "en": ""
+  "en": "ALL,Sis!(B)Your type of guy is here!(B)Oh, really!(B)Um, if someone like me￥ｎwould do...(B)You're being fooled!￥ｎLook at those eyes!!(B)What a fine, strapping lad.(B)Introduce me to a girl too.(B)Who are you calling \"me\"!!!(E)"
  },
  {
   "line": 23,
@@ -57,6 +57,6 @@
  {
   "line": 25,
   "jp": "ALL,デビル家族の￥ｎ一家だんらんのようだ…(E)",
-  "en": ""
+  "en": "ALL,Looks like the Devil family's￥ｎquality time...(E)"
  }
 ]

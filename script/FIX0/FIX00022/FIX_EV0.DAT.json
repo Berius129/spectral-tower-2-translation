@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,あのやろう！　人を誘っておいて￥ｎどういうつもりなんだよ！(B)女だからって￥ｎなめるんじゃないわよ！(B)ああいう男は一度なぐらないと￥ｎわからないのよね(E)",
-  "en": ""
+  "en": "ALL,That jerk! He invited me￥ｎand then what was that!(B)Don't look down on me￥ｎjust 'cause I'm a woman!(B)Men like that need a good￥ｎpunch to learn.(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,妖精の一人歩きは危険だって￥ｎ知ってんだろ？(B)だからあたいが￥ｎこうして証明してあげるのさ(B)なんだい？(B)あたいの言ってることは￥ｎまちがってるかい？(N2)そんなことないです=CP2,当たり前だろ！=CP1(CP2)聞き分けのいいぼうやだねえ(B)あたいの仲間にならないかい？(N2)なります=CP3,けっこうです=CP4(CP4)そうかい…￥ｎもう二度と顔を見せるんじゃないよ(E)(CP3)そうだねえ…￥ｎやっぱり考えさせておくれ(E)(CP1)そうかいそうかい￥ｎあんたいいこと言うねえ…(B)…なんて言うわけないだろ！(B)おまえたち　やっておしまい！！(B008)",
-  "en": ""
+  "en": "ALL,You know it's dangerous for￥ｎa fairy to walk alone, right?(B)So I'm here to￥ｎprove it.(B)What?(B)Is there something wrong￥ｎwith what I said?(N2)Not at all=CP2,Of course there is!=CP1(CP2)What an obedient boy.(B)Want to join my gang?(N2)I'll join=CP3,No thanks=CP4(CP4)Is that so...￥ｎDon't ever show your face again.(E)(CP3)Hmm...￥ｎlet me think about it after all.(E)(CP1)Well, well,￥ｎyou say nice things...(B)...as if I'd say that!(B)Boys, get 'em!!(B008)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,ぐへへへへへ　観念しな(B)いくら叫んでも助けは来ねえぜ！(E)",
-  "en": ""
+  "en": "ALL,Gwehehehe, give up.(B)Scream away. No one's coming!(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,こりゃあ上等な妖精だ…(B)高く売れそうだぞ！(E)",
-  "en": ""
+  "en": "ALL,This is a top-quality fairy...(B)She'll sell for a lot!(E)"
  },
  {
   "line": 20,
@@ -47,7 +47,7 @@
  {
   "line": 22,
   "jp": "ALL,調味料は塩とマスタードで￥ｎいいかなぁ？(E)",
-  "en": ""
+  "en": "ALL,Salt and mustard for￥ｎseasoning, maybe?(E)"
  },
  {
   "line": 23,
@@ -57,11 +57,11 @@
  {
   "line": 25,
   "jp": "38:0,誰かたすけて～！￥ｎ食べられちゃうよ(E)",
-  "en": ""
+  "en": "38:0,Somebody help!￥ｎThey're going to eat me!(E)"
  },
  {
   "line": 26,
   "jp": "38:1,どうもありがとうございました(B)私は塔に住む妖精です(B)ひとりで遊びに来たら￥ｎあんなことになって…(B)なにもお礼できませんが￥ｎひとつだけ忠告さしあげましょう(B)あなたも塔の力を求めて￥ｎやって来た冒険者ですね(B)この塔は　上へ行けば行くほど￥ｎ人の立ち入ることのできない(B)聖域になっています(B)もし￥ｎその聖域を冒すようなことになれば(B)当然の報いを受けるでしょう(B)塔に住む人々はみなその教えを￥ｎ守っていたのですが(B)最近はなぜか外の世界から￥ｎやって来る人が増え(B)塔の中に混乱を招いています(B)どうか私たちを￥ｎそっとしておいてください(E)",
-  "en": ""
+  "en": "38:1,Thank you so much.(B)I'm a fairy of this tower.(B)I came to play alone,￥ｎand that happened...(B)I can't repay you, but let me￥ｎgive you one warning.(B)You're an adventurer seeking￥ｎthe tower's power, right?(B)The higher you go in this tower,￥ｎthe more it becomes a place(B)none may enter: a sanctuary.(B)If you ever￥ｎviolate that sanctuary,(B)you will surely pay for it.(B)Everyone living in the tower￥ｎkept to that teaching,(B)but lately, for some reason,￥ｎmore outsiders come,(B)bringing chaos to the tower.(B)Please, just￥ｎleave us in peace.(E)"
  }
 ]

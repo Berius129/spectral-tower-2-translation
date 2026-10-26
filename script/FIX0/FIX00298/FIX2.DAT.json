@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはギャンブルの町です(B)魔物が出るようになったせいか￥ｎくる人がへりました(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Gambling Town.(B)Fewer people come since￥ｎthe monsters appeared.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,この人　私を見てくれない…￥ｎでも　いいの…(B)私が勝手に￥ｎ好きになったんだから(E)",
-  "en": ""
+  "en": "ALL,He won't even look at me...￥ｎBut that's okay...(B)I'm the one who fell￥ｎfor him on my own.(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,じいさんはやったぞ！￥ｎギャンブルで勝ったんじゃ(B)なのに孫はよろこばんのじゃ￥ｎじいさん　しょんぼり…(E)",
-  "en": ""
+  "en": "ALL,Gramps did it!￥ｎI won at gambling!(B)But my grandchild isn't happy.￥ｎGramps is sad...(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,商人仲間の話じゃガラクタの町で￥ｎリサイクルしているらしい(B)こりゃ商売あがったりだね(E)",
-  "en": ""
+  "en": "ALL,Merchants say Junk Town￥ｎis doing recycling.(B)That's bad for business.(E)"
  },
  {
   "line": 21,
@@ -52,7 +52,7 @@
  {
   "line": 23,
   "jp": "ALL,おじいちゃんなんて…(B)おじいちゃんなんて…(B)だいっ嫌いだよ～っ！￥ｎ孫もしょんぼり…(E)",
-  "en": ""
+  "en": "ALL,Grandpa is...(B)Grandpa is...(B)the WORST!￥ｎThe grandchild is sad too...(E)"
  },
  {
   "line": 24,
@@ -62,12 +62,12 @@
  {
   "line": 26,
   "jp": "20:1,コケーッ！￥ｎコケコケッ！(B)どう　ニワトリに見えるかな(E)",
-  "en": ""
+  "en": "20:1,Cock-a-doodle!￥ｎCluck cluck!(B)Do I look like a chicken?(E)"
  },
  {
   "line": 27,
   "jp": "DEF,ギャンブラーになりたいなあ(B)でもボク￥ｎ他にもなりたい夢があるんだ(B)聞きたい？(N2)聞きたい！=CP1,別に聞きたくない=CP2(CP2)それならいいよ(E)(CP1)ボクね　将来￥ｎサボテンかニワトリになりたいの(ON020:1)",
-  "en": ""
+  "en": "DEF,I want to be a gambler.(B)But I have other dreams￥ｎtoo.(B)Want to hear?(N2)Tell me!=CP1,Not really=CP2(CP2)Fine then.(E)(CP1)When I grow up, I want to be￥ｎa cactus or a chicken.(ON020:1)"
  },
  {
   "line": 28,
@@ -77,7 +77,7 @@
  {
   "line": 30,
   "jp": "ALL,俺は朝から晩まで￥ｎギャンブルざんまいさ(B)おっと　他の奴に￥ｎとやかく言われたくねえ(E)",
-  "en": ""
+  "en": "ALL,I gamble from morning￥ｎtill night.(B)Hey, I don't want anyone￥ｎnagging me about it.(E)"
  },
  {
   "line": 31,
@@ -87,6 +87,6 @@
  {
   "line": 33,
   "jp": "ALL,この前のかりは￥ｎキッチリ返してやるぜ(E)",
-  "en": ""
+  "en": "ALL,I'll pay you back for￥ｎlast time, for sure.(E)"
  }
 ]

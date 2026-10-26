@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはやすらぎの町です(B)とても塔の中とは￥ｎ思えないでしょ(B)あなたも一緒に￥ｎ住んでみませんか？(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Tranquil Town.(B)Hard to believe it's￥ｎinside a tower, isn't it?(B)Why not come live￥ｎhere with us?(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,この町はとても静かで￥ｎいいところでしょ？(B)ただ最近　魔物があらわれるって￥ｎウワサなの…(E)",
-  "en": ""
+  "en": "ALL,This town is very quiet￥ｎand nice, isn't it?(B)Though lately there are rumors￥ｎof monsters showing up...(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,この町にいるパン屋のユウサンって￥ｎ知っているかしら？(B)おいしいパンを売ってるの￥ｎ私も毎日買いに行くわ！(E)",
-  "en": ""
+  "en": "ALL,Do you know Yusan,￥ｎthe baker in this town?(B)He sells delicious bread.￥ｎI buy some every day!(E)"
  },
  {
   "line": 18,
@@ -42,17 +42,17 @@
  {
   "line": 20,
   "jp": "4:1,もういいわっ！￥ｎおぬしとは何も話したくない(E)",
-  "en": ""
+  "en": "4:1,Enough!￥ｎI don't want to talk to you.(E)"
  },
  {
   "line": 21,
   "jp": "4:2,何か良い話があったら￥ｎ教えてやるわい(E)",
-  "en": ""
+  "en": "4:2,If I hear anything good,￥ｎI'll tell you.(E)"
  },
  {
   "line": 22,
   "jp": "DEF,ワシの家のとなりの爺は￥ｎすごいガンコ者なんじゃ(B)ワシの言うことなんか￥ｎちっとも聞かん…(B)となりの爺はなっとらんと￥ｎおぬしもそう思うじゃろ？(N2)はい=CP1,いいえ=CP2(CP2)おぬし　奴の味方かっ￥ｎもうええっ　何も言わん！(ON004:1)(CP1)そうかそうか￥ｎやっぱりそう思うか(B)さすがワシがみこんだ若者だ！(ON004:2)",
-  "en": ""
+  "en": "DEF,The old man next door￥ｎis so stubborn.(B)He never listens to￥ｎa word I say...(B)He's hopeless, don't you￥ｎthink so too?(N2)Yes=CP1,No=CP2(CP2)You're on his side!?￥ｎFine, I won't say a thing!(ON004:1)(CP1)Yes, yes,￥ｎI knew you'd agree.(B)Just as I thought of you!(ON004:2)"
  },
  {
   "line": 23,
@@ -62,17 +62,17 @@
  {
   "line": 25,
   "jp": "3:1,久しぶりですね　運命の町で￥ｎお会いした商人です(B)あの時はいそがしくて￥ｎゆっくり話せなかったですね(B)塔の中で商売してるんで￥ｎ声をかけてくださいよ(ON003:2)",
-  "en": ""
+  "en": "3:1,Long time! I'm the merchant￥ｎfrom Destiny Town.(B)I was busy then, so we￥ｎcouldn't talk much.(B)I do business in the tower,￥ｎso say hi anytime.(ON003:2)"
  },
  {
   "line": 26,
   "jp": "3:2,塔の中で商売してるんで￥ｎ声をかけてくださいよ(E)",
-  "en": ""
+  "en": "3:2,I do business in the tower,￥ｎso say hi anytime.(E)"
  },
  {
   "line": 27,
   "jp": "DEF,商売がら　運命の町と￥ｎやすらぎの町との往復ですよ(B)まあ　おかげさまで￥ｎもうけさせてもらってます(ON003:2)",
-  "en": ""
+  "en": "DEF,My work has me going between￥ｎDestiny Town and Tranquil Town.(B)Well, thanks to that,￥ｎI make a decent profit.(ON003:2)"
  },
  {
   "line": 28,
@@ -82,7 +82,7 @@
  {
   "line": 30,
   "jp": "ALL,魔物って恐いんでしょ？￥ｎうちのママより恐いのかなぁ(E)",
-  "en": ""
+  "en": "ALL,Monsters are scary, right?￥ｎScarier than my mom?(E)"
  },
  {
   "line": 31,
@@ -92,17 +92,17 @@
  {
   "line": 33,
   "jp": "2:1,えっ　運命の町にいる￥ｎおじいちゃんに会ったの？(B)今度またおじいちゃんに会ったら￥ｎ元気だよって言っといてね(ON002:2)",
-  "en": ""
+  "en": "2:1,What, you met my grandpa￥ｎin Destiny Town?(B)If you see Grandpa again,￥ｎtell him I'm doing well.(ON002:2)"
  },
  {
   "line": 34,
   "jp": "2:2,運命の町にいる　おじいちゃんに￥ｎよろしくねっ！(E)",
-  "en": ""
+  "en": "2:2,Say hi to my grandpa￥ｎin Destiny Town!(E)"
  },
  {
   "line": 35,
   "jp": "DEF,あーあ　運命の町のおじいちゃん￥ｎ元気かなぁ(E)",
-  "en": ""
+  "en": "DEF,Ahh, I wonder if Grandpa in￥ｎDestiny Town is doing well.(E)"
  },
  {
   "line": 36,
@@ -112,6 +112,6 @@
  {
   "line": 38,
   "jp": "ALL,ボク　パン屋のユウサン￥ｎいろんなパンを作ってるんだ(B)新作のイモムシパンは￥ｎ大人気だよ(B)イモムシパンを食べるかい？￥ｎウヒョ！(N2)うんうん！=CP1,いらないよ=CP2(CP2)そうかい　残念だなぁ￥ｎウヒヒッ…(E)(CP1)(2)は￥ｎイモムシパンを食べてみた！(B)むしゃ　むしゃ…(B)………(B)う　う・ま・い・ぞーっ！(F004)",
-  "en": ""
+  "en": "ALL,I'm Yusan the baker.￥ｎI make all kinds of bread.(B)My new caterpillar bread￥ｎis super popular.(B)Want some caterpillar bread?￥ｎHeehee!(N2)Yes, yes!=CP1,No thanks=CP2(CP2)Is that so? Too bad.￥ｎHeh heh...(E)(CP1)(2) tried the￥ｎcaterpillar bread!(B)Munch, munch...(B).........(B)D-de-li-cious!(F004)"
  }
 ]

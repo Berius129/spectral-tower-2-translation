@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,おおっ！！(B)おぬし見かけによらず男らしいのお(B)そのテカテカ頭が￥ｎなんとも言えんのお…ウフッ(B)よし　通れ通れ！(E)",
-  "en": ""
+  "en": "ALL,Ooh!!(B)You're manlier than you look.(B)That shiny head of yours is￥ｎsimply divine... heh.(B)Alright, go on through!(E)"
  },
  {
   "line": 11,
@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,あなたみたいな大人だけは￥ｎ信用しないようにしなきゃ…(E)",
-  "en": ""
+  "en": "ALL,I must never trust￥ｎgrown-ups like you...(E)"
  },
  {
   "line": 14,
@@ -27,7 +27,7 @@
  {
   "line": 16,
   "jp": "ALL,な　なんとそのような！(B)私にはとてもそのような￥ｎはずかしめを受けるなど…(B)もう忘れよう　何もかも…(E)",
-  "en": ""
+  "en": "ALL,Wh-what, like THAT!(B)I could never endure￥ｎsuch humiliation...(B)Let me forget it all...(E)"
  },
  {
   "line": 17,
@@ -37,7 +37,7 @@
  {
   "line": 19,
   "jp": "ALL,おれの情熱もここまでか？(B)そんなかっこうをしたら￥ｎ人間としてくやしいに違いない！(E)",
-  "en": ""
+  "en": "ALL,Is this all my passion can do?(B)Dressing like that must be￥ｎhumiliating for any human!(E)"
  },
  {
   "line": 20,
@@ -47,7 +47,7 @@
  {
   "line": 22,
   "jp": "ALL,そうかその手があったか！(B)ようし町に戻ろう！(B)あれっ！￥ｎまたスカラベがないや…(E)",
-  "en": ""
+  "en": "ALL,Of course, that's the way!(B)Alright, back to town!(B)Huh!￥ｎNo Scarab again...(E)"
  },
  {
   "line": 23,
@@ -57,6 +57,6 @@
  {
   "line": 25,
   "jp": "ALL,なぜだ！(B)なぜそんなかっこうのやつが￥ｎ通ることを許されたのだ！(B)わたしには…理解できない！！(E)",
-  "en": ""
+  "en": "ALL,Why!(B)Why was someone dressed￥ｎlike that allowed through!(B)I... just don't understand!!(E)"
  }
 ]

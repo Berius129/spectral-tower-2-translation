@@ -12,7 +12,7 @@
  {
   "line": 11,
   "jp": "ALL,こんにちは￥ｎここはギャンブルの町です(E)",
-  "en": ""
+  "en": "ALL,Hello!￥ｎThis is Gambling Town.(E)"
  },
  {
   "line": 12,
@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "DEF,彼のいる運命の町に￥ｎ帰ろうとしたんだけど(B)やっぱりギャンブルを￥ｎ忘れられなくてね！(E)",
-  "en": ""
+  "en": "DEF,I tried going back to him￥ｎin Destiny Town,(B)but I just couldn't forget￥ｎabout gambling!(E)"
  },
  {
   "line": 15,
@@ -32,7 +32,7 @@
  {
   "line": 17,
   "jp": "ALL,この人とは別れることにしました￥ｎ一緒にいてもつまらないもん(E)",
-  "en": ""
+  "en": "ALL,I've decided to leave him.￥ｎIt's boring being with him.(E)"
  },
  {
   "line": 18,
@@ -42,7 +42,7 @@
  {
   "line": 20,
   "jp": "ALL,じいさんはやめました…(B)よいじいさんになるのを￥ｎやめました(B)がーはっはっは！(E)",
-  "en": ""
+  "en": "ALL,Gramps quit...(B)quit being a￥ｎgood gramps.(B)Gahahaha!(E)"
  },
  {
   "line": 21,
@@ -52,7 +52,7 @@
  {
   "line": 23,
   "jp": "ALL,さてそろそろ￥ｎ次の町へ行ってみるか…(E)",
-  "en": ""
+  "en": "ALL,Well then, time to try￥ｎthe next town...(E)"
  },
  {
   "line": 24,
@@ -62,7 +62,7 @@
  {
   "line": 26,
   "jp": "ALL,孫は決めたよ(B)りっぱな人間になるって！(E)",
-  "en": ""
+  "en": "ALL,The grandchild has decided:(B)to become a fine person!(E)"
  },
  {
   "line": 27,
@@ -72,7 +72,7 @@
  {
   "line": 29,
   "jp": "ALL,魔物が町にこなくなったよ￥ｎボクがたおしたんだよ(B)ほんとなんだって！￥ｎ信じてくれないの(B)だから大人は嫌いだーっ(E)",
-  "en": ""
+  "en": "ALL,The monsters stopped coming.￥ｎI beat them!(B)It's true! You don't￥ｎbelieve me?(B)That's why I hate grown-ups!(E)"
  },
  {
   "line": 30,
@@ -82,6 +82,6 @@
  {
   "line": 32,
   "jp": "ALL,俺はわかったよ￥ｎお前がいないとダメなんだーっ！(B)うううっ…(E)",
-  "en": ""
+  "en": "ALL,I get it now.￥ｎI'm nothing without you!(B)Boo hoo...(E)"
  }
 ]
