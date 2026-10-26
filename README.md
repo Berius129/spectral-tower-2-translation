@@ -70,6 +70,9 @@ Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`,
 - [ ] 15 executable strings marked `locked` (another pointer points into them)
 - [ ] Check for fixed-length fields in `ITEM` and `ROOTSDAT` files
 - [ ] Graphics with text (`COMMON/*.TIM`: title, names, save screen)
-- [ ] Videos (`MOVIE/*.STR`)
+- [ ] Videos (`MOVIE/*.STR`): no voices. Burned-in Japanese subtitles/titles in MOV01, MOV03, MOV05, MOV09;
+      MOV08 (credits) is already English; the rest have no text. `tools/extract_movies.py` extracts
+      raw STR files that ffmpeg reads (`ffmpeg -f psxstr -i MOV01.STR out.mp4`). Translating needs
+      re-encoding frames to MDEC (e.g. jPSXdec) without changing sector layout.
 - [ ] Translation
 - [ ] Distribute as an xdelta patch
