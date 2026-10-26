@@ -43,5 +43,10 @@ def to_fullwidth(text):
     return ''.join(out)
 
 
+# Full-width forms missing from the game font (cp932 puts them in the IBM
+# extension area): use the closest JIS symbol
+FW_SPECIAL = {' ': '　', "'": '’', '"': '”'}
+
+
 def _fw(s):
-    return ''.join('　' if c == ' ' else chr(ord(c) + 0xFEE0) if '!' <= c <= '~' else c for c in s)
+    return ''.join(FW_SPECIAL.get(c) or (chr(ord(c) + 0xFEE0) if '!' <= c <= '~' else c) for c in s)

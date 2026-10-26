@@ -3,7 +3,7 @@
 COMMON/STWIN.TIM holds the UI sheet with button labels (4bpp). Most labels
 are already English; "ルーツ" becomes "ROOT", built from the letters of the
 "SORT" label so the style matches. The box is 22 px wide, too narrow for
-"ROOTS".
+"ROOTS". The name entry's "カナ"/"かな" buttons become "abc"/"ABC".
 """
 import dte
 import tim
@@ -48,6 +48,42 @@ def roots_label(data):
     return bytes(data)
 
 
+# Name entry panel buttons カナ (katakana) and かな (hiragana): interior x
+# ranges, text rows 57-62, 14 px wide = three 4 px letters with 1 px gaps.
+# The hiragana panel now has capitals and the katakana panel lowercase.
+KANA_BOXES = {'abc': (137, 150), 'ABC': (153, 166)}
+KANA_TOP = 57
+# Capitals copied from other labels: (x, top), 4 px wide
+CAPITALS = {'A': (121, 57), 'B': (178, 49), 'C': (113, 57)}  # SPECIAL, BEFORE, SPECIAL
+INK = 14
+# The sheet has no lowercase: drawn in the same 4x6 style
+LOWERCASE = {
+    'a': ['....', '....', '.###', '#..#', '#..#', '.###'],
+    'b': ['#...', '#...', '###.', '#..#', '#..#', '###.'],
+    'c': ['....', '....', '.###', '#...', '#...', '.###'],
+}
+
+
+def kana_labels(data):
+    data = bytearray(data)
+    t = tim.read(bytes(data))
+    for text, (x0, x1) in KANA_BOXES.items():
+        for y in range(KANA_TOP, KANA_TOP + ROWS):
+            for x in range(x0, x1 + 1):
+                _set(data, t, x, y, BACKGROUND)
+        for i, ch in enumerate(text):
+            x = x0 + i * 5
+            for dy in range(ROWS):
+                for dx in range(4):
+                    if ch in CAPITALS:
+                        sx, sy = CAPITALS[ch]
+                        v = _get(data, t, sx + dx, sy + dy)
+                    else:
+                        v = INK if LOWERCASE[ch][dy][dx] == '#' else BACKGROUND
+                    _set(data, t, x + dx, KANA_TOP + dy, v)
+    return bytes(data)
+
+
 TREASURE = '/COMMON/TREASURE.TIM'
 # "予想" (guess) above the chest-hit bar, 8bpp; the ▽ arrow starts at x 168
 AIM_AREA = (130, 238, 166, 255)  # x0, y0, x1, y1 inclusive
@@ -88,5 +124,5 @@ def aim_label(data):
 
 
 def apply(img):
-    img.write(STWIN, roots_label(img.read(STWIN)))
+    img.write(STWIN, kana_labels(roots_label(img.read(STWIN))))
     img.write(TREASURE, aim_label(img.read(TREASURE)))

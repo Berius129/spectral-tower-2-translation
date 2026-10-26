@@ -7027,118 +7027,127 @@
   "offset": "0xcaed4",
   "max": 20,
   "jp": "あいうえおわ　を　ん",
-  "en": "ABCDEpqrst",
+  "en": "ABCDEFGHIJ",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaee9",
   "max": 20,
   "jp": "かきくけこがぎぐげご",
-  "en": "FGHIJuvwxy",
+  "en": "KLMNOPQRST",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaefe",
   "max": 20,
   "jp": "さしすせそざじずぜぞ",
-  "en": "KLMNOz    ",
+  "en": "UVWXYZ    ",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaf13",
   "max": 20,
   "jp": "たちつてとだぢづでど",
-  "en": "PQRST01234",
+  "en": "0123456789",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaf28",
   "max": 20,
   "jp": "なにぬねのばびぶべぼ",
-  "en": "UVWXY56789",
+  "en": ".,!?'-&:/ ",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaf3d",
   "max": 20,
   "jp": "はひふへほぱぴぷぺぽ",
-  "en": "Z    .,!?'",
+  "en": "          ",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaf52",
   "max": 20,
   "jp": "まみむめもぁぃぅぇぉ",
-  "en": "abcde-&:/ ",
+  "en": "          ",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaf67",
   "max": 20,
   "jp": "や　ゆ　よゃゅょっー",
-  "en": "fghij     ",
+  "en": "          ",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaf7c",
   "max": 23,
   "jp": "らりるれろ　　　　終",
-  "en": "klmno    終",
+  "en": "         終",
   "mode": "fullwidth"
  },
  {
   "offset": "0xcaf94",
   "max": 20,
   "jp": "アイウエオワ　ヲヴン",
-  "en": ""
+  "en": "abcdefghij",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcafa9",
   "max": 20,
   "jp": "カキクケコガギグゲゴ",
-  "en": ""
+  "en": "klmnopqrst",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcafbe",
   "max": 20,
   "jp": "サシスセソザジズゼゾ",
-  "en": ""
+  "en": "uvwxyz    ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcafd3",
   "max": 20,
   "jp": "タチツテトダヂヅデド",
-  "en": ""
+  "en": "0123456789",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcafe8",
   "max": 20,
   "jp": "ナニヌネノバビブベボ",
-  "en": ""
+  "en": ".,!?'-&:/ ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcaffd",
   "max": 20,
   "jp": "ハヒフヘホパピプペポ",
-  "en": ""
+  "en": "          ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcb012",
   "max": 20,
   "jp": "マミムメモァィゥェォ",
-  "en": ""
+  "en": "          ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcb027",
   "max": 20,
   "jp": "ヤ　ユ　ヨャュョッー",
-  "en": ""
+  "en": "          ",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcb03c",
   "max": 25,
   "jp": "ラリルレロ　　　　終",
-  "en": ""
+  "en": "         終",
+  "mode": "fullwidth"
  },
  {
   "offset": "0xcb0d4",
