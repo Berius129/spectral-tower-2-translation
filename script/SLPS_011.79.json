@@ -1919,7 +1919,7 @@
   "offset": "0x6e68",
   "max": 23,
   "jp": "速い￥ｎ標準￥ｎ遅い",
-  "en": "Fast￥ｎNormal￥ｎSlow"
+  "en": "Fast￥ｎMid￥ｎSlow"
  },
  {
   "offset": "0x6e80",
@@ -1973,7 +1973,7 @@
   "offset": "0x6f88",
   "max": 15,
   "jp": "　　　　標準",
-  "en": "      Normal"
+  "en": "         Mid"
  },
  {
   "offset": "0x6f98",
