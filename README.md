@@ -70,10 +70,12 @@ Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`,
 - [ ] 15 executable strings marked `locked` (another pointer points into them)
 - [ ] Check for fixed-length fields in `ITEM` and `ROOTSDAT` files
 - [ ] Graphics with text (`COMMON/*.TIM`: title, names, save screen)
-- [ ] Videos (`MOVIE/*.STR`): no voices, burned-in subtitles in MOV01, MOV03, MOV05, MOV09 (MOV08 credits are
-      already English). Done: MOV03. Each video has a `movies/<NAME>.json` with frame ranges and English
-      text; `tools/movie_subs.py` erases the Japanese, draws the English with the original fades and
-      re-encodes only the changed macroblocks with jPSXdec (`partial-replace`). `build.py` runs it when
+- [x] Videos (`MOVIE/*.STR`): no voices, burned-in subtitles in MOV01, MOV03, MOV05, MOV09 (MOV08 credits are
+      already English). Each video has a `movies/<NAME>.json` with frame ranges and English text;
+      `tools/movie_subs.py` erases the Japanese, draws the English with the original fades and re-encodes
+      only the changed macroblocks with jPSXdec (`partial-replace`). Big artwork text (kanji titles, the
+      trailer's captions) stays and gets an English line with a black outline; those frames are re-encoded
+      whole (`"encode": "full"`) so the new text doesn't turn into gray blocks. `build.py` runs it when
       Java, jPSXdec and ffmpeg are in `~/.local` (`--no-movies` skips it).
 - [ ] Translation
 - [ ] Distribute as an xdelta patch
