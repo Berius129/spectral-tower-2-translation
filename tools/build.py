@@ -49,7 +49,7 @@ def jp_width(jp):
         if is_text:
             cur += len(chunk)
             widest = max(widest, cur)
-        elif chunk in ('￥ｎ', '(B)', '(E)'):
+        elif dte.LINE_RESET.fullmatch(chunk):
             cur = 0
     return widest
 

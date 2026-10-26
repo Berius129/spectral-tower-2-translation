@@ -2,151 +2,151 @@
  {
   "line": 0,
   "jp": "TALK0:冒険者　(9)が￥ｎ話しかけてきた！(B)私　普段はメイドの仕事を￥ｎしているんです(B)その家のご主人様って￥ｎとってもいい人なんですよ(E)",
-  "en": ""
+  "en": "TALK0:Adventurer (9)￥ｎspeaks to you!(B)I usually work￥ｎas a maid.(B)The master of the house￥ｎis a very kind man.(E)"
  },
  {
   "line": 1,
   "jp": "TALK1:冒険者　(9)が￥ｎ話しかけてきた！(B)戦いになれるって￥ｎなんだかこわい…(B)私やっぱり￥ｎメイドがむいているのよね(E)",
-  "en": ""
+  "en": "TALK1:Adventurer (9)￥ｎspeaks to you!(B)Getting used to fighting...￥ｎit's kind of scary...(B)I guess being a maid￥ｎsuits me better after all.(E)"
  },
  {
   "line": 2,
   "jp": "TALK2:冒険者　(9)が￥ｎ話しかけてきた！(B)今回休暇を利用して￥ｎこの塔にきたんです(B)休みの間に￥ｎ最上階までいけるかしら？(E)",
-  "en": ""
+  "en": "TALK2:Adventurer (9)￥ｎspeaks to you!(B)I came to this tower￥ｎon my vacation.(B)Can I reach the top floor￥ｎbefore my break ends?(E)"
  },
  {
   "line": 3,
   "jp": "TALK3:冒険者　(9)が￥ｎ話しかけてきた！(B)うーん　だいぶ塔の仕組みが￥ｎわかってきたわよ(E)",
-  "en": ""
+  "en": "TALK3:Adventurer (9)￥ｎspeaks to you!(B)Hmm, I'm starting to figure￥ｎout how this tower works.(E)"
  },
  {
   "line": 4,
   "jp": "TALK4:冒険者　(9)が￥ｎ話しかけてきた！(B)私の仕える家のご主人様もね￥ｎ昔　この塔に上ったらしいのよ(B)えっ￥ｎ最上階まで行けたかは知らないわ…(E)",
-  "en": ""
+  "en": "TALK4:Adventurer (9)￥ｎspeaks to you!(B)My master also climbed￥ｎthis tower long ago.(B)Huh? Whether he reached￥ｎthe top, I don't know...(E)"
  },
  {
   "line": 5,
   "jp": "TALK5:冒険者　(9)が￥ｎ話しかけてきた！(B)この塔に登ってよかったな…(B)また今度￥ｎお休みもらってこよっと！(E)",
-  "en": ""
+  "en": "TALK5:Adventurer (9)￥ｎspeaks to you!(B)I'm glad I climbed this tower...(B)I'll ask for another￥ｎvacation sometime!(E)"
  },
  {
   "line": 7,
   "jp": "TALK6:冒険者　(9)が￥ｎ話しかけてきた！(B)私と勝負してください！(F002)(E)",
-  "en": ""
+  "en": "TALK6:Adventurer (9)￥ｎspeaks to you!(B)Please have a match with me!(F002)(E)"
  },
  {
   "line": 8,
   "jp": "TALK7:冒険者　(9)が￥ｎ話しかけてきた！(B)私と真剣に戦ってください(F002)(E)",
-  "en": ""
+  "en": "TALK7:Adventurer (9)￥ｎspeaks to you!(B)Please fight me for real.(F002)(E)"
  },
  {
   "line": 9,
   "jp": "TALK8:冒険者　(9)が￥ｎ話しかけてきた！(B)何も言わずに勝負して欲しいのよ(F002)(E)",
-  "en": ""
+  "en": "TALK8:Adventurer (9)￥ｎspeaks to you!(B)Just fight me, no questions.(F002)(E)"
  },
  {
   "line": 10,
   "jp": "TALK9:冒険者　(9)が￥ｎ話しかけてきた！(B)私を追いまわして￥ｎ何のつもりかしら(B)言い訳は無用です！(F002)(E)",
-  "en": ""
+  "en": "TALK9:Adventurer (9)￥ｎspeaks to you!(B)Why are you chasing me￥ｎaround?(B)No excuses!(F002)(E)"
  },
  {
   "line": 11,
   "jp": "TALK10:冒険者　(9)が￥ｎ話しかけてきた！(B)私を利用しようとしてるわね￥ｎそうはいかないわよ！(F002)(E)",
-  "en": ""
+  "en": "TALK10:Adventurer (9)￥ｎspeaks to you!(B)You're trying to use me!￥ｎI won't let you!(F002)(E)"
  },
  {
   "line": 12,
   "jp": "TALK11:冒険者　(9)が￥ｎ話しかけてきた！(B)強い人と戦いたいの￥ｎためさせてもらいます(F002)(E)",
-  "en": ""
+  "en": "TALK11:Adventurer (9)￥ｎspeaks to you!(B)I want to fight strong people.￥ｎLet me test you.(F002)(E)"
  },
  {
   "line": 14,
   "jp": "TALK12:冒険者　(9)が￥ｎ話しかけてきた！(B)図々しいと思うかもしれませんが￥ｎ私に力をかしてください(F001)だめですか…はぁ(E)",
-  "en": ""
+  "en": "TALK12:Adventurer (9)￥ｎspeaks to you!(B)This may seem pushy, but￥ｎplease lend me your strength.(F001)No good...? *sigh*(E)"
  },
  {
   "line": 15,
   "jp": "TALK13:冒険者　(9)が￥ｎ話しかけてきた！(B)ちょっと！￥ｎ仲間になりません？(F001)なっ　なぜですの…(E)",
-  "en": ""
+  "en": "TALK13:Adventurer (9)￥ｎspeaks to you!(B)Hey!￥ｎWant to team up?(F001)Wh-why not...(E)"
  },
  {
   "line": 16,
   "jp": "TALK14:冒険者　(9)が￥ｎ話しかけてきた！(B)私と最上階まで登りましょ(F001)私と一緒に行きたくないのね…(E)",
-  "en": ""
+  "en": "TALK14:Adventurer (9)￥ｎspeaks to you!(B)Let's climb to the top together.(F001)You don't want to go with me...(E)"
  },
  {
   "line": 17,
   "jp": "TALK15:冒険者　(9)が￥ｎ話しかけてきた！(B)私　なんでもしますから￥ｎ力をかしてください！(F001)あなた　冷たい…(E)",
-  "en": ""
+  "en": "TALK15:Adventurer (9)￥ｎspeaks to you!(B)I'll do anything, so please￥ｎlend me your strength!(F001)You're so cold...(E)"
  },
  {
   "line": 18,
   "jp": "TALK16:冒険者　(9)が￥ｎ話しかけてきた！(B)ちょうど人手がたりないの￥ｎ協力してくれる人　いません？(F001)ざんねんですわ…(E)",
-  "en": ""
+  "en": "TALK16:Adventurer (9)￥ｎspeaks to you!(B)I'm short on hands. Is there￥ｎanyone who can help me?(F001)What a shame...(E)"
  },
  {
   "line": 19,
   "jp": "TALK17:冒険者　(9)が￥ｎ話しかけてきた！(B)助けてください￥ｎこのままじゃダメなんです(F001)ねえ…だれかぁ…(E)",
-  "en": ""
+  "en": "TALK17:Adventurer (9)￥ｎspeaks to you!(B)Please help me.￥ｎI can't go on like this.(F001)Someone... anyone...(E)"
  },
  {
   "line": 21,
   "jp": "TALK18:冒険者　(9)が￥ｎ話しかけてきた！(B)めずらしいものを集めたの(F000)わかったわ￥ｎ今度は役に立つものも集めとくわ(E)",
-  "en": ""
+  "en": "TALK18:Adventurer (9)￥ｎspeaks to you!(B)I've collected rare things.(F000)I see. Next time I'll￥ｎcollect useful things too.(E)"
  },
  {
   "line": 22,
   "jp": "TALK19:冒険者　(9)が￥ｎ話しかけてきた！(B)大変そうですね￥ｎアイテムを売ってあげましょうか(F000)がんばってくださいね(E)",
-  "en": ""
+  "en": "TALK19:Adventurer (9)￥ｎspeaks to you!(B)You look like you're struggling.￥ｎShall I sell you some items?(F000)Good luck out there.(E)"
  },
  {
   "line": 23,
   "jp": "TALK20:冒険者　(9)が￥ｎ話しかけてきた！(B)メダルが欲しいんです￥ｎ交換してください！(F000)ダメですか…(E)",
-  "en": ""
+  "en": "TALK20:Adventurer (9)￥ｎspeaks to you!(B)I want medals.￥ｎPlease trade with me!(F000)No good...?(E)"
  },
  {
   "line": 24,
   "jp": "TALK21:冒険者　(9)が￥ｎ話しかけてきた！(B)こんなものでよければ￥ｎいかがです？(F000)また声をかけてくださいね(E)",
-  "en": ""
+  "en": "TALK21:Adventurer (9)￥ｎspeaks to you!(B)If this is any good to you,￥ｎhow about it?(F000)Call on me again sometime.(E)"
  },
  {
   "line": 25,
   "jp": "TALK22:冒険者　(9)が￥ｎ話しかけてきた！(B)役に立つかわかりませんが￥ｎこんなのいかがです？(F000)お力になれませんか…(E)",
-  "en": ""
+  "en": "TALK22:Adventurer (9)￥ｎspeaks to you!(B)Not sure it'll help, but￥ｎhow about this?(F000)I couldn't be of help...(E)"
  },
  {
   "line": 26,
   "jp": "TALK23:冒険者　(9)が￥ｎ話しかけてきた！(B)もういらなくなったから￥ｎこんなの　どうですか？(F000)気にしなくていいわよ￥ｎほかをあたってみるから(E)",
-  "en": ""
+  "en": "TALK23:Adventurer (9)￥ｎspeaks to you!(B)I don't need this anymore.￥ｎWould you like it?(F000)Don't worry about it.￥ｎI'll try someone else.(E)"
  },
  {
   "line": 28,
   "jp": "TALK24:冒険者　(9)が￥ｎ話しかけてきた！(B)あっ　すいません…￥ｎ私を仲間にしてくれません(F003)ダメですか￥ｎそうですよね(E)",
-  "en": ""
+  "en": "TALK24:Adventurer (9)￥ｎspeaks to you!(B)Oh, excuse me...￥ｎwould you let me join you?(F003)No good? Of course not.(E)"
  },
  {
   "line": 29,
   "jp": "TALK25:冒険者　(9)が￥ｎ話しかけてきた！(B)魔物に追われて逃げ道がないの￥ｎ一緒に連れていって！(F003)困ったわ…(E)",
-  "en": ""
+  "en": "TALK25:Adventurer (9)￥ｎspeaks to you!(B)Monsters are chasing me and I'm￥ｎtrapped. Take me with you!(F003)What do I do...(E)"
  },
  {
   "line": 30,
   "jp": "TALK26:冒険者　(9)が￥ｎ話しかけてきた！(B)心細いの…￥ｎ一緒についていっていい？(F003)どうしよう…(E)",
-  "en": ""
+  "en": "TALK26:Adventurer (9)￥ｎspeaks to you!(B)I feel so helpless...￥ｎCan I come with you?(F003)What should I do...(E)"
  },
  {
   "line": 31,
   "jp": "TALK27:冒険者　(9)が￥ｎ話しかけてきた！(B)役に立ちたいの￥ｎ連れてって！(F003)私　がんばるのに…(E)",
-  "en": ""
+  "en": "TALK27:Adventurer (9)￥ｎspeaks to you!(B)I want to be useful.￥ｎTake me with you!(F003)And I'd try so hard...(E)"
  },
  {
   "line": 32,
   "jp": "TALK28:冒険者　(9)が￥ｎ話しかけてきた！(B)あなたを見習いたい…￥ｎだから連れていってください(F003)私には￥ｎ見込みがないっていうの！？(E)",
-  "en": ""
+  "en": "TALK28:Adventurer (9)￥ｎspeaks to you!(B)I want to learn from you...￥ｎso please take me along.(F003)You mean I have￥ｎno potential!?(E)"
  },
  {
   "line": 33,
   "jp": "TALK29:冒険者　(9)が￥ｎ話しかけてきた！(B)危険な地帯よ￥ｎお助けしますわ(F003)そう…　気をつけてね(E)",
-  "en": ""
+  "en": "TALK29:Adventurer (9)￥ｎspeaks to you!(B)It's a dangerous area.￥ｎLet me help you.(F003)I see... be careful.(E)"
  }
 ]

@@ -2,151 +2,151 @@
  {
   "line": 0,
   "jp": "TALK0:冒険者　(3)が￥ｎ話しかけてきた！(B)がんばってね￥ｎおうえんしているから！(E)",
-  "en": ""
+  "en": "TALK0:Adventurer (3)￥ｎspeaks to you!(B)Good luck.￥ｎI'm cheering for you!(E)"
  },
  {
   "line": 1,
   "jp": "TALK1:冒険者　(3)が￥ｎ話しかけてきた！(B)この塔の中って￥ｎすごく静かよね(B)不気味だわ…(E)",
-  "en": ""
+  "en": "TALK1:Adventurer (3)￥ｎspeaks to you!(B)It's so quiet￥ｎinside this tower.(B)It's creepy...(E)"
  },
  {
   "line": 2,
   "jp": "TALK2:冒険者　(3)が￥ｎ話しかけてきた！(B)こんにちは　忠告をしておくけど￥ｎ魔物には気をつけてね(E)",
-  "en": ""
+  "en": "TALK2:Adventurer (3)￥ｎspeaks to you!(B)Hello. A word of warning:￥ｎbe careful of the monsters.(E)"
  },
  {
   "line": 3,
   "jp": "TALK3:冒険者　(3)が￥ｎ話しかけてきた！(B)ねぇ…魔法ってなんだと思う？(B)魔物達はむやみに使ったりしない…￥ｎでも人は日常的に使う…(B)この違いは￥ｎとても大切な事だと思うわ(E)",
-  "en": ""
+  "en": "TALK3:Adventurer (3)￥ｎspeaks to you!(B)Say... what is magic, to you?(B)Monsters don't use it lightly...￥ｎbut people use it every day...(B)I think that difference￥ｎis very important.(E)"
  },
  {
   "line": 4,
   "jp": "TALK4:冒険者　(3)が￥ｎ話しかけてきた！(B)ねぇ聞いて…￥ｎ竜人達が言ってたわ(B)我らはただ見守っているだけだ￥ｎ運命を変える事はできないって(B)その運命って世界の滅びのこと？(E)",
-  "en": ""
+  "en": "TALK4:Adventurer (3)￥ｎspeaks to you!(B)Listen... the dragonfolk said:(B)\"We only watch over things.￥ｎWe cannot change fate.\"(B)Does that fate mean the end￥ｎof the world?(E)"
  },
  {
   "line": 5,
   "jp": "TALK5:冒険者　(3)が￥ｎ話しかけてきた！(B)最上階から見下ろす世界は￥ｎ悲しい世界だったわ…(B)この塔を中心にして￥ｎ自然が枯れているの(B)止めることは…もうできないの？(E)",
-  "en": ""
+  "en": "TALK5:Adventurer (3)￥ｎspeaks to you!(B)The world seen from the top￥ｎwas a sad one...(B)Around this tower,￥ｎnature is withering.(B)Is there no way to stop it now?(E)"
  },
  {
   "line": 7,
   "jp": "TALK6:冒険者　(3)が￥ｎ話しかけてきた！(B)この塔の中は閉ざされた世界だけど￥ｎ自然の声は聞こえてくるの(E)",
-  "en": ""
+  "en": "TALK6:Adventurer (3)￥ｎspeaks to you!(B)This tower is a closed world,￥ｎbut I can hear nature's voice.(E)"
  },
  {
   "line": 8,
   "jp": "TALK7:冒険者　(3)が￥ｎ話しかけてきた！(B)ねえ　この音は何かしら？￥ｎまるで草花の悲鳴みたい…(E)",
-  "en": ""
+  "en": "TALK7:Adventurer (3)￥ｎspeaks to you!(B)Say, what is that sound?￥ｎIt's like flowers screaming...(E)"
  },
  {
   "line": 9,
   "jp": "TALK8:冒険者　(3)が￥ｎ話しかけてきた！(B)私は塔から聞こえる悲痛な叫びに￥ｎ呼ばれてここへきたの(E)",
-  "en": ""
+  "en": "TALK8:Adventurer (3)￥ｎspeaks to you!(B)I came here, called by painful￥ｎcries from the tower.(E)"
  },
  {
   "line": 10,
   "jp": "TALK9:冒険者　(3)が￥ｎ話しかけてきた！(B)悲しみが私の心の中に￥ｎはいりこんでくるわ…(B)この塔は呪われているの？(E)",
-  "en": ""
+  "en": "TALK9:Adventurer (3)￥ｎspeaks to you!(B)Sadness is seeping￥ｎinto my heart...(B)Is this tower cursed?(E)"
  },
  {
   "line": 11,
   "jp": "TALK10:冒険者　(3)が￥ｎ話しかけてきた！(B)町は見つけたけど…￥ｎなぜあんな所に町があるのかな？(B)他にも町があるって噂だし…￥ｎこの塔は不思議よね(E)",
-  "en": ""
+  "en": "TALK10:Adventurer (3)￥ｎspeaks to you!(B)I found the town... but why is￥ｎthere a town in such a place?(B)They say there are more towns...￥ｎThis tower is a mystery.(E)"
  },
  {
   "line": 12,
   "jp": "TALK11:冒険者　(3)が￥ｎ話しかけてきた！(B)最上階まで行けた？￥ｎそう　がんばってるわね！(E)",
-  "en": ""
+  "en": "TALK11:Adventurer (3)￥ｎspeaks to you!(B)Did you reach the top?￥ｎI see, you're working hard!(E)"
  },
  {
   "line": 14,
   "jp": "TALK12:冒険者　(3)が￥ｎ話しかけてきた！(B)ワナに気をつけた方がいいって￥ｎさっき妖精の声が聞こえたわ(E)",
-  "en": ""
+  "en": "TALK12:Adventurer (3)￥ｎspeaks to you!(B)A fairy's voice just told me￥ｎto watch out for traps.(E)"
  },
  {
   "line": 15,
   "jp": "TALK13:冒険者　(3)が￥ｎ話しかけてきた！(B)だいじょうぶ？￥ｎ疲れているみたいね(B)いやしてあげる￥ｎさあ　心を開いて！(F004)(E)",
-  "en": ""
+  "en": "TALK13:Adventurer (3)￥ｎspeaks to you!(B)Are you okay?￥ｎYou look tired.(B)I'll heal you.￥ｎNow, open your heart!(F004)(E)"
  },
  {
   "line": 16,
   "jp": "TALK14:冒険者　(3)が￥ｎ話しかけてきた！(B)塔の上の方で何かが叫んでいる￥ｎ行かなくちゃ…(E)",
-  "en": ""
+  "en": "TALK14:Adventurer (3)￥ｎspeaks to you!(B)Something is crying out up high￥ｎin the tower. I must go...(E)"
  },
  {
   "line": 17,
   "jp": "TALK15:冒険者　(3)が￥ｎ話しかけてきた！(B)風が貴方の味方をしているわ￥ｎがんばれって！(B)私も力になるわ￥ｎさあ　心を開いて！(F004)(E)",
-  "en": ""
+  "en": "TALK15:Adventurer (3)￥ｎspeaks to you!(B)The wind is on your side.￥ｎIt says \"keep going!\"(B)I'll help too.￥ｎNow, open your heart!(F004)(E)"
  },
  {
   "line": 18,
   "jp": "TALK16:冒険者　(3)が￥ｎ話しかけてきた！(B)この塔を登り始めた頃は￥ｎまだ自然の声が聞こえたのに…(B)今はもう…(B)わたし…なぜ？￥ｎ何のために…ここに来たの？(B)あなたは…なぜここにいるの？(B)………(B)話が長くなったわね…(B)さあ　貴方をいやしましょう￥ｎ心を開いて！(F004)(E)",
-  "en": ""
+  "en": "TALK16:Adventurer (3)￥ｎspeaks to you!(B)When I started climbing, I could￥ｎstill hear nature's voice...(B)But now...(B)Why... why did I￥ｎcome here?(B)Why... are you here?(B).........(B)I've talked too long...(B)Now, let me heal you.￥ｎOpen your heart!(F004)(E)"
  },
  {
   "line": 19,
   "jp": "TALK17:冒険者　(3)が￥ｎ話しかけてきた！(B)この世界に果てがあるように￥ｎ塔にも果てがあったのね…(B)もし…その先に別の世界があったら￥ｎ私達を迎え入れてくれるのかしら？(B)………(B)話が長くなったわね…(B)さあ　貴方をいやしましょう￥ｎ心を開いて！(F004)(E)",
-  "en": ""
+  "en": "TALK17:Adventurer (3)￥ｎspeaks to you!(B)Just as this world has an end,￥ｎso did the tower...(B)If there's another world beyond,￥ｎwould it welcome us?(B).........(B)I've talked too long...(B)Now, let me heal you.￥ｎOpen your heart!(F004)(E)"
  },
  {
   "line": 20,
   "jp": "TALK18:冒険者　(3)が￥ｎ話しかけてきた！(B)貴方は見えない力に守られてるわ￥ｎ貴方の心が清らかだからよ(B)私も力になります￥ｎさあ　心を開いて！(F004)(E)",
-  "en": ""
+  "en": "TALK18:Adventurer (3)￥ｎspeaks to you!(B)An unseen power protects you,￥ｎbecause your heart is pure.(B)I'll help you too.￥ｎNow, open your heart!(F004)(E)"
  },
  {
   "line": 21,
   "jp": "TALK19:冒険者　(3)が￥ｎ話しかけてきた！(B)よくないことがおこるって…(B)貴方になら　とめられる…(B)だから　貴方を助けるわ￥ｎさあ　心を開いて！(F004)(E)",
-  "en": ""
+  "en": "TALK19:Adventurer (3)￥ｎspeaks to you!(B)Something bad will happen...(B)You can stop it...(B)So I'll help you.￥ｎNow, open your heart!(F004)(E)"
  },
  {
   "line": 22,
   "jp": "TALK20:冒険者　(3)が￥ｎ話しかけてきた！(B)最近　自然の声が聞こえないわ…￥ｎどうしてなのかしら？(B)私にはわからない…(B)………(B)貴方とは　また会いたいから￥ｎ力をかしてあげる(F004)(E)",
-  "en": ""
+  "en": "TALK20:Adventurer (3)￥ｎspeaks to you!(B)I can't hear nature's voice￥ｎlately... I wonder why?(B)I don't understand...(B).........(B)I want to see you again,￥ｎso I'll lend you my power.(F004)(E)"
  },
  {
   "line": 23,
   "jp": "TALK21:冒険者　(3)が￥ｎ話しかけてきた！(B)緑が泣いている…￥ｎそんな気がするの…(B)だけど　私には何もできない…(B)………(B)あなたを助けるわ￥ｎだから　力をかしてちょうだい！(F004)(E)",
-  "en": ""
+  "en": "TALK21:Adventurer (3)￥ｎspeaks to you!(B)The green is crying...￥ｎthat's how it feels...(B)But I can't do anything...(B).........(B)I'll help you.￥ｎSo lend me your strength!(F004)(E)"
  },
  {
   "line": 24,
   "jp": "TALK22:冒険者　(3)が￥ｎ話しかけてきた！(B)妖精たちが言ってた事だけど…(B)魔法はあまり使わないほうがいいわ￥ｎ小さな生命を奪う事につながるって(B)魔法って…いったい何なの？(B)………(B)話が長くなったわね…(B)さあ　心を開いて！￥ｎ自然をいつくしみなさい(F004)(E)",
-  "en": ""
+  "en": "TALK22:Adventurer (3)￥ｎspeaks to you!(B)The fairies said something...(B)Better not use much magic.￥ｎIt takes small lives, they said.(B)What is magic, really?(B).........(B)I've talked too long...(B)Now, open your heart!￥ｎCherish nature.(F004)(E)"
  },
  {
   "line": 25,
   "jp": "TALK23:冒険者　(3)が￥ｎ話しかけてきた！(B)究極の魔法が５つあるらしいわ…(B)天魔系の魔法が４つ…￥ｎそして最終の魔法が１つ…(B)究極の魔法って本当に必要な力？￥ｎ何のための力なの？(B)………(B)話が長くなったわね…(B)さあ　心を開いて！￥ｎ自然をいつくしみなさい(F004)(E)",
-  "en": ""
+  "en": "TALK23:Adventurer (3)￥ｎspeaks to you!(B)They say there are 5 ultimate￥ｎspells...(B)4 of the Tenma kind...￥ｎand 1 final spell...(B)Is ultimate magic truly needed?￥ｎWhat is that power for?(B).........(B)I've talked too long...(B)Now, open your heart!￥ｎCherish nature.(F004)(E)"
  },
  {
   "line": 27,
   "jp": "TALK24:冒険者　(3)が￥ｎ話しかけてきた！(B)貴方に対する憎しみがあふれてる￥ｎ魔物たちの想いよ　きっと…(B)貴方には自然を守る使命が￥ｎまだ　あるわ！(B)力をかしてあげる￥ｎさあ　心を開いて！(F004)(E)",
-  "en": ""
+  "en": "TALK24:Adventurer (3)￥ｎspeaks to you!(B)Hatred for you is overflowing.￥ｎIt's the monsters' feelings...(B)You still have a mission￥ｎto protect nature!(B)I'll lend you my power.￥ｎNow, open your heart!(F004)(E)"
  },
  {
   "line": 28,
   "jp": "TALK25:冒険者　(3)が￥ｎ話しかけてきた！(B)大地の精は怒っています￥ｎ人間の欲深さに…(B)さあ　心を開いて！￥ｎ自然をいつくしみなさい(F004)(E)",
-  "en": ""
+  "en": "TALK25:Adventurer (3)￥ｎspeaks to you!(B)The earth spirits are angry￥ｎat human greed...(B)Now, open your heart!￥ｎCherish nature.(F004)(E)"
  },
  {
   "line": 29,
   "jp": "TALK26:冒険者　(3)が￥ｎ話しかけてきた！(B)何も聞こえないわ￥ｎ自然の力が弱くなってるのね(B)さあ　心を開いて！￥ｎ自然をいつくしみなさい(F004)(E)",
-  "en": ""
+  "en": "TALK26:Adventurer (3)￥ｎspeaks to you!(B)I can't hear anything.￥ｎNature's power is weakening.(B)Now, open your heart!￥ｎCherish nature.(F004)(E)"
  },
  {
   "line": 30,
   "jp": "TALK27:冒険者　(3)が￥ｎ話しかけてきた！(B)貴方の無事を祈ります…(B)さあ　心を開いて！￥ｎ自然をいつくしみなさい(F004)(E)",
-  "en": ""
+  "en": "TALK27:Adventurer (3)￥ｎspeaks to you!(B)I'll pray for your safety...(B)Now, open your heart!￥ｎCherish nature.(F004)(E)"
  },
  {
   "line": 31,
   "jp": "TALK28:冒険者　(3)が￥ｎ話しかけてきた！(B)あなたかどうかは知らないけど￥ｎ強い力が塔を登っているって…(B)その力は破滅を招くって…(B)あなたを助けるわ￥ｎだから　その力をとめて！(F004)(E)",
-  "en": ""
+  "en": "TALK28:Adventurer (3)￥ｎspeaks to you!(B)Maybe it's you, maybe not, but a￥ｎgreat power climbs the tower...(B)They say it will bring ruin...(B)I'll help you.￥ｎSo stop that power!(F004)(E)"
  },
  {
   "line": 32,
   "jp": "TALK29:冒険者　(3)が￥ｎ話しかけてきた！(B)あの…(B)そのですね…(B)おおきな竜を見かけましたか？￥ｎ別に知らなくてもいいですけど…(B)もしかしたら￥ｎ声の主じゃないかなって…(B)………(B)貴方とは　また会いたいから￥ｎ力をかしてあげる(F004)(E)",
-  "en": ""
+  "en": "TALK29:Adventurer (3)￥ｎspeaks to you!(B)Um...(B)Well, you see...(B)Have you seen a big dragon?￥ｎIt's okay if you haven't...(B)I just thought it might be￥ｎthe owner of the voice...(B).........(B)I want to see you again,￥ｎso I'll lend you my power.(F004)(E)"
  }
 ]

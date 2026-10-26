@@ -2,151 +2,151 @@
  {
   "line": 0,
   "jp": "TALK0:冒険者　(c)が￥ｎ話しかけてきた！(B)こう見えても私　風水師よ￥ｎどんなことでも占えるわ(E)",
-  "en": ""
+  "en": "TALK0:Adventurer (c)￥ｎspeaks to you!(B)I may not look it, but I'm a￥ｎgeomancer. I can read anything.(E)"
  },
  {
   "line": 1,
   "jp": "TALK1:冒険者　(c)が￥ｎ話しかけてきた！(B)何度も同じところを￥ｎまわっているような気がするわ…(E)",
-  "en": ""
+  "en": "TALK1:Adventurer (c)￥ｎspeaks to you!(B)I feel like I keep going￥ｎaround in circles...(E)"
  },
  {
   "line": 2,
   "jp": "TALK2:冒険者　(c)が￥ｎ話しかけてきた！(B)魔物なんてたいしたことないわ￥ｎむしろ道順が…(E)",
-  "en": ""
+  "en": "TALK2:Adventurer (c)￥ｎspeaks to you!(B)Monsters are no big deal.￥ｎIt's the directions that...(E)"
  },
  {
   "line": 3,
   "jp": "TALK3:冒険者　(c)が￥ｎ話しかけてきた！(B)道に迷ってさ￥ｎ今どこ歩いているのか　さっぱり…(E)",
-  "en": ""
+  "en": "TALK3:Adventurer (c)￥ｎspeaks to you!(B)I got lost. I have no￥ｎidea where I am now...(E)"
  },
  {
   "line": 4,
   "jp": "TALK4:冒険者　(c)が￥ｎ話しかけてきた！(B)久しぶりに家に帰ろうとしたら￥ｎ家の場所がわからなくなってさ(B)大変だったわ！￥ｎははは…(E)",
-  "en": ""
+  "en": "TALK4:Adventurer (c)￥ｎspeaks to you!(B)I tried going home for once,￥ｎbut forgot where my house was.(B)What a mess!￥ｎHa ha ha...(E)"
  },
  {
   "line": 5,
   "jp": "TALK5:冒険者　(c)が￥ｎ話しかけてきた！(B)私は風水師としても￥ｎ成長した気がするわ(B)どう　そう思うでしょ？(E)",
-  "en": ""
+  "en": "TALK5:Adventurer (c)￥ｎspeaks to you!(B)I feel like I've grown￥ｎas a geomancer too.(B)Don't you think so?(E)"
  },
  {
   "line": 7,
   "jp": "TALK6:冒険者　(c)が￥ｎ話しかけてきた！(B)私　最近負けたことないの￥ｎそちらの挑戦　受けるわよ(F002)(E)",
-  "en": ""
+  "en": "TALK6:Adventurer (c)￥ｎspeaks to you!(B)I haven't lost in a while.￥ｎI'll accept your challenge.(F002)(E)"
  },
  {
   "line": 8,
   "jp": "TALK7:冒険者　(c)が￥ｎ話しかけてきた！(B)占いでは　ここで戦えば￥ｎ勝てるってでてるのよ…(B)悪いけど勝たせてもらうわね(F002)(E)",
-  "en": ""
+  "en": "TALK7:Adventurer (c)￥ｎspeaks to you!(B)My fortune says if I fight￥ｎhere, I'll win...(B)Sorry, but I'm going to win.(F002)(E)"
  },
  {
   "line": 9,
   "jp": "TALK8:冒険者　(c)が￥ｎ話しかけてきた！(B)私と勝負してよ！(F002)(E)",
-  "en": ""
+  "en": "TALK8:Adventurer (c)￥ｎspeaks to you!(B)Fight me!(F002)(E)"
  },
  {
   "line": 10,
   "jp": "TALK9:冒険者　(c)が￥ｎ話しかけてきた！(B)強い人　好きよ￥ｎだって倒しがいがあるもの(B)ふふ…　あなたのことよ！(F002)(E)",
-  "en": ""
+  "en": "TALK9:Adventurer (c)￥ｎspeaks to you!(B)I like strong people,￥ｎthey're worth beating.(B)Heh... I mean you!(F002)(E)"
  },
  {
   "line": 11,
   "jp": "TALK10:冒険者　(c)が￥ｎ話しかけてきた！(B)私の挑戦　受けてみる？(F002)(E)",
-  "en": ""
+  "en": "TALK10:Adventurer (c)￥ｎspeaks to you!(B)Will you take my challenge?(F002)(E)"
  },
  {
   "line": 12,
   "jp": "TALK11:冒険者　(c)が￥ｎ話しかけてきた！(B)だいぶ強くなったの￥ｎためしてみる？(F002)(E)",
-  "en": ""
+  "en": "TALK11:Adventurer (c)￥ｎspeaks to you!(B)I've gotten pretty strong.￥ｎWant to test me?(F002)(E)"
  },
  {
   "line": 14,
   "jp": "TALK12:冒険者　(c)が￥ｎ話しかけてきた！(B)私と一緒にきません？(F001)え～　なんでぇねぇ～！(E)",
-  "en": ""
+  "en": "TALK12:Adventurer (c)￥ｎspeaks to you!(B)Want to come with me?(F001)Whaaat, whyyy!(E)"
  },
  {
   "line": 15,
   "jp": "TALK13:冒険者　(c)が￥ｎ話しかけてきた！(B)あなたたち　ダメね！￥ｎわかれた方が身のためよ(F001)せっかく　さそってあげたのに…(E)",
-  "en": ""
+  "en": "TALK13:Adventurer (c)￥ｎspeaks to you!(B)You guys are hopeless!￥ｎBetter to split up.(F001)And I even invited you...(E)"
  },
  {
   "line": 16,
   "jp": "TALK14:冒険者　(c)が￥ｎ話しかけてきた！(B)つまんなそうね￥ｎ私と一緒の方が楽しいわよ！(F001)あっそ！￥ｎかってにしたら！(E)",
-  "en": ""
+  "en": "TALK14:Adventurer (c)￥ｎspeaks to you!(B)You look bored.￥ｎIt's more fun with me!(F001)Fine!￥ｎDo what you want!(E)"
  },
  {
   "line": 17,
   "jp": "TALK15:冒険者　(c)が￥ｎ話しかけてきた！(B)ここは危険だわ￥ｎ私についてきなさい(F001)どうなってもしらないからね(E)",
-  "en": ""
+  "en": "TALK15:Adventurer (c)￥ｎspeaks to you!(B)It's dangerous here.￥ｎFollow me.(F001)Don't blame me then!(E)"
  },
  {
   "line": 18,
   "jp": "TALK16:冒険者　(c)が￥ｎ話しかけてきた！(B)私の占いでは　私についてくれば￥ｎ目的達成と出ているわよ(F001)せっかく　占ってやったのにぃ(E)",
-  "en": ""
+  "en": "TALK16:Adventurer (c)￥ｎspeaks to you!(B)My fortune says follow me￥ｎand you'll reach your goal.(F001)And I even did a reading!(E)"
  },
  {
   "line": 19,
   "jp": "TALK17:冒険者　(c)が￥ｎ話しかけてきた！(B)この先は私の方がよくわかるわ￥ｎ私と行きましょ？(F001)後悔するよっ！(E)",
-  "en": ""
+  "en": "TALK17:Adventurer (c)￥ｎspeaks to you!(B)I know the way ahead better.￥ｎLet's go together?(F001)You'll regret this!(E)"
  },
  {
   "line": 21,
   "jp": "TALK18:冒険者　(c)が￥ｎ話しかけてきた！(B)冒険はまだ続くんでしょ￥ｎアイテムがいるんじゃない(F000)気をつけてね(E)",
-  "en": ""
+  "en": "TALK18:Adventurer (c)￥ｎspeaks to you!(B)Your adventure goes on, right?￥ｎDon't you need items?(F000)Take care.(E)"
  },
  {
   "line": 22,
   "jp": "TALK19:冒険者　(c)が￥ｎ話しかけてきた！(B)よくない相がでてるわよ￥ｎでも大丈夫！(B)そんな時のために￥ｎいいものがあるわ(F000)そう　いらないの…(E)",
-  "en": ""
+  "en": "TALK19:Adventurer (c)￥ｎspeaks to you!(B)I see a bad omen on you.￥ｎBut don't worry!(B)For times like these,￥ｎI've got just the thing.(F000)Oh, you don't want it...(E)"
  },
  {
   "line": 23,
   "jp": "TALK20:冒険者　(c)が￥ｎ話しかけてきた！(B)私　メダルがいるのよね￥ｎアイテムと交換しましょ(F000)少しは気をきかしてよね(E)",
-  "en": ""
+  "en": "TALK20:Adventurer (c)￥ｎspeaks to you!(B)I need medals.￥ｎLet's trade for items.(F000)Be a little considerate!(E)"
  },
  {
   "line": 24,
   "jp": "TALK21:冒険者　(c)が￥ｎ話しかけてきた！(B)最近　めっきりメダルが￥ｎ見つからなくて…(B)アイテムとかえてくれない？(F000)もう　いいわよっ(E)",
-  "en": ""
+  "en": "TALK21:Adventurer (c)￥ｎspeaks to you!(B)Lately I just can't find￥ｎany medals...(B)Will you trade for items?(F000)Forget it, then!(E)"
  },
  {
   "line": 25,
   "jp": "TALK22:冒険者　(c)が￥ｎ話しかけてきた！(B)アイテムとメダル￥ｎ交換してあげましょうか？(F000)そう　まあいいわ！(E)",
-  "en": ""
+  "en": "TALK22:Adventurer (c)￥ｎspeaks to you!(B)Shall I trade you￥ｎitems for medals?(F000)Oh. Well, fine!(E)"
  },
  {
   "line": 26,
   "jp": "TALK23:冒険者　(c)が￥ｎ話しかけてきた！(B)安くしておくよ￥ｎアイテムいらない？(F000)ふーん　残念ね(E)",
-  "en": ""
+  "en": "TALK23:Adventurer (c)￥ｎspeaks to you!(B)I'll give you a discount.￥ｎNeed any items?(F000)Hmm, too bad.(E)"
  },
  {
   "line": 28,
   "jp": "TALK24:冒険者　(c)が￥ｎ話しかけてきた！(B)私を仲間にしない？(F003)私が美しいからって￥ｎてれなくていいのに！(E)",
-  "en": ""
+  "en": "TALK24:Adventurer (c)￥ｎspeaks to you!(B)Want me in your party?(F003)No need to be shy just￥ｎbecause I'm beautiful!(E)"
  },
  {
   "line": 29,
   "jp": "TALK25:冒険者　(c)が￥ｎ話しかけてきた！(B)私のような　かよわき女の子を￥ｎ助けてくれるのが普通でしょ(F003)このひとでなしっ！(E)",
-  "en": ""
+  "en": "TALK25:Adventurer (c)￥ｎspeaks to you!(B)Helping a frail girl like me￥ｎis only natural, right?(F003)You heartless brute!(E)"
  },
  {
   "line": 30,
   "jp": "TALK26:冒険者　(c)が￥ｎ話しかけてきた！(B)冒険は多い方が楽しいわよ￥ｎ一緒に行くわね(F003)ダメェ～？(E)",
-  "en": ""
+  "en": "TALK26:Adventurer (c)￥ｎspeaks to you!(B)Adventures are more fun in a￥ｎgroup. I'm coming along.(F003)No goood?(E)"
  },
  {
   "line": 31,
   "jp": "TALK27:冒険者　(c)が￥ｎ話しかけてきた！(B)占いによると￥ｎ一緒に行くのが良しと出てるわ(F003)ほんとなんだから　もう！(E)",
-  "en": ""
+  "en": "TALK27:Adventurer (c)￥ｎspeaks to you!(B)My fortune says going￥ｎtogether is best.(F003)It's true, I swear!(E)"
  },
  {
   "line": 32,
   "jp": "TALK28:冒険者　(c)が￥ｎ話しかけてきた！(B)ここら辺は魔物が多いみたい￥ｎついていった方がよさそうね(F003)血も涙もないこと言うのね(E)",
-  "en": ""
+  "en": "TALK28:Adventurer (c)￥ｎspeaks to you!(B)Lots of monsters around here.￥ｎI'd better tag along.(F003)How cold-blooded of you.(E)"
  },
  {
   "line": 33,
   "jp": "TALK29:冒険者　(c)が￥ｎ話しかけてきた！(B)私がついていけば￥ｎ道に迷う心配なしよ(F003)信じてないよ…(E)",
-  "en": ""
+  "en": "TALK29:Adventurer (c)￥ｎspeaks to you!(B)With me along, you'll￥ｎnever get lost.(F003)You don't believe me...(E)"
  }
 ]

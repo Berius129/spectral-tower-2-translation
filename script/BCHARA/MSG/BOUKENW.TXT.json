@@ -2,151 +2,151 @@
  {
   "line": 0,
   "jp": "TALK0:突然　冒険者が話しかけてきた！(B)塔の中って￥ｎなんて複雑なのかしら！(E)",
-  "en": ""
+  "en": "TALK0:Suddenly, an adventurer speaks!(B)This tower is so￥ｎcomplicated!(E)"
  },
  {
   "line": 1,
   "jp": "TALK1:突然　冒険者が話しかけてきた！(B)私ってこう見えても￥ｎ結構強いのよ！(E)",
-  "en": ""
+  "en": "TALK1:Suddenly, an adventurer speaks!(B)I may not look it, but￥ｎI'm pretty strong!(E)"
  },
  {
   "line": 2,
   "jp": "TALK2:突然　冒険者が話しかけてきた！(B)気をつけなさい￥ｎそこらじゅうにワナがあるのよ！(E)",
-  "en": ""
+  "en": "TALK2:Suddenly, an adventurer speaks!(B)Be careful.￥ｎThere are traps everywhere!(E)"
  },
  {
   "line": 3,
   "jp": "TALK3:突然　冒険者が話しかけてきた！(B)幻の竜をみました？￥ｎすごく大きいらしいですけど(B)兄さんが見たことあるって…(B)竜に戦いを挑んだら￥ｎ惜しいところで逃げられたって…(B)ホントかなぁ！？(B)兄さんって￥ｎわたしより弱いのに！(E)",
-  "en": ""
+  "en": "TALK3:Suddenly, an adventurer speaks!(B)Seen the phantom dragon?￥ｎThey say it's huge.(B)My big brother says he saw it...(B)He challenged it, and it barely￥ｎgot away from him...(B)Is that true!?(B)My brother is￥ｎweaker than me!(E)"
  },
  {
   "line": 4,
   "jp": "TALK4:突然　冒険者が話しかけてきた！(B)あーら￥ｎなかなか強そうだけど…(B)油断は禁物よ￥ｎじゃあね…(E)",
-  "en": ""
+  "en": "TALK4:Suddenly, an adventurer speaks!(B)Well, well,￥ｎyou look pretty strong...(B)But don't let your guard down.￥ｎBye...(E)"
  },
  {
   "line": 5,
   "jp": "TALK5:突然　冒険者が話しかけてきた！(B)こんなに魔物だらけの塔で￥ｎ生きていられるのが不思議よね！(E)",
-  "en": ""
+  "en": "TALK5:Suddenly, an adventurer speaks!(B)It's a wonder anyone survives￥ｎin a tower full of monsters!(E)"
  },
  {
   "line": 7,
   "jp": "TALK6:突然　冒険者が話しかけてきた！(B)お願いしますっ！￥ｎ私の挑戦を受けてください(F002)(E)",
-  "en": ""
+  "en": "TALK6:Suddenly, an adventurer speaks!(B)Please!￥ｎAccept my challenge!(F002)(E)"
  },
  {
   "line": 8,
   "jp": "TALK7:突然　冒険者が話しかけてきた！(B)戦い方を教えて欲しいの￥ｎだから私の挑戦を受けてっ！(F002)(E)",
-  "en": ""
+  "en": "TALK7:Suddenly, an adventurer speaks!(B)Teach me how to fight.￥ｎSo accept my challenge!(F002)(E)"
  },
  {
   "line": 9,
   "jp": "TALK8:突然　冒険者が話しかけてきた！(B)悪いけど私と勝負してくれない？(F002)(E)",
-  "en": ""
+  "en": "TALK8:Suddenly, an adventurer speaks!(B)Sorry, but will you fight me?(F002)(E)"
  },
  {
   "line": 10,
   "jp": "TALK9:突然　冒険者が話しかけてきた！(B)私と戦ってみてくれないかしら？(F002)(E)",
-  "en": ""
+  "en": "TALK9:Suddenly, an adventurer speaks!(B)Won't you try fighting me?(F002)(E)"
  },
  {
   "line": 11,
   "jp": "TALK10:突然　冒険者が話しかけてきた！(B)邪念を感じるわ…￥ｎ修正してあげる！(F002)(E)",
-  "en": ""
+  "en": "TALK10:Suddenly, an adventurer speaks!(B)I sense evil thoughts...￥ｎI'll set you straight!(F002)(E)"
  },
  {
   "line": 12,
   "jp": "TALK11:突然　冒険者が話しかけてきた！(B)見かけは強そうだけど￥ｎ中身はどうかしら　ためしてあげる(F002)(E)",
-  "en": ""
+  "en": "TALK11:Suddenly, an adventurer speaks!(B)You look strong, but what's￥ｎinside? Let me test you.(F002)(E)"
  },
  {
   "line": 14,
   "jp": "TALK12:突然　冒険者が話しかけてきた！(B)男って戦うことしか￥ｎ考えていないんでしょ(B)時には逃げることも￥ｎ必要なのにね(E)",
-  "en": ""
+  "en": "TALK12:Suddenly, an adventurer speaks!(B)Men only ever think￥ｎabout fighting, right?(B)Even though sometimes you￥ｎneed to run away.(E)"
  },
  {
   "line": 15,
   "jp": "TALK13:突然　冒険者が話しかけてきた！(B)ちょっとおどかさないでよ￥ｎさっきまで逃げ回っていたのよ！(E)",
-  "en": ""
+  "en": "TALK13:Suddenly, an adventurer speaks!(B)Hey, don't scare me like that!￥ｎI was just running for my life!(E)"
  },
  {
   "line": 16,
   "jp": "TALK14:突然　冒険者が話しかけてきた！(B)ここの魔物たちって￥ｎほんとに多いわよね！(E)",
-  "en": ""
+  "en": "TALK14:Suddenly, an adventurer speaks!(B)There are SO many￥ｎmonsters here!(E)"
  },
  {
   "line": 17,
   "jp": "TALK15:突然　冒険者が話しかけてきた！(B)地上にもどりたいわ￥ｎ塔の中と比べたら天国だもん！(E)",
-  "en": ""
+  "en": "TALK15:Suddenly, an adventurer speaks!(B)I want to go back outside.￥ｎIt's heaven compared to this!(E)"
  },
  {
   "line": 18,
   "jp": "TALK16:突然　冒険者が話しかけてきた！(B)こんな生活なんて￥ｎもういやだわ！(E)",
-  "en": ""
+  "en": "TALK16:Suddenly, an adventurer speaks!(B)I'm so sick of￥ｎliving like this!(E)"
  },
  {
   "line": 19,
   "jp": "TALK17:突然　冒険者が話しかけてきた！(B)女の子なのに￥ｎこんなにたくましくなっちゃった！(E)",
-  "en": ""
+  "en": "TALK17:Suddenly, an adventurer speaks!(B)I'm a girl, but I've gotten￥ｎthis tough!(E)"
  },
  {
   "line": 21,
   "jp": "TALK18:突然　冒険者が話しかけてきた！(B)武者修業にはちょうどいい￥ｎいくわよっ！(F002)(E)",
-  "en": ""
+  "en": "TALK18:Suddenly, an adventurer speaks!(B)Perfect for my training.￥ｎHere I come!(F002)(E)"
  },
  {
   "line": 22,
   "jp": "TALK19:突然　冒険者が話しかけてきた！(B)最近　悪党の類が多いと聞くわ￥ｎどうせその仲間なんでしょ？(B)問答無用　いくわよっ！(F002)(E)",
-  "en": ""
+  "en": "TALK19:Suddenly, an adventurer speaks!(B)I hear there are lots of crooks￥ｎlately. You're one of them, huh?(B)No questions, here I come!(F002)(E)"
  },
  {
   "line": 23,
   "jp": "TALK20:突然　冒険者が話しかけてきた！(B)言いがかりつける気ね！￥ｎいいわ　相手になってあげる(F002)(E)",
-  "en": ""
+  "en": "TALK20:Suddenly, an adventurer speaks!(B)Picking a fight, huh!￥ｎFine, I'll take you on.(F002)(E)"
  },
  {
   "line": 24,
   "jp": "TALK21:突然　冒険者が話しかけてきた！(B)上には私が先に行くの￥ｎ邪魔すればこうなるのよ！(F002)(E)",
-  "en": ""
+  "en": "TALK21:Suddenly, an adventurer speaks!(B)I'm getting to the top first.￥ｎGet in my way and this happens!(F002)(E)"
  },
  {
   "line": 25,
   "jp": "TALK22:突然　冒険者が話しかけてきた！(B)私って結構強いわよ￥ｎ戦ってみる？(F002)(E)",
-  "en": ""
+  "en": "TALK22:Suddenly, an adventurer speaks!(B)I'm pretty strong, you know.￥ｎWant to fight?(F002)(E)"
  },
  {
   "line": 26,
   "jp": "TALK23:突然　冒険者が話しかけてきた！(B)もし本当に強いのなら￥ｎ真剣勝負を挑みます！(F002)(E)",
-  "en": ""
+  "en": "TALK23:Suddenly, an adventurer speaks!(B)If you're truly strong,￥ｎI challenge you to a real duel!(F002)(E)"
  },
  {
   "line": 28,
   "jp": "TALK24:突然　冒険者が話しかけてきた！(B)一番強いってうわさ…￥ｎ聞いてるわよ(B)勝負してっ！(F002)(E)",
-  "en": ""
+  "en": "TALK24:Suddenly, an adventurer speaks!(B)I've heard the rumors that￥ｎyou're the strongest...(B)Fight me!(F002)(E)"
  },
  {
   "line": 29,
   "jp": "TALK25:突然　冒険者が話しかけてきた！(B)腕だめししてるの￥ｎ顔かしてくれるわよね！(F002)(E)",
-  "en": ""
+  "en": "TALK25:Suddenly, an adventurer speaks!(B)I'm testing my skills.￥ｎYou'll humor me, won't you!(F002)(E)"
  },
  {
   "line": 30,
   "jp": "TALK26:突然　冒険者が話しかけてきた！(B)やる気満々ね￥ｎあとで泣いても知らないわよ(F002)(E)",
-  "en": ""
+  "en": "TALK26:Suddenly, an adventurer speaks!(B)Raring to go, huh?￥ｎDon't come crying to me later.(F002)(E)"
  },
  {
   "line": 31,
   "jp": "TALK27:突然　冒険者が話しかけてきた！(B)そんな目で見ないでよ￥ｎ戦うまでわからないじゃない！(B)さあ　勝負よ！(F002)(E)",
-  "en": ""
+  "en": "TALK27:Suddenly, an adventurer speaks!(B)Don't look at me like that!￥ｎYou can't know until we fight!(B)Now, let's go!(F002)(E)"
  },
  {
   "line": 32,
   "jp": "TALK28:突然　冒険者が話しかけてきた！(B)うざったいわ￥ｎ消えなさい！(F002)(E)",
-  "en": ""
+  "en": "TALK28:Suddenly, an adventurer speaks!(B)You're annoying.￥ｎGet lost!(F002)(E)"
  },
  {
   "line": 33,
   "jp": "TALK29:突然　冒険者が話しかけてきた！(B)なんだか強そう…￥ｎ戦ってみたいわ！(B)私の挑戦　受けてよねっ！(F002)(E)",
-  "en": ""
+  "en": "TALK29:Suddenly, an adventurer speaks!(B)You look strong...￥ｎI want to fight you!(B)Accept my challenge!(F002)(E)"
  }
 ]

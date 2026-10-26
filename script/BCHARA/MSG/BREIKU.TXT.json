@@ -2,151 +2,151 @@
  {
   "line": 0,
   "jp": "TALK0:冒険者　(4)が￥ｎ話しかけてきた！(B)まさか　お前も￥ｎこの塔に登るとはな…(E)",
-  "en": ""
+  "en": "TALK0:Adventurer (4)￥ｎspeaks to you!(B)Never thought you'd climb￥ｎthis tower too...(E)"
  },
  {
   "line": 1,
   "jp": "TALK1:冒険者　(4)が￥ｎ話しかけてきた！(B)また会ったな￥ｎまあ　せいぜいがんばれよっ(E)",
-  "en": ""
+  "en": "TALK1:Adventurer (4)￥ｎspeaks to you!(B)We meet again.￥ｎWell, do your best.(E)"
  },
  {
   "line": 2,
   "jp": "TALK2:冒険者　(4)が￥ｎ話しかけてきた！(B)よく生きていたもんだ￥ｎ感心するぜ！(E)",
-  "en": ""
+  "en": "TALK2:Adventurer (4)￥ｎspeaks to you!(B)You're still alive, huh?￥ｎI'm impressed!(E)"
  },
  {
   "line": 3,
   "jp": "TALK3:冒険者　(4)が￥ｎ話しかけてきた！(B)信じられるのは自分だけだ￥ｎお前も　そう思うだろ？(E)",
-  "en": ""
+  "en": "TALK3:Adventurer (4)￥ｎspeaks to you!(B)You can only trust yourself.￥ｎYou think so too, right?(E)"
  },
  {
   "line": 4,
   "jp": "TALK4:冒険者　(4)が￥ｎ話しかけてきた！(B)この塔で俺が一番　強いんだ！(E)",
-  "en": ""
+  "en": "TALK4:Adventurer (4)￥ｎspeaks to you!(B)I'm the strongest in this tower!(E)"
  },
  {
   "line": 5,
   "jp": "TALK5:冒険者　(4)が￥ｎ話しかけてきた！(B)力がすべてだ￥ｎお前も　そう思うだろ？(E)",
-  "en": ""
+  "en": "TALK5:Adventurer (4)￥ｎspeaks to you!(B)Power is everything.￥ｎYou think so too, right?(E)"
  },
  {
   "line": 7,
   "jp": "TALK6:冒険者　(4)が￥ｎ話しかけてきた！(B)俺の邪魔をするなよな￥ｎ命を落とすことになるぜ(B)ふん…￥ｎ聞き分けのない奴は死ねっ！(F002)(E)",
-  "en": ""
+  "en": "TALK6:Adventurer (4)￥ｎspeaks to you!(B)Stay out of my way,￥ｎor you'll lose your life.(B)Hmph...￥ｎThose who won't listen, die!(F002)(E)"
  },
  {
   "line": 8,
   "jp": "TALK7:冒険者　(4)が￥ｎ話しかけてきた！(B)イラついてるんだ￥ｎちょうどいいぜ！(F002)(E)",
-  "en": ""
+  "en": "TALK7:Adventurer (4)￥ｎspeaks to you!(B)I'm irritated.￥ｎThis is perfect!(F002)(E)"
  },
  {
   "line": 9,
   "jp": "TALK8:冒険者　(4)が￥ｎ話しかけてきた！(B)俺とやるかい？￥ｎ絶対負けねえぜ！(F002)(E)",
-  "en": ""
+  "en": "TALK8:Adventurer (4)￥ｎspeaks to you!(B)Want to go at it?￥ｎI never lose!(F002)(E)"
  },
  {
   "line": 10,
   "jp": "TALK9:冒険者　(4)が￥ｎ話しかけてきた！(B)力の差をみせてやるぜ￥ｎ覚悟しろっ(F002)(E)",
-  "en": ""
+  "en": "TALK9:Adventurer (4)￥ｎspeaks to you!(B)I'll show you the gap￥ｎbetween us. Brace yourself!(F002)(E)"
  },
  {
   "line": 11,
   "jp": "TALK10:冒険者　(4)が￥ｎ話しかけてきた！(B)格の違いを教えてやるぜ￥ｎ今　この場でな！(F002)(E)",
-  "en": ""
+  "en": "TALK10:Adventurer (4)￥ｎspeaks to you!(B)I'll teach you your place.￥ｎRight here, right now!(F002)(E)"
  },
  {
   "line": 12,
   "jp": "TALK11:冒険者　(4)が￥ｎ話しかけてきた！(B)俺をだしぬいたな￥ｎ死をもってつぐなわせてやる(F002)(E)",
-  "en": ""
+  "en": "TALK11:Adventurer (4)￥ｎspeaks to you!(B)You outwitted me.￥ｎYou'll pay with your life!(F002)(E)"
  },
  {
   "line": 14,
   "jp": "TALK12:冒険者　(4)が￥ｎ話しかけてきた！(B)お前の力じゃ￥ｎせいぜいもってあと数十階だな(E)",
-  "en": ""
+  "en": "TALK12:Adventurer (4)￥ｎspeaks to you!(B)With your power, you'll last￥ｎmaybe a few dozen more floors.(E)"
  },
  {
   "line": 15,
   "jp": "TALK13:冒険者　(4)が￥ｎ話しかけてきた！(B)逃げてばかりじゃダメなんだぜ(E)",
-  "en": ""
+  "en": "TALK13:Adventurer (4)￥ｎspeaks to you!(B)You can't just keep running.(E)"
  },
  {
   "line": 16,
   "jp": "TALK14:冒険者　(4)が￥ｎ話しかけてきた！(B)もう帰れよ￥ｎこのままじゃ　死ぬのがオチだぜ(E)",
-  "en": ""
+  "en": "TALK14:Adventurer (4)￥ｎspeaks to you!(B)Just go home.￥ｎAt this rate, you'll die.(E)"
  },
  {
   "line": 17,
   "jp": "TALK15:冒険者　(4)が￥ｎ話しかけてきた！(B)何が言いたいんだ？￥ｎ悪いがどいてくれないか(E)",
-  "en": ""
+  "en": "TALK15:Adventurer (4)￥ｎspeaks to you!(B)What are you trying to say?￥ｎMove aside, would you.(E)"
  },
  {
   "line": 18,
   "jp": "TALK16:冒険者　(4)が￥ｎ話しかけてきた！(B)もうあきらめたら　どうだ￥ｎお前にはムリだぜ(E)",
-  "en": ""
+  "en": "TALK16:Adventurer (4)￥ｎspeaks to you!(B)Why not just give up?￥ｎYou can't do it.(E)"
  },
  {
   "line": 19,
   "jp": "TALK17:冒険者　(4)が￥ｎ話しかけてきた！(B)俺のすることに￥ｎ指図するんじゃねえ！(E)",
-  "en": ""
+  "en": "TALK17:Adventurer (4)￥ｎspeaks to you!(B)Don't tell me￥ｎwhat to do!(E)"
  },
  {
   "line": 21,
   "jp": "TALK18:冒険者　(4)が￥ｎ話しかけてきた！(B)宝箱には手をだすなよ￥ｎ全部　俺のものだ！(E)",
-  "en": ""
+  "en": "TALK18:Adventurer (4)￥ｎspeaks to you!(B)Hands off the treasure chests.￥ｎThey're all mine!(E)"
  },
  {
   "line": 22,
   "jp": "TALK19:冒険者　(4)が￥ｎ話しかけてきた！(B)お前なんか…(E)",
-  "en": ""
+  "en": "TALK19:Adventurer (4)￥ｎspeaks to you!(B)Someone like you...(E)"
  },
  {
   "line": 23,
   "jp": "TALK20:冒険者　(4)が￥ｎ話しかけてきた！(B)ちくしょう！￥ｎ先をこされたかっ(E)",
-  "en": ""
+  "en": "TALK20:Adventurer (4)￥ｎspeaks to you!(B)Damn it!￥ｎYou beat me to it!(E)"
  },
  {
   "line": 24,
   "jp": "TALK21:冒険者　(4)が￥ｎ話しかけてきた！(B)その程度じゃ　魔物に食われて￥ｎおしまいだぜ(E)",
-  "en": ""
+  "en": "TALK21:Adventurer (4)￥ｎspeaks to you!(B)At that level, the monsters￥ｎwill eat you. It's over.(E)"
  },
  {
   "line": 25,
   "jp": "TALK22:冒険者　(4)が￥ｎ話しかけてきた！(B)お前なんて￥ｎこの塔にいる意味ねえよ(E)",
-  "en": ""
+  "en": "TALK22:Adventurer (4)￥ｎspeaks to you!(B)There's no point in you￥ｎbeing in this tower.(E)"
  },
  {
   "line": 26,
   "jp": "TALK23:冒険者　(4)が￥ｎ話しかけてきた！(B)貴様…￥ｎ生きていたのか(E)",
-  "en": ""
+  "en": "TALK23:Adventurer (4)￥ｎspeaks to you!(B)You...￥ｎyou're alive?(E)"
  },
  {
   "line": 28,
   "jp": "TALK24:冒険者　(4)が￥ｎ話しかけてきた！(B)どけよ　邪魔だぜ！(E)",
-  "en": ""
+  "en": "TALK24:Adventurer (4)￥ｎspeaks to you!(B)Move, you're in my way!(E)"
  },
  {
   "line": 29,
   "jp": "TALK25:冒険者　(4)が￥ｎ話しかけてきた！(B)こんなところで　もたついてるのか￥ｎへっ　とろい奴だな(E)",
-  "en": ""
+  "en": "TALK25:Adventurer (4)￥ｎspeaks to you!(B)Still dawdling around here?￥ｎHeh, you're so slow.(E)"
  },
  {
   "line": 30,
   "jp": "TALK26:冒険者　(4)が￥ｎ話しかけてきた！(B)魔物に食われちまえ！(E)",
-  "en": ""
+  "en": "TALK26:Adventurer (4)￥ｎspeaks to you!(B)Go get eaten by monsters!(E)"
  },
  {
   "line": 31,
   "jp": "TALK27:冒険者　(4)が￥ｎ話しかけてきた！(B)魔物にやられたのか￥ｎまあ死なないだけ　いいぜ(E)",
-  "en": ""
+  "en": "TALK27:Adventurer (4)￥ｎspeaks to you!(B)Got beaten by monsters?￥ｎWell, at least you're alive.(E)"
  },
  {
   "line": 32,
   "jp": "TALK28:冒険者　(4)が￥ｎ話しかけてきた！(B)なぜ俺につきまとうんだ？￥ｎいいかげんにしてくれ(E)",
-  "en": ""
+  "en": "TALK28:Adventurer (4)￥ｎspeaks to you!(B)Why do you keep following me?￥ｎGive it a rest.(E)"
  },
  {
   "line": 33,
   "jp": "TALK29:冒険者　(4)が￥ｎ話しかけてきた！(B)ふんっ…(E)",
-  "en": ""
+  "en": "TALK29:Adventurer (4)￥ｎspeaks to you!(B)Hmph...(E)"
  }
 ]

@@ -2,151 +2,151 @@
  {
   "line": 0,
   "jp": "TALK0:商人が話しかけてきた！(B)ねぇ…聞いてくれる？(B)ツボを貯金箱代わりにしてたらね…￥ｎ誰かが壊してたのよ！(B)犯人見つけたら教えてね！￥ｎ毒きのこ売りつけてやるから！(E)",
-  "en": ""
+  "en": "TALK0:A merchant speaks to you!(B)Hey... will you listen?(B)I used a pot as my piggy bank...￥ｎand someone broke it!(B)Tell me if you find the culprit!￥ｎI'll sell them poison mushrooms!(E)"
  },
  {
   "line": 1,
   "jp": "TALK1:商人が話しかけてきた！(B)女の私にこの塔で商売なんて￥ｎできるかしら！(E)",
-  "en": ""
+  "en": "TALK1:A merchant speaks to you!(B)Can a woman like me run a￥ｎbusiness in this tower?(E)"
  },
  {
   "line": 2,
   "jp": "TALK2:商人が話しかけてきた！(B)聞いて聞いて！(B)この前アイテムと間違えて￥ｎワナに引っかかっちゃった！(E)",
-  "en": ""
+  "en": "TALK2:A merchant speaks to you!(B)Listen, listen!(B)The other day I mistook a trap￥ｎfor an item and got caught!(E)"
  },
  {
   "line": 3,
   "jp": "TALK3:商人が話しかけてきた！(B)いいもの見つけたら￥ｎすぐに声をかけてちょうだいね！(E)",
-  "en": ""
+  "en": "TALK3:A merchant speaks to you!(B)If you find anything good,￥ｎtell me right away!(E)"
  },
  {
   "line": 4,
   "jp": "TALK4:商人が話しかけてきた！(B)聞いた話なんだけど…(B)大きな一つ首の竜たちは￥ｎもともとは一匹の竜だったらしいわ(B)なんで分かれちゃったのかな？(E)",
-  "en": ""
+  "en": "TALK4:A merchant speaks to you!(B)Here's something I heard...(B)The big one-headed dragons￥ｎwere once a single dragon.(B)Why did it split apart?(E)"
  },
  {
   "line": 5,
   "jp": "TALK5:商人が話しかけてきた！(B)最強の武具を売ってみたんだけど…(B)誰も使いこなせなかったのよ！(B)全然売れないから￥ｎガラクタじいさんにあげちゃった！(E)",
-  "en": ""
+  "en": "TALK5:A merchant speaks to you!(B)I tried selling the best gear...(B)but no one could handle it!(B)It didn't sell at all, so I￥ｎgave it to the Junk Geezer!(E)"
  },
  {
   "line": 7,
   "jp": "TALK6:商人が話しかけてきた！(B)ね！ちょっと聞いて！(B)病気になったらね￥ｎどくけしをつかうの！(B)家のおばあちゃんの知恵袋よ￥ｎ今度いろいろ教えてあげるね！(E)",
-  "en": ""
+  "en": "TALK6:A merchant speaks to you!(B)Hey! Listen!(B)When you get sick,￥ｎuse an Antidote!(B)Grandma's wisdom! I'll teach￥ｎyou more sometime!(E)"
  },
  {
   "line": 8,
   "jp": "TALK7:商人が話しかけてきた！(B)こまったわ…(B)魔物に呪いをかけられたせいで￥ｎワナがみえないの(B)せいすい草は品切れだし￥ｎメダルは全部落とすし…(B)人生こんな事もあるのね……あぅー(E)",
-  "en": ""
+  "en": "TALK7:A merchant speaks to you!(B)I'm in trouble...(B)A monster cursed me,￥ｎso I can't see traps.(B)Holywater Herb is sold out,￥ｎand I dropped all my medals...(B)That's life sometimes... ugh.(E)"
  },
  {
   "line": 9,
   "jp": "TALK8:商人が話しかけてきた！(B)オダケンって商人には￥ｎ気をつけたほうがいいわ(E)",
-  "en": ""
+  "en": "TALK8:A merchant speaks to you!(B)Watch out for a merchant￥ｎnamed Odaken.(E)"
  },
  {
   "line": 10,
   "jp": "TALK9:商人が話しかけてきた！(B)伝説の剣を見たことがあるわ(B)ロンゲソード…(B)ははっ…￥ｎ違ったかしら！？(E)",
-  "en": ""
+  "en": "TALK9:A merchant speaks to you!(B)I've seen a legendary sword.(B)The Longe Sword...(B)Ha ha...￥ｎwas that wrong!?(E)"
  },
  {
   "line": 11,
   "jp": "TALK10:商人が話しかけてきた！(B)ね！ちょっと聞いて！(B)秘剣なんとかって武器は￥ｎ装備すると呪われるんだよ！(B)能力値は最低！はぅ～！(B)…もしかして経験ありですか？(B)呪いにかかったら￥ｎせいすい草を忘れないでね！(E)",
-  "en": ""
+  "en": "TALK10:A merchant speaks to you!(B)Hey! Listen!(B)That \"secret sword\" something￥ｎcurses you when you equip it!(B)Your stats hit rock bottom!(B)...Have you tried it, maybe?(B)If you get cursed, don't￥ｎforget Holywater Herb!(E)"
  },
  {
   "line": 12,
   "jp": "TALK11:商人が話しかけてきた！(B)知ってる？￥ｎ妖しい雰囲気の祭壇の話…(B)ぜったい宝物があったはずなのよ！￥ｎメダルとか宝石とかさぁ…(B)誰かに先を越されちゃうなんて…(B)もしかして…あなただったりする？(B)…まさかね(E)",
-  "en": ""
+  "en": "TALK11:A merchant speaks to you!(B)Know about the creepy altar?(B)There HAD to be treasure!￥ｎMedals, gems, stuff like that...(B)Someone got there first...(B)Was it you, by any chance?(B)...Nah, couldn't be.(E)"
  },
  {
   "line": 14,
   "jp": "TALK12:商人が話しかけてきた！(B)そこの方￥ｎどうですか？(F000)はぁ…￥ｎ残念です…(E)",
-  "en": ""
+  "en": "TALK12:A merchant speaks to you!(B)You there,￥ｎhow about it?(F000)Sigh...￥ｎToo bad...(E)"
  },
  {
   "line": 15,
   "jp": "TALK13:商人が話しかけてきた！(B)ねえねえ￥ｎ見てってよーっ(F000)あーっ￥ｎつまんないよーっ！(E)",
-  "en": ""
+  "en": "TALK13:A merchant speaks to you!(B)Hey hey,￥ｎtake a looook!(F000)Awww,￥ｎso boring!(E)"
  },
  {
   "line": 16,
   "jp": "TALK14:商人が話しかけてきた！(B)こんにちわ￥ｎいいものがそろってるわよ(F000)じゃあまたね！(E)",
-  "en": ""
+  "en": "TALK14:A merchant speaks to you!(B)Hello,￥ｎI've got good stuff!(F000)See you then!(E)"
  },
  {
   "line": 17,
   "jp": "TALK15:商人が話しかけてきた！(B)あらぁ　いい男じゃない！￥ｎ気にいったわ　安くしてあげる(F000)口車には￥ｎのらないってことか…(E)",
-  "en": ""
+  "en": "TALK15:A merchant speaks to you!(B)Ooh, aren't you handsome!￥ｎI like you. Here's a discount.(F000)Not falling for￥ｎmy sweet talk, huh...(E)"
  },
  {
   "line": 18,
   "jp": "TALK16:商人が話しかけてきた！(B)この間すごいものを仕入れたの￥ｎ見てって！(F000)そう…　残念ね…(E)",
-  "en": ""
+  "en": "TALK16:A merchant speaks to you!(B)I just got something amazing.￥ｎTake a look!(F000)I see... too bad...(E)"
  },
  {
   "line": 19,
   "jp": "TALK17:商人が話しかけてきた！(B)さあ　見てちょうだい！(F000)仕方がない…￥ｎまた今度ね(E)",
-  "en": ""
+  "en": "TALK17:A merchant speaks to you!(B)Come on, take a look!(F000)Oh well...￥ｎnext time, then.(E)"
  },
  {
   "line": 21,
   "jp": "TALK18:商人が話しかけてきた！(B)見ていくだけなら￥ｎ損はしないでしょ(F000)もう…￥ｎドンと買っていってよね！(E)",
-  "en": ""
+  "en": "TALK18:A merchant speaks to you!(B)Just looking￥ｎwon't hurt you!(F000)Come on...￥ｎbuy a whole bunch!(E)"
  },
  {
   "line": 22,
   "jp": "TALK19:商人が話しかけてきた！(B)安さがウリなの￥ｎよっていって！(F000)ちぇっ　そんなに高くないのに…(E)",
-  "en": ""
+  "en": "TALK19:A merchant speaks to you!(B)Low prices are my thing.￥ｎStop by!(F000)Tch, it's not that pricey...(E)"
  },
  {
   "line": 23,
   "jp": "TALK20:商人が話しかけてきた！(B)ふふふっ…￥ｎ見てって…(F000)この根性なしっ！(E)",
-  "en": ""
+  "en": "TALK20:A merchant speaks to you!(B)Heh heh heh...￥ｎtake a look...(F000)You coward!(E)"
  },
  {
   "line": 24,
   "jp": "TALK21:商人が話しかけてきた！(B)私のところには￥ｎめずらしいアイテムがいっぱいよ(F000)いいわよ￥ｎもっとめずらしいもの仕入れるわ(E)",
-  "en": ""
+  "en": "TALK21:A merchant speaks to you!(B)I've got lots of￥ｎrare items!(F000)Fine. I'll get even￥ｎrarer stuff.(E)"
  },
  {
   "line": 25,
   "jp": "TALK22:商人が話しかけてきた！(B)あっ　お客さん見つけた！(F000)えーん！￥ｎ買ってくんないよう！(E)",
-  "en": ""
+  "en": "TALK22:A merchant speaks to you!(B)Oh, I found a customer!(F000)Waaah!￥ｎThey won't buy anything!(E)"
  },
  {
   "line": 26,
   "jp": "TALK23:商人が話しかけてきた！(B)最近強い魔物が増えたでしょ？￥ｎ備えが足りないんじゃない(F000)死んだって知らないよ(E)",
-  "en": ""
+  "en": "TALK23:A merchant speaks to you!(B)Strong monsters are on the rise,￥ｎright? Are you well prepared?(F000)Don't blame me if you die.(E)"
  },
  {
   "line": 28,
   "jp": "TALK24:商人が話しかけてきた！(B)私　なりたての商人なんです￥ｎ何か買い物してってくれませんか(F000)だめですか…(E)",
-  "en": ""
+  "en": "TALK24:A merchant speaks to you!(B)I'm a brand-new merchant.￥ｎWon't you buy something?(F000)No good...?(E)"
  },
  {
   "line": 29,
   "jp": "TALK25:商人が話しかけてきた！(B)いかがですか？￥ｎいろんなもの　そろえてますよ(F000)また今度いらしてね(E)",
-  "en": ""
+  "en": "TALK25:A merchant speaks to you!(B)How about it?￥ｎI've got all sorts of things.(F000)Come again sometime.(E)"
  },
  {
   "line": 30,
   "jp": "TALK26:商人が話しかけてきた！(B)なーにが欲しいんだ￥ｎ言ってみなよ！(F000)こっちから願い下げだね(E)",
-  "en": ""
+  "en": "TALK26:A merchant speaks to you!(B)Whaddaya want?￥ｎSpit it out!(F000)I don't want your business!(E)"
  },
  {
   "line": 31,
   "jp": "TALK27:商人が話しかけてきた！(B)塔の中は何かと大変…￥ｎそこでこんなのどうでしょう？(F000)またのおこし￥ｎお待ちしてまーす(E)",
-  "en": ""
+  "en": "TALK27:A merchant speaks to you!(B)Things are rough in the tower...￥ｎSo how about this?(F000)Please come￥ｎagain!(E)"
  },
  {
   "line": 32,
   "jp": "TALK28:商人が話しかけてきた！(B)この間値下げしたばかりなの￥ｎ見てってください(F000)また見にきてね(E)",
-  "en": ""
+  "en": "TALK28:A merchant speaks to you!(B)I just lowered my prices.￥ｎPlease take a look.(F000)Come look again!(E)"
  },
  {
   "line": 33,
   "jp": "TALK29:商人が話しかけてきた！(B)魔物からいただいた￥ｎとっておきがあるわよ(F000)見る目ないんじゃない！(E)",
-  "en": ""
+  "en": "TALK29:A merchant speaks to you!(B)I've got a prize I took￥ｎfrom a monster!(F000)No eye for quality!(E)"
  }
 ]

@@ -92,6 +92,11 @@ def is_pair(cell):
     return cell.isascii()
 
 
+# Codes after which text starts on a fresh line: line break, wait for button,
+# end of message, and (F###) prompts (yes/no, trade...) that open a new window
+LINE_RESET = re.compile(r'￥ｎ|\([BE]\)|\(F\d+\)')
+
+
 def visual_width(parts):
     """Longest visual line in cells (one cell = one pair)."""
     widest = cur = 0
@@ -99,7 +104,7 @@ def visual_width(parts):
         if is_text:
             cur += len(pairs(chunk))
             widest = max(widest, cur)
-        elif chunk in ('￥ｎ', '(B)', '(E)'):
+        elif LINE_RESET.fullmatch(chunk):
             cur = 0
     return widest
 

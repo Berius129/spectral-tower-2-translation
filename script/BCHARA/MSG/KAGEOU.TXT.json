@@ -2,151 +2,151 @@
  {
   "line": 0,
   "jp": "TALK0:冒険者　(6)が￥ｎ話しかけてきた！(B)信じた者に裏切られても￥ｎ決してうらんではならんぞ(E)",
-  "en": ""
+  "en": "TALK0:Adventurer (6)￥ｎspeaks to you!(B)Even if a friend betrays you,￥ｎnever hold a grudge.(E)"
  },
  {
   "line": 1,
   "jp": "TALK1:冒険者　(6)が￥ｎ話しかけてきた！(B)悪意は心のスキをついてやってくる￥ｎたとえ善人であってもだ！(E)",
-  "en": ""
+  "en": "TALK1:Adventurer (6)￥ｎspeaks to you!(B)Malice slips into any gap in the￥ｎheart. Even a good person's!(E)"
  },
  {
   "line": 2,
   "jp": "TALK2:冒険者　(6)が￥ｎ話しかけてきた！(B)何が正義で何が悪なのか…￥ｎ見極めるのだ(E)",
-  "en": ""
+  "en": "TALK2:Adventurer (6)￥ｎspeaks to you!(B)What is just, what is evil...￥ｎlearn to tell them apart.(E)"
  },
  {
   "line": 3,
   "jp": "TALK3:冒険者　(6)が￥ｎ話しかけてきた！(B)危ない奴だったら￥ｎ仲間にしない方が身のためだ(E)",
-  "en": ""
+  "en": "TALK3:Adventurer (6)￥ｎspeaks to you!(B)If someone seems dangerous,￥ｎbetter not to let them join.(E)"
  },
  {
   "line": 4,
   "jp": "TALK4:冒険者　(6)が￥ｎ話しかけてきた！(B)生きろ…(B)この世界は￥ｎお前のような者たちが必要なのだ(E)",
-  "en": ""
+  "en": "TALK4:Adventurer (6)￥ｎspeaks to you!(B)Live...(B)This world needs people￥ｎlike you.(E)"
  },
  {
   "line": 5,
   "jp": "TALK5:冒険者　(6)が￥ｎ話しかけてきた！(B)今　追われている…￥ｎまた後でなっ(E)",
-  "en": ""
+  "en": "TALK5:Adventurer (6)￥ｎspeaks to you!(B)I'm being chased right now...￥ｎLater.(E)"
  },
  {
   "line": 7,
   "jp": "TALK6:冒険者　(6)が￥ｎ話しかけてきた！(B)逃げていても道は見えんぞ￥ｎ俺と戦うのだ(F002)(E)",
-  "en": ""
+  "en": "TALK6:Adventurer (6)￥ｎspeaks to you!(B)Running won't show you the way.￥ｎFight me.(F002)(E)"
  },
  {
   "line": 8,
   "jp": "TALK7:冒険者　(6)が￥ｎ話しかけてきた！(B)貴様の力をためさせてもらう(F002)(E)",
-  "en": ""
+  "en": "TALK7:Adventurer (6)￥ｎspeaks to you!(B)I will test your strength.(F002)(E)"
  },
  {
   "line": 9,
   "jp": "TALK8:冒険者　(6)が￥ｎ話しかけてきた！(B)俺より強い奴はたくさんいる￥ｎまずは俺をこえてみろ(F002)(E)",
-  "en": ""
+  "en": "TALK8:Adventurer (6)￥ｎspeaks to you!(B)Many are stronger than me.￥ｎFirst, try to surpass me.(F002)(E)"
  },
  {
   "line": 10,
   "jp": "TALK9:冒険者　(6)が￥ｎ話しかけてきた！(B)上の階へ登る資格があるか￥ｎためさせてもらうぞ(F002)(E)",
-  "en": ""
+  "en": "TALK9:Adventurer (6)￥ｎspeaks to you!(B)Let me see if you're worthy￥ｎof climbing higher.(F002)(E)"
  },
  {
   "line": 11,
   "jp": "TALK10:冒険者　(6)が￥ｎ話しかけてきた！(B)お前の力が正しいものか￥ｎ見極めさせてもらう(B)さあ　いくぞ！(F002)(E)",
-  "en": ""
+  "en": "TALK10:Adventurer (6)￥ｎspeaks to you!(B)I'll judge whether your power￥ｎis righteous.(B)Now, here I come!(F002)(E)"
  },
  {
   "line": 12,
   "jp": "TALK11:冒険者　(6)が￥ｎ話しかけてきた！(B)強そうだな￥ｎしかし力がすべてとは限らない(B)それを今　わからせてやる！(F002)(E)",
-  "en": ""
+  "en": "TALK11:Adventurer (6)￥ｎspeaks to you!(B)You look strong. But power￥ｎisn't everything.(B)I'll make you see that now!(F002)(E)"
  },
  {
   "line": 14,
   "jp": "TALK12:冒険者　(6)が￥ｎ話しかけてきた！(B)俺が道を案内してやる￥ｎついてこい(F001)俺では　不満か！(E)",
-  "en": ""
+  "en": "TALK12:Adventurer (6)￥ｎspeaks to you!(B)I'll guide you.￥ｎFollow me.(F001)Am I not good enough!?(E)"
  },
  {
   "line": 15,
   "jp": "TALK13:冒険者　(6)が￥ｎ話しかけてきた！(B)この辺はワナが多いぞ￥ｎ俺の後に続け(F001)死ぬ気かあっ！(E)",
-  "en": ""
+  "en": "TALK13:Adventurer (6)￥ｎspeaks to you!(B)Lots of traps around here.￥ｎStay behind me.(F001)Do you want to die!?(E)"
  },
  {
   "line": 16,
   "jp": "TALK14:冒険者　(6)が￥ｎ話しかけてきた！(B)そいつは信用できん奴だ￥ｎついていったら危険だぞ(F001)ふっ　死相が見えるぞ！(E)",
-  "en": ""
+  "en": "TALK14:Adventurer (6)￥ｎspeaks to you!(B)That one can't be trusted.￥ｎFollowing them is dangerous.(F001)Heh. I see death in your face!(E)"
  },
  {
   "line": 17,
   "jp": "TALK15:冒険者　(6)が￥ｎ話しかけてきた！(B)狂暴な魔物がいる￥ｎ俺に力をかせ(F001)なぜだぁ～っ！(E)",
-  "en": ""
+  "en": "TALK15:Adventurer (6)￥ｎspeaks to you!(B)There's a vicious monster.￥ｎLend me your strength.(F001)Whyyyy!(E)"
  },
  {
   "line": 18,
   "jp": "TALK16:冒険者　(6)が￥ｎ話しかけてきた！(B)生き方は人それぞれだ￥ｎ悩んでいるなら俺とこい(F001)ぬぬっ　それでいいのか？(E)",
-  "en": ""
+  "en": "TALK16:Adventurer (6)￥ｎspeaks to you!(B)Everyone lives their own way.￥ｎIf you're unsure, come with me.(F001)Hmm. Is that really okay?(E)"
  },
  {
   "line": 19,
   "jp": "TALK17:冒険者　(6)が￥ｎ話しかけてきた！(B)利用されているのさ￥ｎ別れた方がいいぞ(F001)なぜ　わからんのだっ！(E)",
-  "en": ""
+  "en": "TALK17:Adventurer (6)￥ｎspeaks to you!(B)You're being used.￥ｎBetter to part ways.(F001)Why don't you understand!(E)"
  },
  {
   "line": 21,
   "jp": "TALK18:冒険者　(6)が￥ｎ話しかけてきた！(B)元は盗賊が持っていたものだ￥ｎいらないか？(F000)死ぬなよ(E)",
-  "en": ""
+  "en": "TALK18:Adventurer (6)￥ｎspeaks to you!(B)This once belonged to a thief.￥ｎWant it?(F000)Don't die.(E)"
  },
  {
   "line": 22,
   "jp": "TALK19:冒険者　(6)が￥ｎ話しかけてきた！(B)魔物からうばったものだ￥ｎいるか？(F000)そうか　ならいい…(E)",
-  "en": ""
+  "en": "TALK19:Adventurer (6)￥ｎspeaks to you!(B)I took this from a monster.￥ｎWant it?(F000)I see. Fine then...(E)"
  },
  {
   "line": 23,
   "jp": "TALK20:冒険者　(6)が￥ｎ話しかけてきた！(B)死んだ冒険者が持っていた物だ￥ｎこの中に気に入った物はないか？(F000)別に気をつかわなくていいんだぞ(E)",
-  "en": ""
+  "en": "TALK20:Adventurer (6)￥ｎspeaks to you!(B)A dead adventurer's belongings.￥ｎSee anything you like?(F000)No need to be polite.(E)"
  },
  {
   "line": 24,
   "jp": "TALK21:冒険者　(6)が￥ｎ話しかけてきた！(B)備えは絶対に多い方がいい￥ｎ俺のを分けてやろう(F000)みずくさい奴だな…(E)",
-  "en": ""
+  "en": "TALK21:Adventurer (6)￥ｎspeaks to you!(B)It's always best to be prepared.￥ｎI'll share some of mine.(F000)Don't be so formal...(E)"
  },
  {
   "line": 25,
   "jp": "TALK22:冒険者　(6)が￥ｎ話しかけてきた！(B)なかなか手に入らぬ物だが￥ｎ今なら交換してやる(F000)さらばだ(E)",
-  "en": ""
+  "en": "TALK22:Adventurer (6)￥ｎspeaks to you!(B)These are hard to find, but￥ｎI'll trade them now.(F000)Farewell.(E)"
  },
  {
   "line": 26,
   "jp": "TALK23:冒険者　(6)が￥ｎ話しかけてきた！(B)今のお前には必要だろ？(F000)塔の中でくたばるなよ(E)",
-  "en": ""
+  "en": "TALK23:Adventurer (6)￥ｎspeaks to you!(B)You need this right now, yes?(F000)Don't die in this tower.(E)"
  },
  {
   "line": 28,
   "jp": "TALK24:冒険者　(6)が￥ｎ話しかけてきた！(B)自由に生きて　みたくないか￥ｎ俺と一緒に！(B)わかるだろう￥ｎ俺が仲間になるというのだ(F003)ならいい…(E)",
-  "en": ""
+  "en": "TALK24:Adventurer (6)￥ｎspeaks to you!(B)Don't you want to live free?￥ｎWith me!(B)You understand, don't you.￥ｎI'm offering to join you.(F003)Very well...(E)"
  },
  {
   "line": 29,
   "jp": "TALK25:冒険者　(6)が￥ｎ話しかけてきた！(B)俺を仲間にしろ￥ｎいないよりマシだろう(F003)強がるな！(E)",
-  "en": ""
+  "en": "TALK25:Adventurer (6)￥ｎspeaks to you!(B)Let me join you.￥ｎBetter than nothing, right?(F003)Don't act tough!(E)"
  },
  {
   "line": 30,
   "jp": "TALK26:冒険者　(6)が￥ｎ話しかけてきた！(B)目的のない人生だ￥ｎ同行してもいいぞ(F003)俺も別の道を探すか…(E)",
-  "en": ""
+  "en": "TALK26:Adventurer (6)￥ｎspeaks to you!(B)My life has no purpose.￥ｎI could come with you.(F003)I'll find another path, then...(E)"
  },
  {
   "line": 31,
   "jp": "TALK27:冒険者　(6)が￥ｎ話しかけてきた！(B)お前の生き方を見てみたい￥ｎついていくぞ(F003)なぜ断るのだ？(E)",
-  "en": ""
+  "en": "TALK27:Adventurer (6)￥ｎspeaks to you!(B)I want to see how you live.￥ｎI'm coming along.(F003)Why refuse?(E)"
  },
  {
   "line": 32,
   "jp": "TALK28:冒険者　(6)が￥ｎ話しかけてきた！(B)道のりは遠い…￥ｎ手をかしてやろう(F003)ムリするなよ…(E)",
-  "en": ""
+  "en": "TALK28:Adventurer (6)￥ｎspeaks to you!(B)The road is long...￥ｎLet me lend a hand.(F003)Don't push yourself...(E)"
  },
  {
   "line": 33,
   "jp": "TALK29:冒険者　(6)が￥ｎ話しかけてきた！(B)仲間になろう￥ｎ塔にくわしい奴が必要だろう(F003)………(E)",
-  "en": ""
+  "en": "TALK29:Adventurer (6)￥ｎspeaks to you!(B)Let me join. You need someone￥ｎwho knows the tower.(F003).........(E)"
  }
 ]
