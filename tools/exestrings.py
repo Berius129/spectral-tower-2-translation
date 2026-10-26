@@ -14,7 +14,8 @@ import sttext
 PATH = '/SLPS_011.79'
 BASE = 0x80010000  # RAM address of file offset 0x800
 DATA_AREAS = [(0x800, 0xA000), (0xBD000, None)]  # file offsets
-JAPANESE = re.compile(r'[぀-ヿ一-鿿！-￯]')
+# Kana or kanji; strings with only full-width digits/symbols are number glyphs
+JAPANESE = re.compile(r'[぀-ヿ一-鿿]')
 SYNTAX = re.compile(r'%[-0-9]*[sdxc]|\([0-9A-Za-z]+\)')
 
 

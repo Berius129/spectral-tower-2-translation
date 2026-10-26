@@ -54,7 +54,7 @@ def jp_width(jp):
 
 def encode_text(e, table, fullwidth):
     """English of one entry as the game's text (str)."""
-    if fullwidth:
+    if fullwidth or e.get('mode') == 'fullwidth':
         return sttext.to_fullwidth(e['en'])
     return table.encode(dte.split_line(e['jp'], e['en']))
 
@@ -92,6 +92,10 @@ def main():
         keep, counts = set(), collections.Counter()
         for entries in [exe_entries] + [entries for _, entries in script]:
             for e in entries:
+                # kanji kept inside a translation (e.g. 終) must keep their glyph
+                keep.update(KANJI.findall(e['en']))
+                if e['en'] and e.get('mode') == 'fullwidth':
+                    continue
                 if e['en']:
                     for is_text, chunk in dte.split_line(e['jp'], e['en']):
                         if is_text:

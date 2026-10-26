@@ -22,9 +22,12 @@ def save(path, entries, key):
     """Write entries to script/<path>.json, keeping translations whose key still matches."""
     out = os.path.join(SCRIPT, path.lstrip('/') + '.json')
     if os.path.exists(out):
-        old = {key(e): e['en'] for e in json.load(open(out, encoding='utf-8'))}
+        old = {key(e): e for e in json.load(open(out, encoding='utf-8'))}
         for e in entries:
-            e['en'] = old.get(key(e), '')
+            prev = old.get(key(e), {})
+            e['en'] = prev.get('en', '')
+            if 'mode' in prev:
+                e['mode'] = prev['mode']
     os.makedirs(os.path.dirname(out), exist_ok=True)
     with open(out, 'w', encoding='utf-8') as f:
         json.dump(entries, f, ensure_ascii=False, indent=1)
