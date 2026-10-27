@@ -238,14 +238,14 @@
   "offset": "0x27fc",
   "max": 12,
   "jp": "は　マヒして",
-  "en": "",
+  "en": " is paralyze",
   "joined": true
  },
  {
   "offset": "0x2808",
   "max": 7,
   "jp": "いる",
-  "en": ""
+  "en": "d."
  },
  {
   "offset": "0x2810",
