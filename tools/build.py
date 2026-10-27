@@ -55,6 +55,12 @@ def jp_width(jp):
     return widest
 
 
+def has_english(e):
+    """An entry has English, or is meant to be empty ("mode": "empty", e.g. a
+    prefix English doesn't need)."""
+    return bool(e['en']) or e.get('mode') == 'empty'
+
+
 def encode_text(e, table, fullwidth):
     """English of one entry as the game's text (str)."""
     if fullwidth or e.get('mode') == 'fullwidth':
@@ -104,7 +110,7 @@ def main():
                 keep.update(KANJI.findall(e['en']))
                 if e['en'] and e.get('mode') == 'fullwidth':
                     continue
-                if e['en']:
+                if has_english(e):
                     for is_text, chunk in dte.split_line(e['jp'], e['en']):
                         if is_text:
                             counts.update(c for c in dte.pairs(chunk) if dte.is_pair(c))
@@ -120,7 +126,7 @@ def main():
     patched = translated = 0
     exe = img.read(EXE)
     for e in exe_entries:
-        if not e['en']:
+        if not has_english(e):
             continue
         where = f'{EXE} {e["offset"]}'
         off = int(e['offset'], 16)
@@ -148,7 +154,7 @@ def main():
     graphics.apply(img)
 
     for path, entries in script:
-        todo = [e for e in entries if e['en']]
+        todo = [e for e in entries if has_english(e)]
         if not todo:
             continue
         cells = max([MIN_CELLS] + [jp_width(e['jp']) for e in entries])

@@ -1441,7 +1441,7 @@
   "offset": "0x4da0",
   "max": 19,
   "jp": "を￥ｎ食べますか？",
-  "en": ":￥ｎEat it?"
+  "en": "￥ｎReally eat it?"
  },
  {
   "offset": "0x4db4",
@@ -1453,7 +1453,7 @@
   "offset": "0x4e2c",
   "max": 19,
   "jp": "を￥ｎ捨てますか？",
-  "en": ":￥ｎDrop it?"
+  "en": "￥ｎThrow it away?"
  },
  {
   "offset": "0x4e50",
@@ -7687,7 +7687,8 @@
   "offset": "0xe47a8",
   "max": 7,
   "jp": "本当に",
-  "en": "Really"
+  "en": "",
+  "mode": "empty"
  },
  {
   "offset": "0xe47b8",
