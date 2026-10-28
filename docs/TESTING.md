@@ -1,6 +1,6 @@
 # Testing status
 
-**49% tested** (36.5 of 74 checks; a partial check counts as half).
+**51% tested** (37.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -66,7 +66,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Destiny Town dialogue | user, auto |  |
 | 🔧 | Choosing the first Root | user |  |
 
-## Event floors (6/38)
+## Event floors (7/38)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -76,7 +76,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Floor 10 | user | rescued adventurer |
 | ✅ | Floor 16 | user | tourists |
 | ✅ | Floor 22 | user | stood-up woman |
-| ⬜ | Floor 30 |  | rescued adventurer |
+| ✅ | Floor 30 | user | rescued adventurer |
 | ⬜ | Floor 40 |  | father and son |
 | ⬜ | Floor 60 |  | Devil Mansion |
 | ⬜ | Floor 101 |  | Tranquil Town |
