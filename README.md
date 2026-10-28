@@ -2,7 +2,7 @@
 
 English fan translation patch for *Spectral Tower II* (スペクトラルタワーII, PlayStation, Idea Factory, 1998, SLPS-01179), translated from Japanese to English: menus, items, skills, Roots, dialogue, events and the subtitled videos.
 
-**Download:** [latest release (v0.2.0 beta)](https://github.com/Berius129/spectral-tower-2-translation/releases/latest) — an xdelta patch for your own Japanese disc image, with instructions.
+**Download:** [Releases page](https://github.com/Berius129/spectral-tower-2-translation/releases) (latest: v0.2.0 beta) — an xdelta patch for your own Japanese disc image, with instructions.
 
 [![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/SLW4WJCZ2HKF6)
 
