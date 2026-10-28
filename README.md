@@ -27,7 +27,7 @@ You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track
    ```
    Writes a plain xdelta/VCDIFF patch (no external tools needed) and checks it by applying it. Ship it with [docs/PATCH_README.txt](docs/PATCH_README.txt) (player instructions and disc checksums) and a `.cue` for the patched `.bin`.
 
-## Status: v0.1 beta
+## Status: v0.2.0 beta
 
 All text is translated, but it has had little testing in game. Expect cut-off or untranslated text in places that haven't been seen yet.
 
@@ -91,4 +91,4 @@ Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`,
       whole (`"encode": "full"`) so the new text doesn't turn into gray blocks. `build.py` runs it when
       Java, jPSXdec and ffmpeg are in `~/.local` (`--no-movies` skips it).
 - [ ] Translation
-- [x] Distribute as an xdelta patch (v0.1 beta, `tools/make_patch.py`)
+- [x] Distribute as an xdelta patch (v0.2.0 beta, `tools/make_patch.py`)
