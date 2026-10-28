@@ -68,6 +68,17 @@ def encode_text(e, table, fullwidth):
     return table.encode(dte.split_line(e['jp'], e['en']))
 
 
+def check_syntax(e, where):
+    """Warn about anything in the English that would be kept as a raw
+    control code but is not in the original (it would show as garbage)."""
+    extra = [m for m in dte.SYNTAX.findall(e['en'])
+             if m.startswith('(') and m not in dte.SYNTAX.findall(e['jp'])]
+    if extra:
+        print(f'WARNING {where}: not in the original, kept as raw codes: {" ".join(extra)}')
+        return 1
+    return 0
+
+
 def check_codes(e, where):
     """Warn when control codes are missing or extra. Order and line breaks
     may change in English (e.g. a name moves inside the sentence)."""
@@ -166,6 +177,7 @@ def main():
                 errors += 1
                 continue
             warnings += check_codes(e, where)
+            warnings += check_syntax(e, where)
             if not args.fullwidth:
                 width = dte.visual_width(dte.split_line(e['jp'], e['en']))
                 if width > cells:
