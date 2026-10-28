@@ -8,7 +8,7 @@ By: 'user' (played in DuckStation), 'auto' (tools/emu.py screenshots),
 import os
 
 # event floors checked in game by the user, and those where an issue was fixed
-USER_FLOORS = {1, 4, 6, 10, 16, 22, 30, 40}
+USER_FLOORS = {1, 4, 6, 10, 16, 22, 30, 40, 60, 101, 150}
 FIXED_FLOORS = {4}
 
 CHECKS = [
