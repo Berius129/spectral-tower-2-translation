@@ -15,7 +15,7 @@ CHECKS = [
         ('Memory card: load', 'ok', 'auto', ''),
         ('Memory card: save, format, errors', 'partial', 'auto', 'save and overwrite seen; format/errors not'),
         ('Item list and descriptions', 'ok', 'user, auto', ''),
-        ('Item actions: use, equip, eat, drop', 'fixed', 'user, auto', 'drop/eat prompts restructured'),
+        ('Item actions: use, equip, eat, drop', 'fixed', 'user, auto', 'drop/eat prompts restructured; eating bread, herb, wand, rusty armor, Abyss Blade checked'),
         ('Status page', 'ok', 'auto', ''),
         ('Roots Discovered list', 'ok', 'auto', ''),
         ('Mastered Root Skills', 'fixed', 'user, auto', 'skill type, target and requirement tables'),

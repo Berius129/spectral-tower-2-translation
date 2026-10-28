@@ -20,7 +20,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Memory card: load | auto |  |
 | 🟨 | Memory card: save, format, errors | auto | save and overwrite seen; format/errors not |
 | ✅ | Item list and descriptions | user, auto |  |
-| 🔧 | Item actions: use, equip, eat, drop | user, auto | drop/eat prompts restructured |
+| 🔧 | Item actions: use, equip, eat, drop | user, auto | drop/eat prompts restructured; eating bread, herb, wand, rusty armor, Abyss Blade checked |
 | ✅ | Status page | auto |  |
 | ✅ | Roots Discovered list | auto |  |
 | 🔧 | Mastered Root Skills | user, auto | skill type, target and requirement tables |
