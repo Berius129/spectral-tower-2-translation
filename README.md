@@ -31,6 +31,8 @@ You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track
 
 All text is translated, but it has had little testing in game. Expect cut-off or untranslated text in places that haven't been seen yet.
 
+Testing progress: **39%** — see [docs/TESTING.md](docs/TESTING.md) for what has been checked and what is pending.
+
 ## Root codes
 
 [docs/ROOTS.md](docs/ROOTS.md) lists all 140 Roots with the code to enter at the Tree of Destiny, regenerated with `python3 tools/roots_table.py "<disc.bin>"`.
