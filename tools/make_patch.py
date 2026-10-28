@@ -7,12 +7,17 @@ The translated image is the same size as the original, so each window
 copies the unchanged bytes from the same place in the source and adds the
 changed ones. Plain VCDIFF with the default code table and no secondary
 compression: xdelta3, xdelta UI, Delta Patcher and Rom Patcher JS apply it.
+Each window carries xdelta3's Adler-32 checksum of its output, so patching
+the wrong source image fails instead of silently writing a corrupt one.
 """
 import hashlib
+import struct
 import sys
+import zlib
 
 MAGIC = b'\xd6\xc3\xc4\x00'
 VCD_SOURCE = 0x01
+VCD_ADLER32 = 0x04   # xdelta3 extension: window checksum after the section lengths
 WINDOW = 1 << 20     # target bytes per window
 MIN_COPY = 16        # shorter unchanged runs are cheaper as part of an ADD
 BLOCK = 64           # compare in blocks first, bytes only inside changed blocks
@@ -68,9 +73,9 @@ def window(src, tgt, start):
             data += tgt[a:b]
         pos = b
     body = (bytes([0]) + varint(len(data)) + varint(len(inst)) + varint(len(addr))
-            + bytes(data) + bytes(inst) + bytes(addr))
+            + struct.pack('>I', zlib.adler32(tgt)) + bytes(data) + bytes(inst) + bytes(addr))
     head = varint(len(tgt)) + body  # target window length, then the rest
-    return (bytes([VCD_SOURCE]) + varint(len(src)) + varint(start)
+    return (bytes([VCD_SOURCE | VCD_ADLER32]) + varint(len(src)) + varint(start)
             + varint(len(head)) + head)
 
 
@@ -88,7 +93,7 @@ def apply(src, patch):
     while pos < len(patch):
         ind = patch[pos]
         pos += 1
-        assert ind == VCD_SOURCE
+        assert ind == VCD_SOURCE | VCD_ADLER32
         slen, pos = read_varint(patch, pos)
         spos, pos = read_varint(patch, pos)
         _, pos = read_varint(patch, pos)
@@ -98,6 +103,8 @@ def apply(src, patch):
         dlen, pos = read_varint(patch, pos)
         ilen, pos = read_varint(patch, pos)
         alen, pos = read_varint(patch, pos)
+        checksum = struct.unpack_from('>I', patch, pos)[0]
+        pos += 4
         data = patch[pos:pos + dlen]
         inst = patch[pos + dlen:pos + dlen + ilen]
         addr = patch[pos + dlen + ilen:pos + dlen + ilen + alen]
@@ -115,7 +122,7 @@ def apply(src, patch):
                 win += seg[at:at + size]
             else:
                 raise ValueError(f'unexpected instruction {code}')
-        assert len(win) == tlen
+        assert len(win) == tlen and zlib.adler32(win) == checksum
         out += win
     return bytes(out)
 

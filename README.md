@@ -29,7 +29,7 @@ You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track
    ```
    python3 tools/make_patch.py "path/to/Spectral Tower II (Japan).bin" "build/Spectral Tower II (English).bin" "build/Spectral Tower II (English).xdelta"
    ```
-   Writes a plain xdelta/VCDIFF patch (no external tools needed) and checks it by applying it. Ship it with [docs/PATCH_README.txt](docs/PATCH_README.txt) (player instructions and disc checksums) and a `.cue` for the patched `.bin`.
+   Writes an xdelta/VCDIFF patch (no external tools needed) with xdelta3's per-window Adler-32 checksums, and checks it by applying it. v0.2.0 was also verified with the official xdelta3 3.2.1, which rejects a wrong source image. Ship it with [docs/PATCH_README.txt](docs/PATCH_README.txt) (player instructions and disc checksums) and a `.cue` for the patched `.bin`.
 
 ## Status: v0.2.0 beta
 
