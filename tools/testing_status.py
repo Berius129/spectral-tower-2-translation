@@ -13,7 +13,7 @@ CHECKS = [
         ('Hero name entry (ABC/abc panels)', 'fixed', 'user, auto', 'display blocks and input tables now match'),
         ('Rename the 5 male/female adventurers', 'partial', 'auto', 'prompt fixed; the renaming itself not tried'),
         ('Memory card: load', 'ok', 'auto', ''),
-        ('Memory card: save, format, errors', 'todo', '', ''),
+        ('Memory card: save, format, errors', 'partial', 'auto', 'save and overwrite seen; format/errors not'),
         ('Item list and descriptions', 'ok', 'user, auto', ''),
         ('Item actions: use, equip, eat, drop', 'fixed', 'user, auto', 'drop/eat prompts restructured'),
         ('Status page', 'ok', 'auto', ''),
@@ -25,12 +25,12 @@ CHECKS = [
         ('Belacus destinations', 'fixed', 'user, auto', ''),
         ('Chest screen', 'fixed', 'user', ''),
         ('Floor clear bonus', 'fixed', 'user', ''),
-        ('Tree of Destiny / Root code entry', 'fixed', 'user', ''),
+        ('Tree of Destiny: menu, heal, Root code entry', 'fixed', 'user, auto', ''),
         ('Mail notice', 'ok', 'auto', ''),
-        ('Reading mail', 'todo', '', ''),
+        ('Reading mail', 'partial', 'auto', "only 'There is no mail for you.' seen"),
         ('Shops', 'todo', '', ''),
-        ('Saving the game', 'todo', '', ''),
-        ('Death / game over', 'todo', '', ''),
+        ('Saving the game', 'ok', 'auto', 'Tree of Destiny: save, overwrite prompt'),
+        ('Death / game over', 'ok', 'auto', 'Out of HP..., Game Over'),
     ]),
     ('Battle', [
         ('Element wheel and help text', 'fixed', 'user, auto', 'labels now fit 2 cells like the original'),
@@ -90,7 +90,7 @@ def main():
         out.append('')
     out += ['## Pending', '',
             '- Event floors: everything except floor 6, including the story from floor 1000 and the ending.',
-            '- Shops, reading mail, saving, game over, status effects, fleeing.',
+            '- Shops, reading an actual mail, status effects, fleeing.',
             '- MOV05 and MOV09 inside the game.', '']
     path = os.path.join(os.path.dirname(__file__), '..', 'docs', 'TESTING.md')
     with open(path, 'w', encoding='utf-8') as f:

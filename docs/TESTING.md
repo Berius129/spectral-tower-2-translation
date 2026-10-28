@@ -1,6 +1,6 @@
 # Testing status
 
-**39% tested** (28.5 of 74 checks; a partial check counts as half).
+**43% tested** (31.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -10,7 +10,7 @@ Tested by: **user** (playing in DuckStation), **auto** (screenshots from `tools/
 
 Regenerate this file with `python3 tools/testing_status.py` after updating the list in it.
 
-## System and menus (16.5/22)
+## System and menus (19.5/22)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -18,7 +18,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | 🔧 | Hero name entry (ABC/abc panels) | user, auto | display blocks and input tables now match |
 | 🟨 | Rename the 5 male/female adventurers | auto | prompt fixed; the renaming itself not tried |
 | ✅ | Memory card: load | auto |  |
-| ⬜ | Memory card: save, format, errors |  |  |
+| 🟨 | Memory card: save, format, errors | auto | save and overwrite seen; format/errors not |
 | ✅ | Item list and descriptions | user, auto |  |
 | 🔧 | Item actions: use, equip, eat, drop | user, auto | drop/eat prompts restructured |
 | ✅ | Status page | auto |  |
@@ -30,12 +30,12 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | 🔧 | Belacus destinations | user, auto |  |
 | 🔧 | Chest screen | user |  |
 | 🔧 | Floor clear bonus | user |  |
-| 🔧 | Tree of Destiny / Root code entry | user |  |
+| 🔧 | Tree of Destiny: menu, heal, Root code entry | user, auto |  |
 | ✅ | Mail notice | auto |  |
-| ⬜ | Reading mail |  |  |
+| 🟨 | Reading mail | auto | only 'There is no mail for you.' seen |
 | ⬜ | Shops |  |  |
-| ⬜ | Saving the game |  |  |
-| ⬜ | Death / game over |  |  |
+| ✅ | Saving the game | auto | Tree of Destiny: save, overwrite prompt |
+| ✅ | Death / game over | auto | Out of HP..., Game Over |
 
 ## Battle (4/7)
 
@@ -112,5 +112,5 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 ## Pending
 
 - Event floors: everything except floor 6, including the story from floor 1000 and the ending.
-- Shops, reading mail, saving, game over, status effects, fleeing.
+- Shops, reading an actual mail, status effects, fleeing.
 - MOV05 and MOV09 inside the game.
