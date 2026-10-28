@@ -2,6 +2,10 @@
 
 Fan translation of *Spectral Tower II* (PlayStation, Idea Factory, 1998, SLPS-01179) from Japanese to English.
 
+[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/SLW4WJCZ2HKF6)
+
+If you enjoy the translation and want to support it, you can donate through PayPal. It's entirely optional.
+
 You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track). This repo never contains disc images.
 
 ## Requirements
