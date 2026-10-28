@@ -112,7 +112,7 @@
   "offset": "0x23a4",
   "max": 27,
   "jp": "方向キーで￥ｎ属性の選択",
-  "en": "D-pad:￥ｎselect element"
+  "en": "D-pad:￥ｎpick type"
  },
  {
   "offset": "0x23c0",
@@ -1943,7 +1943,7 @@
   "offset": "0x6ee8",
   "max": 51,
   "jp": "暗い￥ｎやや暗い￥ｎ標準￥ｎやや明るい￥ｎ明るい",
-  "en": "Dark￥ｎDim￥ｎNormal￥ｎLight￥ｎBright"
+  "en": "Dark￥ｎDim￥ｎMid￥ｎLight￥ｎBright"
  },
  {
   "offset": "0x6f1c",
@@ -2239,7 +2239,7 @@
   "offset": "0x88a4",
   "max": 47,
   "jp": "男のフリーキャスト５人に名前￥ｎをつけますか？",
-  "en": "Name the 5 male￥ｎfree cast members?"
+  "en": "Rename the 5 male￥ｎadventurers?"
  },
  {
   "offset": "0x88d4",
@@ -2251,7 +2251,7 @@
   "offset": "0x88f8",
   "max": 51,
   "jp": "女のフリーキャスト５人に名前￥ｎをつけますか？",
-  "en": "Name the 5 female￥ｎfree cast members?"
+  "en": "Rename the 5 female￥ｎadventurers?"
  },
  {
   "offset": "0x8ce0",
@@ -7465,25 +7465,25 @@
   "offset": "0xe4594",
   "max": 7,
   "jp": "の行動",
-  "en": "'s act"
+  "en": " acts"
  },
  {
   "offset": "0xe45ac",
   "max": 7,
   "jp": "格闘",
-  "en": "Brawl"
+  "en": "Brwl"
  },
  {
   "offset": "0xe45b4",
   "max": 7,
   "jp": "祈り",
-  "en": "Prayer"
+  "en": "Pray"
  },
  {
   "offset": "0xe45bc",
   "max": 7,
   "jp": "剣術",
-  "en": "Sword"
+  "en": "Swrd"
  },
  {
   "offset": "0xe45cc",
@@ -7501,7 +7501,7 @@
   "offset": "0xe45e4",
   "max": 7,
   "jp": "魔水",
-  "en": "Water"
+  "en": "Watr"
  },
  {
   "offset": "0xe45ec",
@@ -7513,25 +7513,25 @@
   "offset": "0xe45f4",
   "max": 7,
   "jp": "魔地",
-  "en": "Earth"
+  "en": "Erth"
  },
  {
   "offset": "0xe45fc",
   "max": 7,
   "jp": "賢明",
-  "en": "Wisdom"
+  "en": "Wise"
  },
  {
   "offset": "0xe4604",
   "max": 7,
   "jp": "裏技",
-  "en": "Tricks"
+  "en": "Tric"
  },
  {
   "offset": "0xe460c",
   "max": 7,
   "jp": "自然",
-  "en": "Nature"
+  "en": "Natr"
  },
  {
   "offset": "0xe4614",
