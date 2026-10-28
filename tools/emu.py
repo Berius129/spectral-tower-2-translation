@@ -14,6 +14,7 @@ Send commands:
     python3 tools/emu.py poke 0x80012345 0102   write RAM bytes (hex)
     python3 tools/emu.py find 1a2b              search RAM for bytes, prints addresses
     python3 tools/emu.py dump path.bin          write all 2 MB of RAM to a file
+    python3 tools/emu.py ramload path.bin       replace all of RAM with a file
     python3 tools/emu.py card load|save path    memory card 1 from/to a raw 128 KB file (.mcd)
     python3 tools/emu.py quit
 Buttons: cross circle square triangle start select up down left right l1 r1 l2 r2.
@@ -235,6 +236,9 @@ class Emu:
             else:
                 with open(args[1], 'wb') as f:
                     f.write(bytes(card))
+        elif op == 'ramload':  # replace all of RAM with a 2 MB file (e.g. from a DuckStation state)
+            data = open(args[0], 'rb').read()[:self.ram_size]
+            C.memmove(self.ram(), data, len(data))
         elif op == 'dump':
             with open(args[0], 'wb') as f:
                 f.write(bytes(self.ram()))
