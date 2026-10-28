@@ -7,6 +7,10 @@ By: 'user' (played in DuckStation), 'auto' (tools/emu.py screenshots),
 """
 import os
 
+# event floors checked in game by the user, and those where an issue was fixed
+USER_FLOORS = {1, 4, 6, 10, 16}
+FIXED_FLOORS = {4}
+
 CHECKS = [
     ('System and menus', [
         ('Title screen and main menu', 'ok', 'auto', ''),
@@ -52,7 +56,7 @@ CHECKS = [
         ('Destiny Town dialogue', 'ok', 'user, auto', ''),
         ('Choosing the first Root', 'fixed', 'user', ''),
     ]),
-    ('Event floors', [(f'Floor {f}', 'ok' if f in (1, 6, 10) else 'fixed' if f == 4 else 'todo', 'user' if f in (1, 4, 6, 10) else '', note) for f, note in [
+    ('Event floors', [(f'Floor {f}', 'fixed' if f in FIXED_FLOORS else 'ok' if f in USER_FLOORS else 'todo', 'user' if f in USER_FLOORS else '', note) for f, note in [
         (1, 'training master'), (4, 'stats expert'), (6, 'dwarf murder, rival'), (10, 'rescued adventurer'),
         (16, 'tourists'), (22, 'stood-up woman'), (30, 'rescued adventurer'), (40, 'father and son'),
         (60, 'Devil Mansion'), (101, 'Tranquil Town'), (150, 'zombie'), (200, 'Chile'), (290, 'toll house'),
@@ -89,7 +93,7 @@ def main():
         out += [f'| {MARK[s]} | {name} | {by} | {note} |' for name, s, by, note in group]
         out.append('')
     out += ['## Pending', '',
-            '- Event floors: everything except floors 1, 4, 6 and 10, including the story from floor 1000 and the ending.',
+            '- Event floors not marked above, including the story from floor 1000 and the ending.',
             '- Shops, reading an actual mail, status effects, fleeing.',
             '- MOV05 and MOV09 inside the game.', '']
     path = os.path.join(os.path.dirname(__file__), '..', 'docs', 'TESTING.md')

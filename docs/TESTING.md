@@ -1,6 +1,6 @@
 # Testing status
 
-**47% tested** (34.5 of 74 checks; a partial check counts as half).
+**48% tested** (35.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -66,7 +66,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Destiny Town dialogue | user, auto |  |
 | 🔧 | Choosing the first Root | user |  |
 
-## Event floors (4/38)
+## Event floors (5/38)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -74,7 +74,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | 🔧 | Floor 4 | user | stats expert |
 | ✅ | Floor 6 | user | dwarf murder, rival |
 | ✅ | Floor 10 | user | rescued adventurer |
-| ⬜ | Floor 16 |  | tourists |
+| ✅ | Floor 16 | user | tourists |
 | ⬜ | Floor 22 |  | stood-up woman |
 | ⬜ | Floor 30 |  | rescued adventurer |
 | ⬜ | Floor 40 |  | father and son |
@@ -111,6 +111,6 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 
 ## Pending
 
-- Event floors: everything except floors 1, 4, 6 and 10, including the story from floor 1000 and the ending.
+- Event floors not marked above, including the story from floor 1000 and the ending.
 - Shops, reading an actual mail, status effects, fleeing.
 - MOV05 and MOV09 inside the game.
