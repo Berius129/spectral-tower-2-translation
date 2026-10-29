@@ -1,6 +1,6 @@
 # Testing status
 
-**95% tested** (71 of 75 checks; a partial check counts as half).
+**95% tested** (71.5 of 75 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -10,7 +10,7 @@ Tested by: **user** (playing in DuckStation), **auto** (screenshots from `tools/
 
 Regenerate this file with `python3 tools/testing_status.py` after updating the list in it.
 
-## System and menus (21/22)
+## System and menus (21.5/22)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -32,7 +32,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | 🔧 | Floor clear bonus | user |  |
 | 🔧 | Tree of Destiny: menu, heal, Root code entry | user, auto |  |
 | ✅ | Mail notice | auto |  |
-| 🟨 | Reading mail | auto | only 'There is no mail for you.' seen |
+| ✅ | Reading mail | user, auto |  |
 | ✅ | Shops (merchants met in the tower) | user | the only shops in the game; Junk Town trading checked with floor 501 |
 | ✅ | Saving the game | auto | Tree of Destiny: save, overwrite prompt |
 | ✅ | Death / game over | auto | Out of HP..., Game Over |
@@ -47,7 +47,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Sickness and curse (affect end-of-floor points) | user |  |
 | ⬜ | Paralysis in battle |  |  |
 | 🟨 | Stat gains, training messages | user |  |
-| ⬜ | Fleeing |  |  |
+| ⬜ | Fleeing |  | needs a Root with the Flee skill (Tricks) unlocked |
 | 🟨 | Adventurers asking to join | user |  |
 
 ## Videos (4/4)
@@ -113,4 +113,4 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 ## Pending
 
 - Event floors not marked above, including the story from floor 1000 and the ending.
-- Reading an actual mail, paralysis in battle, fleeing.
+- Paralysis in battle, fleeing (Flee skill), memory card formatting and errors.

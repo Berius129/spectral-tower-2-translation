@@ -31,7 +31,7 @@ CHECKS = [
         ('Floor clear bonus', 'fixed', 'user', ''),
         ('Tree of Destiny: menu, heal, Root code entry', 'fixed', 'user, auto', ''),
         ('Mail notice', 'ok', 'auto', ''),
-        ('Reading mail', 'partial', 'auto', "only 'There is no mail for you.' seen"),
+        ('Reading mail', 'ok', 'user, auto', ''),
         ('Shops (merchants met in the tower)', 'ok', 'user', 'the only shops in the game; Junk Town trading checked with floor 501'),
         ('Saving the game', 'ok', 'auto', 'Tree of Destiny: save, overwrite prompt'),
         ('Death / game over', 'ok', 'auto', 'Out of HP..., Game Over'),
@@ -43,7 +43,7 @@ CHECKS = [
         ('Sickness and curse (affect end-of-floor points)', 'ok', 'user', ''),
         ('Paralysis in battle', 'todo', '', ''),
         ('Stat gains, training messages', 'partial', 'user', ''),
-        ('Fleeing', 'todo', '', ''),
+        ('Fleeing', 'todo', '', 'needs a Root with the Flee skill (Tricks) unlocked'),
         ('Adventurers asking to join', 'partial', 'user', ''),
     ]),
     ('Videos', [
@@ -95,7 +95,7 @@ def main():
         out.append('')
     out += ['## Pending', '',
             '- Event floors not marked above, including the story from floor 1000 and the ending.',
-            '- Reading an actual mail, paralysis in battle, fleeing.',
+            '- Paralysis in battle, fleeing (Flee skill), memory card formatting and errors.',
             '']
     path = os.path.join(os.path.dirname(__file__), '..', 'docs', 'TESTING.md')
     with open(path, 'w', encoding='utf-8') as f:
