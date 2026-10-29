@@ -1,6 +1,6 @@
 # Testing status
 
-**56% tested** (41.5 of 74 checks; a partial check counts as half).
+**64% tested** (47.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -66,7 +66,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Destiny Town dialogue | user, auto |  |
 | 🔧 | Choosing the first Root | user |  |
 
-## Event floors (11/38)
+## Event floors (17/38)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -81,12 +81,12 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Floor 60 | user | Devil Mansion |
 | ✅ | Floor 101 | user | Tranquil Town |
 | ✅ | Floor 150 | user | zombie |
-| ⬜ | Floor 200 |  | Chile |
-| ⬜ | Floor 290 |  | toll house |
-| ⬜ | Floor 298 |  | Gambling Town |
-| ⬜ | Floor 399 |  | widow |
-| ⬜ | Floor 450 |  | Mute Temple |
-| ⬜ | Floor 501 |  | Junk Town |
+| ✅ | Floor 200 | user | Chile |
+| ✅ | Floor 290 | user | toll house |
+| ✅ | Floor 298 | user | Gambling Town |
+| ✅ | Floor 399 | user | widow |
+| ✅ | Floor 450 | user | Mute Temple |
+| ✅ | Floor 501 | user | Junk Town |
 | ⬜ | Floor 650 |  | staring |
 | ⬜ | Floor 770 |  | bridge guard |
 | ⬜ | Floor 1000 |  | rival, Emperor Dragon |
