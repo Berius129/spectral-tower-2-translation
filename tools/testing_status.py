@@ -8,8 +8,8 @@ By: 'user' (played in DuckStation), 'auto' (tools/emu.py screenshots),
 import os
 
 # event floors checked in game by the user, and those where an issue was fixed
-USER_FLOORS = {1, 4, 6, 10, 16, 22, 30, 40, 60, 101, 150, 200, 290, 298, 399, 450, 501, 650, 770, 1000, 1001, 1105, 1200, 1500, 1900, 2500, 3200, 4000, 5000, 5500, 6200, 6500, 6900, 7500, 8200, 9000}
-FIXED_FLOORS = {4}
+USER_FLOORS = {1, 4, 6, 10, 16, 22, 30, 40, 60, 101, 150, 200, 290, 298, 399, 450, 501, 650, 770, 1000, 1001, 1105, 1200, 1500, 1900, 2500, 3200, 4000, 5000, 5500, 6200, 6500, 6900, 7500, 8200, 9000, 9999, 10000}
+FIXED_FLOORS = {4, 9999, 10000}
 
 CHECKS = [
     ('System and menus', [
