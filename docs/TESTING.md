@@ -1,6 +1,6 @@
 # Testing status
 
-**71% tested** (52.5 of 74 checks; a partial check counts as half).
+**79% tested** (58.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -66,7 +66,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Destiny Town dialogue | user, auto |  |
 | 🔧 | Choosing the first Root | user |  |
 
-## Event floors (22/38)
+## Event floors (28/38)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -92,12 +92,12 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Floor 1000 | user | rival, Emperor Dragon |
 | ✅ | Floor 1001 | user | after the Emperor Dragon |
 | ✅ | Floor 1105 | user | rival |
-| ⬜ | Floor 1200 |  | dragon |
-| ⬜ | Floor 1500 |  | dragon |
-| ⬜ | Floor 1900 |  | dragon |
-| ⬜ | Floor 2500 |  | dragon |
-| ⬜ | Floor 3200 |  | dragon |
-| ⬜ | Floor 4000 |  | dragon |
+| ✅ | Floor 1200 | user | dragon |
+| ✅ | Floor 1500 | user | dragon |
+| ✅ | Floor 1900 | user | dragon |
+| ✅ | Floor 2500 | user | dragon |
+| ✅ | Floor 3200 | user | dragon |
+| ✅ | Floor 4000 | user | dragon |
 | ⬜ | Floor 5000 |  | dragon |
 | ⬜ | Floor 5500 |  | penguin family |
 | ⬜ | Floor 6200 |  | old foe |
