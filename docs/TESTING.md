@@ -1,6 +1,6 @@
 # Testing status
 
-**79% tested** (58.5 of 74 checks; a partial check counts as half).
+**90% tested** (66.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -66,7 +66,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Destiny Town dialogue | user, auto |  |
 | 🔧 | Choosing the first Root | user |  |
 
-## Event floors (28/38)
+## Event floors (36/38)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -98,14 +98,14 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Floor 2500 | user | dragon |
 | ✅ | Floor 3200 | user | dragon |
 | ✅ | Floor 4000 | user | dragon |
-| ⬜ | Floor 5000 |  | dragon |
-| ⬜ | Floor 5500 |  | penguin family |
-| ⬜ | Floor 6200 |  | old foe |
-| ⬜ | Floor 6500 |  | rival |
-| ⬜ | Floor 6900 |  | old foe |
-| ⬜ | Floor 7500 |  | old foe |
-| ⬜ | Floor 8200 |  | guardian |
-| ⬜ | Floor 9000 |  | guardian |
+| ✅ | Floor 5000 | user | dragon |
+| ✅ | Floor 5500 | user | penguin family |
+| ✅ | Floor 6200 | user | old foe |
+| ✅ | Floor 6500 | user | rival |
+| ✅ | Floor 6900 | user | old foe |
+| ✅ | Floor 7500 | user | old foe |
+| ✅ | Floor 8200 | user | guardian |
+| ✅ | Floor 9000 | user | guardian |
 | ⬜ | Floor 9999 |  | Dragonfolk Town |
 | ⬜ | Floor 10000 |  | ending |
 
