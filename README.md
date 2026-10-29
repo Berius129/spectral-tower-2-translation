@@ -2,11 +2,7 @@
 
 English fan translation patch for *Spectral Tower II* (スペクトラルタワーII, PlayStation, Idea Factory, 1998, SLPS-01179), translated from Japanese to English: menus, items, skills, Roots, dialogue, events and the subtitled videos.
 
-**Download:** [Releases page](https://github.com/Berius129/spectral-tower-2-translation/releases) (latest: v0.3.0 beta) — an xdelta patch for your own Japanese disc image, with instructions.
-
-[![Donate with PayPal](https://img.shields.io/badge/Donate-PayPal-0070ba?logo=paypal&logoColor=white)](https://www.paypal.com/ncp/payment/SLW4WJCZ2HKF6)
-
-If you enjoy the translation and want to support it, you can donate through PayPal. It's entirely optional.
+**Download:** [Releases page](https://github.com/Berius129/spectral-tower-2-translation/releases) (latest: v1.0.0) — an xdelta patch for your own Japanese disc image, with instructions.
 
 You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track). This repo never contains disc images.
 
@@ -33,9 +29,9 @@ You need your own copy of the Japanese disc as `.bin/.cue` (one MODE2/2352 track
    ```
    Writes an xdelta/VCDIFF patch (no external tools needed) with xdelta3's per-window Adler-32 checksums, and checks it by applying it. v0.2.0 was also verified with the official xdelta3 3.2.1, which rejects a wrong source image. Ship it with [docs/PATCH_README.txt](docs/PATCH_README.txt) (player instructions and disc checksums) and a `.cue` for the patched `.bin`.
 
-## Status: v0.3.0 beta
+## Status: v1.0.0
 
-All text is translated, but it has had little testing in game. Expect cut-off or untranslated text in places that haven't been seen yet.
+All text is translated and has been played through in game, including every event floor and the ending.
 
 Testing progress: **95%** — see [docs/TESTING.md](docs/TESTING.md) for what has been checked and what is pending.
 
@@ -97,4 +93,4 @@ Line labels (`TALK0:`, `ALL,`, `30:0,`…), control codes (`(B)`, `(E)`, `(F1)`,
       whole (`"encode": "full"`) so the new text doesn't turn into gray blocks. `build.py` runs it when
       Java, jPSXdec and ffmpeg are in `~/.local` (`--no-movies` skips it).
 - [ ] Translation
-- [x] Distribute as an xdelta patch (v0.3.0 beta, `tools/make_patch.py`)
+- [x] Distribute as an xdelta patch (v1.0.0, `tools/make_patch.py`)

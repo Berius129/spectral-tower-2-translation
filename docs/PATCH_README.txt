@@ -1,18 +1,15 @@
 Spectral Tower II - English fan translation
-Version 0.3.0 BETA
+Version 1.0.0
 ===========================================
 
-THIS IS A BETA. All of the game's text has been translated and about
-93% of the game has been tested, including every event floor, the
-ending and all subtitled videos. Expect untranslated bits,
-text cut off or overflowing its window, odd wording, and possibly bugs.
-Keep backups of your saves, and please report anything strange (a
-screenshot helps a lot).
+All of the game's text has been translated and played through in an
+emulator: every event floor, the ending, menus, battles and all the
+subtitled videos. If you find anything strange (cut-off text, odd
+wording, a bug), please report it; a screenshot helps a lot.
 
 Known issues:
-- Not tested yet: shops, reading a mail, status effects (paralysis,
-  sickness, curse), fleeing, renaming the adventurers, and memory
-  card formatting/errors.
+- Not tested yet: the paralysis message in battle, fleeing (the Flee
+  skill), and memory card formatting/error messages.
 - The big artwork titles in the videos stay in Japanese; the English
   appears as a subtitle line.
 
@@ -31,20 +28,20 @@ No game data is included in this patch.
 
 How to patch
 ------------
-1. Apply "Spectral Tower II (English) v0.3.0 beta.xdelta" to the Japanese
+1. Apply "Spectral Tower II (English) v1.0.0.xdelta" to the Japanese
    .bin with any xdelta patcher, for example:
      - Rom Patcher JS (in the browser)
      - Delta Patcher or xdelta UI
      - command line: xdelta3 -d -s "Spectral Tower II (Japan).bin"
-       "Spectral Tower II (English) v0.3.0 beta.xdelta"
+       "Spectral Tower II (English) v1.0.0.xdelta"
        "Spectral Tower II (English).bin"
 2. Name the result "Spectral Tower II (English).bin" and put it next to
    the included "Spectral Tower II (English).cue".
 3. Open the .cue in your emulator (tested in DuckStation).
 
 The patched image should match:
-  MD5    4e814914c2c4cc41807513a7c2be6df7
-  SHA-1  ca4be5dce2eb14f878a22d45cc9acd49e8aa48a1
+  MD5    45f2edfa4cb6674734e4d93e5c3d8b91
+  SHA-1  87cd75df65523cf337733c4ce96a5cea47a9ae8a
 
 
 About the translation
@@ -56,6 +53,10 @@ Roots, mail, dialogue, events and the subtitled videos are translated.
 
 Changes
 -------
+1.0.0
+- Name entry: letters centered in their cells, the 終 button now reads
+  END, and the cursor above the name follows the letters you type.
+
 0.3.0
 - Choice menus: 44 menus had options wider than the original and the
   box could run off the screen (e.g. Dragonfolk Town); all shortened.
