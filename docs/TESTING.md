@@ -1,6 +1,6 @@
 # Testing status
 
-**93% tested** (68.5 of 74 checks; a partial check counts as half).
+**94% tested** (69.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -10,7 +10,7 @@ Tested by: **user** (playing in DuckStation), **auto** (screenshots from `tools/
 
 Regenerate this file with `python3 tools/testing_status.py` after updating the list in it.
 
-## System and menus (19.5/22)
+## System and menus (20.5/22)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -33,7 +33,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | 🔧 | Tree of Destiny: menu, heal, Root code entry | user, auto |  |
 | ✅ | Mail notice | auto |  |
 | 🟨 | Reading mail | auto | only 'There is no mail for you.' seen |
-| ⬜ | Shops |  |  |
+| ✅ | Shops (merchants met in the tower) | user | the only shops in the game; Junk Town trading checked with floor 501 |
 | ✅ | Saving the game | auto | Tree of Destiny: save, overwrite prompt |
 | ✅ | Death / game over | auto | Out of HP..., Game Over |
 
@@ -112,4 +112,4 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 ## Pending
 
 - Event floors not marked above, including the story from floor 1000 and the ending.
-- Shops, reading an actual mail, status effects, fleeing.
+- Reading an actual mail, status effects, fleeing.

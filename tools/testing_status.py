@@ -32,7 +32,7 @@ CHECKS = [
         ('Tree of Destiny: menu, heal, Root code entry', 'fixed', 'user, auto', ''),
         ('Mail notice', 'ok', 'auto', ''),
         ('Reading mail', 'partial', 'auto', "only 'There is no mail for you.' seen"),
-        ('Shops', 'todo', '', ''),
+        ('Shops (merchants met in the tower)', 'ok', 'user', 'the only shops in the game; Junk Town trading checked with floor 501'),
         ('Saving the game', 'ok', 'auto', 'Tree of Destiny: save, overwrite prompt'),
         ('Death / game over', 'ok', 'auto', 'Out of HP..., Game Over'),
     ]),
@@ -94,7 +94,7 @@ def main():
         out.append('')
     out += ['## Pending', '',
             '- Event floors not marked above, including the story from floor 1000 and the ending.',
-            '- Shops, reading an actual mail, status effects, fleeing.',
+            '- Reading an actual mail, status effects, fleeing.',
             '']
     path = os.path.join(os.path.dirname(__file__), '..', 'docs', 'TESTING.md')
     with open(path, 'w', encoding='utf-8') as f:
