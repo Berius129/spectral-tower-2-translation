@@ -63,7 +63,9 @@ def has_english(e):
 
 def encode_text(e, table, fullwidth):
     """English of one entry as the game's text (str)."""
-    if fullwidth or e.get('mode') == 'fullwidth':
+    if e.get('mode') == 'panel' and table:
+        return dte.panel_text(e['en'], table)
+    if fullwidth or e.get('mode') in ('fullwidth', 'panel'):
         return sttext.to_fullwidth(e['en'])
     return table.encode(dte.split_line(e['jp'], e['en']))
 
@@ -135,6 +137,9 @@ def main():
             for e in entries:
                 # kanji kept inside a translation (e.g. 終) must keep their glyph
                 keep.update(KANJI.findall(e['en']))
+                if e['en'] and e.get('mode') == 'panel':
+                    counts.update(dte.panel_glyphs(e['en']))
+                    continue
                 if e['en'] and e.get('mode') == 'fullwidth':
                     continue
                 if has_english(e):

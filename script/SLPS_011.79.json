@@ -1715,84 +1715,84 @@
   "max": 39,
   "jp": "あいうえお￥ｎかきくけこ￥ｎさしすせそ",
   "en": "ABCDE￥ｎKLMNO￥ｎUVWXY",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x66d8",
   "max": 39,
   "jp": "たちつてと￥ｎなにぬねの￥ｎはひふへほ",
   "en": "01234￥ｎ.,!?'￥ｎ     ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x6700",
   "max": 39,
   "jp": "まみむめも￥ｎや　ゆ　よ￥ｎらりるれろ",
   "en": "     ￥ｎ     ￥ｎ     ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x6728",
   "max": 39,
   "jp": "わ　を　ん￥ｎがぎぐげご￥ｎざじずぜぞ",
   "en": "FGHIJ￥ｎPQRST￥ｎZ    ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x6750",
   "max": 39,
   "jp": "だぢづでど￥ｎばびぶべぼ￥ｎぱぴぷぺぽ",
   "en": "56789￥ｎ-&:/ ￥ｎ     ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x6778",
   "max": 43,
   "jp": "ぁぃぅぇぉ￥ｎゃゅょっー￥ｎ＠ａ　　　　終",
   "en": "     ￥ｎ     ￥ｎ＠ａ    終",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x67a4",
   "max": 43,
   "jp": "アイウエオ￥ｎカキクケコ￥ｎサシスセソ　",
   "en": "abcde￥ｎklmno￥ｎuvwxy",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x67d0",
   "max": 39,
   "jp": "タチツテト￥ｎナニヌネノ￥ｎハヒフヘホ",
   "en": "01234￥ｎ.,!?'￥ｎ     ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x67f8",
   "max": 39,
   "jp": "マミムメモ￥ｎヤ　ユ　ヨ￥ｎラリルレロ",
   "en": "     ￥ｎ     ￥ｎ     ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x6820",
   "max": 39,
   "jp": "ワ　ヲヴン￥ｎガギグゲゴ￥ｎザジズゼゾ",
   "en": "fghij￥ｎpqrst￥ｎz    ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x6848",
   "max": 39,
   "jp": "ダヂヅデド￥ｎバビブベボ￥ｎパピプペポ",
   "en": "56789￥ｎ-&:/ ￥ｎ     ",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x6870",
   "max": 43,
   "jp": "ァィゥェォ￥ｎャュョッー￥ｎ＠ａ　　　　終",
   "en": "     ￥ｎ     ￥ｎ＠ａ    終",
-  "mode": "fullwidth"
+  "mode": "panel"
  },
  {
   "offset": "0x689c",

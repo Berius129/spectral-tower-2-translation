@@ -172,9 +172,66 @@ class Table:
         return bytes(exe)
 
 
+# Special glyphs for the name entry panel (see panel_text): one letter
+# centered in the cell like a kana, and the "END" button that replaces 終
+CENTER = '\x00'
+END = '\x01END'
+CENTER_X = 3
+END_ROWS = ['### #  # ## ',
+            '#   ## # # #',
+            '#   ## # # #',
+            '##  # ## # #',
+            '#   # ## # #',
+            '#   #  # # #',
+            '### #  # ## ']
+
+
+def panel_text(text, table):
+    """Name entry panel display: each ASCII character centered in its own
+    cell, spaces as full-width spaces, 終 drawn as END. Other characters
+    (the ＠ colour codes) stay as they are."""
+    out = []
+    for ch in text:
+        if ch == ' ':
+            out.append('　')
+        elif ch == '終':
+            out.append(code_char(table.code[END]))
+        elif ch.isascii():
+            out.append(code_char(table.code[CENTER + ch]))
+        else:
+            out.append(ch)
+    return ''.join(out)
+
+
+def panel_glyphs(text):
+    """The special glyphs panel_text needs for this text."""
+    return [END if ch == '終' else CENTER + ch for ch in text if ch == '終' or (ch.isascii() and ch != ' ')]
+
+
+def _put(glyph, font, ch, x0, width=5):
+    for r, row in enumerate(font.get(ch, font['?'])):
+        y = FONT_TOP + r
+        if y >= GLYPH_ROWS:
+            break
+        for x, px in enumerate(row[:width]):
+            if px == '#':
+                bit = 15 - (x0 + x)
+                glyph[y * 2 + (1 - bit // 8)] |= 1 << (bit % 8)
+
+
 def draw_glyph(font, pair):
     """1bpp 16x11 glyph with two half-width letters."""
     glyph = bytearray(GLYPH_BYTES)
+    if pair.startswith(CENTER):
+        _put(glyph, font, pair[1], CENTER_X)
+        return bytes(glyph)
+    if pair == END:  # the game only shows 12 pixels of that cell: narrow letters
+        for y, row in enumerate(END_ROWS):
+            for x, px in enumerate(row):
+                if px == '#':
+                    bit = 15 - x
+                    glyph[(FONT_TOP + y) * 2 + (1 - bit // 8)] |= 1 << (bit % 8)
+        return bytes(glyph)
     for ch, x0 in zip(pair, (LEFT_X, RIGHT_X)):
         rows = font.get(ch, font['?'])
         for r, row in enumerate(rows):
