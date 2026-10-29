@@ -48,8 +48,8 @@ CHECKS = [
     ('Videos', [
         ('MOV01 opening narration', 'ok', 'frames, auto', 'seen in game'),
         ('MOV03 goblin scene (floor 6)', 'ok', 'frames, user', ''),
-        ('MOV05 rival scene', 'ok', 'frames', 'not yet seen in game'),
-        ('MOV09 trailer (title screen demo)', 'ok', 'frames', 'not yet seen in game'),
+        ('MOV05 rival scene', 'ok', 'frames, user', ''),
+        ('MOV09 trailer (title screen demo)', 'ok', 'frames, user', ''),
     ]),
     ('Story', [
         ('Intro scene after the opening video', 'fixed', 'user', ''),
@@ -95,7 +95,7 @@ def main():
     out += ['## Pending', '',
             '- Event floors not marked above, including the story from floor 1000 and the ending.',
             '- Shops, reading an actual mail, status effects, fleeing.',
-            '- MOV05 and MOV09 inside the game.', '']
+            '']
     path = os.path.join(os.path.dirname(__file__), '..', 'docs', 'TESTING.md')
     with open(path, 'w', encoding='utf-8') as f:
         f.write('\n'.join(out))

@@ -55,8 +55,8 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 |---|---|---|---|
 | ✅ | MOV01 opening narration | frames, auto | seen in game |
 | ✅ | MOV03 goblin scene (floor 6) | frames, user |  |
-| ✅ | MOV05 rival scene | frames | not yet seen in game |
-| ✅ | MOV09 trailer (title screen demo) | frames | not yet seen in game |
+| ✅ | MOV05 rival scene | frames, user |  |
+| ✅ | MOV09 trailer (title screen demo) | frames, user |  |
 
 ## Story (3/3)
 
@@ -113,4 +113,3 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 
 - Event floors not marked above, including the story from floor 1000 and the ending.
 - Shops, reading an actual mail, status effects, fleeing.
-- MOV05 and MOV09 inside the game.
