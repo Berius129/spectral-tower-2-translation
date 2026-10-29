@@ -20,7 +20,7 @@ LEFT_X, RIGHT_X = 0, 6  # pixel column of each letter in the pair
 FONT_PATH = os.path.join(os.path.dirname(__file__), 'font_5x9.txt')
 
 # The last kanji glyphs hold code (see codepatch.py) and are never assigned
-RESERVED_GLYPHS = 7
+RESERVED_GLYPHS = 9
 
 # Line labels at the start of a line: TALK0:  ALL,  30:0,  -1,2,3,4,
 PREFIX = re.compile(r'^(?:[A-Z_]*-?\d*[:,])+')

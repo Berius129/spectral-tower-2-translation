@@ -1,5 +1,10 @@
 """Code patches for SLPS_011.79: narrow full-width Latin letters.
 
+Also the name entry cursor: it is placed at x = index * 13 - 5 above the
+name being typed, which assumes every character is a full cell. NAME_HOOK
+counts the characters before the cursor in half cells (letters 1, digits
+and punctuation 2) so the cursor stays on the next position.
+
 The text engine places glyph N of a line at
     x = window_x + column * window_spacing
 where column counts characters (routine 0x8001AA..., draw at 0x8001BDB4).
@@ -82,11 +87,43 @@ HOOK = [
     addiu('t0', 't0', 2),
 ]
 
+# Name entry: replaces a0 = index * 13 with the width of the characters
+# before the cursor. In: v1 = cursor index. Out: a0. Clobbers v0, at, a1, a2.
+NAME_BUFFER = 0x801B7B88  # the name being edited, 2 bytes per character
+NAME_HOOK = [
+    lui('a1', NAME_BUFFER >> 16),
+    addiu('a1', 'a1', NAME_BUFFER & 0xFFFF),
+    or_('a2', 'v1', 'zero'),
+    or_('a0', 'zero', 'zero'),     # half cells
+    beq('a2', 'zero', 10),         # loop: done?
+    addiu('a2', 'a2', -1),
+    lbu('v0', 0, 'a1'),
+    lbu('at', 1, 'a1'),
+    sltiu('v0', 'v0', 0x82),       # 0x81xx punctuation: wide
+    addiu('a0', 'a0', 1),
+    sltiu('at', 'at', 0x60),       # 0x824F-0x8258 digits: wide
+    or_('v0', 'v0', 'at'),
+    addu('a0', 'a0', 'v0'),
+    beq('zero', 'zero', -10),
+    addiu('a1', 'a1', 2),
+    sll('v0', 'a0', 1),            # done: a0 = half cells * 13 / 2
+    addu('v0', 'v0', 'a0'),
+    sll('v0', 'v0', 2),
+    addu('v0', 'v0', 'a0'),
+    jr('ra'),
+    sra('a0', 'v0', 1),
+]
+NAME_HOOK_RAM = HOOK_RAM + len(HOOK) * 4
+
 # (RAM address, original word, new word)
 PATCHES = [
     (0x8001AEB4, NOP, jal(HOOK_RAM)),
     (0x8001AEB8, addiu('t0', 't0', 1), NOP),
     (0x8001BDDC, NOP, sra('v1', 'v1', 1)),  # x offset = column * spacing / 2
+    (0x8006FFFC, sll('v0', 'v1', 1), jal(NAME_HOOK_RAM)),
+    (0x80070000, addu('v0', 'v0', 'v1'), NOP),
+    (0x80070004, sll('a0', 'v0', 2), NOP),
+    (0x80070008, addu('a0', 'a0', 'v1'), NOP),
 ]
 
 
@@ -96,13 +133,13 @@ def _off(ram):
 
 def apply(exe, font):
     exe = bytearray(exe)
-    assert len(HOOK) * 4 <= dte.RESERVED_GLYPHS * dte.GLYPH_BYTES
+    assert (len(HOOK) + len(NAME_HOOK)) * 4 <= dte.RESERVED_GLYPHS * dte.GLYPH_BYTES
     for ram, old, new in PATCHES:
         cur = struct.unpack_from('<I', exe, _off(ram))[0]
         if cur != old:
             raise ValueError(f'{ram:#x}: expected {old:#010x}, found {cur:#010x}')
         struct.pack_into('<I', exe, _off(ram), new)
-    struct.pack_into(f'<{len(HOOK)}I', exe, HOOK_FILE, *HOOK)
+    struct.pack_into(f'<{len(HOOK) + len(NAME_HOOK)}I', exe, HOOK_FILE, *HOOK, *NAME_HOOK)
 
     # Full-width letters become single half-width letters at the left of the cell
     for first, letters in ((FULLWIDTH_UPPER, 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'),
