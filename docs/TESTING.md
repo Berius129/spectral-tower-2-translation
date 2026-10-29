@@ -1,6 +1,6 @@
 # Testing status
 
-**94% tested** (70.5 of 75 checks; a partial check counts as half).
+**95% tested** (71 of 75 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -10,13 +10,13 @@ Tested by: **user** (playing in DuckStation), **auto** (screenshots from `tools/
 
 Regenerate this file with `python3 tools/testing_status.py` after updating the list in it.
 
-## System and menus (20.5/22)
+## System and menus (21/22)
 
 | | Check | By | Notes |
 |---|---|---|---|
 | ✅ | Title screen and main menu | auto |  |
-| 🔧 | Hero name entry (ABC/abc panels) | user, auto | display blocks and input tables now match |
-| 🟨 | Rename the 5 male/female adventurers | auto | prompt fixed; the renaming itself not tried |
+| 🔧 | Hero name entry (ABC/abc panels) | user, auto | display blocks and input tables match; letters centered, END button, cursor fixed |
+| 🔧 | Rename the 5 male/female adventurers | user, auto | letters centered, END button, name cursor follows narrow letters |
 | ✅ | Memory card: load | auto |  |
 | 🟨 | Memory card: save, format, errors | auto | save and overwrite seen; format/errors not |
 | ✅ | Item list and descriptions | user, auto |  |

@@ -14,8 +14,8 @@ FIXED_FLOORS = {4, 9999, 10000}
 CHECKS = [
     ('System and menus', [
         ('Title screen and main menu', 'ok', 'auto', ''),
-        ('Hero name entry (ABC/abc panels)', 'fixed', 'user, auto', 'display blocks and input tables now match'),
-        ('Rename the 5 male/female adventurers', 'partial', 'auto', 'prompt fixed; the renaming itself not tried'),
+        ('Hero name entry (ABC/abc panels)', 'fixed', 'user, auto', 'display blocks and input tables match; letters centered, END button, cursor fixed'),
+        ('Rename the 5 male/female adventurers', 'fixed', 'user, auto', 'letters centered, END button, name cursor follows narrow letters'),
         ('Memory card: load', 'ok', 'auto', ''),
         ('Memory card: save, format, errors', 'partial', 'auto', 'save and overwrite seen; format/errors not'),
         ('Item list and descriptions', 'ok', 'user, auto', ''),
