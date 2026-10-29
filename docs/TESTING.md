@@ -1,6 +1,6 @@
 # Testing status
 
-**94% tested** (69.5 of 74 checks; a partial check counts as half).
+**94% tested** (70.5 of 75 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -37,14 +37,15 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Saving the game | auto | Tree of Destiny: save, overwrite prompt |
 | ✅ | Death / game over | auto | Out of HP..., Game Over |
 
-## Battle (4/7)
+## Battle (5/8)
 
 | | Check | By | Notes |
 |---|---|---|---|
 | 🔧 | Element wheel and help text | user, auto | labels now fit 2 cells like the original |
 | ✅ | Skill list, descriptions, cost | auto | compared with the original disc |
 | 🔧 | Turn and hit messages, victory | auto | 'acts' |
-| ⬜ | Status effects (paralysis, sickness, curse) |  |  |
+| ✅ | Sickness and curse (affect end-of-floor points) | user |  |
+| ⬜ | Paralysis in battle |  |  |
 | 🟨 | Stat gains, training messages | user |  |
 | ⬜ | Fleeing |  |  |
 | 🟨 | Adventurers asking to join | user |  |
@@ -112,4 +113,4 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 ## Pending
 
 - Event floors not marked above, including the story from floor 1000 and the ending.
-- Reading an actual mail, status effects, fleeing.
+- Reading an actual mail, paralysis in battle, fleeing.

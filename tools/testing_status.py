@@ -40,7 +40,8 @@ CHECKS = [
         ('Element wheel and help text', 'fixed', 'user, auto', 'labels now fit 2 cells like the original'),
         ('Skill list, descriptions, cost', 'ok', 'auto', 'compared with the original disc'),
         ('Turn and hit messages, victory', 'fixed', 'auto', "'acts'"),
-        ('Status effects (paralysis, sickness, curse)', 'todo', '', ''),
+        ('Sickness and curse (affect end-of-floor points)', 'ok', 'user', ''),
+        ('Paralysis in battle', 'todo', '', ''),
         ('Stat gains, training messages', 'partial', 'user', ''),
         ('Fleeing', 'todo', '', ''),
         ('Adventurers asking to join', 'partial', 'user', ''),
@@ -94,7 +95,7 @@ def main():
         out.append('')
     out += ['## Pending', '',
             '- Event floors not marked above, including the story from floor 1000 and the ending.',
-            '- Reading an actual mail, status effects, fleeing.',
+            '- Reading an actual mail, paralysis in battle, fleeing.',
             '']
     path = os.path.join(os.path.dirname(__file__), '..', 'docs', 'TESTING.md')
     with open(path, 'w', encoding='utf-8') as f:
