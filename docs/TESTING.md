@@ -1,6 +1,6 @@
 # Testing status
 
-**64% tested** (47.5 of 74 checks; a partial check counts as half).
+**71% tested** (52.5 of 74 checks; a partial check counts as half).
 
 The translation is a beta: all text is translated, but most of it has not been seen in game yet.
 
@@ -66,7 +66,7 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Destiny Town dialogue | user, auto |  |
 | 🔧 | Choosing the first Root | user |  |
 
-## Event floors (17/38)
+## Event floors (22/38)
 
 | | Check | By | Notes |
 |---|---|---|---|
@@ -87,11 +87,11 @@ Regenerate this file with `python3 tools/testing_status.py` after updating the l
 | ✅ | Floor 399 | user | widow |
 | ✅ | Floor 450 | user | Mute Temple |
 | ✅ | Floor 501 | user | Junk Town |
-| ⬜ | Floor 650 |  | staring |
-| ⬜ | Floor 770 |  | bridge guard |
-| ⬜ | Floor 1000 |  | rival, Emperor Dragon |
-| ⬜ | Floor 1001 |  | after the Emperor Dragon |
-| ⬜ | Floor 1105 |  | rival |
+| ✅ | Floor 650 | user | staring |
+| ✅ | Floor 770 | user | bridge guard |
+| ✅ | Floor 1000 | user | rival, Emperor Dragon |
+| ✅ | Floor 1001 | user | after the Emperor Dragon |
+| ✅ | Floor 1105 | user | rival |
 | ⬜ | Floor 1200 |  | dragon |
 | ⬜ | Floor 1500 |  | dragon |
 | ⬜ | Floor 1900 |  | dragon |
