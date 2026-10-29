@@ -7,7 +7,7 @@
  {
   "line": 7,
   "jp": "ALL,何を聞きたいのだ？(N2)この世界のこと=CP1,この塔の主のこと=CP2(CP2)最上階へ上がってみるがよい￥ｎそこですべてがわかる(B)さあ　最上階に上がる￥ｎ決心がついたか？(N2)はい=CP3,いいえ=CP4(CP4)よく考えることだ…(E)(CP3)最上階ですべてを見てくるのだ￥ｎでは　いくぞ(B)陰と陽…￥ｎ天と地…(B)二つの力　まじわりし世界…(B)今　開かれよ！(F003)(CP1)ネバーランド…￥ｎそれは魂の安息の世界(B)ワシが言えるのはそれだけだ(E)",
-  "en": "ALL,What do you wish to ask?(N2)About this world=CP1,About the tower's lord=CP2(CP2)Go up to the top floor.￥ｎThere you'll learn everything.(B)Now, are you ready to￥ｎgo to the top floor?(N2)Yes=CP3,No=CP4(CP4)Think it over well...(E)(CP3)Go see everything on the top￥ｎfloor. Now, here we go.(B)Shadow and light...￥ｎheaven and earth...(B)a world where two powers meet...(B)open now!(F003)(CP1)Neverland...￥ｎa world where souls find rest.(B)That is all I can say.(E)"
+  "en": "ALL,What do you wish to ask?(N2)About this world=CP1,The tower's lord=CP2(CP2)Go up to the top floor.￥ｎThere you'll learn everything.(B)Now, are you ready to￥ｎgo to the top floor?(N2)Yes=CP3,No=CP4(CP4)Think it over well...(E)(CP3)Go see everything on the top￥ｎfloor. Now, here we go.(B)Shadow and light...￥ｎheaven and earth...(B)a world where two powers meet...(B)open now!(F003)(CP1)Neverland...￥ｎa world where souls find rest.(B)That is all I can say.(E)"
  },
  {
   "line": 8,

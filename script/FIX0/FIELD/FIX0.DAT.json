@@ -87,7 +87,7 @@
  {
   "line": 33,
   "jp": "ALL,兄さん　塔に登るつもりだろ？(N2)そうだ！=CP1,どうかな…=CP2(CP2)せっかく　いいこと￥ｎ教えてやるのによ！(E)(CP1)そうか　だったら￥ｎいろんなルーツで挑戦してみな！(B)最初のうちはよ￥ｎ基本のルーツの中の…(B)シーフかアイテムハンターが￥ｎおすすめだぜ！(E)",
-  "en": "ALL,You're planning to climb￥ｎthe tower, aren't you?(N2)That's right!=CP1,Maybe...=CP2(CP2)And here I was going to￥ｎtell you something good!(E)(CP1)Then try taking it on￥ｎwith all kinds of Roots!(B)Early on, among the￥ｎbasic Roots...(B)I recommend Thief or￥ｎItem Hunter!(E)"
+  "en": "ALL,You're planning to climb￥ｎthe tower, aren't you?(N2)That's it=CP1,Maybe...=CP2(CP2)And here I was going to￥ｎtell you something good!(E)(CP1)Then try taking it on￥ｎwith all kinds of Roots!(B)Early on, among the￥ｎbasic Roots...(B)I recommend Thief or￥ｎItem Hunter!(E)"
  },
  {
   "line": 34,
@@ -107,6 +107,6 @@
  {
   "line": 39,
   "jp": "ALL,ようこそ　運命の木へ(B)あなたはルーツについて￥ｎくわしく知っているかしら？(N2)はい=CP1,いいえ=CP2(CP2)そう　それじゃあ教えるわね￥ｎルーツの何が聞きたいのかしら？(N3)ルーツの意味=CP3,ルーツ入力=CP4,ルーツ技=CP5(CP5)ルーツによって修得する技は￥ｎルーツ技と呼ばれているわ(B)ルーツ技は１２の属性に￥ｎ分かれているのよ(B)ひとつの属性には￥ｎ１０のルーツ技があるの(B)わかってもらえたかしら！(E)(CP4)ルーツを呼び覚ますには￥ｎ８桁の数字を入力するの(B)あなたの好きな数字を￥ｎ入力すればいいのよ(B)入力はイプシロン様に￥ｎ頼んでみるといいわ(B)呼び覚ますことができるルーツは￥ｎ１００以上もあるのよ！(B)それからルーツ変更すると￥ｎ装備がはずれるのよ(B)新しいルーツにあわせて￥ｎ装備しなおしてね(E)(CP3)ルーツとは　いにしえの血の記憶…￥ｎあなたの血にも眠っているわ…(B)ルーツを呼び覚ますことで￥ｎあなたの能力は変化するの(B)成長していくとルーツによる差は￥ｎはっきりしてくるわ(B)修得する必殺技も￥ｎルーツによって違うのよ(E)(CP1)そう…　でも￥ｎいつでも聞いてちょうだいね！(E)",
-  "en": "ALL,Welcome to the Tree of Destiny.(B)Do you know much￥ｎabout Roots?(N2)Yes=CP1,No=CP2(CP2)I see. Then I'll explain.￥ｎWhat would you like to know?(N3)What Roots are=CP3,Entering Roots=CP4,Root skills=CP5(CP5)Skills learned through Roots￥ｎare called Root skills.(B)Root skills are divided￥ｎinto 12 types.(B)Each type has￥ｎ10 Root skills.(B)Do you understand now?(E)(CP4)To awaken a Root, you￥ｎenter an 8-digit number.(B)You can enter any number￥ｎyou like.(B)Ask Epsilon to￥ｎenter it for you.(B)There are over 100 Roots￥ｎthat can be awakened!(B)Also, changing your Root￥ｎremoves your equipment.(B)Re-equip to suit￥ｎyour new Root.(E)(CP3)Roots: ancient blood memories...￥ｎthey sleep in your blood too...(B)Awakening a Root￥ｎchanges your abilities.(B)As you grow, differences between￥ｎRoots become clear.(B)The special moves you learn￥ｎalso differ by Root.(E)(CP1)I see... but feel free￥ｎto ask anytime!(E)"
+  "en": "ALL,Welcome to the Tree of Destiny.(B)Do you know much￥ｎabout Roots?(N2)Yes=CP1,No=CP2(CP2)I see. Then I'll explain.￥ｎWhat would you like to know?(N3)About Roots=CP3,Root codes=CP4,Root skills=CP5(CP5)Skills learned through Roots￥ｎare called Root skills.(B)Root skills are divided￥ｎinto 12 types.(B)Each type has￥ｎ10 Root skills.(B)Do you understand now?(E)(CP4)To awaken a Root, you￥ｎenter an 8-digit number.(B)You can enter any number￥ｎyou like.(B)Ask Epsilon to￥ｎenter it for you.(B)There are over 100 Roots￥ｎthat can be awakened!(B)Also, changing your Root￥ｎremoves your equipment.(B)Re-equip to suit￥ｎyour new Root.(E)(CP3)Roots: ancient blood memories...￥ｎthey sleep in your blood too...(B)Awakening a Root￥ｎchanges your abilities.(B)As you grow, differences between￥ｎRoots become clear.(B)The special moves you learn￥ｎalso differ by Root.(E)(CP1)I see... but feel free￥ｎto ask anytime!(E)"
  }
 ]

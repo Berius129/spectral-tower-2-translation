@@ -17,7 +17,7 @@
  {
   "line": 13,
   "jp": "ALL,妖精の一人歩きは危険だって￥ｎ知ってんだろ？(B)だからあたいが￥ｎこうして証明してあげるのさ(B)なんだい？(B)あたいの言ってることは￥ｎまちがってるかい？(N2)そんなことないです=CP2,当たり前だろ！=CP1(CP2)聞き分けのいいぼうやだねえ(B)あたいの仲間にならないかい？(N2)なります=CP3,けっこうです=CP4(CP4)そうかい…￥ｎもう二度と顔を見せるんじゃないよ(E)(CP3)そうだねえ…￥ｎやっぱり考えさせておくれ(E)(CP1)そうかいそうかい￥ｎあんたいいこと言うねえ…(B)…なんて言うわけないだろ！(B)おまえたち　やっておしまい！！(B008)",
-  "en": "ALL,You know it's dangerous for￥ｎa fairy to walk alone, right?(B)So I'm here to￥ｎprove it.(B)What?(B)Is there something wrong￥ｎwith what I said?(N2)Not at all=CP2,Of course there is!=CP1(CP2)What an obedient boy.(B)Want to join my gang?(N2)I'll join=CP3,No thanks=CP4(CP4)Is that so...￥ｎDon't ever show your face again.(E)(CP3)Hmm...￥ｎlet me think about it after all.(E)(CP1)Well, well,￥ｎyou say nice things...(B)...as if I'd say that!(B)Boys, get 'em!!(B008)"
+  "en": "ALL,You know it's dangerous for￥ｎa fairy to walk alone, right?(B)So I'm here to￥ｎprove it.(B)What?(B)Is there something wrong￥ｎwith what I said?(N2)Not at all=CP2,Of course there is=CP1(CP2)What an obedient boy.(B)Want to join my gang?(N2)I'll join=CP3,No thanks=CP4(CP4)Is that so...￥ｎDon't ever show your face again.(E)(CP3)Hmm...￥ｎlet me think about it after all.(E)(CP1)Well, well,￥ｎyou say nice things...(B)...as if I'd say that!(B)Boys, get 'em!!(B008)"
  },
  {
   "line": 14,

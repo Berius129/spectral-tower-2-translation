@@ -7,7 +7,7 @@
  {
   "line": 10,
   "jp": "ALL,この橋をわたりたければ￥ｎこのワシを倒してからにしろ！(N2)戦う=CP1,無視…=CP2(CP1)そうこなくっちゃな！(B010)(CP2)クールなやつじゃのぉ…(E)",
-  "en": "ALL,To cross this bridge,￥ｎyou'll have to beat me first!(N2)Fight=CP1,Ignore...=CP2(CP1)That's the spirit!(B010)(CP2)Pretty cool customer, eh...(E)"
+  "en": "ALL,To cross this bridge,￥ｎyou'll have to beat me first!(N2)Fight=CP1,Ignore=CP2(CP1)That's the spirit!(B010)(CP2)Pretty cool customer, eh...(E)"
  },
  {
   "line": 11,

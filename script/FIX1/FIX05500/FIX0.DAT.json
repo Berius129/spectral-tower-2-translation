@@ -82,7 +82,7 @@
  {
   "line": 32,
   "jp": "ALL,ん…？(B)なんだ　お前？￥ｎオレになんか用か？(N2)おまえ…妖しい！=CP1,なにもない=CP2(CP2)それなら　どこかに消えな￥ｎいま仕事中なんだ(E)(CP1)な…なんだと？￥ｎオレを密猟者とでも言うのか…？(N2)そうだ！=CP3,そうじゃないけど=CP4(CP4)………まぁ　いいさ￥ｎ仕事中なんだ　じゃましないでくれ(E)(CP3)…！￥ｎこ…このオレが密猟者？(B)失礼な！　オレは探偵だ！￥ｎどこから見ても妖しい者じゃない！(B)今回はペンギンから￥ｎ依頼されたのだ(B)浮気現場をおさえるために￥ｎペンギンカップルを尾行中なのだ(E)",
-  "en": "ALL,Hm...?(B)What, you?￥ｎGot business with me?(N2)You're shady!=CP1,Nothing=CP2(CP2)Then get lost.￥ｎI'm working.(E)(CP1)Wh-what?￥ｎYou think I'm a poacher...?(N2)That's right!=CP3,Not really=CP4(CP4)......Well, fine.￥ｎI'm working. Don't bother me.(E)(CP3)...!￥ｎM-me, a poacher?(B)How rude! I'm a detective!￥ｎNothing shady about me!(B)This time, a penguin￥ｎhired me.(B)I'm tailing a penguin couple￥ｎto catch them cheating.(E)"
+  "en": "ALL,Hm...?(B)What, you?￥ｎGot business with me?(N2)You're shady!=CP1,Nothing=CP2(CP2)Then get lost.￥ｎI'm working.(E)(CP1)Wh-what?￥ｎYou think I'm a poacher...?(N2)That's it=CP3,Not really=CP4(CP4)......Well, fine.￥ｎI'm working. Don't bother me.(E)(CP3)...!￥ｎM-me, a poacher?(B)How rude! I'm a detective!￥ｎNothing shady about me!(B)This time, a penguin￥ｎhired me.(B)I'm tailing a penguin couple￥ｎto catch them cheating.(E)"
  },
  {
   "line": 33,

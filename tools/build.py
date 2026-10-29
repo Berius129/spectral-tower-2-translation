@@ -79,6 +79,22 @@ def check_syntax(e, where):
     return 0
 
 
+MENU = re.compile(r'\(N\d+\)(.*?)(?=\(CP\d+\)|\(E\)|$)')
+
+
+def check_menus(e, where):
+    """Warn when a choice menu option is wider than the original's widest
+    option: the game sizes the menu box from the text and it can run off
+    the screen."""
+    def options(text):
+        return [re.findall(r'([^,=]*?)=CP\d+', m.group(1)) for m in MENU.finditer(text)]
+    for jp, en in zip(options(e['jp']), options(e['en'])):
+        if jp and en and max(len(dte.pairs(o)) for o in en) > max(len(o) for o in jp):
+            print(f'WARNING {where}: menu option wider than the original ({max(len(o) for o in jp)} cells): {en}')
+            return 1
+    return 0
+
+
 def check_codes(e, where):
     """Warn when control codes are missing or extra. Order and line breaks
     may change in English (e.g. a name moves inside the sentence)."""
@@ -178,6 +194,7 @@ def main():
                 continue
             warnings += check_codes(e, where)
             warnings += check_syntax(e, where)
+            warnings += check_menus(e, where)
             if not args.fullwidth:
                 width = dte.visual_width(dte.split_line(e['jp'], e['en']))
                 if width > cells:

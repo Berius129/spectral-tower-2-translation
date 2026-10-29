@@ -22,7 +22,7 @@
  {
   "line": 14,
   "jp": "ALL,ペンギン　ペーンギーン！￥ｎたのしいな～！(B)でも　お母さん帰ってこないんだ￥ｎどこに行っちゃったのかなぁ？(B)お兄ちゃん知ってる？(N2)たしか　この先に…=CP1,…知らないな=CP2(CP2)やっぱり　知らないかぁ…￥ｎ最近は　かき氷ばかり食べてるし…(B)たまには　お母さんの手料理でも￥ｎ食べたいなぁ…(E)(CP1)え…！？　知ってるの？￥ｎじゃ　帰ってくるように言って！(B)みんな　待ってるって！￥ｎボクたちは先に進めないし…(B)それと　おじいちゃんがペンギンの￥ｎ格好して先に行っちゃったんだ(B)どこで　何やってるんだろう…￥ｎぜんぜん帰ってこないし…(B)まさか…凍死！(B)そんなことないと思うけど…￥ｎみんな帰ってきてよ～(E)",
-  "en": "ALL,Penguin, peeenguin!￥ｎSo fun!(B)But Mom hasn't come back.￥ｎWhere did she go?(B)Do you know, mister?(N2)I think up ahead...=CP1,...No idea=CP2(CP2)Figures you don't know...￥ｎLately I only eat shaved ice...(B)I'd like Mom's home cooking￥ｎonce in a while...(E)(CP1)Wh...!? You know?￥ｎThen tell her to come home!(B)Tell her we're all waiting!￥ｎWe can't go any further...(B)And Grandpa dressed as a penguin￥ｎand went ahead too.(B)Where is he, what's he doing...￥ｎhe never comes back...(B)Don't tell me... frozen!(B)I don't think so, but...￥ｎeveryone, please come back~(E)"
+  "en": "ALL,Penguin, peeenguin!￥ｎSo fun!(B)But Mom hasn't come back.￥ｎWhere did she go?(B)Do you know, mister?(N2)Up ahead, I think=CP1,...No idea=CP2(CP2)Figures you don't know...￥ｎLately I only eat shaved ice...(B)I'd like Mom's home cooking￥ｎonce in a while...(E)(CP1)Wh...!? You know?￥ｎThen tell her to come home!(B)Tell her we're all waiting!￥ｎWe can't go any further...(B)And Grandpa dressed as a penguin￥ｎand went ahead too.(B)Where is he, what's he doing...￥ｎhe never comes back...(B)Don't tell me... frozen!(B)I don't think so, but...￥ｎeveryone, please come back~(E)"
  },
  {
   "line": 15,
@@ -57,7 +57,7 @@
  {
   "line": 23,
   "jp": "ALL,あら　こんにちは￥ｎ最近　急に冷え込みましたね(B)………？(B)え…？　ペンギン？(B)あぁ！　そうでした！￥ｎいまのわたしって…(B)ペンギンのぬいぐるみを￥ｎ着ていたんですね(B)あなたが知っているか￥ｎわかりませんけど…(N2)もしかして…=CP1,なんですか？=CP2(CP2)わたし…こんな寒い場所は￥ｎイヤだって飛び出したんです(B)夫と子供は　いまごろ￥ｎ泣いているでしょうね…(B)帰りたくても迷ってしまうし…￥ｎペンギンには好かれるし…はぁ(B)そういえば　おじいちゃん…￥ｎだいじょうぶかしら…(E)(CP1)え？￥ｎ家族にあったんですか？(N2)ええ…=CP3,いや…=CP4(CP4)そうですか…心配してるでしょうね(E)(CP3)そうですか…￥ｎわたしが　わがまま言ったばかりに(E)",
-  "en": "ALL,Oh, hello.￥ｎIt suddenly got so cold.(B).........?(B)What...? A penguin?(B)Oh! That's right!￥ｎRight now I'm...(B)wearing a penguin￥ｎcostume.(B)I'm not sure if￥ｎyou know, but...(N2)Could it be...=CP1,What is it?=CP2(CP2)I ran off saying I hated￥ｎthis cold place.(B)My husband and child must￥ｎbe crying by now...(B)I'd go home, but I get lost...￥ｎand penguins love me... sigh.(B)Come to think of it, Grandpa...￥ｎI hope he's all right...(E)(CP1)What?￥ｎYou met my family?(N2)Yes...=CP3,No...=CP4(CP4)I see... they must be worried.(E)(CP3)I see...￥ｎall because I was so selfish.(E)"
+  "en": "ALL,Oh, hello.￥ｎIt suddenly got so cold.(B).........?(B)What...? A penguin?(B)Oh! That's right!￥ｎRight now I'm...(B)wearing a penguin￥ｎcostume.(B)I'm not sure if￥ｎyou know, but...(N2)Could it be=CP1,What is it?=CP2(CP2)I ran off saying I hated￥ｎthis cold place.(B)My husband and child must￥ｎbe crying by now...(B)I'd go home, but I get lost...￥ｎand penguins love me... sigh.(B)Come to think of it, Grandpa...￥ｎI hope he's all right...(E)(CP1)What?￥ｎYou met my family?(N2)Yes...=CP3,No...=CP4(CP4)I see... they must be worried.(E)(CP3)I see...￥ｎall because I was so selfish.(E)"
  },
  {
   "line": 24,
